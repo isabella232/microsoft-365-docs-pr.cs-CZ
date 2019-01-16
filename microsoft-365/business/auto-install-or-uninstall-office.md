@@ -19,10 +19,10 @@ search.appverid:
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
 description: 'Instalace nebo odinstalování sady Office v zařízení Windows 10 z středisku pro správce Microsoft 365 Business. '
 ms.openlocfilehash: 997c001ed1520f1ac989255632d36f9b7bedd16c
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26983331"
 ---
 # <a name="automatically-install-or-uninstall-office-on-windows-10-devices"></a>Automatická instalace nebo odinstalace Office na zařízeních s Windows 10

@@ -16,11 +16,11 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Další informace o funkcích zabezpečení, které jsou součástí Microsoft 365 Business.
-ms.openlocfilehash: bfddb419dbe5db441741a73ecb49e3d52649e382
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.openlocfilehash: 17bcc57d57e837f18b05f66cfd54185324f3cad8
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26983171"
 ---
 # <a name="microsoft-365-business-security-features"></a>Funkce zabezpečení aplikace Microsoft Business 365
@@ -130,11 +130,9 @@ Schopnost použít následující omezení při odesílání e-mailů v aplikaci
 
 Chcete-li ověřit, zda je aktivován AIP:
 
-1. Přihlášení do [Centra správy služby Active Directory Azure](https://portal.azure.com/).
+1. Přihlášení k [portálu Azure](https://portal.azure.com/).
 
-    Můžete se v vyhledáním **Admin Center** také zpívají \> levá navigace ve středisku pro správce **Služby Active Directory Azure** .
-
-2. Vyberte **všechny služby** a tyoe *Ochrana informací Azure* do **Vyhledávacího pole**.
+2. Vyberte **všechny služby** a typ *Ochrany informace Azure* do **Vyhledávacího pole**.
 
 3. Po zobrazení výsledků, klepněte na tlačítko start Další **Ochrana informací Azure** Chcete-li oblíbenou položku a možné později snáze najít.
 
@@ -144,7 +142,7 @@ Chcete-li ověřit, zda je aktivován AIP:
 
 Chcete-li zobrazit a upravit existující štítky:
 
-1. Na panelu Digital dashboard ochrana informací Azure vyberte **klasifikace** \> ** popisky. <br/>![Standardní popisky pro ochranu informací Azure.](media/AIPLabels.png)
+1. Na panelu Digital dashboard ochrana informací Azure vyberte **klasifikace** \> **štítky**. <br/>![Standardní popisky pro ochranu informací Azure.](media/AIPLabels.png)
 
 2. Můžete zvolit libovolný popisek chcete-li zobrazit možnosti, můžete změnit zobrazovaný název barvy, např.
  
@@ -159,6 +157,16 @@ Chcete-li ručně nainstalovat klienta AIP:
 2. Můžete ověřit, že instalace odpracovaných zobrazení dokumentu aplikace Word a přesvědčíte se, že je k dispozici na kartě **Domů** na možnost **chránit** . <br/>![Kartu Zámek rozevíracího seznamu v dokumentu Word.](media/Word_Protect.png)
 
 Pro další informace naleznete v tématu [Instalace klienta](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)
+
+## <a name="go-to-intune-admin-center"></a>Přejít do centra pro správu Intune
+
+1. Přihlášení k [portálu Azure](https://portal.azure.com/).
+
+2. Vyberte **všechny služby** a typ v *Intune* do **Vyhledávacího pole**.
+
+3. Po zobrazení výsledků, klepněte na tlačítko start Další **Microsoft Intune** Chcete-li oblíbenou položku a možné později snáze najít.
+ 
+Pomocí Intune můžete zapisovat a spravovat zařízení v organizaci. Další informace naleznete v tématu [funkce pomocí metody zápisu zařízení systému Windows](https://docs.microsoft.com/intune/enrollment-method-capabs) a [Možnosti zápisu zařízení spravuje Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 ## <a name="faq"></a>Časté otázky
 
@@ -174,15 +182,4 @@ Ano, tyto funkce jsou k dispozici na všech trzích, kde se prodává Microsoft 
     
     ![V navigace vlevo ve středisku pro správce služeb Microsoft 365 zvolte Admin Center.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. Zvolte **zabezpečení &amp; souladu** přejdete na zabezpečení &amp; centra kompatibility. 
-    
- ### <a name="how-do-i-find-the-intune-admin-center"></a>Jak najít Centrum správce Intune?
-  
-  
-1. [Microsoft 365 Business přihlásit](https://portal.microsoft.com/) pomocí pověření správce. 
-    
-2. V levá navigace vyhledejte **Admin Center** a rozbalte ji. 
-    
-3. Zvolte **Intune** , přejděte do centra pro správu Intune. 
-    
-
+3. Zvolte **zabezpečení &amp; souladu** přejdete na zabezpečení &amp; centra kompatibility.

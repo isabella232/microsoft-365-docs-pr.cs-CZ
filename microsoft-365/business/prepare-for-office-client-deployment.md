@@ -18,10 +18,10 @@ search.appverid:
 ms.assetid: ed34fff3-2881-4ed4-9906-1ba6bb8dd804
 description: Zjistěte, jak na automatickou instalaci aplikací Office 32-bit Windows 10 počítačů a jejich aktualizaci.
 ms.openlocfilehash: 16a8230d60157f1c6731ac639d89533b05aa3afe
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26982151"
 ---
 # <a name="prepare-for-office-client-deployment-by-microsoft-365-business"></a>Příprava nasazení klienta Office prostřednictvím plánu Microsoft 365 Business

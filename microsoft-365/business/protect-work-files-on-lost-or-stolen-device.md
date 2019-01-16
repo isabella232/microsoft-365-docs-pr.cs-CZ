@@ -20,10 +20,10 @@ search.appverid:
 ms.assetid: c12164c7-6190-4294-b88a-590580c9869a
 description: Informace o nastavení, které jsou k dispozici k ochraně pracovních souborů v případě ztráty nebo krádeže zařízení uživatele.
 ms.openlocfilehash: 4fafae2dfd25e44dce7083307b3432bcaa25c22b
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26983561"
 ---
 # <a name="protect-work-files-when-a-mobile-device-is-lost-or-stolen"></a>Ochrana pracovních souborů při ztrátě nebo odcizení mobilního zařízení
