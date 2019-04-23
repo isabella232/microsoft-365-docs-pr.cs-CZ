@@ -10,7 +10,9 @@ f1_keywords:
 - BCS365_M365SetupBanner
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -20,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Zjistěte, jak nastavit Microsoft 365 Business podle čtyř kroků.
-ms.openlocfilehash: f57239b884bd2e186c0bc01973130a10fa4cfe84
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: a1c8a41c3e291983276280a063248bdd10a7f85a
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982191"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32283881"
 ---
 # <a name="set-up-microsoft-365-business-by-using-the-setup-wizard"></a>Nastavení Microsoft 365 Business pomocí průvodce nastavením
 
@@ -53,11 +55,11 @@ Informace o nastavení, které zahrnují místní adresář Active Directory zah
     
 3. Zadejte název domény, který chcete použít (jako contoso.com).
     
-    Pokračovat a zadat domény i v případě, že ověřil při používání Azure AD připojit, například. Následující dva kroky na vás nemusí vztahovat, pokud se používá Azure AD připojit k ověření vaší domény.
+    Zadejte svoji doménu, i pokud jste ji už ověřili například pomocí služby Azure AD Connect. Následující dva kroky na vás nemusí vztahovat, pokud se používá Azure AD připojit k ověření vaší domény.
     
 4. Postupujte podle kroků v průvodci [vytvořit DNS záznamy na jakékoliv DNS poskytovatele hostitelských služeb pro Office 365](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166) ověří, že jste vlastníkem domény. 
     
-    Můžete zobrazit příklad video [Video: nastavení služeb Office 365 v nový Admin Center](https://support.office.com/article/a8c2002a-34bc-4ab3-93d8-9b5156c48bf8). Všimněte si, že toto video neobsahuje kroky ochrany dat Microsoft 365 Business.
+    Můžete zobrazit příklad video [Video: nastavení služeb Office 365 v nový Admin Center](https://support.office.com/article/a8c2002a-34bc-4ab3-93d8-9b5156c48bf8). Upozorňujeme, že toto video nezahrnuje postup k ochraně dat Microsoft 365 Business.
     
     ![Screenshot of the Business Cloud Suite setup wizard.](media/3c4fd40c-2de1-4a87-8ee0-78d3928c7bb7.png)
   
@@ -84,13 +86,13 @@ Informace o nastavení, které zahrnují místní adresář Active Directory zah
   
 Abyste mohli nastavit služby, musíte aktualizovat některé záznamy u svého hostitele DNS nebo doménového registrátora.
   
-1. Průvodce instalací obvykle zjistí váš Registrátor a poskytuje odkaz na podrobné pokyny pro aktualizaci na webu registrátora záznamy NS. Pokud tomu tak není, [Změna nameservers k nastavení služeb Office 365 pomocí libovolného registrátora domény](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2).
+1. Průvodce nastavením obvykle rozpozná vašeho registrátora a poskytne odkaz na podrobné pokyny pro aktualizaci vašich záznamů názvového serveru na webu registrátora. Pokud tomu tak není, [Změna nameservers k nastavení služeb Office 365 pomocí libovolného registrátora domény](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2).
     
 2. E-mail a další služby budou nastaveny za vás.
     
 ### <a name="step-4-manage-devices-and-work-files"></a>Krok 4: Správa zařízení a pracovní soubory
 
-1. **Ochrana pracovních souborů v mobilních zařízeních** stránce nastavte **chránit pracovní soubory, pokud jsou ztráty nebo krádeže zařízení** a **Správa přístupu uživatelů na soubory sady Office na mobilních zařízeních** nastavení **on**. Dostanete každé dílčí nastavení klepnutím na šipky vedle každého nastavení.
+1. Na stránce **Chránit pracovní soubory na mobilních zařízení** přepněte možnosti **Chránit pracovní soubory při ztrátě nebo odcizení zařízení** a **Spravovat přístup uživatelů k souborům Office na mobilních zařízeních** do stavu **Zapnuto**. Dostanete každé dílčí nastavení klepnutím na šipky vedle každého nastavení.
   
   Všechny pracovní soubory licencovaných uživatelů jsou nyní chráněna na iOS a Android zařízení, jakmile jsou [instalace aplikací sady Office](set-up-mobile-devices.md) (a ověření pomocí pověření Microsoft 365 Business). 
   
@@ -100,7 +102,7 @@ Abyste mohli nastavit služby, musíte aktualizovat některé záznamy u svého 
   
    Dostanete každé dílčí nastavení klepnutím na dvojitou šipku vedle ní.
   
-3. Nastavte nastavení **Instalace sady Office v systému Windows 10 zařízení** **Ano** Pokud všem uživatelům Windows 10 počítačů a nainstaluje žádné existující Office nebo instalace sady Office klepněte na tlačítko spustit. Pokud tomu tak není, nastavte tuto možnost na hodnotu **Ne**. Po skončení přípravy počítačů uživatelů můžete [automaticky nainstalovat Office](auto-install-or-uninstall-office.md) později z středisku pro správce. Pokyny naleznete v tématu [Příprava instalace klienta sady Office](prepare-for-office-client-deployment.md).
+3. Pokud všichni vaši uživatelé mají počítače s Windows 10 a buď nemají existující instalace Office, nebo mají instalace Office Klikni a spusť, nastavte možnost **Instalace Office na zařízeních s Windows 10** na **Ano**. Pokud tomu tak není, nastavte možnost na **Ne**. Office také můžete [nainstalovat automaticky](auto-install-or-uninstall-office.md) z Centra pro správu později, až budete mít počítače uživatelů připravené. Pokyny naleznete v tématu [Příprava instalace klienta sady Office](prepare-for-office-client-deployment.md).
   
     Pracovní soubory licencovaných uživatelů na zařízeních s Windows 10 bude co nejdříve, jakmile budou promítat [připojit své zařízení Windows 10](set-up-windows-devices.md) obchodní Microsoft 365 Azure AD doméně nebo při současně spojující Microsoft 365 [Windows 10 do nového počítače nainstalovat](https://support.office.com/article/c654bd23-d256-4ac7-8fba-0c993bf5a771.aspx) Obchodní domény Azure AD. 
   

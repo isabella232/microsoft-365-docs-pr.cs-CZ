@@ -5,16 +5,17 @@ author: jasongroce
 ms.author: jasgro
 ms.topic: article 
 ms.prod: microsoft-365-business
+ms.collection: M365-subscription-management
 localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365 SMB, FAQ, nejčastější dotazy, odpovědi, obchodní
 ms.date: 06/08/2018
-ms.openlocfilehash: e5937b1436701e872898dc079ba892181772202f
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 1e277aed366d82e524ef99c43ab0401b5d35e5b0
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983481"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32286119"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 Business, nejčastější dotazy
 
@@ -29,11 +30,11 @@ Microsoft 365 je integrované řešení, která sdružuje nejlepší ve třídě
 * Obchodní aplikace ze sady Office (rezervace, Správce informací o zákaznících Outlook, MileIQ<sup>[1](#footnote1)</sup>, Microsoft Listings<sup>[1](#footnote1)</sup>, Microsoft připojení<sup>[1](#footnote1)</sup>, Microsoft fakturačních<sup>[1](#footnote1)</sup>) 
  
 **Možnosti správy a zabezpečení zařízení společnosti** 
-- Pomáhá poskytovat ochranu před vnějšími hrozbami, jako phishing a sofistikovaným malware ochranu proti ohrožením Advanced Office 365 a Windows Defender zneužití Guard 
--  Pomáhá řídit a spravovat informace o citlivosti přístupem a přenášena pomocí zásad pro zabránění ztrátě dat Office 365 (k dispozici v létě 2018) a Azure informace ochrana plán 1. 
+- Pomáhá poskytovat ochranu před vnějšími hrozbami, jako je phishing & důmyslnější malware ochranu proti ohrožením Advanced Office 365 a Windows Defender zneužití Guard 
+-  Pomáhá spravovat jak citlivé informace & ovládací prvek přístupem a přenášena pomocí zásad pro zabránění ztrátě dat Office 365 (k dispozici v létě 2018) a Azure informace ochrana plán 1. 
 -  Pomáhá chránit, zachovat a zálohování dat s Exchange Online archivaci  
--   Ochrana aplikace pro Office a jiné mobilní aplikace Intune App ochrana 
--  Správa zařízení pro 10 počítačů se systémem Windows, MacOS a mobilní telefony zařízení se správou zařízení Intune 
+-   Ochrana aplikace Office & jiné mobilní aplikace Intune App ochrana 
+-  Správa zařízení pro 10 počítačů se systémem Windows, MacOS & mobilní telefony zařízení se správou zařízení Intune 
 -  Odpovídající zabezpečení konfigurace zařízení - ochrana dat společnosti prostřednictvím zařízení – program Windows Defender, vždy aktivní a aktualizované 
  
  
@@ -81,10 +82,10 @@ Microsoft 365 Business nabízí zákazníkům jednoduchý, ale účinný prostř
   
 * **Správa zařízení pro Windows 10 počítačů** firmy aallows zvolte Nastavit a vynutit možnosti, jako je ochrana programu Windows Defender pro malware, automatické aktualizace a vypnutí obrazovky po předepsané době. Kromě toho ztracených nebo ukradených zařízení Windows 10 můžete zcela očistí, podnikové aplikace a data pomocí středisku pro správce. 
 
-* Funkce pro **Správu zařízení pro iOS, Android a MacOS** pomáhá podnikům, které zajistí bezpečnou správu různých zařízení ekosystém, který zahrnuje zařízení iOS, Android, Windows a macOS. 
+* Funkce pro **Správu zařízení pro iOS, Android & MacOS** pomáhá podnikům, které zajistí bezpečnou správu různých zařízení ekosystém, který zahrnuje zařízení iOS, Android, Windows a macOS. 
 
 ### <a name="how-does-microsoft-365-business-help-protect-pcs-in-my-organization-from-malicious-attacks"></a>Jak Microsoft 365 Business pomáhá chránit počítače v organizaci před škodlivými útoky? 
-Počítače spravované pomocí Microsoft 365 Business jsou chráněny programem Windows Defender, což je funkce antivirového číslo 1 v systému Windows 10, Ochrana více počítačů před viry, malwarem, spywarem a dalšími hrozbami než jiné řešení.  Microsoft Business 365 lze zajistit firmy ochrana programu Windows Defender je spuštěn a je vždy aktuální na všech svých zařízeních Windows 10.  
+Počítačů spravovaných pomocí Microsoft 365 Business jsou chráněny pomocí programu Windows Defender, což je číslo 1 antivirové funkce v systému Windows 10, Ochrana více počítačů před viry, malwarem, spywarem a dalšími hrozbami než jiné řešení.  Microsoft Business 365 lze zajistit firmy ochrana programu Windows Defender je spuštěn a je vždy aktuální na všech svých zařízeních Windows 10.  
  
 Windows 10 obchodní také Windows Defender zneužití Guard, novou sadu možností prevence vniknutí. Jedna z jeho funkcí, přístup ke složce regulované, zastaví ransomware ve stopách jeho uzamčením složek a brání neoprávněným aplikacím v přístupu k důležité soubory uživatele. 
 
@@ -179,7 +180,7 @@ Microsoft 365 Business neprovede jinak neoriginální verzi systému Windows ori
 Stejnou podporu kanály dostupné zprostředkovatele kryptografických služeb partnerům dnes (premier support a program rozšířené podpory) na Microsoft 365 Business, byli vyškoleni a připraveni poskytnout partnerům s podporou. 
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>Co je GDPR a jak Microsoft 365 Business pomáhá zákazníkům s jejich dodržování povinnosti?
-Obecné nařízení ochrany dat (GDPR) je komplexní nový zákon o ochraně osobních údajů, dává rezidenty Evropské unie (EU) větší míru kontroly nad jejich "osobní údaje" a organizace pro zachování integrity osobních údajů vyžaduje. GDPR vyžaduje organizace řízení, nebo na zpracování osobních údajů je svázána s rezidenty EU používat pouze datové procesory jiných výrobců, které splňují požadavky GDPR pro zpracování osobních údajů. V březnu 2017 společnost Microsoft provedla k dispozici smluvní záruky, které poskytují tyto záruky. Zákazníky, kteří mají otázky týkající se jak Microsoft vám mohou pomoci jim splnit jejich závazky další GDPR měli získat informace o rozšířené shodě a bezpečnostní funkce, které jsou k dispozici jako doplňky (například Ochrana informací Azure, zabránění ztrátě dat, Advnaced Ochranu před hrozbami, atd.) a v dalších sad (například Microsoft 365 Enterprise E5). Chcete-li získat další informace, navštivte [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
+Obecné nařízení ochrany dat (GDPR) je komplexní nový zákon o ochraně osobních údajů, dává rezidenty Evropské unie (EU) větší míru kontroly nad jejich "osobní údaje" a organizace pro zachování integrity osobních údajů vyžaduje. GDPR vyžaduje organizace řízení, nebo na zpracování osobních údajů je svázána s rezidenty EU používat pouze datové procesory jiných výrobců, které splňují požadavky GDPR pro zpracování osobních údajů. V březnu 2017 společnost Microsoft provedla k dispozici smluvní záruky, které poskytují tyto záruky. Zákazníky, kteří mají otázky týkající se jak Microsoft vám mohou pomoci jim splnit jejich závazky další GDPR měli získat informace o rozšířené shodě a bezpečnostní funkce, které jsou k dispozici jako doplňky (například Ochrana informací Azure, zabránění ztrátě dat, rozšířené Ochranu před hrozbami, atd.) a v dalších sad (například Microsoft 365 Enterprise E5). Chcete-li získat další informace, navštivte [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
 
 
 

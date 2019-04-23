@@ -7,7 +7,10 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -19,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: 'Zjistěte, jak můžete vytvořit, upravit, odstranit nebo odebrat profily AutoPilot. '
-ms.openlocfilehash: 4658a27e5f2c64a52f8a7d08b3fc13df5e239dc3
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 85fc897b2f428afae8d55feeb577021adaa30f72
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983131"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32277084"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>Vytvoření a úpravy profilů AutoPilota
 
@@ -32,11 +35,9 @@ ms.locfileid: "26983131"
 
 Profil se používá pro zařízení nebo skupinu zařízení.
   
-1. V Centru pro správu Microsoft 365 Business zvolte na kartě **Akce zařízení** možnost **Nasadit Windows pomocí Autopilota**. 
-    
-    ![On the Device actions card, choose Deploy Windows with Autopilot.](media/160d5c2a-11a8-48f9-a8aa-70f084b85448.png)
+1. V centru správce Business 365 Microsoft zvolte **zařízení** \> **AutoPilot**.
   
-2. Na stránce **Připravit Windows** zvolte kartu **Profily** \> **Vytvořit profil**.
+2. Na stránce **AutoPilot** zvolte kartu **profily** \> **vytvořit profil**.
     
 3. Na stránce **Vytvořit profil** zadejte název, který vám pomůže profil identifikovat, třeba Marketing, zapněte požadované nastavení (další informace najdete v článku [O nastavení profilu AutoPilota](autopilot-profile-settings.md)) a zvolte **Uložit**.
     

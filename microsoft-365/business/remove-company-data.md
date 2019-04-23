@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: 'Další informace o použití Microsoft 365 Business data společnosti odebrat ze zařízení uživatelů nebo počítačů se systémem Windows. '
-ms.openlocfilehash: 1fffe58f141b6dd4361704d9a7b3c17c41d8d84c
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 29aa4452d2d3e7b54fbb28d90880cdef28f50684
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983631"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32283822"
 ---
 # <a name="remove-company-data-from-devices"></a>Odebrání dat společnosti ze zařízení
 
@@ -31,11 +34,9 @@ Microsoft 365 Business můžete použít k odebrání dat společnosti, která m
   
 1. Přihlaste se k [Microsoft 365 Business](https://portal.office.com) pod uživatelským jménem a heslem globálního správce. 
     
-2. V Centru pro správu přejděte na kartu **Akce zařízení** a zvolte **Odebrat data společnosti**.
-    
-    ![On the Devices card, choose Remove company data](media/b6fcf74b-0d7d-4e1a-894f-40f9d4a215b8.png)
+2. Na levá navigace zvolte **zařízení** \> **zásad** \> **Správa**.
   
-3. V podokně **Odebrat data společnosti** zvolte nebo vyhledejte uživatele, jehož data chcete odebrat, a zvolte jeho jméno. 
+3. Na stránce **Spravovat** , vyberte nebo vyhledejte uživatele kdo má data, která chcete odebrat a zvolte název. 
     
 4. V dalším podokně vyberte v seznamu **Spravovaná zařízení** jedno nebo více zařízení, ze kterých chcete data odebrat, a pak zvolte **Další**. 
     

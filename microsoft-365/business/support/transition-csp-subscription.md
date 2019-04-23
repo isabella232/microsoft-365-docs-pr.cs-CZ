@@ -10,11 +10,11 @@ audience: microsoft-business 
 keywords: 365 Business společnosti Microsoft, Microsoft 365, SMB, převod odběru CSP
 ms.date: 11/01/2017
 ms.openlocfilehash: 8109c0b00f06a15c12bbccf89e7f49dc3fa4b34a
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982481"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32286208"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Převod odběru Microsoft 365 obchodní zprostředkovatel kryptografických služeb
 
@@ -48,7 +48,7 @@ Pokud máte předplatné Microsoft 365 obchodní náhled zprostředkovatele kryp
 
     ![Ověřte, zda že stav předplatného náhled je pozastaveno.](images/pc_customer_m365bpreview_suspend_confirm.png)
 
-9. Volitelně je možné ověřit licenční smlouvy. Chcete-li to provést, postupujte takto:
+9. Volitelně je možné ověřit licenční smlouvy. Uděláte to takto:
     1. Vyberte **uživatele a licence** od společnosti **Odběry** stránka.
     2. Na stránce **Uživatelé a licencí** vyberte uživatele.
     3. Uživatele stránky zaškrtněte v části **přiřazení licencí** a potvrďte ukazuje **Microsoft 365 Business**.

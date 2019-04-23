@@ -8,7 +8,10 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -19,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
 description: Zjistěte, jak mapovat funkce ochrany v Microsoft 365 Business nastavení Intune. Předplatné vám poskytuje licenci k úpravě nastavení Intune.
-ms.openlocfilehash: 5ee5a457fe3f265dd37f6806ca8c11fe096718b6
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: ddd520cd059c84e5d64e967fe5631fe2f6bce0d4
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983011"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278549"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-map-to-intune-settings"></a>Mapování funkcí ochrany v Microsoft 365 Business na nastavení Intune
 
@@ -85,7 +88,7 @@ Klikněte na název zásady, kterou chcete vybrat, a potom zvolte **Obecné, Př
 
 V následující tabulce najdete podrobnosti o tom, jak namapovat nastavení konfigurace zařízení s Windows 10 na nastavení Intune.
   
-Intune nastavení, zatímco přihlášen pomocí pověření správce Microsoft 365 Business naleznete na [portálu Azure](https://portal.azure.com)a potom vyberte **Další služby**a typ v Intune do **filtru**vyberte **Intune** \> **zařízení Konfigurace** \> **profily**. Vyberte **zásady zařízení pro Windows 10** \> **Vlastnosti** \> **Nastavení**.
+Intune nastavení, zatímco přihlášen pomocí pověření správce Microsoft 365 Business naleznete na [portálu Azure](https://portal.azure.com)a potom vyberte **Další služby**a typ v Intune do **filtru**vyberte **Intune** \> **zařízení Konfigurace** \> **profily**. Potom vyberte **Zásada zařízení pro Windows 10** \> **Vlastnosti** \> **Nastavení**.
   
 |**Nastavení zásad zařízení s Windows 10**|**Nastavení Intune**|
 |:-----|:-----|
@@ -95,7 +98,7 @@ Intune nastavení, zatímco přihlášen pomocí pověření správce Microsoft 
 |Povolit uživatelům stahovat aplikace z webu Microsoft Store  <br/> |Vlastní zásada identifikátoru URI  <br/> |
 |Umožnit uživatelům přístup ke Cortaně  <br/> |**Obecné** \> **Cortana** se v Intune nastaví na **Blokovat**, pokud je tato možnost v Microsoft 365 Business nastavená na **Vypnuto**.  <br/> |
 |Povolit uživatelům přijímat tipy pro Windows a reklamy od společnosti Microsoft  <br/> |**Windows Spotlight**: pokud je toto nastavení v Microsoft 365 Business nastavené na **Vypnuto**, je všechno zablokované.  <br/> |
-|Automaticky aktualizovat zařízení s Windows 10  <br/> | Toto nastavení je v **Aplikaci Microsoft Intune** \> **aktualizace Service - Windows 10 aktualizace kroužků**, zvolte U **aktualizovat zásady pro zařízení Windows 10**a **Vlastnosti** \> **Nastavení**.  <br/>  Když je nastavení Microsoft 365 Business nastaveno na **Zapnuto**, nastaví se všechna následující nastavení:  <br/> **Obslužná větev** se nastaví na **CB** (CBB, pokud je tato možnost v Microsoft 365 Business vypnutá).  <br/> **Aktualizace produktů Microsoft** se nastaví na **Povolit**.  <br/> **Ovladače Windows** se nastaví na **Povolit**.  <br/> **Chování automatické aktualizace** se nastaví na **Automaticky nainstalovat v době údržby** spolu s následujícím:  <br/> **Začátek aktivní doby** se nastaví na **6:00**.  <br/> **Konec aktivní doby** se nastaví na **22:00**.  <br/> **Odložení aktualizace kvality (ve dnech)** se nastaví na **0**.  <br/> **Odložení aktualizace funkcí (ve dnech)** se nastaví na **0**.  <br/> **Režim stahování pro optimalizaci doručení** se nastaví na **HTTP v kombinaci s partnery za stejným překladem NAT**.  <br/> |
+|Automaticky aktualizovat zařízení s Windows 10  <br/> | This setting is in **Microsoft Intune** \> **Service updates - Windows 10 Update Rings**, choose U **pdate policy for Windows 10 devices**, and then **Properties** \> **Settings**.  <br/>  Když je nastavení Microsoft 365 Business nastaveno na **Zapnuto**, nastaví se všechna následující nastavení:  <br/> **Obslužná větev** se nastaví na **CB** (CBB, pokud je tato možnost v Microsoft 365 Business vypnutá).  <br/> **Aktualizace produktů Microsoft** se nastaví na **Povolit**.  <br/> **Ovladače Windows** se nastaví na **Povolit**.  <br/> **Chování automatické aktualizace** se nastaví na **Automaticky nainstalovat v době údržby** spolu s následujícím:  <br/> **Začátek aktivní doby** se nastaví na **6:00**.  <br/> **Konec aktivní doby** se nastaví na **22:00**.  <br/> **Odložení aktualizace kvality (ve dnech)** se nastaví na **0**.  <br/> **Odložení aktualizace funkcí (ve dnech)** se nastaví na **0**.  <br/> **Režim stahování pro optimalizaci doručení** se nastaví na **HTTP v kombinaci s partnery za stejným překladem NAT**.  <br/> |
 |||
    
 

@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'Zjistěte, jak nastavit systém Windows zařízení systémem Windows 10 Pro Microsoft 365 Business uživatelům. '
-ms.openlocfilehash: 482199b175c568bfae420619aa02024303894789
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: f93257bd9a68385fca4f178a2e09c5c11506ee2c
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982851"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32284291"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Nastavení zařízení s Windows pro uživatele služby Microsoft 365 Business
 
@@ -33,7 +36,7 @@ Pokud máte zařízení, na kterých běží Windows 7 Pro, Windows 8 Pro nebo W
   
 Další informace o upgradu zařízení s Windows na Windows 10 Pro Creators Update najdete v krocích popsaných v tomto tématu: [Upgrade zařízení s Windows na Windows Pro Creators Update](upgrade-to-windows-pro-creators-update.md).
   
-Pokud chcete ověřit, že tento upgrade máte, nebo chcete zkontrolovat jeho funkčnost, přečtěte si část [Kontrola upgradu zařízení na Windows 10 Business](set-up-windows-devices.md#bkmk_verifywin10). 
+V tématu ověřte, zda že máte k dispozici upgrade nebo zajistit inovace odpracovaných [ověření zařízení je připojen k Azure AD](#verify-the-device-is-connected-to-azure-ad) . 
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Připojení zařízení s Windows 10 ke službě Azure AD organizace
 
@@ -51,7 +54,7 @@ U zcela nového zařízení, na kterém běží Windows 10 Pro Creators Update, 
     
 3. Dokončete nastavení zařízení s Windows 10.
     
-   Po dokončení nastavení bude uživatel připojen k Azure AD organizace. Pokud chcete nastavení zkontrolovat, přečtěte si část [Kontrola připojení zařízení k Azure AD](set-up-windows-devices.md#bkmk_verifyaad). 
+   Po dokončení nastavení bude uživatel připojen k Azure AD organizace. Pokud chcete nastavení zkontrolovat, přečtěte si část [Kontrola připojení zařízení k Azure AD](#verify-the-device-is-connected-to-azure-ad). 
   
 ### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a>Nastavené zařízení se spuštěným systémem Windows 10 Pro
 
@@ -73,13 +76,13 @@ U zcela nového zařízení, na kterém běží Windows 10 Pro Creators Update, 
   
    ![Click Join this device to Azure Active Directory](media/fb709a1b-05a9-4750-9cb9-e097f4412cba.png)
   
-5. Na stránce **Řekněme získat jste přihlášen** , zadejte účtu práci a ve škole \> **Další**.
+5. On the **Let's get you signed in** page, enter your work or school account \> **Next**.
   
-   Na stránce **Zadejte heslo** zadejte heslo \> **přihlásit**.
+   On the **Enter password** page, enter your password \> **Sign in**.
   
    ![Enter your work or school email on the Let's get you signed in page](media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. Na ** Přesvědčte se, zda je to organizace ** stránky, ověřte správnost informací a klepněte na tlačítko **Připojit**.
+6. Na stránce, **Ujistěte se, že je to organizace** ověřte správnost informací a klepněte na tlačítko **Připojit**.
   
    Na stránce **Máte všechno nastavené** klikněte na **Hotovo**.
   

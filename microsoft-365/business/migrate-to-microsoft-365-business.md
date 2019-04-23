@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Zjistěte, jak přesunout Microsoft 365 Business vaše podnikání.
-ms.openlocfilehash: fd6f18c02453e6751d6163ab79e726eae9c951a9
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 3e45ba13e4cfe772829f545219bf86a9a3317d59
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983491"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32285634"
 ---
 # <a name="migrate-to-microsoft-365-business-from-office-365-business-premium"></a>Migrace na Microsoft 365 Business z Office 365 Business Premium
 
@@ -55,7 +58,7 @@ Pokud budete mít odkaz na nákupní vaše licence vás provede průvodce jako t
     
 2. Na stránce **Přizpůsobit vaše přihlášení a e-mailu** můžete přidat výběrem **připojit k doméně, které již vlastníte** , pokud chcete použít tuto příležitost ke svému předplatnému přidat jiné domény domény. 
     
-    Pokud jste již nastavili doménu, druhé pole bude označovat a budete říkat **Pokračovat pomocí** \< _název domény_ \> **e-mailu a přihlášení**. Pokud jste nenastavili domény můžete předplatné, budete říkat **Pokračovat pomocí** \< _vaše společnost name.onmicrosoft.com_ \> **e-mailu a přihlášení**.    
+    Pokud jste již nastavili doménu, druhé pole bude označovat a budete říkat **Pokračovat pomocí** \< _název domény_ \> **e-mailu a přihlášení**.   Pokud jste nenastavili domény můžete předplatné, budete říkat **Pokračovat pomocí** \< _vaše společnost name.onmicrosoft.com_ \> **e-mailu a přihlášení**.  
     
     Zvolte **Další**.
     
@@ -95,7 +98,7 @@ Po přiřazení licence Microsoft 365 Business můžete spustit ochranu zaříze
     
   - [Nastavení ochrany aplikací pro zařízení s Windows 10](protection-settings-for-windows-10-devices.md)
     
-  - [Nastavení ochrany zařízení pro počítače s Windows 10](protection-settings-for-windows-10-pcs.md)
+  - [Nastavení zařízení ochrany počítačů se systémem Windows 10](protection-settings-for-windows-10-pcs.md)
     
    ![V podokně Přidat zásadu zadejte název a zvolte z rozbalovací nabídky Typ zásad.](media/76ef37e4-1d18-4f34-8a0f-391ab1d0ae2b.png)
   

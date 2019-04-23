@@ -5,10 +5,12 @@ author: Sirkkuw
 manager: scotv
 ms.date: 9/20/2018
 ms.audience: Admin
-ms.topic: overview
+ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -19,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Naučte se nastavit Microsoft 365 Business.
-ms.openlocfilehash: ee15ffa98de032d7936d950124cdf772335949bd
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 80c6590a682af5fadeceac7a75e409adac897f6f
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983281"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32276715"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Začínáme s Microsoft 365 Business
 
@@ -44,7 +46,7 @@ Microsoft 365 Business umožňuje používat maximálně 300 licencí. Pokud pot
 
  **Přehled Microsoft 365 Business Suite, nastavení**
   
-Následující diagram popisuje, jak admins nastavit Microsoft 365 Business. Popisuje také postup k přípravě počítačů se systémem Windows Microsoft 365 Business. V centru Microsoft 365 Business admin s [AutoPilot systému Windows](add-autopilot-devices-and-profile.md)můžete také přidat nové zařízení. Můžete nastavit a nakonfigurovat nová zařízení, příprava je produktivní využití ihned poté, co uživatel přihlásí pomocí svých pověření Microsoft 365 Business AutoPilot.
+Následující diagram popisuje, jak admins nastavit Microsoft 365 Business. Popisuje také kroky při přípravě počítačů s Windows na Microsoft 365 Business. Nová zařízení také můžete přidat v Centru pro správu Microsoft 365 Business s použitím [Windows AutoPilota](add-autopilot-devices-and-profile.md). Pomocí AutoPilota také můžete nastavit a předběžně nakonfigurovat nová zařízení, aby byla připravená k použití hned, jak se uživatel přihlásí pomocí přihlašovacích údajů služby Microsoft 365 Business.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
   
@@ -58,13 +60,13 @@ Přihlaste se do [Centra pro správu Microsoft 365 Business](https://portal.offi
     
 2. [Nastavení Microsoft 365 Business pomocí průvodce nastavením](set-up.md)
     
-    Pokud jste **trvale přesunout z místní služby Active Directory do cloudu**, můžete buď přidat uživatele ručně ve středisku pro správce Microsoft 365 Business pomocí Průvodce instalací nebo stačí jednorázová synchronizace s Azure AD připojit. To lze provést dvěma způsoby: 
+    Pokud jste **trvale přesunout z místní služby Active Directory do cloudu**, můžete buď přidat uživatele ručně ve středisku pro správce Microsoft 365 Business pomocí Průvodce instalací nebo stačí jednorázová synchronizace s Azure AD připojit. Můžete to udělat dvěma způsoby: 
     
-  - Také máte 2010 serveru Exchange, Exchange 2013 nebo Exchange 2016 server, můžete [Použít minimální hybridní rychle migrovat poštovní schránky serveru Exchange do služeb Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef). Minimální hybridní kroky zahrnují jednorázová synchronizace uživatelů k Azure AD stejně jako e-mailovou migraci z místního do cloudu. Po dokončení migrace e-mailů, synchronizace adresářů je automaticky vypnuto při použití této metody.
+  - Také máte 2010 serveru Exchange, Exchange 2013 nebo Exchange 2016 server, můžete [Použít minimální hybridní rychle migrovat poštovní schránky serveru Exchange do služeb Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef). Kroky minimálních hybridních možností zahrnují jednorázovou synchronizaci uživatelů do Azure AD a zároveň přesun e-mailů z místního úložiště do cloudu. Po dokončení přesunu e-mailů se u této metody synchronizace adresářů automaticky vypne.
     
   - K synchronizaci uživatelů s cloudem můžete použít průvodce synchronizací adresářů Office 365. K dokončení tohoto procesu použijte postup, který je popsaný v článku [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846). Po synchronizaci uživatelů s cloudem budete muset [Turn off directory synchronization for Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
     
-    Musíte také poskytnout každý uživatel, který byl přidán tímto způsobem licenci Microsoft 365 Business. Lze provést v [Průvodci](set-up.md)nebo [přiřazení licencí uživatelům služeb Office 365 pro firmy](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
+    Každému uživateli přidanému tímto způsobem budete muset udělit licenci na Microsoft 365 Business. Lze provést v [Průvodci](set-up.md)nebo [přiřazení licencí uživatelům služeb Office 365 pro firmy](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
     
 ### <a name="2-prepare-mobile-devices"></a>2: Příprava mobilních zařízení
 

@@ -11,6 +11,9 @@ f1_keywords:
 - BCS365_Win10AppPolicy
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -21,12 +24,12 @@ search.appverid:
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
 description: Naučte se vytvořit zásadu správy aplikací a ochrany pracovních souborů v zařízení Windows 10.
-ms.openlocfilehash: acf19a72d994185a35b2e425f8334a73a121ee10
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 289c6a74f6ccb53f6a833612a7b4a5bcddd3ea56
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982821"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278158"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>Nastavení ochrany aplikací pro zařízení s Windows 10
 
@@ -34,23 +37,21 @@ ms.locfileid: "26982821"
 
 Pokud mají uživatelé osobní zařízení s Windows 10, na kterých dělají pracovní úkoly, můžete chránit vaše data i na těchto zařízeních.
   
-1. Přihlaste se k [Microsoft 365 Business](https://portal.office.com) pod uživatelským jménem a heslem globálního správce. Vyberte dlaždici **Správce** a přejděte do Centra pro správu. 
+1. Přihlásit se do [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890) s globální správce pověření. Vyberte dlaždici **Správce** a přejděte do Centra pro správu. 
     
-2. Na kartě **Zásady zařízení** portálu pro správce zvolte **Přidat zásadu**.
-    
-    ![Device policies card in the admin center.](media/27c12b61-d112-4348-b557-4f3e46204797.png)
-  
+2. Na levá navigace zvolte **zařízení** \> **zásad** \> **Přidat**.
+
 3. V podokně **Přidat zásadu** zadejte název, který je jedinečný. 
     
 4. V části **Typ zásady** zvolte **Správa aplikací pro Windows 10**.
     
-5. Pod ** typ zařízení **, zvolte **osobní** nebo **Ve vlastnictví společnosti**.
+5. Under ** Device type **, choose either **Personal** or **Company Owned**.
     
 6. Možnost **Šifrovat pracovní soubory** je zapnutá automaticky. 
     
 7. Pokud nechcete, aby uživatelé ukládali pracovní soubory na své počítače, **zapněte** možnost **Brání uživatelům v kopírování dat společnosti do osobních souborů a vynucuje, aby ukládali pracovní soubory na OneDrive pro firmy**. 
     
-8. Rozbalte položku **Spravovat přístup uživatelů k souborů sady Office na zařízení** \> nastavit, jakým způsobem. **Spravovat přístup uživatelů k zařízení Office na mobilních zařízeních** je **Vypnuto** ve výchozím nastavení, ale je vhodné **jej zapnout** a přijměte výchozí hodnoty. Další informace naleznete v tématu [nastavení k dispozici](protection-settings-for-windows-10-devices.md#bkmk_settings) . 
+8. Expand **Manage how users access Office files on devices** \> configure the settings how you would like. The **Manage how users access Office devices on mobile devices** is **Off** by default, but it is recommended that you turn it **On** and accept the default values. Další informace naleznete v tématu [nastavení k dispozici](#available-settings). 
     
     Pokud se chcete vrátit k výchozímu nastavení, použijte odkaz **Obnovit výchozí nastavení**. 
     

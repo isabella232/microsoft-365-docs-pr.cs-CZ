@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
 description: Informace o výchozím nastavení a další nastavení, které jsou k dispozici v Microsoft Business 365 k zabezpečení zařízení Windows 10.
-ms.openlocfilehash: ebfe5f59e544b67e5a4f2ecd990031e9221ff8e5
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: f9e890cde7a8290a9a8e81720d32a6a2889c312f
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982141"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32285908"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>Nastavení ochrany zařízení pro počítače s Windows 10
 
@@ -31,23 +34,21 @@ Podívejte se na video o tom, jak zabezpečit zařízení s Windows 10 s Microso
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
-1. Přihlaste se k [Microsoft 365 Business](https://portal.office.com) pod uživatelským jménem a heslem globálního správce. 
+1. Přihlásit se do [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890) s globální správce pověření. 
     
-2. V Centru pro správu přejděte na kartu **Zásady zařízení** a zvolte **Přidat zásadu**.
-    
-    ![Device policies card in the admin center.](media/27c12b61-d112-4348-b557-4f3e46204797.png)
+2. Na levá navigace zvolte **zařízení** \> **zásad** \> **Přidat**.
   
 3. V podokně **Přidat zásadu** zadejte název, který je jedinečný. 
     
 4. V části **Typ zásady** zvolte **Konfigurace zařízení s Windows 10**.
     
-5. Rozbalte **Zabezpečit zařízení s Windows 10** \> nakonfigurujte nastavení požadovaným způsobem. Další informace najdete v části [Dostupná nastavení](protection-settings-for-windows-10-pcs.md#bkmk_availablesettings). 
+5. Rozbalte **Zabezpečit zařízení s Windows 10** \> nakonfigurujte nastavení požadovaným způsobem. Další informace najdete v části [Dostupná nastavení](#available-settings). 
     
     Pokud se chcete vrátit k výchozímu nastavení, použijte odkaz **Obnovit výchozí nastavení**. 
     
     ![Add policy pane with Windows 10 Device configuration selected](media/fa9e2dc2-7eae-4c96-af34-765a1f641ecf.png)
   
-6. Dále zvolit **který toto nastavení obdrží?** Pokud nechcete použít výchozí skupinu zabezpečení **všech uživatelů** , zvolte **změnit**, vyhledejte skupinu zabezpečení, který bude toto nastavení získat \> **Vybrat**.
+6. Next decide **Who will get these settings?** If you don't want to use the default **All users** security group, Choose **Change**, search for the security group who will get these settings \> **Select**.
     
 7. Nakonec zvolte **Hotovo**, abyste zásadu uložili a přiřadili ji zařízením. 
     
