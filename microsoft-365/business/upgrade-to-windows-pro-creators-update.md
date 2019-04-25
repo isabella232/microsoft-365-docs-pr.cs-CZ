@@ -17,12 +17,12 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: 'Informace o upgradu na Windows 10 Pro aktualizace tvůrci zařízení systému Windows. '
-ms.openlocfilehash: ec1ef0462cc1ba1cd1ae01ee28795096097e01a9
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 13a964b19b1fbd43e9c255a90161ca6b48099305
+ms.sourcegitcommit: 2f7791159b715790463c6ce4835fbd9c0b48c047
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32279859"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "33138158"
 ---
 # <a name="upgrade-windows-devices-to-windows-pro-creators-update"></a>Upgrade zařízení s Windows na Windows Pro Creators Update
 
@@ -37,6 +37,9 @@ ms.locfileid: "32279859"
      - Vytvoření instalačního média pomocí [Nástroje pro vytvoření média](https://go.microsoft.com/fwlink/?LinkID=836960) – vyberte tuto možnost, chcete-li vytvořit instalační médium Windows 10 Update Pro autory (jednotky USB flash nebo souboru s příponou ISO), instalace Windows 10 na PC, který se liší od ten, který používáte.
     
         na. Přečtěte si pokyny, jak používat nástroj a vytvořit instalační médium. 
+
+> [!Note]
+> Pokud máte zařízení se systémem Windows 7 Pro, Windows 8 Pro nebo Windows 8.1 Pro, Microsoft 365 Business předplatné vás opravňuje k upgradu na Windows 10 - Windows nevyžadují kód Product Key.
     
 V části [Nastavení systému Windows zařízení pro uživatele Microsoft 365 Business](set-up-windows-devices.md) k dokončení nastavení systému Windows 10 zařízení. 
   
