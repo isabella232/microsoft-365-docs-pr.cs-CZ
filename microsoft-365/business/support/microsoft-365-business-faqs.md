@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365 SMB, FAQ, nejčastější dotazy, odpovědi, obchodní
 ms.date: 06/08/2018
-ms.openlocfilehash: 1e277aed366d82e524ef99c43ab0401b5d35e5b0
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: bdcfd6a78278aff83b3fc21ae0fbb43bce140a16
+ms.sourcegitcommit: 1034f54472de62897f2e8f12459db8043ac8443b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32286119"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33497746"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 Business, nejčastější dotazy
 
@@ -116,7 +116,7 @@ Zákazníky, kteří si přejí mít plné možnosti Microsoft 365 Business mus�
 Nejpřímější cestu k úspěšné nasazení Microsoft 365 Business je provozovat s partnerem společnosti Microsoft. Tyto mají rozsáhlé školení a zkušeností s řadou zákaznických scénářů a jsou vybaveny nejlépe porozumět prostředí a potřebám. Zákazníky, kteří se setkali na IT zaměstnance můžete použít <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">Microsoft 365 Business Začínáme</a> při jejich nasazení Microsoft 365 Business. 
 
 ### <a name="does-microsoft-365-business-include-the-full-capabilities-of-microsoft-intune"></a>Microsoft 365 Business obsahuje veškeré funkce Microsoft Intune? 
-Ano, Microsoft 365 Business předplatitelé mají licenci k používání veškeré funkce Intune pro iOS, Android, MacOS a další správu zařízení a platformy. Funkce není k dispozici v zjednodušenou správu konzoly v Microsoft 365 Business, stejně jako 3. strana aplikace správy a konfigurace například profily Wi-Fi, VPN certifikáty, atd., lze spravovat v celé konzole pro Intune.   
+Ano, Microsoft 365 Business předplatitelé mají licenci k používání veškeré funkce Intune pro iOS, Android, MacOS a další správu zařízení a platformy. Funkce není k dispozici v zjednodušenou správu konzoly v Microsoft 365 Business, stejně jako 3. strana app Správa a konfigurace profilů Wi-Fi, VPN certifikátů apod., lze spravovat v celé konzole pro Intune. Nemáte práva ke správě klientů se vztahuje licence EMS pomocí Správce konfigurace. Nástroj SCCM související dotazy, naleznete v tématu <a href="https://docs.microsoft.com/en-us/sccm/core/understand/product-and-licensing-faq#bkmk_csp" target="_blank">FAQ SCCM</a>
   
 
 ### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Přepnuty s obchodní 365 Microsoft Azure Active Directory Premium P1? 
