@@ -19,34 +19,32 @@ search.appverid:
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
 description: Zobrazit zásady zařízení a akce přihlášením k Microsoft 365 business s credintials globálního správce.
-ms.openlocfilehash: 524e5382fb242ea6b77abd72191073ce4df14f0c
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: fa609aad36b945fe9df99392aa1f9f8252baff1c
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32285794"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660175"
 ---
-# <a name="view-policies-and-devices"></a><span data-ttu-id="af90f-103">Zobrazení zásad a zařízení</span><span class="sxs-lookup"><span data-stu-id="af90f-103">View policies and devices</span></span>
+# <a name="view-and-manage-policies-and-devices"></a><span data-ttu-id="2b26b-103">Zobrazit a spravovat zásady a zařízení</span><span class="sxs-lookup"><span data-stu-id="2b26b-103">View and manage policies and devices</span></span>
 
-## <a name="view-device-policies"></a><span data-ttu-id="af90f-104">Zobrazení zásad zařízení</span><span class="sxs-lookup"><span data-stu-id="af90f-104">View device policies</span></span>
+![Banner odkazující na https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
 
-1. <span data-ttu-id="af90f-105">Přihlaste se k [Microsoft 365 Business](https://portal.office.com) pod uživatelským jménem a heslem globálního správce.</span><span class="sxs-lookup"><span data-stu-id="af90f-105">Sign in to [Microsoft 365 Business](https://portal.office.com) with global admin credentials.</span></span> 
-    
-2. <span data-ttu-id="af90f-106">Na levá navigace zvolte **zařízení** \> **zásad** \> **Přidat**.</span><span class="sxs-lookup"><span data-stu-id="af90f-106">On the left nav, choose **Devices** \> **Policies** \> **Add**.</span></span>
-    
-    <span data-ttu-id="af90f-107">Na této stránce můžete vytvářet zásady, upravovat a odstraňovat je nebo měnit jejich cílovou skupinu.</span><span class="sxs-lookup"><span data-stu-id="af90f-107">On this page you can create, edit, change target group, or delete a policy.</span></span>
-    
-    ![Screenshot of the Policies page](media/27ebb1d3-d04b-4221-a13f-8583045b5077.png)
-  
-## <a name="view-device-actions"></a><span data-ttu-id="af90f-109">Zobrazení akcí zařízení</span><span class="sxs-lookup"><span data-stu-id="af90f-109">View device actions</span></span>
+## <a name="view-and-edit-device-policies"></a><span data-ttu-id="2b26b-105">Zobrazit a upravit zásady zařízení</span><span class="sxs-lookup"><span data-stu-id="2b26b-105">View and edit device policies</span></span>
 
-1. <span data-ttu-id="af90f-110">Přihlaste se k [Microsoft 365 Business](https://portal.office.com) pod uživatelským jménem a heslem globálního správce.</span><span class="sxs-lookup"><span data-stu-id="af90f-110">Sign in to [Microsoft 365 Business](https://portal.office.com) with global admin credentials.</span></span> 
-    
-2. <span data-ttu-id="af90f-111">V Centru pro správu přejděte na kartu **Akce zařízení**. Volbou **Akce zařízení** otevřete stránku **Akce zařízení**.</span><span class="sxs-lookup"><span data-stu-id="af90f-111">In the admin center, on the **Device actions** card, choose **Device actions** to open the **Device actions** page.</span></span> 
-    
-    <span data-ttu-id="af90f-p101">Na této stránce můžete vybrat jedno nebo více zařízení a odebrat data společnosti. U zařízení s Windows 10, kterým jste nastavili ochranu, můžete také vybrat, že chcete obnovit jejich tovární nastavení.</span><span class="sxs-lookup"><span data-stu-id="af90f-p101">On this page you can select one or more devices and either remove company data. For Windows 10 devices that you have set device protections settings for, you can also choose to reset the device to factory settings.</span></span>
-    
-    ![Device actions page.](media/6d2ad0c4-9c96-4489-ab93-c4e38e317d45.PNG)
+1.  <span data-ttu-id="2b26b-106">Přejděte na stránku Správce na <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.</span><span class="sxs-lookup"><span data-stu-id="2b26b-106">Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.</span></span>
+2. <span data-ttu-id="2b26b-107">Na levá navigace zvolte **zařízení** \> **zásady**.</span><span class="sxs-lookup"><span data-stu-id="2b26b-107">On the left nav, choose **Devices** \> **Policies**.</span></span>
+
+    <span data-ttu-id="2b26b-108">Na této stránce můžete vytvářet zásady, upravovat a odstraňovat je nebo měnit jejich cílovou skupinu.</span><span class="sxs-lookup"><span data-stu-id="2b26b-108">On this page you can create, edit, change target group, or delete a policy.</span></span>
+
+    ![Screenshot of the Policies page](media/devicepolicies.png)
   
+## <a name="view-and-manage-devices"></a><span data-ttu-id="2b26b-110">Zobrazení a správa zařízení</span><span class="sxs-lookup"><span data-stu-id="2b26b-110">View and manage devices</span></span>
+
+
+1. <span data-ttu-id="2b26b-111">Na levá navigace zvolte **zařízení** \> **Správa**.</span><span class="sxs-lookup"><span data-stu-id="2b26b-111">On the left nav, choose **Devices** \> **Manage**.</span></span> 
+    
+    <span data-ttu-id="2b26b-p101">Na této stránce můžete vybrat jedno nebo více zařízení a odebrat data společnosti. U zařízení s Windows 10, kterým jste nastavili ochranu, můžete také vybrat, že chcete obnovit jejich tovární nastavení.</span><span class="sxs-lookup"><span data-stu-id="2b26b-p101">On this page you can select one or more devices and either remove company data. For Windows 10 devices that you have set device protections settings for, you can also choose to reset the device to factory settings.</span></span>
   
+   ![Spravovat zařízení stránky.](media/devicesmanage.png)
 
