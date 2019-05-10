@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Informace o povolení 365 Microsoft chránit místní AD připojené zařízení Windows 10.
-ms.openlocfilehash: d61b3bf6be50d6b21e7b883774567bb63995e60e
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 661e5bf8205a661eb4382b4bdd8fcf3a54ecc12f
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278071"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660303"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>Jak nastavit, aby zařízení s Windows 10 připojená k doméně byla spravovaná prostřednictvím plánu Microsoft 365 Business
 
@@ -33,7 +33,7 @@ Pokud vaše organizace používá služby Active Directory systému Windows Serv
   
 ## <a name="set-up-domain-joined-devices-to-be-managed-by-microsoft-365-business"></a>Nastavit zařízení připojeno k doméně, které jsou spravovány Microsoft 365 Business
 
-Chcete-li nastavit zařízení připojeno k doméně organizace využívat funkce poskytované službou Active Directory Azure kromě místního Active Directory, můžete implementovat **hybridní Azure AD připojené zařízení**. Jedná se o zařízení, které jsou připojeny do adresáře služby Active Directory v prostorách a Azure AD. Hybridní zařízení Azure AD, které jsou spojeny mohou být chráněné a spravovány Microsoft 365 Business... 
+Chcete-li nastavit zařízení připojeno k doméně organizace využívat funkce poskytované službou Active Directory Azure kromě místního Active Directory, můžete implementovat **hybridní Azure AD připojené zařízení**. Jedná se o zařízení, které jsou připojeny do adresáře služby Active Directory v prostorách a Azure AD. Hybridní Azure AD připojené zařízení můžete chráněné a spravovány Microsoft 365 Business. 
   
 Postupujte podle pokynů níže vytvořit hybridní Azure AD připojen a spravovány Microsoft 365 Business zařízení Windows 10.
   
@@ -43,15 +43,13 @@ Postupujte podle pokynů níže vytvořit hybridní Azure AD připojen a spravov
     > Kroky jsou přesně Microsoft 365 Business. 
   
 2. Před provedením kroku 3, chcete-li povolit zařízení Windows 10 bude hybridní připojen k Azure AD, je třeba Ujistěte se, že jsou splněny následující předpoklady:
-    
+
    - Používáte nejnovější verzi Azure AD připojit.
-    
+
    - Azure AD připojit synchronizaci všech objektů počítače zařízení má být hybridní připojen k Azure AD. Pokud objekty počítače patří do určité organizační jednotky (OU), ujistěte se, že tyto organizační jednotky jsou nastaveny pro synchronizaci v Azure AD připojte také.
     
 3. Registrace existující zařízení Windows 10 doméně hybridní Azure AD Joined a zapsat je spravovat mobilní zařízení pomocí Intune (Microsoft 365 Business):
     
 4. Postupujte podle pokynů krok za krokem [Konfigurace hybridní zařízení Azure Active Directory připojen](https://go.microsoft.com/fwlink/p/?linkid=872870). To umožní synchronizaci služby Active Directory v prostorách připojené počítače Windows 10 a je připraveno v cloudu.
     
-5. K zápisu Windows 10 zařízení, Správa mobilního zařízení, pokyny naleznete v tématu [zápis Windows 10 zařízení s Intune pomocí Zásady skupiny](https://go.microsoft.com/fwlink/p/?linkid=872871) . Můžete nastavit Zásady skupiny v místním počítači úrovni nebo pro hromadné operace, můžete vytvořit na serveru řadiče domény toto nastavení zásad skupiny. 
-    
-
+5. K zápisu Windows 10 zařízení, Správa mobilního zařízení, pokyny naleznete v tématu [zápis Windows 10 zařízení s Intune pomocí Zásady skupiny](https://go.microsoft.com/fwlink/p/?linkid=872871) . Můžete nastavit Zásady skupiny v místním počítači úrovni nebo pro hromadné operace, můžete vytvořit na serveru řadiče domény toto nastavení zásad skupiny.

@@ -6,7 +6,7 @@ manager: scotv
 ms.audience: Admin
 ms.topic: conceptual
 f1_keywords:
-- 'O365E_BCSSetup4OfficeMobile '
+- O365E_BCSSetup4OfficeMobile
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection:
@@ -23,12 +23,12 @@ search.appverid:
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
 description: Informace týkající se zásad ochrany, které vám mohou pomoci zabezpečený přístup k aplikacím sady Office z mobilních zařízení.
-ms.openlocfilehash: b77d30686b26f95de684238d1b9afd57550a7c7f
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: b49ec33f4899a25f92ffd9d7a25d3e435016749e
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278603"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660318"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Správa přístupu uživatelů k dokumentům Office na mobilních zařízeních
 
@@ -45,6 +45,6 @@ Následující nastavení slouží ke správě přístupu uživatelů k pracovn�
 |Resetovat PIN po tomto počtu neúspěšných přihlášení  <br/> |Aby se zabránilo náhodnému uhodnutí PINu neoprávněným uživatelem, resetuje se PIN po vámi určeném počtu špatných pokusů.  <br/> |
 |Vyžadovat, aby se uživatelé znovu přihlásili, pokud byly aplikace Office nečinné po dobu  <br/> |Toto nastavení určí dobu, po kterou může být uživatel nečinný, než se bude muset znovu přihlásit.  <br/> |
 |Odepřít přístup k pracovním souborům ze zařízení s jailbreakem nebo rootem  <br/> |Zruční uživatelé mohou mít zařízení s jailbreakem nebo rootem. To znamená, že takový uživatel může upravovat operační systém, což může zařízení učinit náchylnější vůči malwaru. Když je nastavení **zapnuté**, jsou tato zařízení blokovaná.  <br/> |
-|Povolit uživatelům kopírovat obsah z aplikací Office do osobních aplikací  <br/> |Ve výchozím nastavení toto umožňujeme, ale pokud je nastavení **zapnuté**, uživatel může kopírovat informace z pracovního souboru do osobního souboru. Pokud je toto nastavení **vypnuté**, uživatel informace z pracovního souboru do osobní aplikace nebo na osobní účet kopírovat nemůže.  <br/> |
+|Nepovolit uživatelům kopírovat obsah z aplikací sady Office do aplikace osobní  <br/> |Po **Zapnutí**nastavení uživatele nelze kopírovat informace v souboru pracovní soubor osobních. Pokud je toto nastavení **Vypnuto**, uživatel můžete kopírovat informace z pracovní soubor app na osobní nebo osobní účet.  <br/> |
    
 

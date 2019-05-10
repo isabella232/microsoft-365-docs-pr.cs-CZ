@@ -17,12 +17,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Zjistěte, jak získat přístup k místním prostředkům jako obchodními apps, sdílených souborů a tiskáren ze služby Active Directory Azure připojené zařízení Windows 10.
-ms.openlocfilehash: 212685bc229f519152e69b09d0a745bfac7a38cd
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 2be8eb16b9d17547d3bc4c3e4fe499b4c14117a4
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32276875"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660263"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Přístup místního zdroje z Azure AD připojené zařízení v Microsoft 365 Business
 
@@ -47,11 +47,9 @@ Pokud vaše organizace není připravena k nasazení v Azure AD připojen konfig
 Jestliže používáte Azure AD připojit zařízení systému Windows, které bylo dříve připojeno k doméně nebo v pracovní skupině, je třeba zvážit následující omezení:
   
 - Pokud se připojí zařízení Azure AD, vytvoří nového uživatele bez odkazování na existující profil. Chcete-li odstranit tento problém, profily nutné přenést ručně. Profil uživatele obsahuje informace jako oblíbené položky, místní soubory, nastavení prohlížeče, nastavení nabídky Start, atd. Nejlepším řešením je najít nástroj jiného výrobce mapovat existující soubory a nastavení do nového profilu
-    
-- Pokud zařízení používá objekty Zásady skupiny (GPO), některé objekty GPO nebude mít srovnatelné [Konfiguraci poskytovatele služeb](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) pro Intune. Spusťte [nástroj MMAT](https://www.microsoft.com/download/details.aspx?id=45520) najít srovnatelné CSP pro existující objekty zásad skupiny. 
-    
-- Uživatelé nebudou moci přihlásit k aplikacím, které závisí na ověřování služby Active Directory. Které se zabývají vyhodnotit pomocí starší verze aplikace a aktualizujte aplikaci používající moderní ověřování, pokud je to možné.
-    
-- Active Directory tiskárny zjišťování nebude fungovat. Tento problém lze vyřešit, poskytují přímé tiskárny cesty pro všechny uživatele nebo využít [Hybridní Cloud Print](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
-    
 
+- Pokud zařízení používá objekty Zásady skupiny (GPO), některé objekty GPO nebude mít srovnatelné [Konfiguraci poskytovatele služeb](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) pro Intune. Spusťte [nástroj MMAT](https://www.microsoft.com/download/details.aspx?id=45520) najít srovnatelné CSP pro existující objekty zásad skupiny.
+
+- Uživatelé nebudou moci přihlásit k aplikacím, které závisí na ověřování služby Active Directory. Které se zabývají vyhodnotit pomocí starší verze aplikace a aktualizujte aplikaci používající moderní ověřování, pokud je to možné.
+
+- Active Directory tiskárny zjišťování nebude fungovat. Tento problém lze vyřešit, poskytují přímé tiskárny cesty pro všechny uživatele nebo využít [Hybridní Cloud Print](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).

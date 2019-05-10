@@ -20,16 +20,16 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: Další informace o použití AutoPilot systému Windows k nastavení nových Windows 10 zařízení pro vaše podnikání.
-ms.openlocfilehash: e0802ddcc0964d0b8d102f7dbdb9116b33cdcf58
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 8c4a14b4b9dcbf7a30c1e6e0bdd53418a1ab8a03
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32277083"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660652"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Podrobné pokyny k přidání zařízení a profilů Autopilota
 
-Pomocí Windows AutoPilota můžete ve firmě nastavit nová zařízení s Windows 10, aby byla připravená k použití hned, jak je předáte zaměstnancům.
+AutoPilot systému Windows slouží k nastavení **nových** Windows 10 zařízení pro vaše podnikání tak, aby byly připraveny pro produktivní využití co nejdříve poskytnout vašim zaměstnancům.
   
 ## <a name="device-requirements"></a>Požadavky na zařízení
 
@@ -41,13 +41,17 @@ Zařízení musejí splňovat tyto podmínky:
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Vytvoření zařízení a profilů pomocí průvodce instalací
 
+![Banner odkazující na https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+
 Pokud jste ještě nevytvořili skupiny zařízení ani jejich profily, bude nejlepší, když na začátku použijete podrobného průvodce. [Přidat zařízení](create-and-edit-autopilot-devices.md) a [přiřadit profily](create-and-edit-autopilot-profiles.md) ale můžete i bez průvodce. 
   
-1. V Centru pro správu Microsoft 365 Business přejděte na kartu **Akce zařízení** a zvolte **Nasadit Windows pomocí Autopilota**.
-    
-    ![On the Device actions card, choose Deploy Windows with Autopilot.](media/160d5c2a-11a8-48f9-a8aa-70f084b85448.png)
+1. Přejděte na stránku Správce na <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+
+2. Na navigace vlevo zvolte **zařízení** \> **AutoPilot**.
+
+    ![V Centru správy vyberte zařízení a pak AutoPilot.](media/AutoPilot.png)
   
-2. Na stránce **Připravit Windows** klikněte nebo klepněte na **Úvodní příručka**.
+2. Na stránce **AutoPilot** klepněte na položku nebo klepněte na tlačítko **Spustit Průvodce**.
     
     ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   

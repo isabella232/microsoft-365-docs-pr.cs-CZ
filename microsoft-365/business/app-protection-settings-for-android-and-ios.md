@@ -21,20 +21,22 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Zjistěte, jak vytvořit, upravit, nebo odstranit zásadu správy aplikace a ochrana souborů práce na Android nebo iOS zařízení.
-ms.openlocfilehash: e81ff8a4bd71dbbbf7ccc31249d450e03f4bd241
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 04479360bf13a8ff685a91ed95440c08f8cf80b4
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32277439"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660513"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Nastavení ochrany aplikací pro zařízení s Androidem nebo iOSem
 
+![Banner odkazující na https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+
 ## <a name="create-an-app-management-policy"></a>Vytvoření zásady správy aplikací
 
-1. Přihlášení k aplikaci [Microsoft 365 Business admin center](https://go.microsoft.com/fwlink/p/?linkid=837890) s globální správce pověření. 
+1. Přejděte na stránku Správce na <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
     
-2. V Centru správy zvolte **zařízení** \> **zásad** \> **Přidat zásadu**.
+2. V levá navigace zvolte **zařízení** \> **zásad** \> **Přidat**.
   
 3. V podokně **Přidat zásadu** zadejte název, který je jedinečný. 
     
@@ -62,9 +64,9 @@ ms.locfileid: "32277439"
     
 ## <a name="delete-an-app-management-policy"></a>Odstranění zásady správy aplikací
 
-1. Na kartě **Zásady** zvolte **Odstranit zásadu**.
+1. Na stránce **zásady** vyberte zásady a pak **Odstranit**.
     
-2. V podokně **Odstranit zásadu** zvolte zásady, které chcete odstranit \> **Vybrat** a potom vybranou zásadu nebo zásady odstraňte kliknutím na **Potvrdit**. 
+2. **Odstranění zásady** podokně zvolte **Potvrdit** odstranění zásady nebo zásady, kterou jste zvolili. 
     
 ## <a name="available-settings"></a>Dostupná nastavení
 

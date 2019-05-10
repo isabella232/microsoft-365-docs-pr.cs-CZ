@@ -1,5 +1,5 @@
 ---
-title: Začínáme s Microsoft 365 Business
+title: Přehled Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,73 +21,42 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Naučte se nastavit Microsoft 365 Business.
-ms.openlocfilehash: 80c6590a682af5fadeceac7a75e409adac897f6f
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: eb3d611d2be0480fdd0ff897ec5ba69b17695041
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32276715"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660447"
 ---
-# <a name="get-started-with-microsoft-365-business"></a>Začínáme s Microsoft 365 Business
+# <a name="overview-of-microsoft-365-business"></a>Přehled Microsoft 365 Business
 
 ## <a name="what-is-microsoft-365-business"></a>Co je Microsoft 365 Business
 
 Microsoft 365 Business je komplexní sada nástrojů zaměřených na produktivitu firmy a spolupráci, do které například patří vždy aktuální Outlook, Word, Excel a další produkty Office. Pracovní soubory můžete chránit na všech zařízeních s iOSem, Androidem a Windows 10. Umožňuje to zabezpečení na podnikové úrovni s jednoduchou správou.
   
-Microsoft 365 Business umožňuje používat maximálně 300 licencí. Pokud potřebujete více licencí, podívejte se na dokumentaci k [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986), kde získáte více informací. 
+Microsoft 365 Business umožňuje používat maximálně 300 licencí. Pokud potřebujete více licencí, podívejte se na dokumentaci k [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986), kde získáte více informací.
+
+Celý seznam funkcí naleznete v tématu [Popis služby Microsoft 365 Business](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-business-service-description) .
   
+## <a name="small-business-security-needs"></a>Bezpečnostní potřeby malých firem
+
+V mnoha ohledech může být ohroženo obchodní data. Vy a vaši uživatelé mohou ohrozit zabezpečení vaší organizace při přihlášení pomocí pověření ohrožení zabezpečení nebo zobrazení dat organizace na různá zařízení a aplikací. Přesněji řečeno organizace je ohrožen:
+
+1. Ohrožení zabezpečení nebo malý přihlašovací pověření.
+2. Ohrožení zabezpečení zařízení se slabou pin nebo uživatel vlastní zařízení.
+3. Uživatelé, kteří mohou kopírovat/vložit/uložit vaše organizace dat do osobní aplikace.
+4. Uživatelé, kteří nainstalovat a používat aplikace strana 3<sup>rd</sup> s slabé zabezpečení.
+5. Chyby zabezpečení e-mailu včetně sdílení citlivých dat, phishing pokusy, malware, atd.
+6. Pokud osoby, které by neměly získat přístup k dokumentům s citlivými informacemi.
+
+Microsoft 365 Business pomáhá chránit data v každém z těchto případů. Funkce zabezpečení, které chrání vaše obchodní data jsou podrobně popsány v následujícím obrázku.
+
+![Obrázek, který ukazuje, jak M365B chrání vaše podnikání.](media/m365businessvalueadd.png)
+
+Úplný seznam funkcí zabezpečení naleznete v tématu [funkce zabezpečení Microsoft 365 Business](security-features.md). Po [nastavení Microsoft 365 Business](set-up.md)zobrazit, [nastavit zásady rozšířené zabezpečení](set-up-advanced-security.md) pro seznámení s funkcemi zabezpečení, které nejsou zahrnuty jako součást instalace. Přečtěte si také [prvních 10 způsoby zabezpečení služeb Office 365 a Microsoft 365 Business plány](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) pro dobrý přehled o nastavení ochrany proti zločinci a hackeři.
+
 ## <a name="get-microsoft-365-business"></a>Jak získat Microsoft 365 Business
 
-- Pokud máte partnera, získá partner Microsoft 365 Business: [Jak získat Microsoft 365 Business z partnerského centra Microsoftu](get-microsoft-365-business.md).
-    
-- Pokud nemáte partnera a chcete získat Microsoft 365 Business, můžete si ho [koupit tady](https://www.microsoft.com/en-us/microsoft-365/business).
-    
-## <a name="set-up-microsoft-365-business"></a>Nastavení Microsoft 365 Business
+- Pokud máte partnera, získá partner Microsoft 365 Business: [Jak získat Microsoft 365 Business z partnerského centra Microsoftu](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
 
- **Přehled Microsoft 365 Business Suite, nastavení**
-  
-Následující diagram popisuje, jak admins nastavit Microsoft 365 Business. Popisuje také kroky při přípravě počítačů s Windows na Microsoft 365 Business. Nová zařízení také můžete přidat v Centru pro správu Microsoft 365 Business s použitím [Windows AutoPilota](add-autopilot-devices-and-profile.md). Pomocí AutoPilota také můžete nastavit a předběžně nakonfigurovat nová zařízení, aby byla připravená k použití hned, jak se uživatel přihlásí pomocí přihlašovacích údajů služby Microsoft 365 Business.
-  
-![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
-  
-### <a name="1-set-up-microsoft-365-business-admin"></a>1: nastavit Microsoft 365 Business (Admin)
-
-Přihlaste se do [Centra pro správu Microsoft 365 Business](https://portal.office.com/adminportal/home) pod přihlašovacími údaji globálního správce a nastavte Microsoft 365 Business podle následujících pokynů. 
-  
-1. [Předpoklady pro ochranu dat na zařízeních s Microsoft 365 Business](pre-requisites-for-data-protection.md)
-    
-    Nejprve si přečtěte předpoklady, abyste měli jistotu, že vaše zařízení jsou na Microsoft 365 Business připravená.
-    
-2. [Nastavení Microsoft 365 Business pomocí průvodce nastavením](set-up.md)
-    
-    Pokud jste **trvale přesunout z místní služby Active Directory do cloudu**, můžete buď přidat uživatele ručně ve středisku pro správce Microsoft 365 Business pomocí Průvodce instalací nebo stačí jednorázová synchronizace s Azure AD připojit. Můžete to udělat dvěma způsoby: 
-    
-  - Také máte 2010 serveru Exchange, Exchange 2013 nebo Exchange 2016 server, můžete [Použít minimální hybridní rychle migrovat poštovní schránky serveru Exchange do služeb Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef). Kroky minimálních hybridních možností zahrnují jednorázovou synchronizaci uživatelů do Azure AD a zároveň přesun e-mailů z místního úložiště do cloudu. Po dokončení přesunu e-mailů se u této metody synchronizace adresářů automaticky vypne.
-    
-  - K synchronizaci uživatelů s cloudem můžete použít průvodce synchronizací adresářů Office 365. K dokončení tohoto procesu použijte postup, který je popsaný v článku [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846). Po synchronizaci uživatelů s cloudem budete muset [Turn off directory synchronization for Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
-    
-    Každému uživateli přidanému tímto způsobem budete muset udělit licenci na Microsoft 365 Business. Lze provést v [Průvodci](set-up.md)nebo [přiřazení licencí uživatelům služeb Office 365 pro firmy](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
-    
-### <a name="2-prepare-mobile-devices"></a>2: Příprava mobilních zařízení
-
-Postupujte podle pokynů k instalaci zařízení a zkontrolujte, zda že jsou chráněny obchodní 365 Microsoft Office apps[nastavit mobilní zařízení pro uživatele Microsoft 365 Business](set-up-mobile-devices.md) . 
-  
-### <a name="3-prepare-pcs"></a>3: Příprava počítače
-
-Admins můžete předem vybrat nastavení pro nová zařízení počítačů se systémem Windows 10 pomocí [AutoPilot systému Windows](add-autopilot-devices-and-profile.md). Uživatelé mohou vytvořit své stávající nebo nové zařízení Windows 10 pomocí následujících kroků v tomto tématu: [Nastavení počítačů se systémem Windows Microsoft 365 Business uživatelům](set-up-windows-devices.md). Pro stávající zařízení mohou uživatelé také **Volitelně**[Přesunout soubory na OneDrive pro firmy](move-files-to-onedrive.md). Přesunout soubory, které jsou přidružené k profilu systému Windows k OneDrive lze také použít nástroje jiných výrobců.
-  
-Pokud vaše organizace používá služby Active Directory systému Windows Server na prostory, můžete nastavit Microsoft 365 Business chránit vaše zařízení Windows 10, ale zároveň zachovat přístup k místním prostředkům, které vyžadují ověřování pomocí místních. Postupujte podle kroků v [doméně zařízení Windows 10, které jsou spravovány Microsoft 365 Business povolit](manage-windows-devices.md) toto nastavení. Toto je upřednostňovaný způsob a zařízení v tomto stavu se nazývají **hybridní Azure AD připojené zařízení**. 
-  
-Je-li zachovat místní služby Active Directory, která obsahuje některé místní prostředky (například sdílené soubory a tiskárny), můžete přidělit přístup **Azure AD připojené zařízení** tyto prostředky podle pokynů zde: [přístup místního zdroje z Azure AD připojené zařízení Microsoft 365 Business](access-resources.md).
-  
-Po nastavení počítačů se systémem Windows 10 můžete [automaticky nainstalovat systém Office](auto-install-or-uninstall-office.md) na zařízení. 
-  
-## <a name="contact-support"></a>Kontaktujte podporu.
-
- **Pokud potřebujete kontaktovat podporu:**
-  
-- Obraťte se na partnera.
-    
-- Jako Microsoft 365 Business admin máte přístup k tým zákaznické podpory, [kontaktování podpory pro produkty business - Nápověda správce](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) ****
-    
-
+- Pokud nemáte partnera a chcete získat Microsoft 365 Business, můžete [si ho zde](https://www.microsoft.com/microsoft-365/business) a postupujte podle pokynů [přihlásit](sign-up.md) .
