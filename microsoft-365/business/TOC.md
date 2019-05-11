@@ -1,4 +1,5 @@
-# [Začít](microsoft-365-business-overview.md)
+# [Microsoft 365 Business](index.md)
+## [Přehled](microsoft-365-business-overview.md)
 ## [Získat Microsoft 365 Business](sign-up.md)
 ## [Předpoklady pro ochranu dat](pre-requisites-for-data-protection.md)
 ## [Nastavení](set-up.md)
