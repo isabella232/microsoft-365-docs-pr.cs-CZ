@@ -1,7 +1,9 @@
-# [Microsoft 365 Business](index.md)
-## [Přehled](microsoft-365-business-overview.md)
+# Microsoft 365 Business
+## [Microsoft 365](index.md)
+## [Co je Microsoft 365 Business?](microsoft-365-business-overview.md)
 ## [Získat Microsoft 365 Business](sign-up.md)
 ## [Předpoklady pro ochranu dat](pre-requisites-for-data-protection.md)
+## [Přehled nastavení](set-up-overview.md)
 ## [Nastavení](set-up.md)
 ### [Upgrade na systém Windows Update Pro autory](upgrade-to-windows-pro-creators-update.md)
 ### [Nastavení mobilních zařízení](set-up-mobile-devices.md)
@@ -14,8 +16,10 @@
 ## [Zabezpečení](security-features.md)
 ### [Zabezpečit váš podnik](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Nastavení rozšířené funkce zabezpečení](set-up-advanced-security.md)
-## [Správa](manage.md)
+## Uživatelé
 ### [Add users](add-users-m365b.md)
+### [Jestliže chcete vyřadit zaměstnance](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+## Správa zařízení
 ### [Zobrazit a upravit zásady a zařízení](view-policies-and-devices.md)
 ### [Odebrat data společnosti](remove-company-data.md)
 ### [Zařízení obnovíte tovární nastavení](reset-devices-to-factory-settings.md)
@@ -26,7 +30,12 @@
 #### [Ověřit nastavení u počítačů se systémem Windows 10](validate-settings-on-windows-10-pcs.md)
 ### [Nastavení ochrany pro zařízení Windows 10](protection-settings-for-windows-10-devices.md)
 ## [Migrace na Microsoft 365 Business](migrate-to-microsoft-365-business.md)
-## [Přidat zařízení Autopilot a profil](add-autopilot-devices-and-profile.md)
+## Fakturace
+### [Vaše faktura](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+### [Zaplatit](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+### [Zrušit](/Office365/Admin/subscriptions-and-billing/cancel-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+## AutoPilot
+### [Přidat zařízení Autopilot a profil](add-autopilot-devices-and-profile.md)
 ### [Vytvoření a úpravy profilů AutoPilota](create-and-edit-autopilot-profiles.md)
 ### [Vytvoření a úpravy zařízení pomocí AutoPilota](create-and-edit-autopilot-devices.md)
 ### [Nastavení profilu autoPilot](autopilot-profile-settings.md)

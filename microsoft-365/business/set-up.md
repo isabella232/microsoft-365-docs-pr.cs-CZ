@@ -22,46 +22,14 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Zjistěte, jak nastavit Microsoft 365 Business.
-ms.openlocfilehash: e635b828609fc47cd8b92bb179a25bcc43cb0a1a
-ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
+ms.openlocfilehash: f3a9ad62f5ec8779296e800b9ecc8d6181d7aff7
+ms.sourcegitcommit: f420a5cdedf3ec2babc6d8ad7e7c79da0b08e115
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33660743"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33966972"
 ---
-# <a name="set-up-microsoft-365-business"></a>Nastavení Microsoft 365 Business
-
-Před započetím práce, podrobnosti najdete v části [Získat obchodní 365 Microsoft](get-microsoft-365-business.md) zápisu.
-
-Podívejte se na [krátké video návod, jak nastavit Microsoft 365 Business](https://support.office.com/article/38003e30-9d10-44cf-b596-f1b5f662bfa1) pomocí nastavení průvodce, a pokud nemáte služby Active Directory v prostorách
-  
-
-## <a name="overview"></a>Přehled
-
-Většina nastavení kroky lze provést v Průvodci instalací, ale jsou také uvedeny další možnosti.
-
-1. [Přidat do domény](#add-your-domain-to-personalize-sign-in) (Pokud jste si koupili své domény při [přihlášení](sign-up.md), tento krok je již proveden.)
-2. Přidáte uživatele. Lze provést třemi způsoby:
-    - Podle pokynů [Průvodce instalací](#add-users-in-the-wizard).
-    - Používá pro synchronizaci adresářů přidat [uživatele Azure AD připojit pomocí](#add-users-by-using-azure-ad-connect) služby Active directory v prostorách.
-    - Můžete také [Přidat uživatele později](add-users-m365b.md) ve středisku pro správce.
-3. Nastavit zásady zabezpečení a konfigurace zařízení. Lze provést třemi způsoby:
-    - Podle pokynů [Průvodce instalací](#set-up-policies-in-the-wizard).  
-    - V [Centru správy](#modify-or-add-policies-in-the-admin-center).
-    - V aplikaci [Centrum pro správu Intune](https://docs.microsoft.com/intune/what-is-device-management).
-4. Nastavit a spravovat zařízení v systému Windows 10.
-
-    Při připojení zařízení WIndows 10 k Azure AD získat k němu použity všechny zásady.
-    - Nastavení konfigurace zařízení Windows 10 podle pokynů [Průvodce instalací](#set-up-policies-in-the-wizard).
-    - [Nové Windows 10 zařízení](set-up-windows-devices.md#for-a-brand-new-or-newly-upgraded-windows-10-pro-device) připojte k Azure AD.
-    - Připojte [existující zařízení s Windows 10](set-up-windows-devices.md#for-a-device-already-set-up-and-running-windows-10-pro) k Azure AD.
-1. Instalace Office 365 Business.
-    - Office v zařízení Windows může automaticky instalovat pomocí [Průvodce instalací](#set-up-policies-in-the-wizard).
-    - Automaticky [nainstalovat systém Office](auto-install-or-uninstall-office.md) z středisku pro správce.
-    - Umožní uživatelům [instalaci aplikací sady Office](https://docs.microsoft.com/office365/admin/setup/install-applications) pro systém Windows a zařízení.
-     
-1. Nastavte další zabezpečení.
-    - Průvodce instalací přidá zásady zabezpečení vašeho zařízení, ale můžete také využít výhod [Další bezpečnostní](#additional-security-settings) funkce, které umožňuje zabezpečené vaše data, účty a e-mailů. 
+# <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Nastavení Průvodce instalací Microsoft 365 Business
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>Přidání domény, uživatele a nastavení zásad
 
@@ -75,7 +43,9 @@ Při koupi Microsoft 365 Business, máte možnost použít doménu vlastníte, n
 
 1. Přihlášení k aplikaci [Microsoft 365 admin center](https://admin.microsoft.com) pomocí globální správce pověření. 
 
-2. Vyberte **Přidat do domény** , spusťte průvodce.
+2. Zvolte **Přidat k doméně** nebo **Přidání uživatelů** ke spuštění průvodce.
+    > [!IMPORTANT]
+    > Pokud jste doménu zakoupili během přihlašování, není viz **Přidání domény** kroku zde. Místo toho přejděte na [Přidat uživatele](#add-users-and-assign-licenses) .
 
     ![Vyberte Přidat do domény.](media/addadomainadmincenter.png)
     
@@ -98,11 +68,10 @@ V průvodci můžete přidat uživatele, ale můžete také [Přidat uživatele 
 #### <a name="add-users-in-the-wizard"></a>V průvodci Přidat uživatele
 
 Všichni uživatelé, které zadáte v průvodci získáte automaticky přiřazena licence Microsoft 365 Business.
-Pokud máte místní řadič domény a používáte služby Active Directory, naleznete v článku [ddd uživatelů pomocí Azure AD připojit](#add-users-by-using-azure-ad-connect).
 
 ![Obrazovka stránku přidat nové uživatele v Průvodci](media/addnewuserspage.png)
 
-1. Pokud vaše předplatné Microsoft 365 Business již uživatele má (například pokud jste použili službu Azure AD Connect), budete mít možnost jim licence přiřadit nyní. Neváhejte a přidejte licence i jim.
+1. Má-li vaše předplatné Microsoft 365 Business existujících uživatelů (například pokud používáte Azure AD připojit), dostanete možnost přiřazovat licence je nyní. Neváhejte a přidejte licence i jim.
 
 3. Po přidání uživatele se zobrazí také možnost sdílet pověření s novým uživatelům, které jste přidali. Můžete je vytisknout, poslat e-mailem nebo si je stáhnout.
 
@@ -110,25 +79,6 @@ Pokud máte místní řadič domény a používáte služby Active Directory, na
 
     Pokud přesouváte od jiného poskytovatele e-mailu a chcete zkopírovat data později, můžete [migrovat e-maily a kontakty do služeb Office 365](https://support.office.com/article/a3e3bddb-582e-4133-8670-e61b9f58627e).
 
-#### <a name="add-users-by-using-azure-ad-connect"></a>Přidání uživatele pomocí Azure AD Connect
-
- Pokud máte místní řadič domény se službou Active Directory, synchronizovat pomocí [Azure AD připojit](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)uživatelé s Microsoft 365 Business. Dokončete tuto před spuštěním Průvodce instalací. Si můžete stáhnout v Centru pro správu:
-
-- Přejděte na **uživatele** \> **aktivních uživatelů**vyberte na tři tečky v horní části stránky a potom vyberte **adresář synchronizace** Azure AD připojit stáhnout.
-
-    ![Na stránce aktivní uživatele vyberte elipsy > adresář snchronization.](media/setupdirsync.png)
-
-    > [!IMPORTANT]
-    > Pokud uživatelé vytvářet tímto způsobem, musíte stále k nim přiřadit licence ve středisku pro správce.
-
-##### <a name="continue-to-access-domain-joined-apps-and-devices"></a>Získat přístup k doméně aplikace a zařízení
-
-Pokud chcete získat přístup k doméně aplikace a zařízení, přečtěte si dva jiný způsob povolení, které v následujících článcích:
-  
-- [Jak nastavit, aby zařízení s Windows 10 připojená k doméně byla spravovaná prostřednictvím plánu Microsoft 365 Business](manage-windows-devices.md)
-    - Toto je doporučený způsob.
-
-- [Přístup místního zdroje z Azure AD připojené zařízení v Microsoft 365 Business](access-resources.md)
 
 ### <a name="connect-your-domain"></a>Připojení domény
 
@@ -147,21 +97,17 @@ Abyste mohli nastavit služby, musíte aktualizovat některé záznamy u svého 
 
 ### <a name="set-up-security-policies-and-device-configurations"></a>Nastavit zásady zabezpečení a konfigurace zařízení 
 
-Tyto zásady se týkají všech uživatelů udělíte licenci nebo na skupinu uživatelů a pokud se rozhodnete přiřadit různé zásady pro více uživatelů.
-
-#### <a name="set-up-policies-in-the-wizard"></a>Nastavení zásad v Průvodci
-
-Zásady, které jste nastavili v Průvodci automaticky použity [skupiny zabezpečení](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) s názvem *Všichni uživatelé*.
+Zásady, které jste nastavili v Průvodci automaticky použity [skupiny zabezpečení](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) s názvem *Všichni uživatelé*. Můžete také vytvořit další skupiny přiřadit zásady v Centru pro správu.
 
 1. **Ochranu pracovních souborů na mobilních zařízeních** možnost **Zamknout pracovní soubory, pokud jsou ztráty nebo krádeže zařízení** je zapnutá ve výchozím nastavení. Máte možnost zapnout **Spravovat přístup uživatelů k souborů sady Office na mobilních zařízeních**, a to je doporučeno.
 
     ![Snímek obrazovky chránit pracovní soubory na stránce Mobilní zařízení.](media/protectworkfilesondevices.png)
 
-     - Jestliže rozbalíte **chránit pracovní soubory, pokud jsou ztráty nebo krádeže zařízení**, jsou vybrány [výchozí hodnoty](protect-work-files-on-lost-or-stolen-device.md) :
+     - Rozbalte položku **Zamknout pracovní soubory, pokud jsou ztráty nebo krádeže zařízení** zobrazí [výchozí hodnoty](protect-work-files-on-lost-or-stolen-device.md):
 
         ![Obrazovka výchozí hodnoty pro ochranu souborů na ztracené zařízení.](media/protectworkfilesondevicesdefault.png)
 
-    - Pokud vyberete **Spravovat přístup uživatelů k souborů sady Office na mobilních zařízeních** a rozbalte ji, [výchozí hodnoty](manage-user-access-on-mobile-devices.md) jsou zobrazeny. Doporučujeme vám přijmou během instalace výchozí hodnoty, abyste vytvořili zásady aplikací pro Android, iOS a Windows 10, které platí pro všechny uživatele. Další zásady můžete vytvořit po dokončení instalace.
+    - Vyberte **Spravovat přístup uživatelů k souborů sady Office na mobilních zařízeních** a rozbalit a zobrazit [výchozí hodnoty](manage-user-access-on-mobile-devices.md). Doporučujeme přijmout výchozí hodnoty během instalace k vytvoření zásad aplikace pro Android, iOS a Windows 10, které platí pro všechny uživatele. Další zásady můžete vytvořit po dokončení instalace.
 
         ![Obrazovka nastavení ochrany souborů sady Office Mobile.](media/useraccessonmobile.png)
 
@@ -170,22 +116,7 @@ Zásady, které jste nastavili v Průvodci automaticky použity [skupiny zabezpe
 
     ![Obrazovka nastavení stránku konfigurace zařízení Windows 10.](media/setwin10config.png)
 
-#### <a name="modify-or-add-policies-in-the-admin-center"></a>Úprava nebo přidání zásady v Centru pro správu
 
-Pro odkazy na témata týkající se zobrazení a úprava ochrany zařízení a aplikace zásady, naleznete v tématu [Správa Microsoft 365 Business](manage.md) a jak odstranit nebo obnovit uživatelská zařízení.
-
-## <a name="deploy-and-manage-windows-10"></a>Nasazení a správa Windows 10
-V tématu Ruční připojení k Azure AD, buď při instalaci nových počítačů nebo změnou přihlašovacího profilu pro stávající počítače [Nastavení systému Windows zařízení pro uživatele Microsoft 365 Business](set-up-windows-devices.md) . 
-
-### <a name="use-autopilot-to-set-up-new-devices"></a>Chcete-li nastavit nové zařízení pomocí Autopilot
-
-[Autopilot systému Windows](add-autopilot-devices-and-profile.md) lze nakonfigurovat automaticky **Nová** zařízení Windows 10 pro uživatele, ale může být jednodušší získat [partnera](https://www.microsoft.com/solution-providers/search) , který lze provést za vás. Můžete také přejít na [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598) a zeptejte se odborníků cloud technologie nastavit nová zařízení, které zakoupíte, vám.
-
-### <a name="access-on-premises-resources"></a>Přístup k místním prostředkům
-
-Pokud vaše organizace používá služby Active Directory systému Windows Server na prostory, můžete nastavit Microsoft 365 Business chránit vaše zařízení Windows 10, ale zároveň zachovat přístup k místním prostředkům, které vyžadují ověřování pomocí místních. Postupujte podle kroků v [doméně zařízení Windows 10, které jsou spravovány Microsoft 365 Business povolit](manage-windows-devices.md) toto nastavení. Toto je upřednostňovaný způsob a zařízení v tomto stavu se nazývají hybridní Azure AD připojené zařízení.
-
-Pokud váš podnik má místní služby Active Directory, která obsahuje některé místní prostředky (například sdílené soubory a tiskárny), můžete přidělit přístup Azure AD připojené zařízení tyto prostředky podle pokynů zde: [přístup místního zdroje z Azure AD připojené zařízení Microsoft 365 Business](access-resources.md).
 
 ## <a name="deploy-office-365-client-apps"></a>Nasazení aplikace klienta služeb Office 365
 
@@ -193,20 +124,3 @@ Pokud zvolíte automaticky nainstalovat Office apps v průběhu sada nahoru, nai
 Chcete-li nainstalovat systém Office na mobilním iOS nebo Android zařízení, naleznete v tématu [nastavit mobilní zařízení pro uživatele Microsoft 365 Business](set-up-mobile-devices.md).
 
 Office lze také nainstalovat samostatně. Viz pokyny pro [instalaci sady Office na PC nebo Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665) .
-
-## <a name="additional-security-settings"></a>Další nastavení zabezpečení
-
-Kromě zabezpečení a kompatibility nastavení v Průvodci instalací můžete také nastavit další parametry:
-  
-- **E-mailová ochrana proti malwaru**
-- **Bezpečné přílohy Advanced Threat Protection (ATP)**
-- **ATP bezpečné propojení**
-- **VÝSTIŽNÝ anti-phishing**
-- **Exchange Online - archiv**
-- **Zabránění ztrátě dat (DLP)**
-- **Ochrana údajů v Azure** (Plán 1)
-- **Dostupnost portálu Intune**
-
-Chcete-li získat spuštění naleznete v tématu [nastavení zásad pokročilé zabezpečení](set-up-advanced-security.md).
-
-Další informace naleznete v tématu [horní 10 způsobů, jak zabezpečit váš podnik 365 Microsoft](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) pro přehled osvědčených postupů zabezpečení.
