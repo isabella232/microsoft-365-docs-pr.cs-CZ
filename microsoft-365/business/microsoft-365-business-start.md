@@ -3,7 +3,7 @@ title: Začínáme s Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Naučte se nastavit Microsoft 365 Business.
-ms.openlocfilehash: 78f7360c80667b8d34fad9d849cfc2cf83a8577b
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: d309700761ee48ef66a8cd3886fd416c79463ed5
+ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278103"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34074294"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Začínáme s Microsoft 365 Business
 
@@ -89,7 +89,7 @@ Po nastavení počítačů se systémem Windows 10 můžete [automaticky nainsta
     
 - Jako Microsoft 365 Business admin máte přístup k tým zákaznické podpory, [kontaktování podpory pro produkty business - Nápověda správce](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) ****
     
-## <a name="related-topics"></a>Příbuzná témata
+## <a name="related-topics"></a>Klepnutím na odkaz Příbuzná témata.
 [Dokumentace a zdroje informací k Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
 [Správa Microsoft 365 Business](manage.md)[Migrace na Microsoft 365 Business](migrate-to-microsoft-365-business.md)
