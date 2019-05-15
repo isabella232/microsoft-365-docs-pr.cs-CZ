@@ -3,8 +3,9 @@
 ## [Co je Microsoft 365 Business?](microsoft-365-business-overview.md)
 ## [Získat Microsoft 365 Business](sign-up.md)
 ## [Předpoklady pro ochranu dat](pre-requisites-for-data-protection.md)
-## [Přehled nastavení](set-up-overview.md)
-## [Nastavení](set-up.md)
+## Nastavení
+### [Přehled nastavení](set-up-overview.md)
+### [Nastavit Microsoft 365 Business](set-up.md)
 ### [Upgrade na systém Windows Update Pro autory](upgrade-to-windows-pro-creators-update.md)
 ### [Nastavení mobilních zařízení](set-up-mobile-devices.md)
 ### [Nastavení zařízení v systému Windows](set-up-windows-devices.md)
