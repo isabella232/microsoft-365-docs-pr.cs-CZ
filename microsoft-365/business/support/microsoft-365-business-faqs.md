@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365 SMB, FAQ, nejčastější dotazy, odpovědi, obchodní
 ms.date: 06/08/2018
-ms.openlocfilehash: 9757abb98f4f1c2612f20c75fffd5da10bbbc381
-ms.sourcegitcommit: b05aa01a72c3bc257a9f3b06a7779d88a89758c6
+ms.openlocfilehash: 6ef500c9b0c9e83e77e46c1eaf7057e3e46cfe0d
+ms.sourcegitcommit: 5c6bbf6dd7020b462b56b644b5a0fcc0217d6a53
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33657201"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34276217"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 Business, nejčastější dotazy
 
@@ -80,7 +80,7 @@ Mnoho zaměstnanců raději používat vlastní mobilní telefony nebo tablety, 
 Microsoft 365 Business nabízí zákazníkům jednoduchý, ale účinný prostředek umožňující zaměstnanci použití jejich osobních zařízení pro práci, a poskytuje podniku možnost zabránit těmto zařízením přístup k, uchovávání a sdílení podnikových informací . Konkrétně: 
 * **Zámek App pro mobilní aplikace Office** pomáhá chránit Office data, včetně e-mailů, kalendáře, kontaktů a dokumentů na iOS a Android mobilní zařízení, vynucením zásady, jako jsou automaticky odstraněny po uplynutí předepsané doby obchodních dat není připojení ke službě vyžadující, že informace je uložena pouze pro OneDrive pro firmy, vyžadující přístup k aplikacím sady Office a bránící data společnosti z kopírování v aplikaci sady Office do aplikace osobní ověření PIN/otisků prstů. Správa mobilní aplikace pro další mobilní aplikace prostřednictvím Intune je také k dispozici pro předplatitele Microsoft 365 Business. 
   
-* **Správa zařízení pro Windows 10 počítačů** firmy aallows zvolte Nastavit a vynutit možnosti, jako je ochrana programu Windows Defender pro malware, automatické aktualizace a vypnutí obrazovky po předepsané době. Kromě toho ztracených nebo ukradených zařízení Windows 10 můžete zcela očistí, podnikové aplikace a data pomocí středisku pro správce. 
+* **Správa zařízení pro Windows 10 počítačů** umožňuje podnikům nastavit a vynutit možnosti, jako je ochrana programu Windows Defender pro malware, automatické aktualizace a vypnutí obrazovky po předepsané době. Kromě toho ztracených nebo ukradených zařízení Windows 10 můžete zcela očistí, podnikové aplikace a data pomocí středisku pro správce. 
 
 * Funkce pro **Správu zařízení pro iOS, Android & MacOS** pomáhá podnikům, které zajistí bezpečnou správu různých zařízení ekosystém, který zahrnuje zařízení iOS, Android, Windows a macOS. 
 
