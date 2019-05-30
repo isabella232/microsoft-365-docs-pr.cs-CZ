@@ -7,17 +7,18 @@
 ### [Přehled nastavení](set-up-overview.md)
 ### [Nastavit Microsoft 365 Business](set-up.md)
 ### [Upgrade na systém Windows Update Pro autory](upgrade-to-windows-pro-creators-update.md)
-### [Nastavení mobilních zařízení](set-up-mobile-devices.md)
-### [Nastavení zařízení v systému Windows](set-up-windows-devices.md)
 ### [Příprava pro nasazení klienta sady Office](prepare-for-office-client-deployment.md)
 ### [Automatická instalace nebo odinstalování sady Office](auto-install-or-uninstall-office.md)
 ### [Přístup k místním prostředkům]()
 #### [Povolení spravovat zařízení připojeno k doméně Windows 10](manage-windows-devices.md)
 #### [Přístup k prostředkům z Azure AD připojené zařízení](access-resources.md)
+## Nastavení zařízení uživatele
+### [Nastavení mobilních zařízení](set-up-mobile-devices.md)
+### [Nastavení zařízení v systému Windows](set-up-windows-devices.md)
 ## [Zabezpečení](security-features.md)
 ### [Zabezpečit váš podnik](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Nastavení rozšířené funkce zabezpečení](set-up-advanced-security.md)
-## Uživatelé
+## Správa uživatelů
 ### [Add users](add-users-m365b.md)
 ### [Jestliže chcete vyřadit zaměstnance](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ## Správa zařízení
