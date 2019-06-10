@@ -1,5 +1,5 @@
 ---
-title: Funkce zabezpečení aplikace Microsoft Business 365
+title: Funkce zabezpečení a kompatibility Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -19,14 +19,14 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Další informace o funkcích zabezpečení, které jsou součástí Microsoft 365 Business.
-ms.openlocfilehash: 6ce69f387461edc0eea6c705f15a9083547698ff
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+ms.openlocfilehash: 54bac38ca3a60f88f848ec3ab8bdd8a7c0fabd54
+ms.sourcegitcommit: ab04fea2765a63489d70b506f0e14303a5be16a0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074524"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780773"
 ---
-# <a name="microsoft-365-business-security-features"></a>Funkce zabezpečení aplikace Microsoft Business 365
+# <a name="microsoft-365-business-security-and-compliance-features"></a>Funkce zabezpečení a kompatibility Microsoft 365 Business
 
 Microsoft 365 Business nabízí zjednodušený bezpečnostní prvky pro ochranu dat na počítače, telefony a tablety.
     
@@ -36,7 +36,6 @@ Microsoft 365 Business nabízí zjednodušený bezpečnostní prvky pro ochranu 
 
 Můžete spravovat mnoho funkcí zabezpečení Microsoft 365 Business ve středisku pro správce, který poskytuje zjednodušený způsob, jak tyto funkce zapnout, nebo vypnout. Ve středisku pro správce provádět následující akce:
   
-![Screenshot of the Devices card in the admin center](media/9982e784-dbf9-4a76-a159-bb3e2e5aa23f.png)
   
 - [Nastavení správy aplikace pro Android nebo iOS zařízení](app-protection-settings-for-android-and-ios.md) . 
     
@@ -68,8 +67,19 @@ Rozšířené funkce v Microsoft 365 Business lze chránit vaši firmu před int
     
   - Prohledávání příloh propracované a technologii AI analýzy zjistit a odstranit nebezpečné zprávy.
     
-  - Automatické kontroly webových odkazů v e-mailu pro hodnocení jsou součástí podvodného postupu. To umožňuje bezpečný přístup k nebezpečným webům.
+  - Automatické kontroly odkazů v e-mailu pro hodnocení jsou součástí podvodného postupu. To umožňuje bezpečný přístup k nebezpečným webům.
+
+- **[Veškeré funkce Intune na portálu Azure](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
+    Přístup k Intune center admin na portálu Azure umožňuje nastavit další funkce zabezpečení, například správu zařízení, iPhone a Android zařízení a Správa rozšířeného zařízení pro Windows, MacOS, nejsou k dispozici prostřednictvím společnosti Microsoft 365 business admin center.
+- **[Podmíněný přístup](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) stejný jako plán Azure AD P1**
+
+    Podmíněného přístupu pomáhá chránit vaše organizace z rizik přihlašovacího, pokusy o přístup ze sítě neočekávané nebo národní prostředí, pokusy o přístup typy formulářů nebezpečné zařízení atd. Je f další doklad (například druhý formulář identifikace) nebo zakazuje podmíněného přístupu, které jsou vynuceny zásady po dokončení první ověření a signály od první události ověřování používá k určení, pokud byl proveden pokus o přístup by měla být schválena, povinné.
+    
+## <a name="compliance-features"></a>Funkce dodržování předpisů
+
+Aplikace Microsoft Business 365 předplatné zahrnuje funkce, které pomohou udržovat dodržování předpisů a norem.
+
 - **[Přehled zásad prevence ztráty dat](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
     DLP můžete nastavit na automatické zjištění citlivé informace, například čísla kreditních karet, čísla sociálního pojištění, atd., proti jejich neúmyslnému sdílení mimo organizaci.
@@ -80,13 +90,9 @@ Rozšířené funkce v Microsoft 365 Business lze chránit vaši firmu před int
     
 - **[Ochrana údajů v Azure](https://go.microsoft.com/fwlink/p/?linkid=871406)**
     
-    Informace ochrana pomáhá řídit přístup k důvěrným informacím v e-mailu a dokumentů s ovládacími prvky, stejně jako "není dopředu" a "Nekopírujte." Můžete také klasifikovat jako "Důvěrné" citlivé informace a určit, jak utajované informace mohou být sdíleny mimo a uvnitř podniku. Enterprise třída šifrování je snadno použitelná e-maily a dokumenty, které chcete zachovat soukromí vašich informací. Microsoft 365 Business zahrnuje všechny funkce [Azure informace ochrana plán 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Můžete také nainstalovat Azure ochrana údajů klient doplněk pro aplikace sady Office. Další podrobnosti naleznete v [příručce neznáte klienta Azure ochrana údajů](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide).
-    
-- **[Veškeré funkce Intune na portálu Azure](https://go.microsoft.com/fwlink/p/?linkid=871403)**
-    
-    Přístup k Intune center admin na portálu Azure umožňuje nastavit další funkce zabezpečení, například správu zařízení, iPhone a Android zařízení a Správa rozšířeného zařízení pro Windows, MacOS, nejsou k dispozici prostřednictvím společnosti Microsoft 365 business admin center.
-    
-Následující části popisují, jak lze spravovat tyto funkce zabezpečení &amp; souladu a Centrum správce Intune. Zjednodušené ovládací prvky budou časem přidány Microsoft 365 Business centru pro správu.
+    Informace ochrana pomáhá řídit přístup k důvěrným informacím v e-mailu a dokumentů s ovládacími prvky, stejně jako "není dopředu" a "Nekopírujte." Můžete také klasifikovat jako "Důvěrné" citlivé informace a určit, jak utajované informace mohou být sdíleny mimo a uvnitř podniku. Enterprise třída šifrování je snadno použitelná e-maily a dokumenty, které chcete zachovat soukromí vašich informací. Microsoft 365 Business zahrnuje všechny funkce [Azure informace ochrana plán 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Můžete také nainstalovat Azure ochrana údajů klient doplněk pro aplikace sady Office. Další podrobnosti naleznete v [příručce správce klienta Azure ochrana údajů](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide).
+
+Tyto funkce zabezpečení lze spravovat &amp; souladu a Centrum správce Intune. Zjednodušené ovládací prvky budou časem přidány Microsoft 365 Business centru pro správu.
   
     
 ## <a name="faq"></a>Časté otázky

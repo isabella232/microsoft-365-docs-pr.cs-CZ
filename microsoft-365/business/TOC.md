@@ -15,9 +15,10 @@
 ## Nastavení zařízení uživatele
 ### [Nastavení mobilních zařízení](set-up-mobile-devices.md)
 ### [Nastavení zařízení v systému Windows](set-up-windows-devices.md)
-## [Zabezpečení](security-features.md)
-### [Zabezpečit váš podnik](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
-### [Nastavení rozšířené funkce zabezpečení](set-up-advanced-security.md)
+## [Zabezpečit váš podnik](security-features.md)
+### [Zvýšit ochranu před hrozbami](increase-threat-protection.md)
+### [Seznámení s podmíněným přístupem](set-up-conditional-access-policies.md)
+### [Nastavení funkcí kompatibility](set-up-compliance.md)
 ## Správa uživatelů
 ### [Add users](add-users-m365b.md)
 ### [Jestliže chcete vyřadit zaměstnance](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
