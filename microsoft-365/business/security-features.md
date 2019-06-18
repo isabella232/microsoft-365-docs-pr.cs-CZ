@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Další informace o funkcích zabezpečení, které jsou součástí Microsoft 365 Business.
-ms.openlocfilehash: 54bac38ca3a60f88f848ec3ab8bdd8a7c0fabd54
-ms.sourcegitcommit: ab04fea2765a63489d70b506f0e14303a5be16a0
+ms.openlocfilehash: bd61ad3bf1b34635a7b80f1c9ccf63fa98d31915
+ms.sourcegitcommit: 274af83139ad7da3aa33366c3323d533d95c7db4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780773"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35017516"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Funkce zabezpečení a kompatibility Microsoft 365 Business
 
@@ -75,6 +75,19 @@ Rozšířené funkce v Microsoft 365 Business lze chránit vaši firmu před int
 - **[Podmíněný přístup](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) stejný jako plán Azure AD P1**
 
     Podmíněného přístupu pomáhá chránit vaše organizace z rizik přihlašovacího, pokusy o přístup ze sítě neočekávané nebo národní prostředí, pokusy o přístup typy formulářů nebezpečné zařízení atd. Je f další doklad (například druhý formulář identifikace) nebo zakazuje podmíněného přístupu, které jsou vynuceny zásady po dokončení první ověření a signály od první události ověřování používá k určení, pokud byl proveden pokus o přístup by měla být schválena, povinné.
+
+    Jsou funkcích podmíněného přístupu:
+
+    - Přístup založený na jméno uživatele, skupiny a role
+    - Přístup [založený na aplikaci](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
+    - [Přístup na základě umístění](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  Povolte pouze přístup z důvěryhodné rozsahy IP nebo konkrétní země 
+    - MFA vyžaduje pro přístup
+    - Blokování přístupu k aplikacím, které používají [starší verze ověřování](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
+    - Požadovat, aby používal tp apps [Intune app protection](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
+    - Vlastní ověřování jako MFA u poskytovatelů třetích stran, například DUO.
+   
+    Další funkce:
+    - [Obnovení hesla samoobslužné služby](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization) pro hybridní Azure AD
     
 ## <a name="compliance-features"></a>Funkce dodržování předpisů
 
