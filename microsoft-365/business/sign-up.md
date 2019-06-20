@@ -1,0 +1,56 @@
+---
+title: Přihlaste se k Microsoft 365 Business
+ms.author: sirkkuw
+author: Sirkkuw
+manager: scotv
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- M365-subscription-management
+ms.custom:
+- Adm_O365
+- Core_O365Admin_Migration
+- MSB365
+search.appverid:
+- BCS160
+- MET150
+description: Informace o nákupu a přihlaste se k Microsoft 365 Business.
+ms.openlocfilehash: ecbf316f63e11ed07dc775f6659f650112cc8cb4
+ms.sourcegitcommit: 274af83139ad7da3aa33366c3323d533d95c7db4
+ms.translationtype: MT
+ms.contentlocale: cs-CZ
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35086291"
+---
+# <a name="sign-up-for-microsoft-365-business"></a><span data-ttu-id="0d6ac-103">Přihlaste se k Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="0d6ac-103">Sign up for Microsoft 365 Business</span></span>
+
+<span data-ttu-id="0d6ac-104">Pokud jste partnerem, naleznete v tématu [Získání Microsoft 365 Business Center Microsoft Partner](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).</span><span class="sxs-lookup"><span data-stu-id="0d6ac-104">If you are a partner, see [Get Microsoft 365 Business from Microsoft Partner Center](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).</span></span>
+
+<span data-ttu-id="0d6ac-105">Přejít na [Objevování Microsoft 365 Business advantage](https://www.microsoft.com/microsoft-365/business#pmg-cmp-desktop) a zvolte příkaz **Koupit nyní** v rámci Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-105">Go to [Discover Microsoft 365 Business advantage](https://www.microsoft.com/microsoft-365/business#pmg-cmp-desktop) and choose **Buy Now** under Microsoft 365 Business.</span></span>
+
+1. <span data-ttu-id="0d6ac-106">Na stránce **Vítejte, Řekněme seznámení můžete** zadejte požadované informace.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-106">On the **Welcome, let's get to know you** page enter the required information.</span></span> <span data-ttu-id="0d6ac-107">Všimněte si, že:</span><span class="sxs-lookup"><span data-stu-id="0d6ac-107">Note that:</span></span>
+ 
+    -  <span data-ttu-id="0d6ac-108">**Země či oblasti:** Určuje službu přijímat a nelze později změnit.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-108">**Country or regions:** This determines the service you receive and can't be changed later.</span></span>
+    - <span data-ttu-id="0d6ac-109">**Business e-mailovou adresu:** Vaše aktuální e-mailová adresa.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-109">**Business email address:** Enter your current email address.</span></span> <span data-ttu-id="0d6ac-110">Společnost Microsoft používá tuto adresu má odpovídat o předplatném Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-110">Microsoft uses this address to correspond with you about your Microsoft 365 subscription.</span></span>
+    - <span data-ttu-id="0d6ac-111">**Název společnosti** Můžeme se zobrazí název společnosti ve středisku pro správce; Toto je, kde budete spravovat uživatele Microsoft 365, licence a podobně.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-111">**Company name** We'll display your company name in the admin center; this is where you'll manage Microsoft 365 users, licenses, and so on.</span></span> <span data-ttu-id="0d6ac-112">Jsme budete také zahrnout do všech adres URL webů služby SharePoint.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-112">We'll also include it in any SharePoint site URLs.</span></span>
+
+2. <span data-ttu-id="0d6ac-113">Na stránce **vytvořit vaše ID uživatele** :</span><span class="sxs-lookup"><span data-stu-id="0d6ac-113">On the **Create your user ID** page:</span></span>
+
+    - <span data-ttu-id="0d6ac-114">**Uživatelské jméno**: Zadejte název (alias), který budete používat pro vlastní e-mailová adresa.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-114">**Username**: Enter the name (called an alias) that you'll use for your own business email.</span></span> <span data-ttu-id="0d6ac-115">Robert Young může například použít RobY nebo RobYoung jako alias práce.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-115">For example, Robert Young might use RobY or RobYoung as a work alias.</span></span>
+    - <span data-ttu-id="0d6ac-116">**Společnost**: Zadejte unikátní obchodní jméno.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-116">**Your company**: Enter your unique business name.</span></span> <span data-ttu-id="0d6ac-117">To je název webového serveru vaší společnosti používá, pokud je k dispozici a je také název, který chcete zahrnout po @ přihlášení obdržíte e-mailová adresa.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-117">This is the name that your business web site uses if you have one, and is also the name you want to include after the @ sign when you receive a business email.</span></span> <span data-ttu-id="0d6ac-118">Tento název je názvem domény.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-118">This name is called a domain.</span></span> <span data-ttu-id="0d6ac-119">Například, pokud váš podnik nazývá lyže Contoso, zadejte ContosoSkis po znak @.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-119">For example, if your business is called Contoso Skis, enter ContosoSkis after the @ sign.</span></span>
+    - <span data-ttu-id="0d6ac-120">**Vyberte doménu**: Pokud již název domény vlastníte, zaškrtněte. onmicrosoft.com z rozevírací nabídky a požádáme později nastavíte.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-120">**Select a domain**: If you own your domain name already, select .onmicrosoft.com from the drop down menu and we'll ask you to set it up later.</span></span> <span data-ttu-id="0d6ac-121">Jinak je snadné koupit název domény, který představuje váš podnik.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-121">Otherwise, it's easy to buy a domain name that represents your business.</span></span> <span data-ttu-id="0d6ac-122">To lze provést, vyberte doménu, kterou chcete z rozevírací nabídky.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-122">To do that, select the domain you prefer from the drop down menu.</span></span> <span data-ttu-id="0d6ac-123">Vaše úplná e-mailová adresa může být například *Teresa@ContosoSkis.net*.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-123">For example, your full email address might be *Teresa@ContosoSkis.net*.</span></span> <span data-ttu-id="0d6ac-124">Čemž budete okamžitě vědět, pokud název domény je k dispozici.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-124">We'll let you know right away if the domain name is available.</span></span> <span data-ttu-id="0d6ac-125">Je-li, přidáme k ceně předplatného Microsoft 365 Business náklady vaší domény.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-125">If it is, we'll add the cost of your domain to the cost of your Microsoft 365 Business subscription.</span></span> <span data-ttu-id="0d6ac-126">Nové domény bude také být nastaven a připraven pro použití v Microsoft 365 Pokud zakoupíte zde.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-126">The new domain will also be set up and ready for use in Microsoft 365 if you purchase it here.</span></span> <span data-ttu-id="0d6ac-127">Informace o doménách naleznete v tématu [Nejčastější dotazy týkající se domény](https://docs.microsoft.com/office365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="0d6ac-127">For information about domains, see [Domains FAQ](https://docs.microsoft.com/office365/admin/setup/domains-faq).</span></span>
+    
+    ![Obrazovka vytvoření stránky ID uživatele.](media/signinuserid.png)
+
+3. <span data-ttu-id="0d6ac-129">Vyplňte zbývající pole a vyberte možnost **vytvořit účet**.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-129">Fill in the rest of the fields and select **Create my account**.</span></span>
+4. <span data-ttu-id="0d6ac-130">V **prokázat .však se. Not.A.Robot.**</span><span class="sxs-lookup"><span data-stu-id="0d6ac-130">On the **Prove.You're.Not.A.Robot.**</span></span> <span data-ttu-id="0d6ac-131">Zadejte telefonní číslo, zobrazí se kód buď prostřednictvím textu nebo volání a vyberte **Text mi** nebo **zavolejte mi**, a pak zadejte ověřovací kód \> **Další**.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-131">page enter a phone number to receive a code either via text or a call and select **Text me** or **Call me**, then enter the verification code \> **Next**.</span></span>
+5. <span data-ttu-id="0d6ac-132">Na stránce **kde budete používat to** zadejte vaše podnikání.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-132">On the **Where will you be using this** page enter your business address.</span></span> <span data-ttu-id="0d6ac-133">Tento údaj určuje, jaké daně budete platit a které jsou odběry jsou k dispozici.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-133">This information determines what taxes you pay and which subscriptions are are available.</span></span> <span data-ttu-id="0d6ac-134">Další informace o daně viz [Jaké daně bude I účtován?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="0d6ac-134">For more information about taxes, see [What tax will I be charged?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide)</span></span> 
+1. <span data-ttu-id="0d6ac-135">Klepněte na tlačítko **Další**, zkontrolovat objednávku a klepnutím na tlačítko **Další** znovu.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-135">Select **Next**, review your order and select **Next** again.</span></span>
+1. <span data-ttu-id="0d6ac-136">Na stránce **jak chcete zaplatit** zadejte podrobnosti platby a pak **objednat**.</span><span class="sxs-lookup"><span data-stu-id="0d6ac-136">On the **How do you want to pay** page, enter your payment details, and then **Place order**.</span></span>
+    <span data-ttu-id="0d6ac-137">Přejděte na [admin center](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide) dokončit vaše [Nastavení](set-up.md).</span><span class="sxs-lookup"><span data-stu-id="0d6ac-137">You can then go to the [admin center](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide) to finish your [set up](set-up.md).</span></span>
+
+    > [!NOTE]
+    > <span data-ttu-id="0d6ac-138">Je-li na konci instalace vyberete odkaz **přejděte na stránku Správce**, přejdete přímo na možnosti [Nastavení](set-up.md) .</span><span class="sxs-lookup"><span data-stu-id="0d6ac-138">If, at the end of the setup you select the link **Go to the admin center**, you will be taken directly to the [set up](set-up.md) experience.</span></span>
