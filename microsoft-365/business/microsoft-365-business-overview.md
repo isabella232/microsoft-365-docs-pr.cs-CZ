@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Naučte se nastavit Microsoft 365 Business.
-ms.openlocfilehash: b34db3dcfbe5ccd5feae7b275b6455e67c5f0029
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+ms.openlocfilehash: 6fd328ebd4a8d3fbcde836c4aa87b56b9775c3cd
+ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074274"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35114956"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Přehled Microsoft 365 Business
 
@@ -60,3 +60,5 @@ Microsoft 365 Business pomáhá chránit data v každém z těchto případů. F
 - Pokud máte partnera, získá partner Microsoft 365 Business: [Jak získat Microsoft 365 Business z partnerského centra Microsoftu](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
 
 - Pokud nemáte partnera a chcete získat Microsoft 365 Business, můžete [si ho zde](https://www.microsoft.com/microsoft-365/business) a postupujte podle pokynů [přihlásit](sign-up.md) .
+
+- Přes můžete také sídlo do [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) zakoupit Microsoft 365 Business i nápovědu nastavení.
