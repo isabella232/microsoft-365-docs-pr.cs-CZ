@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Zjistěte, jak nastavit Microsoft 365 Business.
-ms.openlocfilehash: 42a35810531b6abd5b22e5fdbce2c0cfea57b8d7
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+ms.openlocfilehash: ac9c8b828ff131a15bf057fa8bdc0bf56dd00987
+ms.sourcegitcommit: 75b97d1ff617bc4b1b0ef9135dfe6a8842ea1b52
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074584"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35772561"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Nastavení Průvodce instalací Microsoft 365 Business
 
@@ -123,4 +123,4 @@ Zásady, které jste nastavili v Průvodci automaticky použity [skupiny zabezpe
 Pokud zvolíte automaticky nainstalovat Office apps v průběhu sada nahoru, nainstaluje soubor apps po uživatelé přihlášeni k Azure AD ze svých zařízení systému Windows pomocí pověření jejich práce na zařízení Windows 10.
 Chcete-li nainstalovat systém Office na mobilním iOS nebo Android zařízení, naleznete v tématu [nastavit mobilní zařízení pro uživatele Microsoft 365 Business](set-up-mobile-devices.md).
 
-Office lze také nainstalovat samostatně. Viz pokyny pro [instalaci sady Office na PC nebo Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665) .
+Office lze také nainstalovat samostatně. Viz pokyny pro [instalaci sady Office na PC nebo Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) .
