@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Naučte se nastavit Microsoft 365 Business.
-ms.openlocfilehash: 6fd328ebd4a8d3fbcde836c4aa87b56b9775c3cd
-ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
+ms.openlocfilehash: 64cfa460311af6cdafb637ceb3415511e003e394
+ms.sourcegitcommit: dd0d99d2ff930cd1777d6704f4d88a70adc9ca74
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35114956"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "35853143"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Přehled Microsoft 365 Business
 
@@ -36,7 +36,7 @@ Microsoft 365 Business je komplexní sada nástrojů zaměřených na produktivi
   
 Microsoft 365 Business umožňuje používat maximálně 300 licencí. Pokud potřebujete více licencí, podívejte se na dokumentaci k [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986), kde získáte více informací.
 
-Celý seznam funkcí naleznete v tématu [Popis služby Microsoft 365 Business](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-business-service-description) .
+Celý seznam funkcí naleznete v tématu [Popis služby Microsoft 365 Business](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) .
   
 ## <a name="small-business-security-needs"></a>Bezpečnostní potřeby malých firem
 
