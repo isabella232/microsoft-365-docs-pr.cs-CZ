@@ -1,5 +1,5 @@
 ---
-title: Migrace na Microsoft 365 Business z Office 365 Business Premium
+title: Migrace do aplikace Microsoft 365 Business z webu Office 365 Business Premium
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -18,99 +18,99 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
-description: Zjistěte, jak přesunout Microsoft 365 Business vaše podnikání.
-ms.openlocfilehash: e4bb18904355663f9f26f58a3fd3aaf7420e5378
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Naučte se přesunout podnik do aplikace Microsoft 365 Business.
+ms.openlocfilehash: a3f77bd18b9b900151c50f923b705e4ff0150519
+ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072734"
+ms.lasthandoff: 09/14/2019
+ms.locfileid: "36982435"
 ---
-# <a name="migrate-to-microsoft-365-business-from-office-365-business-premium"></a>Migrace na Microsoft 365 Business z Office 365 Business Premium
+# <a name="migrate-to-microsoft-365-business-from-office-365-business-premium"></a>Migrace do aplikace Microsoft 365 Business z webu Office 365 Business Premium
 
-Pokud je již Office 365 předplatného business, například Office 365 Business Premium, můžete snadno přidat licence na Microsoft 365 Business a přiřadit některé nebo všechny uživatele.
+Pokud již máte sadu Office 365 pro firemní předplatné, například sadu Office 365 Business Premium, můžete snadno přidat licence do společnosti Microsoft 365 Business a přiřadit je některým nebo všem uživatelům.
   
 > [!NOTE]
-> Upgrade na Microsoft 365 Business ještě nelze použít tlačítko [Přepnout plány](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a?.aspx#switchbutton) . 
+> Tlačítko [plány přepínačů](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a?.aspx#switchbutton) nelze použít k upgradu na verzi Microsoft 365 Business. 
   
-## <a name="add-microsoft-365-business-licenses"></a>Přidat licence Microsoft 365 Business
+## <a name="add-microsoft-365-business-licenses"></a>Přidat Microsoft 365 obchodní licence
 
-Máte dva způsoby, jak získat Microsoft 365 Business. Pokud máte partnera, si můžete zakoupit Microsoft 365 Business můžete z [Microsoft Partner Center](get-microsoft-365-business.md). Váš partner rovněž umožňuje přechod na Microsoft 365 Business.
+Existují dva způsoby, jak získat Microsoft 365 Business. Partner může zakoupit společnost Microsoft 365 Business od [společnosti Microsoft Partner Center](get-microsoft-365-business.md). Váš partner vám také může pomoci s přechodem na společnost Microsoft 365 Business.
   
-Pokud spravujete vlastní předplatné, můžete k nákupu licence Microsoft 365 Business [kontaktovat prodejní](https://www.microsoft.com/microsoft-365/business) . 
+Pokud spravujete vlastní předplatné, můžete [kontaktovat prodej](https://www.microsoft.com/microsoft-365/business) a zakoupit obchodní licence společnosti Microsoft 365. 
   
-V tématu [Přidání, změna nebo odstranění partnerský Poradce pro odběr](https://support.office.com/article/f86e8177-936e-491e-9024-44dea2b296ff) a zjistěte, jak začátek práce s partnerem. 
+Informace o tom, jak můžete začít pracovat s partnerem, naleznete v tématu [Přidání, změna nebo odstranění partnera Poradce při hodnocení předplatného](https://support.office.com/article/f86e8177-936e-491e-9024-44dea2b296ff) . 
   
-Pokud budete mít odkaz na nákupní vaše licence vás provede průvodce jako ten níže. Zvolte **Ano, přidejte jej na můj účet**. Můžete také vybrat počet licencí a způsob platby.
+Pokud máte odkaz na nákup licencí, Projděte se jedním z průvodců, jako je ten, který je uveden níže. Zvolte **Ano, přidejte ji na můj účet**. Můžete také vybrat počet licencí a způsob platby.
   
-![V Microsoft Business 365 přímé koupit odkazu, zvolte Přidat k vašemu aktuálnímu účtu, nebo zaregistrovat nový účet.](media/8bc54fd1-9cab-44d5-af91-c471e89aea46.png)
+![Na odkazu na přímý nákup společnosti Microsoft 365 Business zvolte možnost Přidat k aktuálnímu účtu nebo se přihlaste k novému účtu.](media/8bc54fd1-9cab-44d5-af91-c471e89aea46.png)
   
-## <a name="assign-microsoft-365-licenses"></a>Přiřazení licencí Microsoft 365
+## <a name="assign-microsoft-365-licenses"></a>Přiřadit licence Microsoft 365
 
-1. Po zakoupení nové licence a toto je poprvé, kterou jste provedli, se zobrazí nápis instalační program pro Microsoft 365 Business na středisku pro správce.
+1. Jakmile jste zakoupili nové licence a poprvé jste to udělali, zobrazí se nápis nastavení pro Microsoft 365 Business v horní části centra pro správu.
     
     > [!NOTE]
-    > Nastavení hlavičky je možnost Přidat nové uživatele, nové domény a migraci e-mailu pro nové uživatele. Pokud nemáte v úmyslu provádět, by stále průvodce a zvolte výchozí možnosti zmizí z domovské stránky správy. 
+    > Nápis nastavení je příležitostí k přidání nových uživatelů, nové domény a k migraci e-mailů pro nové uživatele. Pokud nechcete provádět žádné řešení, měli byste stále procházet Průvodce a zvolit výchozí možnosti, které z domovské stránky pro správu zmizí. 
   
-   ![Zvolte možnost spuštění instalačního programu v Microsoft 365 Business nastavit hlavičky.](media/8d3b0d97-7cca-497f-9364-4b00ad670209.png)
+   ![Klepněte na tlačítko Start v aplikaci Microsoft 365 Business je připraven k vytvoření nápisu.](media/8d3b0d97-7cca-497f-9364-4b00ad670209.png)
   
-    Zvolte **spustit instalační program**.
+    Zvolte možnost **Spustit instalaci**.
     
-2. Na stránce **Přizpůsobit vaše přihlášení a e-mailu** můžete přidat výběrem **připojit k doméně, které již vlastníte** , pokud chcete použít tuto příležitost ke svému předplatnému přidat jiné domény domény. 
+2. Na stránce **přizpůsobit přihlašovací a e-mailovou** stránku můžete přidat doménu volbou **připojit již vlastní doménu** , pokud chcete tuto příležitost použít k přidání další domény do předplatného. 
     
-    Pokud jste již nastavili doménu, druhé pole bude označovat a budete říkat **Pokračovat pomocí** \< _název domény_ \> **e-mailu a přihlášení**.   Pokud jste nenastavili domény můžete předplatné, budete říkat **Pokračovat pomocí** \< _vaše společnost name.onmicrosoft.com_ \> **e-mailu a přihlášení**.  
+    Pokud jste již nastavili doménu, druhé pole označí, že bude **pokračovat v používání** \< _názvu_ \> domény **pro e-mail a přihlášení**.   Pokud jste nenastavili doménu s vaším předplatitelním, budete pokračovat v **používání** \< _vaší společnosti Name.onmicrosoft.com_ \> **pro e-mail a přihlášení**.  
     
     Zvolte **Další**.
     
-    ![Na stránce Přizpůsobit vaše přihlášení a e-mailu zvolte Přidat doménu nebo použít ten, který používáte.](media/c3f5cfb2-1189-4d2f-803b-c9feb008a7a3.png)
+    ![Na stránce přizpůsobit přihlášení a e-mailovou stránku vyberte buď doménu, nebo použijte ten, který jste používali.](media/c3f5cfb2-1189-4d2f-803b-c9feb008a7a3.png)
   
-3. Na stránce **Přidat nové uživatele** můžete přidat nové uživatele, pokud máte nové zaměstnance, které chcete přiřadit licence Microsoft 365 Business k. 
+3. Na stránce **Přidat nové uživatele** můžete přidat nové uživatele, pokud máte nové zaměstnance, kterým chcete přiřadit obchodní licence společnosti Microsoft 365. 
     
-    Pokud chcete přiřadit licence pro stávající uživatele a přidejte nové zaměstnance nemáte, zvolte **Další**.
+    Pokud nemáte nové zaměstnance k přidání a chcete přiřadit licence existujícím uživatelům, zvolte **Další**.
     
-4. Na ** e-mailové zprávy migrace ** stránku můžete migrovat e-mail pro všechny nové uživatele, které jste přidali v kroku 3. Také můžete tento krok přeskočit. Zvolte **Další**.
+4. Na stránce * * migrovat e-mailové zprávy * * můžete zvolit, že chcete migrovat e-maily pro všechny nové uživatele, které jste přidali v kroku 3. Tento krok můžete také vynechat. Zvolte **Další**.
     
-5. Na poslední stránce zvolte **Přejít na stránku Správce**a pokračujte v instalaci k dispozici.
+5. Na poslední stránce Zvolte možnost **Přejít do centra pro správu**a pokračujte v instalaci.
     
-6. Ve středisku pro správce, přejděte na **uživatele** \> **aktivních uživatelů**.
+6. V centru pro správu přejděte na **uživatele** \> **Active Users**.
     
-7. Vyberte uživatele, kterému chcete přiřadit **Obchodní 365 Microsoft** licenci na a zvolte příkaz **Upravit** u **Licencí na produkt**.
+7. Vyberte uživatele, kterému chcete přiřadit licenci **Microsoft 365 Business** License, a pak zvolte možnost **Upravit** vedle **licencí produktu**.
     
-    ![Na kartě uživatele zvolte Úpravy u licencí na produkt.](media/be0fe2d8-7ff8-447c-88f6-d212ed78451c.png)
+    ![Na kartě uživatele zvolte možnost Upravit vedle licencí produktu.](media/be0fe2d8-7ff8-447c-88f6-d212ed78451c.png)
   
-8. V **licencí na produkt** snímek **Microsoft 365 Business** **na** \> **Uložit**a **Zavřít**.
+8. V **licencích na produktu** přesuňte **aplikaci Microsoft 365 Business** **na** \> **Uložit**a potom **Ukončete**.
     
-Po zakoupení původní licence pro Microsoft 365 Business, nyní můžete také přidat další v **účtování** \> **nákupní služby**. Na stránce **nákupní služby** klepněte na elipsu na kartě **Microsoft 365 Business** a zvolte **změnit množství licencí** k nákupu více. 
+Po zakoupení původní licence pro aplikaci Microsoft 365 Business můžete nyní přidat další do **fakturačních** \> **nákupních služeb**. Na stránce **služeb nákupu** můžete kliknout na elipsy na kartě **Microsoft 365 Business** Card a zvolit možnost **změnit množství licence** pro další nákup. 
   
-## <a name="protect-user-devices-and-files"></a>Chránit soubory a uživatelská zařízení
+## <a name="protect-user-devices-and-files"></a>Ochrana uživatelských zařízení a souborů
 
-Po přiřazení licence Microsoft 365 Business můžete spustit ochranu zařízení a soubory uživatelů.
+Po přiřazení licencí společnosti Microsoft 365 Business můžete začít chránit uživatelská zařízení a soubory.
   
-1. V Centru správy v navigace vlevo, přejděte na **zařízení** \> **zásady**.
+1. V centru pro správu v levém navigačním panelu přejděte na **zásady** **zařízení** \> .
     
-2. Na stránce **zásady zařízení** zvolte **Přidat**.
+2. Na stránce **zásady zařízení** klepněte na tlačítko **Přidat**.
     
-3. V podokně **Přidat zásady** zadejte název zásady a pak z rozevíracího seznamu zvolte **Typ zásad** . 
+3. V podokně **Přidat zásadu** zadejte název zásady a potom zvolte **Typ zásady** z rozevíracího seznamu. 
     
-    Můžete nastavit zásady použití pro ochranu souborů na Android a iPhone zařízení, jakož i Windows 10 a můžete nastavit zásady Konfigurace zařízení Windows 10 zařízení ve vlastnictví společnosti. V následujících tématech Další informace:
+    Můžete nastavit zásady použití pro ochranu souborů na zařízeních Android a iPhone i v systému Windows 10 a můžete nastavit zásady konfigurace zařízení pro zařízení systému Windows 10 vlastněná společností. Podrobnosti naleznete v následujících odkazech:
     
   - [Nastavení ochrany aplikací pro zařízení s Androidem nebo iOSem](app-protection-settings-for-android-and-ios.md)
     
   - [Nastavení ochrany aplikací pro zařízení s Windows 10](protection-settings-for-windows-10-devices.md)
     
-  - [Nastavení zařízení ochrany počítačů se systémem Windows 10](protection-settings-for-windows-10-pcs.md)
+  - [Nastavení ochrany zařízení pro počítače se systémem Windows 10](protection-settings-for-windows-10-pcs.md)
     
-   ![V podokně Přidat zásadu zadejte název a zvolte z rozbalovací nabídky Typ zásad.](media/76ef37e4-1d18-4f34-8a0f-391ab1d0ae2b.png)
+   ![V podokně Přidat zásadu zadejte název a v rozevírací nabídce vyberte typ zásady.](media/76ef37e4-1d18-4f34-8a0f-391ab1d0ae2b.png)
   
-4. Po nastavení zásad jsou vám i vašim zaměstnancům můžete nastavit zařízení:
+4. Po nastavení zásad můžete vy a vaši zaměstnanci nastavit zařízení:
     
-  - Systému Windows již nejsou na tvůrce Pro Windows update, je třeba [upgradovat tak, aby aktualizace systému Windows Pro tvůrce](upgrade-to-windows-pro-creators-update.md).
+  - Pokud se systém Windows již na aktualizaci Windows pro Creator nezobrazí, bude nutné [je upgradovat na aktualizaci Windows pro tvůrci](upgrade-to-windows-pro-creators-update.md).
     
-  - Kroky pro systém Windows zařízení naleznete v tématu [Nastavení zařízení Windows pro uživatele Microsoft 365 Business](set-up-windows-devices.md) . 
+  - Postup pro zařízení systému Windows naleznete v části [nastavení zařízení systému Windows pro Microsoft 365 Business Users](set-up-windows-devices.md) . 
     
-  - Kroky pro Android telefony a iPhones naleznete v tématu [nastavit mobilní zařízení pro uživatele Microsoft 365 Business](set-up-mobile-devices.md) . 
+  - Viz [nastavení mobilních zařízení pro Microsoft 365 Business Users](set-up-mobile-devices.md) na kroky pro telefony a zařízení společnosti Android a iPhones. 
     
-5. Chcete-li automaticky nainstalovat klienta aplikace Office, naleznete v tématu [Příprava pro nasazení klienta sady Office pomocí Microsoft 365 Business](prepare-for-office-client-deployment.md) a [automaticky nainstalovat nebo odinstalovat Office na zařízení Windows 10](auto-install-or-uninstall-office.md).
+5. Chcete-li automaticky instalovat klientské aplikace sady Office, naleznete další informace v tématu [Příprava nasazení klienta sady Office podle aplikace Microsoft 365 Business](prepare-for-office-client-deployment.md) a [automatické instalace nebo odinstalace sady Office v systému Windows 10](auto-install-or-uninstall-office.md).
     
 
 
