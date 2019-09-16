@@ -19,37 +19,40 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
-description: Informace o povolení 365 Microsoft chránit místní AD připojené zařízení Windows 10.
-ms.openlocfilehash: af0e78ef6e79bfd612b11a16538e7afcd377ffb0
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Dozvíte se, jak povolit aplikaci Microsoft 365 chránit místní služby AD připojené k zařízením Windows 10.
+ms.openlocfilehash: 5cce4bc53f118560e31ad7e6048e4efcb49d662e
+ms.sourcegitcommit: c0f769244d05ad019ea2307c38d5543d7b1e5afd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34071544"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992223"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>Jak nastavit, aby zařízení s Windows 10 připojená k doméně byla spravovaná prostřednictvím plánu Microsoft 365 Business
 
-Pokud vaše organizace používá služby Active Directory systému Windows Server na prostory, můžete nastavit Microsoft 365 Business chránit vaše zařízení Windows 10, ale zároveň zachovat přístup k místním prostředkům, které vyžadují ověřování pomocí místních. To lze nastavit tak, že první synchronizace služby Active Directory s Azure Active Directory, následuje zápis zařízení Windows 10 s Azure AD a zápis je pro správu mobilních zařízení pomocí Microsoft 365 Business.
-  
-## <a name="set-up-domain-joined-devices-to-be-managed-by-microsoft-365-business"></a>Nastavit zařízení připojeno k doméně, které jsou spravovány Microsoft 365 Business
+Pokud vaše organizace používá v místním počítači službu Active Directory systému Windows Server, můžete nastavit ochranu zařízení systému Windows 10 v aplikaci Microsoft 365 Business a současně zachovat přístup k místním prostředkům, které vyžadují místní ověřování. Tuto možnost můžete nastavit tak, že nejprve synchronizujete službu Active Directory s Azure Active Directory a poté zaregistrujete zařízení systému Windows 10 s Azure AD a nastavíte je pro správu mobilních zařízení společností Microsoft 365 Business.
+Následující video podrobně popisuje postup nastavení tohoto postupu pro nejběžnější scénář.
 
-Chcete-li nastavit zařízení připojeno k doméně organizace využívat funkce poskytované službou Active Directory Azure kromě místního Active Directory, můžete implementovat **hybridní Azure AD připojené zařízení**. Jedná se o zařízení, které jsou připojeny do adresáře služby Active Directory v prostorách a Azure AD. Hybridní Azure AD připojené zařízení můžete chráněné a spravovány Microsoft 365 Business. 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
-Postupujte podle pokynů níže vytvořit hybridní Azure AD připojen a spravovány Microsoft 365 Business zařízení Windows 10.
+## <a name="set-up-domain-joined-devices-to-be-managed-by-microsoft-365-business"></a>Nastavení zařízení připojených k doméně, která budou spravována společností Microsoft 365 Business
+
+Chcete-li nastavit zařízení spojená s doménou organizace tak, aby měla užitek z možností poskytovaných službou Active Directory společnosti Azure, můžete kromě prostředí služby Active Directory implementovat také zařízení, která byla připojena k objektu **Hybrid Azure**. Jedná se o zařízení, která jsou připojena k vaší budově v prostředí Active Directory a k Azure Active Directory. Tato zařízení mohou být chráněna a spravována společností Microsoft 365 Business. 
   
-1. K synchronizaci uživatelů, skupin a kontaktů z místní služby Active Directory do Azure Active Directory, spusťte Průvodce synchronizací adresáře a Azure Active Directory připojení jak je popsáno v [Nastavení synchronizace adresáře služeb Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
+Dokončete následující kroky a vytvořte tak zařízení Windows 10 Hybrid Azure AD a spravováno společností Microsoft 365 Business.
+  
+1. Chcete-li synchronizovat uživatele, skupiny a kontakty z místního adresáře služby Active Directory na Azure Active Directory, spusťte Průvodce synchronizací adresářů a Azure (Active Directory Connect), jak je popsáno v [Nastavení synchronizace adresářů pro sadu Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
     
     > [!NOTE]
-    > Kroky jsou přesně Microsoft 365 Business. 
+    > Postup je pro společnost Microsoft 365 Business zcela stejný. 
   
-2. Před provedením kroku 3, chcete-li povolit zařízení Windows 10 bude hybridní připojen k Azure AD, je třeba Ujistěte se, že jsou splněny následující předpoklady:
+2. Než dokončíte krok 3 a povolíte, aby zařízení Windows 10 byla připojena k hybridním Azure, musíte zajistit splnění následujících předpokladů:
 
-   - Používáte nejnovější verzi Azure AD připojit.
+   - Používáte nejnovější verzi připojení k programu Azure AD.
 
-   - Azure AD připojit synchronizaci všech objektů počítače zařízení má být hybridní připojen k Azure AD. Pokud objekty počítače patří do určité organizační jednotky (OU), ujistěte se, že tyto organizační jednotky jsou nastaveny pro synchronizaci v Azure AD připojte také.
+   - Azure AD Connect synchronizovalo všechny počítačové objekty zařízení, které chcete použít jako hybridní Azure AD. Pokud objekty počítače patří do určitých organizačních jednotek, zkontrolujte, zda jsou tyto organizační jednotky nastaveny pro synchronizaci také v Azure AD Connect.
     
-3. Registrace existující zařízení Windows 10 doméně hybridní Azure AD Joined a zapsat je spravovat mobilní zařízení pomocí Intune (Microsoft 365 Business):
+3. Registrovat existující domény spojené se systémem Windows 10 na hybridní Azure AD vstoupil a zapsat je pro správu mobilních zařízení společností Intune (Microsoft 365 Business):
     
-4. Postupujte podle pokynů krok za krokem [Konfigurace hybridní zařízení Azure Active Directory připojen](https://go.microsoft.com/fwlink/p/?linkid=872870). To umožní synchronizaci služby Active Directory v prostorách připojené počítače Windows 10 a je připraveno v cloudu.
+4. Postupujte podle podrobných pokynů pro [konfiguraci hybridních zařízení připojených ke službě Active Directory](https://go.microsoft.com/fwlink/p/?linkid=872870). Tím umožníte synchronizaci v prostředí služby Active Directory s počítači se systémem Windows 10 a nastavíte jejich připravenost na mraky.
     
-5. K zápisu Windows 10 zařízení, Správa mobilního zařízení, pokyny naleznete v tématu [zápis Windows 10 zařízení s Intune pomocí Zásady skupiny](https://go.microsoft.com/fwlink/p/?linkid=872871) . Můžete nastavit Zásady skupiny v místním počítači úrovni nebo pro hromadné operace, můžete vytvořit na serveru řadiče domény toto nastavení zásad skupiny.
+5. Chcete-li zapsat zařízení systému Windows 10 pro správu mobilních zařízení, naleznete pokyny v části [zápis zařízení Windows 10 s Intune pomocí zásad skupiny](https://go.microsoft.com/fwlink/p/?linkid=872871) . Zásady skupiny lze nastavit na úrovni místního počítače nebo hromadných operací, na serveru řadiče domény je možné vytvořit toto nastavení zásad skupiny.

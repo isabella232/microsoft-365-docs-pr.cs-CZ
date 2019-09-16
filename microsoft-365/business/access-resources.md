@@ -17,18 +17,16 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Dozvíte se, jak získat přístup k prostorovým zdrojům, jako jsou například aplikace Business Apps, sdílení souborů a tiskárny z Azure Active Directory do zařízení Windows 10.
-ms.openlocfilehash: ab9049e78617372463b8446dc8f8bc0089d8c117
-ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
+ms.openlocfilehash: 6065dd68bc8d306898ee02baa97fe07f71042439
+ms.sourcegitcommit: c0f769244d05ad019ea2307c38d5543d7b1e5afd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2019
-ms.locfileid: "36981655"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992243"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Přístup k prostředkům v místě z zařízení připojeném Azure AD v Microsoft 365 Business
 
-Jakékoli zařízení systému Windows 10, které je připojené ke službě Active Directory, bude mít přístup ke všem cloumovým prostředkům, jako je například aplikace sady Office 365, a mohou být chráněny společností Microsoft 365 Business. Chcete-li také povolit přístup k interaktivním prostředkům, jako jsou například aplikace Business (LOB), sdílení souborů a tiskárny, je nutné synchronizovat své prostory Active Directory s Azure Active Directory pomocí [Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect). Následující video podrobně popisuje postup nastavení tohoto postupu pro nejběžnější scénář.
- 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
+Jakékoli zařízení systému Windows 10, které je připojené ke službě Active Directory, bude mít přístup ke všem cloumovým prostředkům, jako je například aplikace sady Office 365, a mohou být chráněny společností Microsoft 365 Business. Chcete-li také povolit přístup k interaktivním prostředkům, jako jsou například aplikace Business (LOB), sdílení souborů a tiskárny, je nutné synchronizovat své prostory Active Directory s Azure Active Directory pomocí [Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect). 
 
 Další informace naleznete [v tématu Úvod k nástroji Správa zařízení v Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/device-management-introduction) .
 Tyto kroky jsou také shrnuty v následujících oddílech.
