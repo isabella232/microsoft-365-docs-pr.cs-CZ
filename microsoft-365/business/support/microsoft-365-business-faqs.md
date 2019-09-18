@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, nejčastější dotazy, nejčastější dotazy, odpovědi, obchody
 ms.date: 06/08/2018
-ms.openlocfilehash: 3ab99b402bf440cd0c113a87dc453ff388a5befb
-ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
+ms.openlocfilehash: e722cc117d967796f0063b20e3d117b36b179f3e
+ms.sourcegitcommit: 14624abb412b6a34138a6266c994bb9cae411ad9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2019
-ms.locfileid: "36982315"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37028401"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 časté otázky týkající se podniků
 
@@ -24,7 +24,7 @@ ms.locfileid: "36982315"
 ### <a name="what-is-microsoft-365-business"></a>Co je společnost Microsoft 365 Business? 
 Microsoft 365 je integrované řešení, které spojuje nejlepší nástroje pro zvýšení produktivity, zabezpečení a možnosti správy zařízení pro malé a střední podniky. 
 
-**Holistická sada nástrojů pro produktivitu práce a spolupráci** 
+**Sada nástrojů pro produktivitu práce a spolupráci** 
 * Aplikace Word, Excel, PowerPoint, Outlook, OneNote, Publisher a Access 
 * Exchange, OneDrive, Skype for Business, Microsoft týmy, SharePoint 
 * Obchodní aplikace ze sady Office (rezervace, Správce informací o zákaznících, míle<sup>[1](#footnote1)</sup>, Microsoft fakturaci<sup>[1](#footnote1)</sup>) 
@@ -118,11 +118,11 @@ Zákazníci, kteří si přejí zažít kompletní možnosti společnosti Micros
 Nejpřímější cesta k úspěšnému nasazení aplikace Microsoft 365 Business je navázat na partnera společnosti Microsoft. Mají rozsáhlý výcvik a zkušenosti s širokou řadou scénářů zákazníků a jsou nejlépe vybaveny pro pochopení vašeho prostředí a potřeb. Zákazníci, kteří se setkali s IT u zaměstnanců, mohou pomocí programu <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">microsoft 365 Business Začínáme</a> pomáhat při zavádění aplikace Microsoft 365 Business. 
 
 ### <a name="does-microsoft-365-business-include-the-full-capabilities-of-microsoft-intune"></a>Zahrnuje aplikace Microsoft 365 Business všechny možnosti společnosti Microsoft Intune? 
-Ano, společnost Microsoft 365 pro obchodní předplatitele je licencována k používání úplných funkcí Intune pro systém iOS, Android, MacOS a další správu zařízení pro více platforem. Funkce, které nejsou k dispozici ve zjednodušené konzole pro správu v aplikaci Microsoft 365 Business, jako je například Správa a konfigurace WiFi profilů, certifikátů VPN atd., lze spravovat v plné konzole Intune. Ke správě klientů, na které se vztahuje licence EMS, máte práva používat Správce konfigurace. Dotazy týkající se nástroje SCCM naleznete v tématu <a href="https://docs.microsoft.com/en-us/sccm/core/understand/product-and-licensing-faq#bkmk_csp" target="_blank">SCCM FAQ</a>
+Ano, společnost Microsoft 365 pro obchodní předplatitele je licencována k používání úplných funkcí Intune pro systém iOS, Android, MacOS a další správu zařízení pro více platforem. Funkce, které nejsou k dispozici ve zjednodušené konzole pro správu v aplikaci Microsoft 365 Business, jako je například Správa a konfigurace WiFi profilů, certifikátů VPN atd., lze spravovat v plné konzole Intune. 
   
 
 ### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Je Azuure Active Directory Premium P1 součástí společnosti Microsoft 365 Business? 
-Společnost Microsoft 365 Business je postavena na technologii od společnosti Microsoft a současně sdílí některé funkce s Azure Active Directory, ale není to úplná verze. Zásady zabezpečení a správy vytvořené v aplikaci Microsoft 365 Business jsou závislé na některých funkcích Azure, ale nezahrnují všechny funkce (např. funkce samoobslužných funkcí, funkce podmíněného přístupu a vytváření sestav). Zákazníci mohou zakoupit Azure Active Directory Premium P1 nebo P2 jako doplněk společnosti Microsoft 365 Business. Další informace naleznete v [popisu služby Microsoft 365 Business Service](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) 
+Společnost Microsoft 365 Business zahrnuje výběr funkcí Azure AD Premium P1 (AADP P1), jako je například resetování hesla samoobslužné služby s možností zpětného zápisu, Azure MFA a podmíněného přístupu. Nezahrnuje celý rozsah AADP P1. Další informace naleznete v [popisu služby Microsoft 365 Business Service](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) . 
  
  
 ### <a name="does-microsoft-365-business-allow-customers-to-manage-macs"></a>Umožňuje společnost Microsoft 365 Business zákazníkům správu programu MACS? 
