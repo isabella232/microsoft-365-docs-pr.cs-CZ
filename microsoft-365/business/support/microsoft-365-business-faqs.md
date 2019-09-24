@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, nejčastější dotazy, nejčastější dotazy, odpovědi, obchody
 ms.date: 06/08/2018
-ms.openlocfilehash: e722cc117d967796f0063b20e3d117b36b179f3e
-ms.sourcegitcommit: 14624abb412b6a34138a6266c994bb9cae411ad9
+ms.openlocfilehash: cc6cc924cf45fa19d7f91235515981b636abf77d
+ms.sourcegitcommit: bd17ee20da1685e5c660d5f99746c81c63a17b22
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37028401"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37141503"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 časté otázky týkající se podniků
 
@@ -43,6 +43,9 @@ Microsoft 365 je integrované řešení, které spojuje nejlepší nástroje pro
 * Automatická instalace aplikací sady Office v počítačích se systémem Windows 10 
 * Vždy aktuální sada Office + Windows 10 
 * Zjednodušené nasazení počítačů pomocí systému Windows AutoPilot
+
+**Povolení podmíněného přístupu**
+- Společnost Microsoft 365 obchodní zákazníci mohou povolit podmíněný přístup prostřednictvím nastavení Azure Directory v Azure portálu. Další informace o konfiguraci zásad podmíněného přístupu naleznete v článku [co je podmíněný přístup](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
 
 ### <a name="who-should-consider-adopting-microsoft-365-business"></a>Kdo by měl zvážit přijetí produktu Microsoft 365 Business? 
 Společnost Microsoft 365 Business byla postavena pro malé a středně velké zákazníky, kteří nemají jen málo zdrojů IT na zaměstnancích a chtějí možnosti zvýšení produktivity a spolupráce v sadě Office 365 spolu se správou zařízení a bezpečnostními řešeními, která zabezpečit obchodní data. Zákazník společnosti Microsoft 365 Business je připraven přesunout své operace IT do mraku a má zájem na zachování aktivního přístupu, který by pomohl chránit data jak u společnosti, tak u zařízení vlastněných zaměstnanci.
