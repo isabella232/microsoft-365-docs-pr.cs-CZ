@@ -19,17 +19,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
-description: Další informace o použití AutoPilot systému Windows k nastavení nových Windows 10 zařízení pro vaše podnikání.
-ms.openlocfilehash: 9a70978156fb26ac3aad08f1758b7ee125067d38
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Naučte se používat funkci Windows AutoPilot k nastavení nových zařízení systému Windows 10 pro váš podnik.
+ms.openlocfilehash: ee4b4a9b06c08b8f9456822b680542665c27baf3
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072144"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121192"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Podrobné pokyny k přidání zařízení a profilů Autopilota
 
-AutoPilot systému Windows slouží k nastavení **nových** Windows 10 zařízení pro vaše podnikání tak, aby byly připraveny pro produktivní využití co nejdříve poskytnout vašim zaměstnancům.
+Pomocí systému Windows AutoPilot můžete nastavit **nové** systémy Windows 10 zařízení pro váš podnik, aby byly připraveny k produktivním využití, jakmile je dáte vašim zaměstnancům.
   
 ## <a name="device-requirements"></a>Požadavky na zařízení
 
@@ -41,17 +41,17 @@ Zařízení musejí splňovat tyto podmínky:
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Vytvoření zařízení a profilů pomocí průvodce instalací
 
-![Banner odkazující na https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![Popisek vám dá vědět, že se centrum pro správu mění a další podrobnosti naleznete na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Pokud jste ještě nevytvořili skupiny zařízení ani jejich profily, bude nejlepší, když na začátku použijete podrobného průvodce. [Přidat zařízení](create-and-edit-autopilot-devices.md) a [přiřadit profily](create-and-edit-autopilot-profiles.md) ale můžete i bez průvodce. 
   
-1. Přejděte na stránku Správce na <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+1. Přejděte do centra pro správu na <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>adrese.
 
-2. Na navigace vlevo zvolte **zařízení** \> **AutoPilot**.
+2. Na levém navigačním panelu zvolte **zařízení** \> **autopilot**.
 
-    ![V Centru správy vyberte zařízení a pak AutoPilot.](media/AutoPilot.png)
+    ![V centru pro správu zvolte zařízení a pak AutoPilot.](media/AutoPilot.png)
   
-2. Na stránce **AutoPilot** klepněte na položku nebo klepněte na tlačítko **Spustit Průvodce**.
+2. Na stránce **autopilot** klikněte na tlačítko nebo na položku **Start Guide**.
     
     ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   

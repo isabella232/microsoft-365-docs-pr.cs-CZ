@@ -1,5 +1,5 @@
 ---
-title: Funkce zabezpečení a kompatibility Microsoft 365 Business
+title: Microsoft 365 obchodní zabezpečení a funkce kompatibility
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -18,108 +18,108 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
-description: Další informace o funkcích zabezpečení, které jsou součástí Microsoft 365 Business.
-ms.openlocfilehash: bd61ad3bf1b34635a7b80f1c9ccf63fa98d31915
-ms.sourcegitcommit: 274af83139ad7da3aa33366c3323d533d95c7db4
+description: Seznamte se s funkcemi zabezpečení, které jsou součástí aplikace Microsoft 365 Business.
+ms.openlocfilehash: 6b8fc215b95913e1beef3a3715119b947a7af406
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35017516"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121152"
 ---
-# <a name="microsoft-365-business-security-and-compliance-features"></a>Funkce zabezpečení a kompatibility Microsoft 365 Business
+# <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 obchodní zabezpečení a funkce kompatibility
 
-Microsoft 365 Business nabízí zjednodušený bezpečnostní prvky pro ochranu dat na počítače, telefony a tablety.
+Společnost Microsoft 365 Business nabízí zjednodušené funkce zabezpečení, které pomáhají chránit data na osobních počítačích, telefonech a tabletách.
     
-## <a name="microsoft-365-business-admin-center-security-features"></a>Funkce zabezpečení aplikace Microsoft 365 Business admin center
+## <a name="microsoft-365-business-admin-center-security-features"></a>Bezpečnostní funkce střediska Microsoft 365 Business Admin Center
 
-![Banner odkazující na https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![Popisek vám dá vědět, že se centrum pro správu mění a další podrobnosti naleznete na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
-Můžete spravovat mnoho funkcí zabezpečení Microsoft 365 Business ve středisku pro správce, který poskytuje zjednodušený způsob, jak tyto funkce zapnout, nebo vypnout. Ve středisku pro správce provádět následující akce:
+V centru pro správu můžete spravovat mnoho funkcí aplikace Microsoft 365 Business Security, což vám umožňuje zjednodušit zapnutí nebo vypnutí těchto funkcí. V centru pro správu můžete provádět následující akce:
   
   
-- [Nastavení správy aplikace pro Android nebo iOS zařízení](app-protection-settings-for-android-and-ios.md) . 
+- [Nastavení správy aplikací pro zařízení Android nebo iOS](app-protection-settings-for-android-and-ios.md) . 
     
-    Tato nastavení zahrnují odstranění souborů z neaktivní zařízení po určité nastavené době, šifrování souborů práce, které vyžadují, aby uživatelé nastavit kód PIN, atd.
+    Toto nastavení zahrnuje odstranění souborů z neaktivního zařízení po uplynutí nastavené doby, šifrování pracovních souborů, vyžadování, aby uživatelé nastavili kód PIN atd.
     
-- [Nastavení ochrany aplikací pro zařízení Windows 10](protection-settings-for-windows-10-devices.md) . 
+- Nastavení [ochrany aplikací pro zařízení systému Windows 10](protection-settings-for-windows-10-devices.md) . 
     
-    Toto nastavení lze použít data společnosti na obou vlastněných nebo osobní vlastnictví zařízení.
+    Toto nastavení lze použít pro firemní data u zařízení vlastněných nebo osobně vlastněných společností.
     
-- [Nastavení ochrany zařízení pro zařízení Windows 10](protection-settings-for-windows-10-pcs.md) . 
+- Nastavení [ochrany zařízení pro zařízení systému Windows 10](protection-settings-for-windows-10-pcs.md) . 
     
-    Můžete povolit šifrování [nástrojem BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) , chcete-li pomoci chránit data v případě ztráty nebo krádeže zařízení a povolit [Guard zneužití systému Windows](https://go.microsoft.com/fwlink/p/?linkid=871404) poskytovat rozšířenou ochranu před ransomware. 
+    Pomocí šifrování [nástroje BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) můžete zajistit ochranu dat v případě ztráty nebo krádeže zařízení a povolení ochrany pomocí [systému Windows](https://go.microsoft.com/fwlink/p/?linkid=871404) , která poskytuje rozšířenou ochranu před Ransomware. 
     
 - [Odebrání dat společnosti ze zařízení](remove-company-data.md)
     
-    Můžete vzdálené vymazání dat společnosti, pokud zařízení dojde ke ztrátě, odcizení, nebo zaměstnanec opustí společnost.
+    Pokud je zařízení ztraceno, ukradeno nebo pokud zaměstnanec opustí společnost, můžete data společnosti vzdáleně vymazat.
     
-- [Zařízení Windows 10 obnovit tovární nastavení](reset-devices-to-factory-settings.md) . 
+- [Resetujte zařízení systému Windows 10 Podle nastavení výrobce](reset-devices-to-factory-settings.md) . 
     
-    Můžete obnovit Windows 10 zařízení, jejichž ochrana nastavení zařízení je použita.
+    Můžete obnovit všechna zařízení systému Windows 10, u kterých je použito nastavení ochrany zařízení.
     
 ## <a name="additional-security-features"></a>Další funkce zabezpečení 
 
-Rozšířené funkce v Microsoft 365 Business lze chránit vaši firmu před internetovými hrozbami a chránit citlivé informace.
+V aplikaci Microsoft 365 Business jsou k dispozici pokročilé funkce, které vám pomohou ochránit váš podnik před internetovými hrozbami a zabezpečit citlivé informace.
   
-- **[Office 365 Advanced Threat Protection](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
+- **[Office 365 Pokročilá ochrana proti ohrožení](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
     
-    Advanced Threat Protection (ATP) pomáhá chránit své podnikání proti útokům ransomware navržen tak, aby napadnout zaměstnance nebo informace o zákaznících a sofistikované útoky typu phishing. Funkce:
+    Funkce pokročilé ochrany proti ohrožení (ATP) pomáhá chránit vaše podnikání před sofistikovaným podvodným útokem a Ransomware, které mají ohrozit informace o zaměstnancích nebo o zákaznících. Mezi funkce patří:
     
-  - Prohledávání příloh propracované a technologii AI analýzy zjistit a odstranit nebezpečné zprávy.
+  - Důmyslná kontrola příloh a analýza na technologii AI ke zjišťování a likvidace nebezpečných zpráv.
     
-  - Automatické kontroly odkazů v e-mailu pro hodnocení jsou součástí podvodného postupu. To umožňuje bezpečný přístup k nebezpečným webům.
+  - Automatické kontroly odkazů v e-mailech za účelem vyhodnocení, zda jsou součástí podvodného schématu. Tím zabráníte v bezpečném přístupu k nebezpečným webům.
 
-- **[Veškeré funkce Intune na portálu Azure](https://go.microsoft.com/fwlink/p/?linkid=871403)**
+- **[Plné schopnosti Intune v azurově portálu](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
-    Přístup k Intune center admin na portálu Azure umožňuje nastavit další funkce zabezpečení, například správu zařízení, iPhone a Android zařízení a Správa rozšířeného zařízení pro Windows, MacOS, nejsou k dispozici prostřednictvím společnosti Microsoft 365 business admin center.
-- **[Podmíněný přístup](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) stejný jako plán Azure AD P1**
+    Přístup k centrovému středisku Intune v Azure portálu umožňuje nastavit další zabezpečovací funkce, jako je Správa zařízení MacOS, iPhone a Android, spolu s rozšířenou správou zařízení pro systém Windows, které nejsou dostupné prostřednictvím společnosti Microsoft 365 centrum pro správu podniku.
+- **Stejný [podmíněný přístup](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) jako plán Azure AD P1**
 
-    Podmíněného přístupu pomáhá chránit vaše organizace z rizik přihlašovacího, pokusy o přístup ze sítě neočekávané nebo národní prostředí, pokusy o přístup typy formulářů nebezpečné zařízení atd. Je f další doklad (například druhý formulář identifikace) nebo zakazuje podmíněného přístupu, které jsou vynuceny zásady po dokončení první ověření a signály od první události ověřování používá k určení, pokud byl proveden pokus o přístup by měla být schválena, povinné.
+    Podmíněný přístup může pomoci ochránit vaši organizaci před svým přístupem, pokusy o přístup z neočekávané sítě nebo národního prostředí, pokusy o přístup vytvářejí rizikové typy zařízení atd. Zásady podmíněného přístupu jsou vynuceny po dokončení prvního ověřování a pomocí signálů z první události ověřování lze určit, zda má být pokus o přístup schválen, odepřen nebo f více důkazů (například druhá forma identifikace) Požadované.
 
-    Jsou funkcích podmíněného přístupu:
+    Mezi zahrnuté funkce podmíněného přístupu patří:
 
-    - Přístup založený na jméno uživatele, skupiny a role
-    - Přístup [založený na aplikaci](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
-    - [Přístup na základě umístění](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  Povolte pouze přístup z důvěryhodné rozsahy IP nebo konkrétní země 
-    - MFA vyžaduje pro přístup
-    - Blokování přístupu k aplikacím, které používají [starší verze ověřování](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
-    - Požadovat, aby používal tp apps [Intune app protection](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
-    - Vlastní ověřování jako MFA u poskytovatelů třetích stran, například DUO.
+    - Přístup na základě uživatelského jména, skupiny a role
+    - Přístup na [základě aplikace](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
+    - [Přístup na základě umístění](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  Povolit přístup pouze z důvěryhodných rozsahů IP nebo z určitých zemí 
+    - Požadovat pro přístup MFA
+    - Blokovat přístup k aplikacím, které používají [starší ověřování](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
+    - Vyžadovat aplikaci TP používat [ochranu aplikací Intune](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
+    - Vlastní ověřování, například MFA s poskytovateli třetí strany, například DUO.
    
     Další funkce:
-    - [Obnovení hesla samoobslužné služby](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization) pro hybridní Azure AD
+    - [Samoobslužné obnovení hesla](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization) pro hybridní Azure AD
     
-## <a name="compliance-features"></a>Funkce dodržování předpisů
+## <a name="compliance-features"></a>Funkce kompatibility
 
-Aplikace Microsoft Business 365 předplatné zahrnuje funkce, které pomohou udržovat dodržování předpisů a norem.
+Vaše předplatné aplikace Microsoft 365 Business obsahuje funkce, které vám pomohou udržet soulad a regulační standardy.
 
 - **[Přehled zásad prevence ztráty dat](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
-    DLP můžete nastavit na automatické zjištění citlivé informace, například čísla kreditních karet, čísla sociálního pojištění, atd., proti jejich neúmyslnému sdílení mimo organizaci.
+    Identifikátor DLP můžete nastavit tak, aby automaticky zjišťováním citlivých informací, například čísel kreditních karet, čísel sociálního pojištění, atd., aby se zabránilo nechtěnému sdílení mimo vaši společnost.
     
 - **[Exchange Online - archiv](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)**
     
-    Exchange Online archivaci licence umožňuje snadno archivovat data průběžné zálohování. Uloží všechny e-maily uživatele, včetně odstraněných položek v případě, že jsou později potřebné pro zjištění nebo obnovení. Navíc můžete použít zásady uchovávání informací různých zachovat data e-mailu pro blokování sporu, služba eDiscovery, nebo splnit požadavky na shodu.
+    Licence online k archivaci umožňuje snadnou archivaci zpráv s nepřetržitou zálohou dat. Ukládá všechny e-mailové zprávy, včetně odstraněných položek, pro případ, že budou později potřebné k odhalení nebo obnovení. Kromě toho můžete použít různé zásady uchovávání informací pro zachování e-mailových dat pro blokování soudních sporů, eDiscovery nebo pro splnění požadavků na shodu.
     
-- **[Ochrana údajů v Azure](https://go.microsoft.com/fwlink/p/?linkid=871406)**
+- **[Ochrana informací Azure](https://go.microsoft.com/fwlink/p/?linkid=871406)**
     
-    Informace ochrana pomáhá řídit přístup k důvěrným informacím v e-mailu a dokumentů s ovládacími prvky, stejně jako "není dopředu" a "Nekopírujte." Můžete také klasifikovat jako "Důvěrné" citlivé informace a určit, jak utajované informace mohou být sdíleny mimo a uvnitř podniku. Enterprise třída šifrování je snadno použitelná e-maily a dokumenty, které chcete zachovat soukromí vašich informací. Microsoft 365 Business zahrnuje všechny funkce [Azure informace ochrana plán 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Můžete také nainstalovat Azure ochrana údajů klient doplněk pro aplikace sady Office. Další podrobnosti naleznete v [příručce správce klienta Azure ochrana údajů](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide).
+    Ochrana informací pomáhá řídit přístup k citlivým informacím v e-mailech a dokumentech s ovládacími prvky jako "Nepředávat dál" a "nekopírovat". Můžete také klasifikovat citlivé informace jako "důvěrné" a určit, jak mohou být tajné informace sdíleny mimo podnik a uvnitř podniku. Pro e-maily a dokumenty je snadné použít šifrování v podnikové třídě, aby byly informace soukromé. Microsoft 365 Business zahrnuje všechny funkce [plánu ochrany informací Azure 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Můžete také nainstalovat doplněk klienta pro ochranu informací Azure pro aplikace sady Office. Další informace naleznete v [příručce správce klienta ochrany informací o Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide).
 
-Tyto funkce zabezpečení lze spravovat &amp; souladu a Centrum správce Intune. Zjednodušené ovládací prvky budou časem přidány Microsoft 365 Business centru pro správu.
+Tyto funkce lze spravovat v centru pro dodržování &amp; zabezpečení a v centru pro správu nástroje Intune. V průběhu času budou zjednodušené ovládací prvky přidány do střediska Microsoft 365 Business Admin Center.
   
     
 ## <a name="faq"></a>Časté otázky
 
- ### <a name="are-these-security-features-available-in-all-markets"></a>Jsou k dispozici tyto funkce zabezpečení na všech trzích?
+ ### <a name="are-these-security-features-available-in-all-markets"></a>Jsou tyto bezpečnostní prvky k dispozici na všech trzích?
   
-Ano, tyto funkce jsou k dispozici na všech trzích, kde se prodává Microsoft 365 Business.
+Ano, tyto funkce jsou k dispozici na všech trzích, kde se prodává společnost Microsoft 365 Business.
   
-### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Jak najít zabezpečení &amp; centra kompatibility?
+### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Jak najdu centrum pro dodržování zabezpečení &amp; ?
   
-1. [Microsoft 365 Business přihlásit](https://portal.microsoft.com/) pomocí pověření správce. 
+1. [Přihlaste se k aplikaci Microsoft 365 Business](https://portal.microsoft.com/) pomocí pověření pro správu. 
     
-2. V levá navigace vyhledejte **Admin Center** a rozbalte ji. 
+2. V levém navigačním poli vyhledejte **centra pro správu** a rozbalte je. 
     
-    ![V navigace vlevo ve středisku pro správce služeb Microsoft 365 zvolte Admin Center.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
+    ![V levém navigačním středisku v centru Microsoft 365 Admin Center zvolte centrum pro správu.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. Zvolte **zabezpečení &amp; souladu** přejdete na zabezpečení &amp; centra kompatibility.
+3. Zvolte **shodu &amp; zabezpečení** a přejděte do centra &amp; kompatibility zabezpečení.
