@@ -1,5 +1,5 @@
 ---
-title: Přihlaste se k Microsoft 365 Business
+title: Přihlaste se k serveru Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -10,53 +10,50 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
-description: Informace o nákupu a přihlaste se k Microsoft 365 Business.
-ms.openlocfilehash: 0f92bf35d2a7898d530fd509d8d13c91f32ccab3
-ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
+description: Dozvíte se, jak zakoupit a přihlásit se k serveru Microsoft 365 Business.
+ms.openlocfilehash: bcdf0adc60c597a5eca485415f33662402d12cf4
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35114916"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288229"
 ---
-# <a name="sign-up-for-microsoft-365-business"></a>Přihlaste se k Microsoft 365 Business
+# <a name="sign-up-for-microsoft-365-business"></a>Přihlaste se k serveru Microsoft 365 Business
 
-Pokud jste partnerem, naleznete v tématu [Získání Microsoft 365 Business Center Microsoft Partner](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
+Pokud jste partnerem společnosti Microsoft, naleznete informace [v tématu získání produktu microsoft 365 Business z partnerských Center](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
 
-Koupit Microsoft 365 Business online, přejděte na [Objevování Microsoft 365 Business advantage](https://www.microsoft.com/microsoft-365/business#pmg-cmp-desktop) a zvolte **Koupit nyní** v rámci Microsoft 365 Business.
+Chcete-li zakoupit aplikaci Microsoft 365 Business Online, přejděte na [Server Discover společnosti microsoft 365 Business Advantage](https://www.microsoft.com/microsoft-365/business#pmg-cmp-desktop) a zvolte možnost **zakoupit nyní** v produktu Microsoft 365 Business.
 
-Přes můžete také sídlo do [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) zakoupit Microsoft 365 Business i nápovědu nastavení.
+Můžete také zamířit do [aplikace Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) a zakoupit aplikaci Microsoft 365 Business a získat nápovědu pro nastavení.
 
-## <a name="complete-the-sign-up-steps"></a>Postupujte podle pokynů pro přihlášení
+## <a name="complete-the-sign-up-steps"></a>Dokončete postup zápisu
 
-Po zakoupení 365 obchodní společnosti Microsoft, proveďte následující kroky.
+Po zakoupení produktu Microsoft 365 Business proveďte následující kroky.
 
-1. Na stránce **Vítejte, Řekněme seznámení můžete** zadejte požadované informace. Všimněte si, že:
+1. Na **přivítanou se podíváme, jak** na stránku zadáte požadované informace. Všimněte si, že:
  
-    -  **Země či oblasti:** Určuje službu přijímat a nelze později změnit.
-    - **Business e-mailovou adresu:** Vaše aktuální e-mailová adresa. Společnost Microsoft používá tuto adresu má odpovídat o předplatném Microsoft 365.
-    - **Název společnosti** Můžeme se zobrazí název společnosti ve středisku pro správce; Toto je, kde budete spravovat uživatele Microsoft 365, licence a podobně. Jsme budete také zahrnout do všech adres URL webů služby SharePoint.
+    -  **Země nebo oblasti:** Tato služba Určuje službu, kterou přijímáte, a nelze ji později změnit.
+    - **Obchodní e-mailová adresa:** Zadejte svou aktuální e-mailovou adresu. Společnost Microsoft používá tuto adresu k tomu, aby odpovídala vašemu předplatného aplikace Microsoft 365.
+    - **Název společnosti** Název vaší společnosti zobrazíte v centru pro správu; Zde budete spravovat uživatele společnosti Microsoft 365, licence a podobně. Zahrnete jej také do všech adres URL webů služby SharePoint.
 
-2. Na stránce **vytvořit vaše ID uživatele** :
+2. Na stránce **vytvořit ID uživatele** :
 
-    - **Uživatelské jméno**: Zadejte název (alias), který budete používat pro vlastní e-mailová adresa. Robert Young může například použít RobY nebo RobYoung jako alias práce.
-    - **Společnost**: Zadejte unikátní obchodní jméno. To je název webového serveru vaší společnosti používá, pokud je k dispozici a je také název, který chcete zahrnout po @ přihlášení obdržíte e-mailová adresa. Tento název je názvem domény. Například, pokud váš podnik nazývá lyže Contoso, zadejte ContosoSkis po znak @.
-    - **Vyberte doménu**: Pokud již název domény vlastníte, zaškrtněte. onmicrosoft.com z rozevírací nabídky a požádáme později nastavíte. Jinak je snadné koupit název domény, který představuje váš podnik. To lze provést, vyberte doménu, kterou chcete z rozevírací nabídky. Vaše úplná e-mailová adresa může být například *Teresa@ContosoSkis.net*. Čemž budete okamžitě vědět, pokud název domény je k dispozici. Je-li, přidáme k ceně předplatného Microsoft 365 Business náklady vaší domény. Nové domény bude také být nastaven a připraven pro použití v Microsoft 365 Pokud zakoupíte zde. Informace o doménách naleznete v tématu [Nejčastější dotazy týkající se domény](https://docs.microsoft.com/office365/admin/setup/domains-faq).
+    - **Uživatelské_jméno**: zadejte název (označovaný jako alias), který budete používat pro vlastní e-mailovou adresu. Robert Young může například použít jako alias práce RobY nebo RobYoung.
+    - **Vaše společnost**: Zadejte své jedinečné obchodní jméno. Jedná se o název, který váš firemní web používá v případě, že jej máte, a je také název, který chcete zahrnout za znak @ při přijímání e-mailu v zaměstnání. Tento název se nazývá doména. Pokud se například váš podnik nazývá společnost Contoso lyží, zadejte Contososki za znakem @.
+    - **Vyberte doménu**: Pokud již vlastníte název domény, vyberte možnost. onmicrosoft.com z rozevírací nabídky a požádáme vás, abyste to nastavili později. V opačném případě je snadné zakoupit název domény, který reprezentuje váš podnik. Chcete-li to provést, vyberte v rozevírací nabídce požadovanou doménu. Vaše úplná e-mailová adresa může být například *Teresa@ContosoSkis.net*. Pokud je název domény k dispozici, dáme vám ihned vědět. Pokud tomu tak je, přidáme náklady na vaši doménu k nákladům na vaše předplatné aplikace Microsoft 365 Business. Tato nová doména bude také nastavena a připravena pro použití v produktu Microsoft 365, pokud ji zakoupíte zde. Informace o doménách naleznete v tématu [domény – Nejčastější dotazy](https://docs.microsoft.com/office365/admin/setup/domains-faq).
     
-        ![Obrazovka vytvoření stránky ID uživatele.](media/signinuserid.png)
+        ![Snímek obrazovky vytvoření stránky ID uživatele](media/signinuserid.png)
 
-3. Vyplňte zbývající pole a vyberte možnost **vytvořit účet**.
-4. V **prokázat .však se. Not.A.Robot.** Zadejte telefonní číslo, zobrazí se kód buď prostřednictvím textu nebo volání a vyberte **Text mi** nebo **zavolejte mi**, a pak zadejte ověřovací kód \> **Další**.
-5. Na stránce **kde budete používat to** zadejte vaše podnikání. Tento údaj určuje, jaké daně budete platit a které jsou odběry jsou k dispozici. Další informace o daně viz [Jaké daně bude I účtován?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide) 
-1. Klepněte na tlačítko **Další**, zkontrolovat objednávku a klepnutím na tlačítko **Další** znovu.
-1. Na stránce **jak chcete zaplatit** zadejte podrobnosti platby a pak **objednat**.
-    Přejděte na [admin center](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide) dokončit vaše [Nastavení](set-up.md).
+3. Vyplňte zbývající pole a vyberte možnost **vytvořit můj účet**.
+4. Na **důkaz. ty jsi. Ne. A. robot.** Zadejte telefonní číslo pro příjem kódu buď přes text, nebo jako volání, vyberte **text mě** nebo **zavolejte**a pak zadejte \> **ověřovací kód.**
+5. Na panelu **kde budete používat tuto** stránku zadejte svou adresu. Tyto informace určují, jaké daně zaplatíte a jaké Předplatné je k dispozici. Chcete-li získat další informace o daních, podívejte se, [Jaká daň budu obviněni?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide) 
+1. Vyberte **Další**, zkontrolujte objednávku a znovu vyberte **Další** .
+1. Na stránce **jak chcete zaplatit** stránku, zadejte podrobnosti platby a pak **objednávku**.
+    Poté můžete přejít do centra pro [správu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide) a dokončit [Nastavení](set-up.md).
 
     > [!NOTE]
-    > Je-li na konci instalace vyberete odkaz **přejděte na stránku Správce**, přejdete přímo na možnosti [Nastavení](set-up.md) .
+    > Pokud na konci nastavení, které vyberete, **přejdete do centra pro správu**, budete přímo převzaty do [Nastavení](set-up.md) zkušeností.

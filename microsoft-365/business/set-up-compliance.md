@@ -1,5 +1,5 @@
 ---
-title: Zvýšit ochranu před hrozbami pro Microsoft 365 Business
+title: Zvyšte ochranu proti ohrožení společnosti Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -10,90 +10,88 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
-description: Nastavení Office 365 rozšířené ohrožení ochrany a chránit citlivá data.
-ms.openlocfilehash: 53741a7726222bb32329a401953be72257df95cc
-ms.sourcegitcommit: 7ac06563c6ff034358e8fd3f9298fc426187ade2
+description: Nastavení sady Office 365 Pokročilá ochrana proti ohrožení a ochrana citlivých dat
+ms.openlocfilehash: 8144bcebe8a0cdf28a5e092f592362922ccbdd48
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "35086286"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288739"
 ---
 # <a name="set-up-compliance-features"></a>Nastavení funkcí kompatibility
 
-Váš podnik 365 Microsoft obsahuje funkce pro ochranu dat a zařízení a zabezpečení vás a vaše zákazníky citlivé informace.
+Společnost Microsoft 365 Business obsahuje funkce pro ochranu dat a zařízení a pomáhá zabezpečit vaše a citlivé informace zákazníků.
 
 ## <a name="set-up-dlp-features"></a>Nastavení funkcí DLP
 
-Příklad, jak nastavit zásady na ochranu proti osobně identifikovatelných informací (PII), viz [Vytvoření DLP zásady ze šablony](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) . 
+Viz [Vytvoření zásady DLP ze šablony](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) pro příklad, jak nastavit zásady ochrany proti osobním identifikovatelným informacím (PII). 
   
-DLP je dodávána s mnoha šablon připravených k použití zásad pro mnoho různá národní prostředí. Například finanční Data Austrálie, Kanada osobní informace Act, USA finanční Data, atd. Úplný seznam naleznete v tématu [šablony zásad DLP co patří](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) . Všechny tyto šablony lze povolit podobný příklad šablony PII. 
+DLP přináší mnoho šablon zásad připravených k použití pro mnoho různých národních prostředí. Například australské finanční údaje, zákon o osobním informování Kanady, finanční data USA atd. Podívejte [se, co šablony zásad DLP obsahují](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) pro úplný seznam. Všechny tyto šablony lze povolit podobným příkladem šablony PII. 
   
-## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Nastavení uchovávání e-mailů s Exchange Online archivaci
+## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Nastavení uchování e-mailu pomocí archivace online serveru Exchange
 
- Funkce **Exchange Online archivaci** licenční pomáhá zachovat dodržování předpisů a norem o zachování e-mailů obsahu pro služba eDiscovery. Také pomáhá snížit riziko v případě probíhající soudní řízení a poskytuje způsob, jak obnovit data po narušení zabezpečení nebo potřebujete obnovit odstraněné položky. Můžete použít blokování sporu zachovat veškerý obsah uživatele nebo pomocí zásad uchovávání informací upravit, co chcete zachovat.
+ Funkce pro **archivaci online systému Exchange** pomáhá udržovat dodržování a regulační standardy zachováním obsahu e-mailu pro program eDiscovery. Pomáhá také snižovat riziko v případě žaloby a poskytuje způsob, jak obnovit data po porušení zabezpečení nebo kdy je nutné obnovit odstraněné položky. Chcete-li zachovat veškerý obsah uživatele nebo pomocí zásad uchovávání informací upravit, co chcete zachovat, můžete použít blokování sporů.
   
-**Soudní spory podržte:** Můžete zachovat veškerý obsah poštovní schránky včetně odstraněných položek vložením celé poštovní schránky uživatele na soudní spory podržte. 
+**Soudní spor:** Veškerý obsah poštovní schránky včetně odstraněných položek můžete zachovat umístěním celé poštovní schránky uživatele do blokování soudních sporů. 
     
-Chcete-li umístit poštovní schránky blokované sporu ve středisku pro správce:
+Chcete-li umístit poštovní schránku na soudní řízení, v centru pro správu:
     
-1. V navigace vlevo, go **uživatelům** \> **aktivních uživatelů**.
+1. V levém navigačním poli přejděte na **uživatele** \> **Active Users**.
     
-2. Vyberte uživatele, jejichž poštovní schránky, které chcete umístit na soudní spory podržte a rozbalte v podokně uživatelské **Nastavení e-mailu** a v oblasti **Další nastavení** zvolte **Vlastnosti upravit Exchange**.
+2. Vyberte uživatele, jehož poštovní schránku chcete umístit do soudního sporu, a v uživatelském podokně rozbalte **Nastavení pošty** a vedle **dalších nastavení** zvolte možnost **Upravit vlastnosti serveru Exchange**.
     
-3. Na stránce poštovní schránky pro uživatele zvolte ** funkce poštovní schránky ** na navigace vlevo a pak zvolte **Povolit** odkaz pod **soudní spory podržte**.
+3. Na stránce poštovní schránky uživatele zvolte * * funkce poštovní schránky * * na levém navigačním panelu a pak zvolte možnost **Povolit** odkaz v rámci **soudního sporu**.
     
-4. Dialogové okno můžete určit sporu **podržte soudní spory** podržte trvání v poli **Doba trvání podržte soudní spory** , ponechte pole prázdné, pokud chcete umístit nekonečné blokování. Můžete přidat poznámky a přímý vlastník pole mail na webu, bude pravděpodobně nutné vysvětlit více o sporu podržte \> **Uložit**.
+4. V dialogovém okně **soudní spor** můžete určit dobu trvání v poli **Doba trvání soudního** sporu, ponechat pole prázdné, chcete-li umístit nekonečné blokování. Můžete také přidat poznámky a nasměrovat vlastníka poštovní schránky na web, který bude pravděpodobně nutné objasnit \> **uložení**tohoto sporu.
     
-**Uchovávání informací:** Můžete povolit zásady uchovávání informací vlastní, například má být zachována po určitou dobu nebo trvale odstranit obsah na konci období uchování. Další informace naleznete v tématu [Přehled zásad uchovávání informací](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
+**Uchovávání informací:** Můžete povolit vlastní zásady uchovávání informací, například chcete-li zachovat určitou dobu nebo trvale odstranit obsah na konci retenční periody. Další informace naleznete v tématu [Přehled zásad uchovávání informací](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
 
-## <a name="set-up-azure-information-protection-features"></a>Nastavení funkcí Azure ochrana údajů
+## <a name="set-up-azure-information-protection-features"></a>Nastavení funkcí ochrany informací Azure
 
-Klasifikaci a volitelně chránit dokumenty a e-maily, použitím štítků Azure pomáhá ochrany informací (AIP). Popisky lze použít automaticky správce, kteří definují pravidla a podmínky, ručně uživatelem nebo pomocí kombinace, kde uživatelé jsou uvedena doporučení.
+Ochrana informací Azure (AIP) vám pomáhá klasifikovat a volitelně chránit své dokumenty a e-maily, použitím štítků. Štítky mohou být automaticky použity správci, kteří definují pravidla a podmínky, ručně uživateli nebo pomocí kombinace, v níž jsou uživatelům poskytnuta doporučení.
 
-V aplikaci Outlook na webu lze použít následující vestavěné popisy a omezení na vaše e-maily:
+V aplikaci Outlook na webu můžete použít následující předdefinované popisky a omezení pro e-maily:
   
-- **Dál**: příjemci mohou zprávu číst, ale jejich nelze předat dál, vytisknout nebo kopírování obsahu
+- **Nepředávat dál**: příjemci mohou zprávu přečíst, ale nemohou předat dál, vytisknout nebo kopírovat obsah
     
-- **Šifrování**: celá zpráva je šifrovaná. Příjemci musí potvrdit svou identitu před přístupem k obsahu zašifrované a nelze odebrat šifrování.
+- **Šifrovat**: celá zpráva je zašifrována. Příjemci musí před přístupem k šifrovanému obsahu potvrdit svou identitu a nemůže odebrat šifrování.
     
-- **Důvěrné**: dává zaměstnanců ve vaší organizaci úplná oprávnění k obsahu e-mailů a příloh, ale nikoli osoby mimo organizaci. Vlastníci dat můžete sledovat a obsah kdykoli odvolat.
+- **Důvěrné**: zaměstnancům v organizaci umožní plná oprávnění k obsahu e-mailu a k přílohám, ale nikoli k osobám mimo vaši organizaci. Vlastníci dat mohou v libovolném bodě sledovat a odvolávat obsah.
     
-- **Vysoce důvěrné**: Toto omezení lze použít vysoce důvěrné údaje, umožňující zaměstnancům, aby zobrazit, upravit a odpovědět, ale není dál, vytisknout nebo zkopírovat data. Vlastníci dat můžete sledovat a obsah kdykoli odvolat.
+- **Vysoce důvěrné**: Toto omezení lze použít pro vysoce důvěrná data, což zaměstnancům umožňuje zobrazovat, upravovat a odpovídat, ale ne předávat data dál, tisknout nebo kopírovat. Vlastníci dat mohou v libovolném bodě sledovat a odvolávat obsah.
 
-### <a name="make-sure-azure-information-protection-is-activated"></a>Zkontrolujte, zda že je aktivován Azure ochrana údajů
+### <a name="make-sure-azure-information-protection-is-activated"></a>Ujistěte se, že je aktivována ochrana informací Azure
 
-Chcete-li ověřit, zda je aktivován AIP:
+Chcete-li ověřit, zda je AIP aktivován:
 
-1. Přihlášení k [portálu Azure](https://portal.azure.com/).
+1. Podepište se na [Azure portál](https://portal.azure.com/).
 
-2. Vyberte **všechny služby** a typ *Ochrany informace Azure* do **Vyhledávacího pole**.
+2. Vyberte **všechny služby** a do **vyhledávacího pole**zadejte *ochranu informací Azure* .
 
-3. Po zobrazení výsledků, klepněte na tlačítko start Další **Ochrana informací Azure** Chcete-li oblíbenou položku a možné později snáze najít.
+3. Po zobrazení výsledků klepněte na začátek vedle položky **ochrana informací Azure** , abyste jej mohli později snadno najít.
 
-4. **Ochrana informací Azure** vyberte \> **Aktivace ochrany** a zkontrolujte zda je nastaven stav na aktivovaný. 
+4. Vyberte možnost \> **Aktivace ochrany** **informací Azure** a zkontrolujte, zda je stav nastaven na aktivováno. 
 
-### <a name="view-the-azure-information-protection-policy-and-default-labels"></a>Zobrazit popisky zásad a výchozí ochrana informací Azure 
+### <a name="view-the-azure-information-protection-policy-and-default-labels"></a>Zobrazit zásadu ochrany informací Azure a výchozí popisky 
 
-Chcete-li zobrazit a upravit existující štítky:
+Chcete-li zobrazit a upravit existující štítky, postupujte takto:
 
-1. Na panelu Digital dashboard ochrana informací Azure vyberte **klasifikace** \> **štítky**. <br/>![Standardní popisky pro ochranu informací Azure.](media/AIPLabels.png)
+1. Na řídicím panelu pro ochranu informací vyberte **klasifikace** \> **.** <br/>![Standardní štítky pro ochranu informací Azure.](media/AIPLabels.png)
 
-2. Můžete zvolit libovolný popisek chcete-li zobrazit možnosti, můžete změnit zobrazovaný název barvy, např.
+2. Můžete zvolit libovolný popisek pro zobrazení možností, můžete změnit zobrazované jméno, barvy atd.
  
-3. Viz [změnit a vytvořit nové štítky s](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step2) Pokud chcete vytvořit vlastní. 
+3. Pokud chcete vytvořit vlastní, viz [Úpravy a vytvoření nových štítků](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step2) . 
 
-### <a name="install-the-azure-information-protection-client-manually"></a>Ruční instalace klienta Azure ochrana údajů
+### <a name="install-the-azure-information-protection-client-manually"></a>Ruční instalace klienta ochrany informací Azure
 
-Chcete-li ručně nainstalovat klienta AIP:
+Ruční instalace klienta AIP:
 
-1. **AzInfoProtection.exe** lze stáhněte z [webu služby Stažení softwaru](https://www.microsoft.com/download/details.aspx?id=53018).
+1. Stáhněte soubor **Azinfoprotection. exe** ze [služby Stažení softwaru](https://www.microsoft.com/download/details.aspx?id=53018).
  
-2. Můžete ověřit, že instalace odpracovaných zobrazení dokumentu aplikace Word a přesvědčíte se, že je k dispozici na kartě **Domů** na možnost **chránit** . <br/>![Kartu Zámek rozevíracího seznamu v dokumentu Word.](media/Word_Protect.png)
+2. Instalaci můžete ověřit zobrazením dokumentu aplikace Word a ověřením, zda je na kartě **Domů** k dispozici možnost **chránit** . <br/>![Rozevírací karta zámku v dokumentu aplikace Word.](media/Word_Protect.png)
 
-Další informace viz [Instalace klienta](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3).
+Další informace naleznete v části [instalace klienta](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3).

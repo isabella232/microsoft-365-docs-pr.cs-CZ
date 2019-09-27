@@ -8,34 +8,30 @@ ms.topic: hub-page
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: Naučte se spravovat Microsoft 365 Business související úlohy správy, mobilní zařízení, Windows 10PCs a mnoho těchto úkolů.
-ms.openlocfilehash: 8cae8f580b8967eeafe8a22658fd95d41f22a43c
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Informace o správě společnosti Microsoft 365 obchodní úkoly související se správou, mobilními zařízeními, Windows 10Ks a mnoha takovými úlohami.
+ms.openlocfilehash: 87ba4093a37c708fe405cd0876a53f8b9ae91567
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074234"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287955"
 ---
 # <a name="manage-microsoft-365-business"></a>Správa Microsoft 365 Business
 
 ## <a name="general-microsoft-365-business-admin-tasks"></a>Obecné úkoly správy Microsoft 365 Business
 
-Většina [obsahu admin](/Office365/Admin/admin-home.md) pro Office 365 pro firmy platí také pro Microsoft 365 Business.
+Většina [obsahu admin](/Office365/Admin/admin-home.md) pro sadu Office 365 pro podniky se vztahuje také na společnost Microsoft 365 Business.
 
 - [Přidání dalších uživatelů do Microsoft 365 Business](add-users-m365b.md)
     
 - [Zobrazení zásad a zařízení](view-policies-and-devices.md)
     
-- [Funkce zabezpečení aplikace Microsoft Business 365](security-features.md)
+- [Funkce zabezpečení aplikace Microsoft 365 Business](security-features.md)
     
 - [Mapování funkcí ochrany v Microsoft 365 Business na nastavení Intune](map-protection-features-to-intune-settings.md)
     
@@ -47,7 +43,7 @@ Následující části obsahují odkazy na články o tom, jak se Microsoft 365 
     
 - [Nastavení ochrany aplikací pro zařízení s Androidem nebo iOSem](app-protection-settings-for-android-and-ios.md)
     
-    V tématu [Ověřit nastavení ochrany aplikací v zařízení Android nebo iOS](validate-settings-on-android-or-ios.md) to pracovali. 
+    Zkontrolujte, zda [je na zařízení Android nebo iOS ověřeno nastavení ochrany aplikace](validate-settings-on-android-or-ios.md) , aby se ujistil, že tento postup funguje. 
     
 - [Odebrání dat společnosti ze zařízení](remove-company-data.md)
     

@@ -1,5 +1,5 @@
 ---
-title: Získat Microsoft 365 Business z partnerské Centrum
+title: Získat společnost Microsoft 365 Business z partnerských Center
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -10,22 +10,18 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
-description: Zjistěte, jak koupit Microsoft 365 Business Center partnera společnosti Microsoft.
-ms.openlocfilehash: 61e178b73c83880aab22336814dd9dc7fca046a5
-ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
+description: Dozvíte se, jak zakoupit aplikaci Microsoft 365 Business od společnosti Microsoft Partner Center.
+ms.openlocfilehash: 27f0b291861959c7fe925f5c72698895999d65f8
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35114936"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287789"
 ---
 # <a name="get-microsoft-365-business"></a>Jak získat Microsoft 365 Business
 
@@ -33,9 +29,9 @@ ms.locfileid: "35114936"
 
 Pokud nemáte partnera a chcete získat Microsoft 365 Business, můžete si ho [koupit tady](https://www.microsoft.com/en-US/microsoft-365/business).
 
-Naleznete podrobné pokyny pro [přihlášení k Microsoft 365 Business](sign-up.md) .
+Podrobné pokyny naleznete v části [Přihlásit se k produktu Microsoft 365 Business](sign-up.md) .
 
-Přes můžete také sídlo do [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) zakoupit Microsoft 365 Business i nápovědu nastavení.
+Můžete také zamířit do [aplikace Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) a zakoupit aplikaci Microsoft 365 Business a získat nápovědu pro nastavení.
   
 ## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a>Získání Microsoft 365 Business z partnerského centra Microsoftu
 

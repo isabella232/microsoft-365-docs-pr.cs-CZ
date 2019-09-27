@@ -11,23 +11,19 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
-description: Zjistěte, jak nahrát pomocí AutoPilot v Microsoft 365 Business zařízení. Můžete přiřadit profil zařízení nebo skupiny zařízení.
-ms.openlocfilehash: dee77a014ef519f3487a082edc3cf81058ec1c00
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Naučte se odesílat zařízení pomocí služby AutoPilot v aplikaci Microsoft 365 Business. K zařízení nebo skupině zařízení můžete přiřadit profil.
+ms.openlocfilehash: 9ae94266f5a41d8d115fc92f0f080a6fdbdc9f15
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34071634"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288009"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>Vytvoření a úpravy zařízení pomocí AutoPilota
 
@@ -41,13 +37,13 @@ Zařízení musejí splňovat tyto podmínky:
     
 - Nová zařízení, na kterých nedošlo ke spuštění softwaru Windows používaného při prvním zapnutí počítače.
 
-1. V centru správce Business 365 Microsoft zvolte **zařízení** \> **AutoPilot**.
+1. V centru Microsoft 365 Business admin zvolte **zařízení** \> **autopilot**.
   
-2. Na stránce **AutoPilot** zvolte kartu **zařízení** \> **Přidat zařízení**.
+2. Na stránce **autopilot** zvolte kartu \> **zařízení** **Přidat zařízení**.
     
     ![In the Devices tab, choose Add devices.](media/6ba81e22-c873-40ad-8a72-ce64d15ea6ba.png)
   
-3. Na panelu **Přidat zařízení** vyhledejte [seznam zařízení souboru CSV](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) mají připravené \> **Uložit** \> **Zavřít**.
+3. V panelu **Přidat zařízení** přejděte do [souboru CSV se seznamem zařízení](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) , který jste připravili \> pro **uložení** \> **.**
     
     Tyto informace můžete získat od svého dodavatele hardwaru nebo můžete použít [skript PowerShellu Get-WindowsAutoPilotInfo](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo), který vygeneruje soubor CSV. 
     

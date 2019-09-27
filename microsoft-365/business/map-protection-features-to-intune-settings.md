@@ -12,22 +12,18 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
-description: Zjistěte, jak mapovat funkce ochrany v Microsoft 365 Business nastavení Intune. Předplatné vám poskytuje licenci k úpravě nastavení Intune.
-ms.openlocfilehash: a6aaf6cc06c31b870eb85582f5aa47699919d75d
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Zjistěte, jak funkce ochrany v aplikaci Microsoft 365 Business map na nastavení Intune. Předplatné poskytuje licenci pro úpravu nastavení Intune.
+ms.openlocfilehash: 316dc8efbe69057f049bf8fadd3c3f41c358a33e
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074254"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287950"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-map-to-intune-settings"></a>Mapování funkcí ochrany v Microsoft 365 Business na nastavení Intune
 
@@ -37,7 +33,7 @@ V následující tabulce najdete podrobnosti o tom, jak namapovat nastavení zá
   
 Pokud chcete najít nastavení Intune, když jste přihlášení pomocí přihlašovacích údajů správce plánu Microsoft 365 Business, přejděte na **Centra pro správu** a potom na **Intune**.
   
- **Důležité:** Předplatné Microsoft 365 Business vám poskytuje licenci k úpravě všech nastavení Intune. Viz [Úvod do Intune začít.](https://docs.microsoft.com/intune/introduction-intune)
+ **Důležité:** Předplatné společnosti Microsoft 365 Business poskytuje licenci ke změně všech nastavení programu Intune. [Začínáme, viz Úvod do Intune.](https://docs.microsoft.com/intune/introduction-intune)
   
 Klikněte na název zásady, kterou chcete vybrat, například Zásady aplikace pro Android, a potom vyberte **Nastavení zásady**.
   
@@ -68,7 +64,7 @@ Pod **Spravovat přístup uživatelů k souborům Office na mobilních zařízen
 
 V následující tabulce najdete podrobnosti o tom, jak namapovat nastavení zásad aplikace pro Windows 10 na nastavení Intune.
   
-Intune nastavení, zatímco přihlášen pomocí pověření správce Microsoft 365 Business naleznete na [portálu Azure](https://portal.azure.com)a potom vyberte **Další služby**a typ v Intune do **filtru**vybrat **Ochranu Intune App** \> ** Aplikace zásad**.
+Chcete-li najít nastavení Intune, zatímco jste přihlášeni s pověřeními Microsoft 365 Business admin, přejděte na [portál Azure](https://portal.azure.com), vyberte **Další služby**a do **filtru**zadejte text Intune, vyberte **ochranu** \> **aplikace Intune Zásady aplikace**.
   
  **Důležité**: Předplatné Microsoft 365 Business vám dává právo upravovat pouze nastavení Intune mapovatelná na nastavení, která jsou k dispozici v Microsoft 365 Business. 
   
@@ -88,7 +84,7 @@ Klikněte na název zásady, kterou chcete vybrat, a potom zvolte **Obecné, Př
 
 V následující tabulce najdete podrobnosti o tom, jak namapovat nastavení konfigurace zařízení s Windows 10 na nastavení Intune.
   
-Intune nastavení, zatímco přihlášen pomocí pověření správce Microsoft 365 Business naleznete na [portálu Azure](https://portal.azure.com)a potom vyberte **Další služby**a typ v Intune do **filtru**vyberte **Intune** \> **zařízení Konfigurace** \> **profily**. Potom vyberte **Zásada zařízení pro Windows 10** \> **Vlastnosti** \> **Nastavení**.
+Chcete-li najít nastavení Intune, zatímco jste přihlášeni s pověřeními Microsoft 365 Business admin, přejděte na [portál Azure](https://portal.azure.com), vyberte **Další služby**a do **filtru**zadejte text Intune, vyberte zařízení **Intune** \> ** konfiguračních** \> **profilů**. Potom vyberte **Zásada zařízení pro Windows 10** \> **Vlastnosti** \> **Nastavení**.
   
 |**Nastavení zásad zařízení s Windows 10**|**Nastavení Intune**|
 |:-----|:-----|

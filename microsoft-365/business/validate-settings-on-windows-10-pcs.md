@@ -11,50 +11,46 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Zjistěte, jak ověřit nastavení ochrany Microsoft 365 Business aplikace v zařízení Windows 10.
-ms.openlocfilehash: 15c2d54c6281369875d15985c9d4ed16f0114176
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Zjistěte, jak ověřit nastavení ochrany aplikace Microsoft 365 Business app v zařízeních systému Windows 10.
+ms.openlocfilehash: 66e83df19e44419b37bcc1c5678ab13317162dbc
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072224"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288589"
 ---
-# <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Ověřit nastavení ochrany zařízení Windows 10 počítačů
+# <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Ověření nastavení ochrany zařízení v počítačích se systémem Windows 10
 
-## <a name="verify-that-windows-10-device-policies-are-set"></a>Ověřte, zda jsou nastaveny zásady Windows 10 zařízení
+## <a name="verify-that-windows-10-device-policies-are-set"></a>Ověření, zda jsou nastaveny zásady zařízení systému Windows 10
 
-Po [nastavení zásad zařízení](protection-settings-for-windows-10-pcs.md)může trvat několik hodin zásady se projeví na zařízeních uživatelů. Můžete ověřit, že zásady ručitelského pohledem na různé obrazovky nastavení systému Windows na zařízeních uživatelů. Vzhledem k tomu, že uživatelé nebudou moci změnit nastavení služby Windows Update a Windows Defender Antivirus na jejich zařízeních Windows 10, mnoho z těchto možností bude šedé.
+Po [nastavení zásad zařízení](protection-settings-for-windows-10-pcs.md)může zásada trvat až několik hodin, než se zásady projeví na zařízeních uživatelů. Můžete potvrdit, že se zásady projevily na různých obrazovkách nastavení systému Windows na zařízeních uživatelů. Vzhledem k tomu, že uživatelé nebudou moci změnit nastavení systému Windows Update a programu Windows Defender Antivirus na svých zařízeních systému Windows 10, bude mnoho těchto možností šedé.
   
-1. Přejděte na **Nastavení** \> **aktualizace &amp; zabezpečení** \> **Windows Update** \> **Možnosti restartování** a potvrďte, že jsou všechna nastavení šedě. 
+1. Přejděte k **Nastavení** \> **aktualizovat &amp; ** \> **Možnosti restartování** **systému Windows Update** \> a potvrďte, že všechna nastavení jsou šedá. 
     
-    ![Všechny možnosti restartování jsou označeny šedou barvou.](media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
+    ![Všechny možnosti restartování jsou zobrazeny šedě.](media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
-2. Přejděte na **Nastavení** \> **aktualizace &amp; zabezpečení** \> **Windows Update** \> **Rozšířené možnosti** a potvrďte, že jsou všechna nastavení šedě. 
+2. Přejděte k **Nastavení** \> **aktualizace &amp; zabezpečení** \> v **systému Windows Update** \> **upřesňující možnosti** a potvrďte, že všechna nastavení jsou šedá. 
     
-    ![Možnosti aktualizace Windows Advanced se všechny zobrazí šedě.](media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
+    ![Možnosti rozšířené aktualizace systému Windows jsou všechny zobrazeny šedě.](media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
-3. Přejděte na **Nastavení** \> **aktualizace &amp; zabezpečení** \> **Windows Update** \> **Rozšířené možnosti** \> **zvolit způsob doručování aktualizací**.
+3. Přejít na **Nastavení** \> **aktualizace &amp; zabezpečení** \> **Windows Update** \> **upřesňující možnosti** \> **Zvolte způsob doručování aktualizací**.
     
-    Potvrďte, že uvidíte zprávu (červeně), některá nastavení jsou skrytá nebo spravovány v organizaci a všech možností se zobrazí šedě.
+    Potvrďte, že je zobrazena zpráva (červeně), že některá nastavení jsou skryta nebo spravována organizací, a všechny možnosti jsou zobrazeny šedě.
     
-    ![Zvolit způsob doručování aktualizací stránky označuje nastavení skrytých nebo spravuje vaše organizace.](media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
+    ![Volba způsobu doručování aktualizací indikuje, že nastavení jsou skryta nebo spravována organizací.](media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
   
-4. Chcete-li otevřít Centrum zabezpečení systému Windows Defender, přejděte na **Nastavení** \> **aktualizace &amp; zabezpečení** \> **Program Windows Defender** \> klepněte na tlačítko **Spustit Centrum zabezpečení v aplikaci Windows Defender** \> **viru &amp; vlákna Ochrana** \> **viru &amp; ochrany proti novým ohrožením ochrany nastavení**. 
+4. Chcete-li otevřít Centrum zabezpečení programu Windows Defender, přejděte k **Nastavení** \> ** &amp; aktualizace zabezpečení** \> **programu Windows Defender** \> klepněte na možnost **otevřít** \> ** &amp; vlákno programu Centrum zabezpečení Windows Defender ochrany** \> **nastavení &amp; ochrany proti virům**. 
     
-5. Ověřte, že všechny možnosti jsou označeny šedou barvou. 
+5. Ověřte, zda jsou všechny možnosti zobrazeny šedě. 
     
-    ![Nastavení ochrany proti virům a ohrožením jsou označeny šedou barvou.](media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
+    ![Nastavení ochrany proti virům a ohrožení je šedé.](media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
   
-## <a name="related-topics"></a>Klepnutím na odkaz Příbuzná témata.
+## <a name="related-topics"></a>Příbuzná témata
 
 [Dokumentace a zdroje informací o Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=853701)
   

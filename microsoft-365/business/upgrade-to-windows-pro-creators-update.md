@@ -8,40 +8,37 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: 'Informace o upgradu na Windows 10 Pro aktualizace tvůrci zařízení systému Windows. '
-ms.openlocfilehash: baa0dd6ad1c91a0ad7497ce9496681eb87e65d87
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: 'Dozvíte se, jak upgradovat zařízení systému Windows na aktualizaci Windows 10 pro Creator. '
+ms.openlocfilehash: 95efe45ec43c027ff62b0468e0cfb1fbcc7b60bf
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074334"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288081"
 ---
 # <a name="upgrade-windows-devices-to-windows-pro-creators-update"></a>Upgrade zařízení s Windows na Windows Pro Creators Update
 
-## <a name="upgrade-to-windows-10-pro-creators-update"></a>Upgrade na systém Windows 10 aktualizace Pro autory
+## <a name="upgrade-to-windows-10-pro-creators-update"></a>Upgradovat na aktualizaci Windows 10 pro Creator
   
-1. Upgrade na Windows 10 Pro aktualizace tvůrci, máte několik možností. Můžeš:
+1. Chcete-li inovovat na systém Windows 10 pro tvůrce aktualizací, máte několik možností. Můžeš:
     
-    - Instalace upgradu z [webu Stažení softwaru společnosti Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) – tuto možnost vyberte, pokud je zařízení, které jste se přihlásili na stejné zařízení jako ten, který chcete aktualizovat.
+    - Instalace upgradu ze [serveru Microsoft software ke stažení](https://go.microsoft.com/fwlink/?LinkID=836951 ) -tuto možnost vyberte, pokud se zařízení, ke kterému jste přihlášeni, nachází ve stejném zařízení jako ten, který chcete aktualizovat.
     
-      na. Ze softwaru stáhnout webu, klepněte na tlačítko **Aktualizovat** spustíte upgrade na Windows 10 Pro aktualizace tvůrci zařízení. 
+      A. Klepnutím na tlačítko **aktualizovat** na serveru pro stahování softwaru zahájíte upgrade zařízení na aktualizaci systému Windows 10 pro tvůrce. 
     
-     - Vytvoření instalačního média pomocí [Nástroje pro vytvoření média](https://go.microsoft.com/fwlink/?LinkID=836960) – vyberte tuto možnost, chcete-li vytvořit instalační médium Windows 10 Update Pro autory (jednotky USB flash nebo souboru s příponou ISO), instalace Windows 10 na PC, který se liší od ten, který používáte.
+     - Vytvoření instalačního média pomocí nástroje pro [vytváření médií](https://go.microsoft.com/fwlink/?LinkID=836960) -tuto možnost vyberte, chcete-li vytvořit instalační médium pro aktualizaci Windows 10 pro Creator Update (jednotka USB flash nebo soubor ISO) pro instalaci systému Windows 10 do počítače, který je odlišný od toho, který používáte.
     
-        na. Přečtěte si pokyny, jak používat nástroj a vytvořit instalační médium. 
+        A. Přečtěte si pokyny týkající se použití nástroje a vytvoření instalačních médií. 
 
 > [!Note]
-> Pokud máte zařízení se systémem Windows 7 Pro, Windows 8 Pro nebo Windows 8.1 Pro, Microsoft 365 Business předplatné vás opravňuje k upgradu na Windows 10 - Windows nevyžadují kód Product Key.
+> Pokud používáte zařízení systému Windows se systémem Windows 7 pro, Windows 8 pro nebo Windows 8,1 pro, vaše předplatné Microsoft 365 Business vás opravňuje k upgradu na systém Windows 10 – není nutné kód Product Key.
     
-V části [Nastavení systému Windows zařízení pro uživatele Microsoft 365 Business](set-up-windows-devices.md) k dokončení nastavení systému Windows 10 zařízení. 
+Viz [nastavení zařízení systému Windows pro aplikaci Microsoft 365 Business Users](set-up-windows-devices.md) pro dokončení instalace zařízení systému Windows 10. 
   
-V tématu [Nastavení mobilní zařízení pro uživatele Microsoft 365 Business](set-up-mobile-devices.md) kompletní nastavení zařízení Android a iOS. 
+Viz [nastavení mobilních zařízení pro aplikaci Microsoft 365 obchodní uživatelé](set-up-mobile-devices.md) k dokončení nastavení zařízení Android a iOS. 
   

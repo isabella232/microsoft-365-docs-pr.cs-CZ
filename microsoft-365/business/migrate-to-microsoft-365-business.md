@@ -10,21 +10,18 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Naučte se přesunout podnik do aplikace Microsoft 365 Business.
-ms.openlocfilehash: a3f77bd18b9b900151c50f923b705e4ff0150519
-ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
+ms.openlocfilehash: 5d0f5efa561e61703bed4b3edb09e13ac7848e28
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2019
-ms.locfileid: "36982435"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288779"
 ---
 # <a name="migrate-to-microsoft-365-business-from-office-365-business-premium"></a>Migrace do aplikace Microsoft 365 Business z webu Office 365 Business Premium
 
@@ -108,7 +105,7 @@ Po přiřazení licencí společnosti Microsoft 365 Business můžete začít ch
     
   - Postup pro zařízení systému Windows naleznete v části [nastavení zařízení systému Windows pro Microsoft 365 Business Users](set-up-windows-devices.md) . 
     
-  - Viz [nastavení mobilních zařízení pro Microsoft 365 Business Users](set-up-mobile-devices.md) na kroky pro telefony a zařízení společnosti Android a iPhones. 
+  - Viz [nastavení mobilních zařízení pro Microsoft 365 Business Users](set-up-mobile-devices.md) pro kroky pro telefony na Android a iPhones. 
     
 5. Chcete-li automaticky instalovat klientské aplikace sady Office, naleznete další informace v tématu [Příprava nasazení klienta sady Office podle aplikace Microsoft 365 Business](prepare-for-office-client-deployment.md) a [automatické instalace nebo odinstalace sady Office v systému Windows 10](auto-install-or-uninstall-office.md).
     
