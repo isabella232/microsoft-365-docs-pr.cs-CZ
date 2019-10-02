@@ -16,18 +16,18 @@ search.appverid:
 - MET150
 ms.assetid: f3433b6b-02f7-447f-9d62-306bf03638b0
 description: Zjistěte, jak ověřit nastavení ochrany Microsoft 365 Business app v zařízeních Android nebo iOS.
-ms.openlocfilehash: 19a7ce48e8df5c80964a250b0bc087591a0530c1
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 45203d9af73d6ad3c963bd7d1d130052c46bd27b
+ms.sourcegitcommit: 3a632d8ec009abf1aac57363eaf78aeeda5db136
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37287869"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37376159"
 ---
 # <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>Ověření nastavení ochrany aplikace u zařízení Android nebo iOS
 
-Podle pokynů na kartách ověřte nastavení ochrany aplikace u zařízení Android nebo iOS.
+Podle pokynů v následujících oddílech ověřte nastavení ochrany aplikace u zařízení Android nebo iOS.
   
-## <a name="androidtab"></a>[Android](#tab/)
+## <a name="android"></a>Android
   
 ### <a name="check-that-the-app-protection-settings-are-working-on-user-devices"></a>Kontrola nastavení ochrany aplikací na zařízeních uživatelů
 
@@ -116,7 +116,7 @@ V podokně **Upravit zásadu** zvolte vedle **Ochrana v případě ztráty nebo 
     
     ![An encrypted image file in the Gallery app.](media/25936414-bd7e-421d-824e-6e59b877722d.png)
   
-## <a name="iostab"></a>[Ios](#tab/)
+## <a name="ios"></a>Ios
   
 ### <a name="check-that-the-app-protection-settings-are-working-on-user-devices"></a>Kontrola nastavení ochrany aplikací na zařízeních uživatelů
 

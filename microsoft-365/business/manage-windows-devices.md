@@ -16,12 +16,12 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Dozvíte se, jak povolit aplikaci Microsoft 365 chránit místní služby AD připojené k zařízením Windows 10.
-ms.openlocfilehash: d1dbfc6a35d54db653ae0f911fad05ac2ce0a993
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 452e884f952a4b2c2e87148bb7203ed48a48d944
+ms.sourcegitcommit: 3a632d8ec009abf1aac57363eaf78aeeda5db136
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288029"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37376089"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>Jak nastavit, aby zařízení s Windows 10 připojená k doméně byla spravovaná prostřednictvím plánu Microsoft 365 Business
 
@@ -37,9 +37,9 @@ Následující video podrobně popisuje postup nastavení tohoto postupu pro nej
 
 Před synchronizací uživatelů a počítačů z místní domény služby Active Directory se seznamte [s přípravou synchronizace adresářů na sadu Office 365](https://docs.microsoft.com/office365/enterprise/prepare-for-directory-synchronization). Zejména:
 
-   - Ujistěte se, že v adresáři neexistují duplicity pro následující atributy: **mail**, **proxyAddresses**a **userPrincipalName**. Tyto hodnoty by měly být jedinečné a všechny duplicity by měly být odstraněny..
+   - Ujistěte se, že v adresáři neexistují duplicity pro následující atributy: **mail**, **proxyAddresses**a **userPrincipalName**. Tyto hodnoty by měly být jedinečné a všechny duplicity by měly být odstraněny.
    
-   - Doporučujeme nastavit atribut **userPrincipalName** (UPN) pro každý místní uživatelský účet tak, aby odpovídal primární e-mailovou adresou, která odpovídá Licencovanému uživateli Microsoft 365. Například *Mary. Shelley<span>@ contoso.<span> com* místo *Mary @ contoso. místní*
+   - Doporučujeme nastavit atribut **userPrincipalName** (UPN) pro každý místní uživatelský účet tak, aby odpovídal primární e-mailovou adresou, která odpovídá Licencovanému uživateli Microsoft 365. Například *Mary.Shelley@contoso.com* místo *Mary @ contoso. místní*
    
    - Pokud je doména služby Active Directory ukončena v Nesměrovatelné příponě jako *. Local* nebo *. LAN*namísto internetové směrovatelné přípony, například *. com* nebo *. org*, bude nutné nejprve upravit příponu UPN místních uživatelských účtů, jak je popsáno v [Připravit nesměrovatelnou doménu pro synchronizaci adresářů](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
 
@@ -75,6 +75,6 @@ Chcete-li registrovat existující domény spojené se systémem Windows 10, jak
 
 ## <a name="6-set-up-windows-hello-for-business"></a>6. nastavení systému Windows Hello for Business
 
- Systém Windows Hello for Business nahrazuje hesla silným dvoufaktorového ověřování (2FA) pro přihlášení k místnímu počítači. Jeden faktor je asymetrický pár klíčů a druhý je PIN nebo jiné místní gesto, jako je například otisk prstu nebo obličeje, pokud to zařízení podporuje. Doporučujeme nahradit hesla 2 FA a Windows Hello for Business, pokud je to možné.
+ Systém Windows Hello for Business nahrazuje hesla silným dvoufaktorového ověřování (2FA) pro přihlášení k místnímu počítači. Jeden faktor je asymetrický pár klíčů a druhý je PIN nebo jiné místní gesto, jako je například otisk prstu nebo obličeje, pokud to zařízení podporuje. Doporučujeme nahradit hesla 2FA a Windows Hello for Business, pokud je to možné.
 
 Chcete-li nakonfigurovat hybridní systém Windows Hello for Business, zkontrolujte [důvěryhodnost hybridního klíče Windows Hello for Business předpoklady](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-trust-prereqs). Potom postupujte podle pokynů v [konfiguraci hybridních klíčů Windows Hello pro nastavení důvěryhodnosti obchodního klíče](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-whfb-settings). 
