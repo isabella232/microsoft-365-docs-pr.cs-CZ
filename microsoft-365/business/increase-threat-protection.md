@@ -15,12 +15,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Nastavení sady Office 365 Pokročilá ochrana proti ohrožení a ochrana citlivých dat
-ms.openlocfilehash: 81197a8baf1c4d0cbfd898c41a305c1a99bab57c
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 5009379d6a5d8c3a692799aa7c0f137dae1482fd
+ms.sourcegitcommit: 492f03a2c83e36846602fced396c8f8d32315c85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288109"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398903"
 ---
 # <a name="increase-threat-protection"></a>Zvýšení ochrany proti ohrožení
 
@@ -146,8 +146,6 @@ Chcete-li vytvořit protipodvodné zásady ATP, Sledujte [Toto krátké výukov�
 |Informace o poštovní schránce  <br/> |Ve výchozím nastavení je při vytváření nové zásady protiútoku phishing vybrána informace o poštovní schránce. Ponechejte toto nastavení **zapnuto** .  <br/> |
 |Přidání důvěryhodných odesílatelů a domén  <br/> |Zde můžete přidat vlastní doménu nebo jiné důvěryhodné domény.  <br/> |
 |Použito pro  <br/> |Vyberte **doménu příjemce**. V **některém z těchto kroků**vyberte možnost **Vybrat**. Vyberte možnost **+ Přidat**. Zaškrtněte políčko vedle názvu domény, například *contoso.<span> modelu <span>com*, v seznamu a vyberte položku **Přidat**. Vyberte **Hotovo**.  <br/> |
-   
-Další informace naleznete v tématu [set up Microsoft Office 365 ATP anti-phishing zásady](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409).
   
 ## <a name="protect-against-malicious-attachments-and-files-with-atp-safe-attachments"></a>Ochrana proti nebezpečným přílohám a souborům s bezpečnými přílohami ATP
 
