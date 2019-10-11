@@ -16,12 +16,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Seznamte se s funkcemi zabezpečení, které jsou součástí aplikace Microsoft 365 Business.
-ms.openlocfilehash: 8e45d5fdb6a78f3966c46542189aa30ddd80998e
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: c0c37b09fd0bb0218864b6bc97aa127feae1ff16
+ms.sourcegitcommit: 255e8194bb5767a9983d54d16e79d628732a1d97
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288449"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453970"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 obchodní zabezpečení a funkce kompatibility
 
@@ -98,9 +98,9 @@ Vaše předplatné aplikace Microsoft 365 Business obsahuje funkce, které vám 
     
     Licence online k archivaci umožňuje snadnou archivaci zpráv s nepřetržitou zálohou dat. Ukládá všechny e-mailové zprávy, včetně odstraněných položek, pro případ, že budou později potřebné k odhalení nebo obnovení. Kromě toho můžete použít různé zásady uchovávání informací pro zachování e-mailových dat pro blokování soudních sporů, eDiscovery nebo pro splnění požadavků na shodu.
     
-- **[Ochrana informací Azure](https://go.microsoft.com/fwlink/p/?linkid=871406)**
-    
-    Ochrana informací pomáhá řídit přístup k citlivým informacím v e-mailech a dokumentech s ovládacími prvky jako "Nepředávat dál" a "nekopírovat". Můžete také klasifikovat citlivé informace jako "důvěrné" a určit, jak mohou být tajné informace sdíleny mimo podnik a uvnitř podniku. Pro e-maily a dokumenty je snadné použít šifrování v podnikové třídě, aby byly informace soukromé. Microsoft 365 Business zahrnuje všechny funkce [plánu ochrany informací Azure 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Můžete také nainstalovat doplněk klienta pro ochranu informací Azure pro aplikace sady Office. Další informace naleznete v [příručce správce klienta ochrany informací o Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide).
+- **[Štítky utajení](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
+
+   Microsoft 365 Business zahrnuje všechny funkce [plánu ochrany informací Azure 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Pomocí tohoto plánu můžete vytvořit **popisky citlivosti**, které umožňují řídit přístup k citlivým informacím v e-mailech a dokumentech s ovládacími prvky jako "Nepředávat dál" a "nekopírovat". Můžete také klasifikovat citlivé informace jako "důvěrné" a určit, jak mohou být tajné informace sdíleny mimo podnik a uvnitř podniku. Pro e-maily a dokumenty je snadné použít šifrování v podnikové třídě, aby byly informace soukromé. Můžete také nainstalovat doplněk klienta pro ochranu informací Azure pro aplikace sady Office. Další informace naleznete v tématu [Azure Protection, sjednocený klient](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). Pro popisky citlivosti nainstalujte **AzInfoProtection_UL. exe**.
 
 Tyto funkce lze spravovat v centru pro dodržování &amp; zabezpečení a v centru pro správu nástroje Intune. V průběhu času budou zjednodušené ovládací prvky přidány do střediska Microsoft 365 Business Admin Center.
   

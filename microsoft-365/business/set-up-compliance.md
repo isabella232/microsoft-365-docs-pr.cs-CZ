@@ -14,13 +14,13 @@ ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
-description: Nastavení sady Office 365 Pokročilá ochrana proti ohrožení a ochrana citlivých dat
-ms.openlocfilehash: 8144bcebe8a0cdf28a5e092f592362922ccbdd48
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+description: Nastavte funkce kompatibility tak, aby nedocházelo ke ztrátám dat a k popisu citlivých dat.
+ms.openlocfilehash: a0ba2fa6dbe7c786d577ad7098c1790f569f5acc
+ms.sourcegitcommit: 255e8194bb5767a9983d54d16e79d628732a1d97
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288739"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453904"
 ---
 # <a name="set-up-compliance-features"></a>Nastavení funkcí kompatibility
 
@@ -50,48 +50,21 @@ Chcete-li umístit poštovní schránku na soudní řízení, v centru pro sprá
     
 **Uchovávání informací:** Můžete povolit vlastní zásady uchovávání informací, například chcete-li zachovat určitou dobu nebo trvale odstranit obsah na konci retenční periody. Další informace naleznete v tématu [Přehled zásad uchovávání informací](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
 
-## <a name="set-up-azure-information-protection-features"></a>Nastavení funkcí ochrany informací Azure
+## <a name="set-up-sensitivity-labels"></a>Nastavit popisky citlivosti
 
-Ochrana informací Azure (AIP) vám pomáhá klasifikovat a volitelně chránit své dokumenty a e-maily, použitím štítků. Štítky mohou být automaticky použity správci, kteří definují pravidla a podmínky, ručně uživateli nebo pomocí kombinace, v níž jsou uživatelům poskytnuta doporučení.
+Štítky s citlivostí jsou součástí plánu 1 Azure Information Protection (AIP) a pomáhají klasifikovat a volitelně chránit dokumenty a e-maily pomocí popisků. Štítky mohou být automaticky použity správci, kteří definují pravidla a podmínky, ručně uživateli nebo pomocí kombinace, v níž jsou uživatelům poskytnuta doporučení.
 
-V aplikaci Outlook na webu můžete použít následující předdefinované popisky a omezení pro e-maily:
-  
-- **Nepředávat dál**: příjemci mohou zprávu přečíst, ale nemohou předat dál, vytisknout nebo kopírovat obsah
-    
-- **Šifrovat**: celá zpráva je zašifrována. Příjemci musí před přístupem k šifrovanému obsahu potvrdit svou identitu a nemůže odebrat šifrování.
-    
-- **Důvěrné**: zaměstnancům v organizaci umožní plná oprávnění k obsahu e-mailu a k přílohám, ale nikoli k osobám mimo vaši organizaci. Vlastníci dat mohou v libovolném bodě sledovat a odvolávat obsah.
-    
-- **Vysoce důvěrné**: Toto omezení lze použít pro vysoce důvěrná data, což zaměstnancům umožňuje zobrazovat, upravovat a odpovídat, ale ne předávat data dál, tisknout nebo kopírovat. Vlastníci dat mohou v libovolném bodě sledovat a odvolávat obsah.
+Chcete-li nastavit popisky citlivosti, zobrazte [Vytvoření a správu popisků citlivosti](https://support.office.com/en-us/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) videa.
 
-### <a name="make-sure-azure-information-protection-is-activated"></a>Ujistěte se, že je aktivována ochrana informací Azure
 
-Chcete-li ověřit, zda je AIP aktivován:
-
-1. Podepište se na [Azure portál](https://portal.azure.com/).
-
-2. Vyberte **všechny služby** a do **vyhledávacího pole**zadejte *ochranu informací Azure* .
-
-3. Po zobrazení výsledků klepněte na začátek vedle položky **ochrana informací Azure** , abyste jej mohli později snadno najít.
-
-4. Vyberte možnost \> **Aktivace ochrany** **informací Azure** a zkontrolujte, zda je stav nastaven na aktivováno. 
-
-### <a name="view-the-azure-information-protection-policy-and-default-labels"></a>Zobrazit zásadu ochrany informací Azure a výchozí popisky 
-
-Chcete-li zobrazit a upravit existující štítky, postupujte takto:
-
-1. Na řídicím panelu pro ochranu informací vyberte **klasifikace** \> **.** <br/>![Standardní štítky pro ochranu informací Azure.](media/AIPLabels.png)
-
-2. Můžete zvolit libovolný popisek pro zobrazení možností, můžete změnit zobrazované jméno, barvy atd.
- 
-3. Pokud chcete vytvořit vlastní, viz [Úpravy a vytvoření nových štítků](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step2) . 
 
 ### <a name="install-the-azure-information-protection-client-manually"></a>Ruční instalace klienta ochrany informací Azure
 
 Ruční instalace klienta AIP:
 
-1. Stáhněte soubor **Azinfoprotection. exe** ze [služby Stažení softwaru](https://www.microsoft.com/download/details.aspx?id=53018).
+1. Stáhněte **AzinfoProtection_UL. exe** z [webu služby Stažení softwaru](https://www.microsoft.com/download/details.aspx?id=53018).
  
-2. Instalaci můžete ověřit zobrazením dokumentu aplikace Word a ověřením, zda je na kartě **Domů** k dispozici možnost **chránit** . <br/>![Rozevírací karta zámku v dokumentu aplikace Word.](media/Word_Protect.png)
+2. Instalaci můžete ověřit zobrazením dokumentu aplikace Word a ověřením, zda je na kartě **Domů** k dispozici možnost **Citlivost** .
+<br/>![Rozevírací karta zámku v dokumentu aplikace Word.](media/word-sensitivity.png)
 
 Další informace naleznete v části [instalace klienta](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3).

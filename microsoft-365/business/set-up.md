@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Naučte se nastavit aplikaci Microsoft 365 Business.
-ms.openlocfilehash: d33839693001f36fbb56541775015f739300b043
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 4f31af3fa63416d3b1bd7281f7712313252ad437
+ms.sourcegitcommit: cbf117a4cd92a907115c9f10752f3c557361e586
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288489"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37440585"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Nastavení aplikace Microsoft 365 Business v Průvodci nastavením
 
@@ -44,7 +44,7 @@ Zakoupí-li společnost Microsoft 365 Business, máte možnost používat vlastn
     > [!IMPORTANT]
     > Pokud jste během zápisu zakoupili doménu, nezobrazí se zde krok **Přidat doménu** . Přejděte na místo pro [Přidání uživatelů](#add-users-and-assign-licenses) .
 
-    ![Vyberte možnost Přidat doménu.](media/addadomainadmincenter.png)
+    ![Vyberte možnost přejít k nastavení.](media/gotosetupinadmincenter.png)
     
 3. V průvodci zadejte název domény, který chcete použít (například contoso.com).
 
@@ -70,7 +70,9 @@ Všichni uživatelé, které přidáte v průvodci, dostanou automaticky přiřa
 
 1. Pokud vaše předplatné aplikace Microsoft 365 Business obsahuje existující uživatele (například pokud jste použili program Azure AD Connect), můžete jim nyní přiřadit licence. Neváhejte a přidejte licence i jim.
 
-3. Po přidání uživatelů budete mít také možnost sdílet pověření s novými uživateli, které jste přidali. Můžete je vytisknout, poslat e-mailem nebo si je stáhnout.
+2. Po přidání uživatelů budete mít také možnost sdílet pověření s novými uživateli, které jste přidali. Můžete je vytisknout, poslat e-mailem nebo si je stáhnout.
+
+3. Do pole vytvořit týmy pro vaši organizaci můžete přidat týmy a přidat do nich uživatele. Můžete to provést také později. Další informace naleznete v tématu [vytvoření týmu pro celou společnost](https://support.office.com/article/037bb27a-bcc9-48fe-8d72-44d9482420a3).
 
 4. Přesun e-mailových zpráv přeskočte a na stránce **Migrace e-mailových zpráv** zvolte **Další**. 
 
@@ -86,14 +88,14 @@ Abyste mohli nastavit služby, musíte aktualizovat některé záznamy u svého 
   
 1. Průvodce nastavením obvykle rozpozná vašeho registrátora a poskytne odkaz na podrobné pokyny pro aktualizaci vašich záznamů názvového serveru na webu registrátora. Pokud tomu tak není, [změňte nameservery tak, aby sadu Office 365 nastavil s jakýmkoli registrátorem domény](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2). 
 
-    - Pokud máte existující záznamy DNS, například existující web, ale hostitel DNS je povolen pro [připojení k doméně](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), zvolte možnost **Přidat záznamy**. 
+    - Pokud máte existující záznamy DNS, například existující web, ale hostitel DNS je povolen pro [připojení k doméně](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), zvolte možnost **Přidat záznamy**. Na stránce **Vyberte stránku služeb online** , přijměte všechny výchozí hodnoty a klepněte na tlačítko **Další**a na stránce hostitele DNS vyberte možnost **autorizovat** .
     - Pokud máte existující záznamy DNS s jinými hostiteli DNS (nejsou povoleny pro připojení k doméně), budete chtít spravovat své vlastní záznamy DNS, abyste zajistili, že stávající služby zůstanou propojeny. Další informace naleznete v tématu [základy domény](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) .
 
         ![Připojte stránku domény ke správě vlastních záznamů DNS.](media/connectyourdomainpage.png)
 
 2. Postupujte podle pokynů průvodce a e-maily a další služby budou nastaveny pro vás.
 
-### <a name="set-up-security-policies-and-device-configurations"></a>Nastavení zásad zabezpečení a konfigurace zařízení 
+### <a name="protect-data-and-devices"></a>Ochrana dat a zařízení 
 
 Zásady nastavené v průvodci jsou automaticky použity pro [skupinu zabezpečení](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) nazvanou *Všichni uživatelé*. Můžete také vytvořit další skupiny pro přiřazení zásad v centru pro správu.
 
@@ -113,7 +115,6 @@ Zásady nastavené v průvodci jsou automaticky použity pro [skupinu zabezpeče
 3. Můžete také zvolit [automatickou instalaci sady Office](install-office-on-windows-10-during-setup.md) do zařízení systému Windows 10.
 
     ![Obrazovka nastavení stránky konfigurace zařízení systému Windows 10.](media/setwin10config.png)
-
 
 
 ## <a name="deploy-office-365-client-apps"></a>Nasadit sadu Office 365 Client Apps

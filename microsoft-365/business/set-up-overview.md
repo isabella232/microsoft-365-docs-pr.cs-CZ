@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Přehled kroků nastavených pro aplikaci Microsoft 365 Business.
-ms.openlocfilehash: f156d236a783942ec06d457c9b7ca087d12d6f58
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 4be0a8aa1b050ee3e20a045eb2c07666765118ed
+ms.sourcegitcommit: cbf117a4cd92a907115c9f10752f3c557361e586
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288569"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37440531"
 ---
 # <a name="overview-of-setup"></a>Přehled nastavení
 
@@ -41,7 +41,7 @@ Většinu kroků nastavení lze provést v Průvodci nastavením, ale jsou zde t
         - Uživatele můžete také [přidat později](add-users-m365b.md) v centru pro správu.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Krok 2: nastavení zásad zabezpečení a konfigurace zařízení 
 
-  - Pomocí [Průvodce instalací](set-up.md#set-up-security-policies-and-device-configurations) nakonfigurujte zásady zařízení a zabezpečení. 
+  - Pomocí [Průvodce instalací](set-up.md#protect-data-and-devices) nakonfigurujte zásady zařízení a zabezpečení. 
   - Můžete je také přidat nebo upravit později v [centru pro správu](view-policies-and-devices.md) a na [portálu Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
   - Kromě nastavení zabezpečení v Průvodci nastavením můžete zvýšit zabezpečení přidáním následujících nastavení:
 
@@ -62,7 +62,7 @@ Většinu kroků nastavení lze provést v Průvodci nastavením, ale jsou zde t
    Připojíte-li zařízení se systémem Windows 10 k Azure AD, zásady nastavené v [kroku 2](#step-2-set-up-security-policies-and-configure-devices) se na něj uplatní.
 
    - Systém Windows 10 pro je [předpokladem](pre-requisites-for-data-protection.md) pro Microsoft 365 Business, ale pokud máte Windows 7 pro, Windows 8 pro nebo Windows 8,1 pro, vaše předplatné vás opravňuje k [inovaci na systém Windows 10 pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
-    - Pomocí [Průvodce instalací](set-up.md#set-up-security-policies-and-device-configurations) nakonfigurujte zásady pro zařízení systému Windows 10.
+    - Pomocí [Průvodce instalací](set-up.md#protect-data-and-devices) nakonfigurujte zásady pro zařízení systému Windows 10.
 
 ## <a name="stes-4-install-office-365-business"></a>Stes 4: instalace sady Office 365 Business
 - Sadu Office lze automaticky nainstalovat do zařízení systému Windows pomocí [Průvodce instalací](set-up.md#deploy-office-365-client-apps).
