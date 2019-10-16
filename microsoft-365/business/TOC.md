@@ -8,7 +8,7 @@
 ### [Nastavení aplikace Microsoft 365 Business](set-up.md)
 ### [Inovovat na aktualizaci Windows pro Creator](upgrade-to-windows-pro-creators-update.md)
 ### [Příprava na zavedení klienta sady Office](prepare-for-office-client-deployment.md)
-### [Automatická instalace nebo odinstalace sady Office](auto-install-or-uninstall-office.md)
+### [Pomoc uživatelům při instalaci sady Office](help-users-install-office.md)
 ### [Přístup k prostředkům na místě]()
 #### [Povolit správu zařízení systému Windows 10 připojených k doméně](manage-windows-devices.md)
 #### [Přístup k prostředkům ze zařízení spojených s Azure AD](access-resources.md)
