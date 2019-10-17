@@ -9,18 +9,22 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: M365-subscription-management
-ms.custom: OKR_SMB_M365
+ms.custom:
+- Core_O365Admin_Migration
+- MiniMaven
+- MSB365
+- OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: ed34fff3-2881-4ed4-9906-1ba6bb8dd804
 description: Dozvíte se, jak automaticky nainstalovat 32-bit Office pro počítače se systémem Windows 10 a průběžně je aktualizovat.
-ms.openlocfilehash: fe1f946e4a216050e533604afa7c6e74e7b5980f
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 5b28c1e62d813c52b41ce8e7619c865cdf7690e2
+ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288389"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37575812"
 ---
 # <a name="prepare-for-office-client-deployment-by-microsoft-365-business"></a>Příprava nasazení klienta Office prostřednictvím plánu Microsoft 365 Business
 
@@ -54,10 +58,10 @@ Následující tabulka podrobně popisuje, jakou akci musí koncoví uživatelé
   
 |**Počáteční stav instalace Office**|**Prováděná akce před instalací Microsoft 365 Business Office**|**Konečný stav**|
 |:-----|:-----|:-----|
-|Sada Office není nainstalovaná  <br/> |Žádná  <br/> |32bitová verze Office 2016 nainstalovaná technologií Klikni a spusť  <br/> |
-|Stávající 32bitová verze Office (2016 nebo starší) nainstalovaná technologií Klikni a spusť bez samostatných aplikací  <br/> |Žádná  <br/> |Upgrade na nejnovější 32bitovou verzi Office 2016 nainstalovanou technologií Klikni a spusť podle toho, co je potřeba **\*** <br/> |
-|Stávající 32bitová verze Office nainstalovaná technologií Klikni a spusť a 32bitové nebo 64bitové samostatné aplikace Office (například Visio nebo Project) nainstalované technologií Klikni a spusť  <br/> |Žádná  <br/> |Samostatné aplikace se nezmění. Sada se upgraduje na 32bitovou verzi Office 2016 nainstalovanou technologií Klikni a spusť  <br/> |
-|Stávající 32 bitová verze Office nainstalovaná technologií Klikni a spusť a všechny 32bitové nebo 64bitové samostatné aplikace Office nainstalované instalační službou MSI (s výjimkou verzí 2016)  <br/> |Žádná  <br/> |Samostatné aplikace se nezmění. Sada se upgraduje na 32bitovou verzi Office 2016 nainstalovanou technologií Klikni a spusť  <br/> ||||
+|Sada Office není nainstalovaná  <br/> |Žádné  <br/> |32bitová verze Office 2016 nainstalovaná technologií Klikni a spusť  <br/> |
+|Stávající 32bitová verze Office (2016 nebo starší) nainstalovaná technologií Klikni a spusť bez samostatných aplikací  <br/> |Žádné  <br/> |Upgrade na nejnovější 32bitovou verzi Office 2016 nainstalovanou technologií Klikni a spusť podle toho, co je potřeba **\*** <br/> |
+|Stávající 32bitová verze Office nainstalovaná technologií Klikni a spusť a 32bitové nebo 64bitové samostatné aplikace Office (například Visio nebo Project) nainstalované technologií Klikni a spusť  <br/> |Žádné  <br/> |Samostatné aplikace se nezmění. Sada se upgraduje na 32bitovou verzi Office 2016 nainstalovanou technologií Klikni a spusť  <br/> |
+|Stávající 32 bitová verze Office nainstalovaná technologií Klikni a spusť a všechny 32bitové nebo 64bitové samostatné aplikace Office nainstalované instalační službou MSI (s výjimkou verzí 2016)  <br/> |Žádné  <br/> |Samostatné aplikace se nezmění. Sada se upgraduje na 32bitovou verzi Office 2016 nainstalovanou technologií Klikni a spusť  <br/> ||||
 |Jakákoli stávající 64bitová verze Office nainstalovaná technologií Klikni a spusť  <br/> |Odinstalujte 64bitové aplikace Office, pokud je možné je nahradit 32bitovými aplikacemi Office.  <br/> |Pokud jsou odebrané 64bitové verze aplikací Office, nainstaluje se 32bitová verze Office 2016 nainstalovaná technologií Klikni a spusť  <br/> |
 |Stávající Office 2016 nainstalovaný instalační službou MSI se samostatnými aplikacemi nebo bez nich  <br/> |Odinstalujte Office 2016 nainstalovaný instalační službou MSI.  <br/> |32bitová verze Office 2016 nainstalovaná technologií Klikni a spusť. Samostatné aplikace zůstávají beze změn.  <br/> |
 |Stávající instalace MSI systému Office 2013 (nebo předchozích verzí) a/nebo samostatné aplikace Office  <br/> |Žádná  <br/> |32bitová verze Office 2016 nainstalovaná technologií Klikni a spusť a předchozí instalace MSI systému Office (a samostatných aplikací) existují vedle sebe  <br/> |
