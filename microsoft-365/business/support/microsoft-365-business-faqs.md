@@ -11,10 +11,10 @@ audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, nejčastější dotazy, nejčastější dotazy, odpovědi, obchody
 ms.date: 06/08/2018
 ms.openlocfilehash: cc6cc924cf45fa19d7f91235515981b636abf77d
-ms.sourcegitcommit: bd17ee20da1685e5c660d5f99746c81c63a17b22
+ms.sourcegitcommit: 0d423b50d2f1f4eccd64e35e00f67313244efba9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/24/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "37141503"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 časté otázky týkající se podniků
@@ -161,7 +161,7 @@ Partneři, kteří nyní prodávají sadu Office 365, mohou používat stejné k
 ### <a name="how-can-microsoft-365-business-help-partners-increase-the-profitability"></a>Jak může společnost Microsoft 365 obchodní partneři zvýšit ziskovost? 
 Společnost Microsoft 365 Business pomůže partnerům snižovat náklady díky vyšší provozní efektivitě a zvýšit výnosy prodejem dalších služeb. Studie společnosti Forrester Research, Microsoft 365 Business Total ekonomický dopad (TEI), červen 2017 (https://partners.office.com/TEIBusiness), dokládá, že společnost Microsoft 365 Business bude mít kladný dopad na ziskovost partnerů. 
 
-Ve studijní partneři společnosti TEI hlásili, že společnost Microsoft 365 Business očekává: 
+V partnerských studiích společnosti TEI bylo hlášeno, že společnost Microsoft 365 Business očekává: 
 
 - 20%-bodový nárůst příjmů \[za jednočasové\] nasazení a poradenské služby
 - 10% (zvýšení počtu bodů na připojení spravovaných služeb)
@@ -184,8 +184,8 @@ Aplikace Microsoft 365 Business netvoří jinak originální verzi systému Wind
 ### <a name="what-support-is-available-to-csp-partners-for-the-microsoft-365-business-preview"></a>Jaká podpora je k dispozici partnerům CSP pro aplikaci Microsoft 365 Business Preview? 
 Stejné kanály podpory, které jsou k dispozici partnerům CSP dnes (Podpora Premier a pokročilé podpůrné programy), byly vyškolené na webu Microsoft 365 Business a jsou připraveny poskytnout podporu partnerům. 
 
-### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>Co je GDPR a jak společnost Microsoft 365 Business pomáhá zákazníkům s plněním jejich povinností?
-Obecné nařízení o ochraně údajů (GDPR) je obsáhlým novým zákonem o ochraně soukromí, který poskytuje rezidentům Evropské unie (EU) větší kontrolu nad jejich "osobními údaji" a vyžaduje, aby organizace zachovaly integritu těchto osobních údajů. GDPR vyžaduje, aby organizace, které kontrolují nebo zpracovávají osobní údaje vázané na obyvatele EU, používaly pouze datové procesory jiných výrobců, které splňují požadavky GDPR pro zpracování osobních údajů. V březnu 2017 společnost Microsoft poskytla k dispozici smluvní záruky, které tyto záruky poskytují. Zákazníci, kteří mají dotazy, jak jim může společnost Microsoft pomoci splnit své dodatečné povinnosti v rámci GDPR, by měli získat informace o rozšířených funkcích shody a zabezpečení, které jsou k dispozici jako doplňky (např. Ochrana informací Azure, zabránění ztrátě dat, upřesnění Ochrana proti ohrožení, atd.) a v jiných apartmánech (např. Microsoft 365 Enterprise E5). Další informace získáte na adrese [www.Microsoft.com/gdpr](https://www.microsoft.com/gdpr).
+### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>Co je to GDPR a jak společnost Microsoft 365 Business pomáhá zákazníkům s plněním závazků?
+Obecné nařízení o ochraně údajů (GDPR) je obsáhlým novým zákonem o ochraně soukromí, který poskytuje rezidentům Evropské unie (EU) větší kontrolu nad jejich "osobními údaji" a vyžaduje, aby organizace zachovaly integritu těchto osobních údajů. GDPR vyžaduje, aby organizace, které kontrolují nebo zpracovávají osobní údaje vázané na obyvatele EU, používaly pouze datové procesory jiných výrobců, které splňují požadavky GDPR pro zpracování osobních údajů. V březnu 2017 společnost Microsoft poskytla k dispozici smluvní záruky, které tyto záruky poskytují. Zákazníci, kteří mají dotazy, jak jim může společnost Microsoft pomoci splnit své dodatečné povinnosti v rámci GDPR, by měli získat informace o rozšířených funkcích kompatibility a zabezpečení, které jsou k dispozici jako doplňky (např. Ochrana informací Azure, zabránění ztrátě dat, upřesnění Ochrana proti ohrožení, atd.) a v jiných apartmánech (např. Microsoft 365 Enterprise E5). Další informace získáte na adrese [www.Microsoft.com/gdpr](https://www.microsoft.com/gdpr).
 
 
 
