@@ -10,45 +10,51 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, nejčastější dotazy, nejčastější dotazy, odpovědi, obchody
 ms.date: 06/08/2018
-ms.openlocfilehash: cc6cc924cf45fa19d7f91235515981b636abf77d
-ms.sourcegitcommit: 0d423b50d2f1f4eccd64e35e00f67313244efba9
+ms.openlocfilehash: 18198007bf61d448581335594016433668edb47d
+ms.sourcegitcommit: 23173f7d0ca5079662ef4060371d8ee11bac228e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37141503"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "37611415"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 časté otázky týkající se podniků
 
 ## <a name="general"></a>Obecné
 
 ### <a name="what-is-microsoft-365-business"></a>Co je společnost Microsoft 365 Business? 
-Microsoft 365 je integrované řešení, které spojuje nejlepší nástroje pro zvýšení produktivity, zabezpečení a možnosti správy zařízení pro malé a střední podniky. 
+Microsoft 365 je integrované řešení, které spojuje nejlepší nástroje pro zvýšení produktivity, zabezpečení a možnosti správy zařízení pro malé a střední podniky. Zahrnuje:
 
 **Sada nástrojů pro produktivitu práce a spolupráci** 
 * Aplikace Word, Excel, PowerPoint, Outlook, OneNote, Publisher a Access 
-* Exchange, OneDrive, Skype for Business, Microsoft týmy, SharePoint 
-* Obchodní aplikace ze sady Office (rezervace, Správce informací o zákaznících, míle<sup>[1](#footnote1)</sup>, Microsoft fakturaci<sup>[1](#footnote1)</sup>) 
+* Exchange, OneDrive, Skype for Business, Microsoft týmy a SharePoint. 
+* Obchodní aplikace z úřadu (rezervace, míle<sup>[1](#footnote1)</sup>). 
  
 **Funkce pro správu a zabezpečení zařízení na podnikové třídě** 
-- Pomáhá poskytovat ochranu před vnějšími hrozbami, jako je například phishing & sofistikovaný malware se sadou Office 365 Pokročilá ochrana proti hrozbám a ochrana proti zneužití programu Windows Defender 
--  Pomáhá řídit & správu způsobu přístupu a přenosu citlivých informací pomocí sady Office 365 politiky prevence ztrát dat (k dispozici v létě, 2018) a plánu ochrany informací Azure 1 
+- Pomáhá poskytovat ochranu před vnějšími hrozbami, jako je například phishing & sofistikovaný malware se sadou Office 365 Rozšířený plán ochrany proti ohrožení 1 a ochrana proti zneužití programu Windows Defender. 
+-  Pomáhá řídit & správu způsobu přístupu a přenosu citlivých informací pomocí sady Office 365 politika prevence ztrát dat a plán ochrany informací Azure 1. 
 -  Pomáhá chránit, uchovávat a zálohovat data pomocí archivace online serveru Exchange.  
--   Ochrana aplikací pro sadu Office & jiné mobilní aplikace s ochranou Intune App 
--  Správa zařízení pro počítače se systémem Windows 10, MacOS & mobilní zařízení s řízením zařízení Intune 
--  Konzistentní konfigurace zabezpečení mezi zařízeními-ochrana dat společnosti mezi zařízeními-Windows Defender, vždy aktuální 
+-   Ochrana aplikace pro sadu Office & jiné mobilní aplikace s ochranou Intune App Protection. 
+-  Správa zařízení pro počítače se systémem Windows 10, MacOS & mobilní zařízení s správou zařízení Intune. 
+-  Ochrana identity s vícefaktorového ověřování, obnovením hesla pro vlastní službu a podmíněným přístupem.
+-  Konzistentní konfigurace zabezpečení mezi zařízeními – ochrana dat společnosti mezi zařízeními – Windows Defender, vždy aktuální 
  
  
 **Zjednodušené nasazení zařízení a nastavení uživatelů** 
 * Jediná Konzola pro správu, která umožňuje nastavit a spravovat uživatele a zařízení 
-* Automatická instalace aplikací sady Office v počítačích se systémem Windows 10 
-* Vždy aktuální sada Office + Windows 10 
-* Zjednodušené nasazení počítačů pomocí systému Windows AutoPilot
+* Automatická instalace aplikací sady Office do počítačů se systémem Windows 10. 
+* Vždy aktuální sada Office + Windows 10. 
+* Zjednodušené nasazení počítačů pomocí systému Windows AutoPilot.
 
-**Povolení podmíněného přístupu**
-- Společnost Microsoft 365 obchodní zákazníci mohou povolit podmíněný přístup prostřednictvím nastavení Azure Directory v Azure portálu. Další informace o konfiguraci zásad podmíněného přístupu naleznete v článku [co je podmíněný přístup](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
+**Ostatní nároky** 
+- Microsoft 365 obchodní zákazníci mají také přístup k možnostem aktivace virtuální plochy systému Windows a aktivaci sdíleného počítače. Další informace naleznete v [blogu Microsoft 365 Business Blog](https://techcommunity.microsoft.com/t5/Microsoft-365-Business-Blog/bg-p/Microsoft365BusinessBlog) . Viz také [Popis služby Microsoft 365 Business Service](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description).
 
 ### <a name="who-should-consider-adopting-microsoft-365-business"></a>Kdo by měl zvážit přijetí produktu Microsoft 365 Business? 
-Společnost Microsoft 365 Business byla postavena pro malé a středně velké zákazníky, kteří nemají jen málo zdrojů IT na zaměstnancích a chtějí možnosti zvýšení produktivity a spolupráce v sadě Office 365 spolu se správou zařízení a bezpečnostními řešeními, která zabezpečit obchodní data. Zákazník společnosti Microsoft 365 Business je připraven přesunout své operace IT do mraku a má zájem na zachování aktivního přístupu, který by pomohl chránit data jak u společnosti, tak u zařízení vlastněných zaměstnanci.
+Microsoft 365 Business je komplexní řešení zabezpečení založené na oblaku, které umožňuje:  
+- Braň svůj obchod proti pokročilým kyberhrozbám pomocí sofistikované podvodné a ransomwarové ochrany. 
+- Pomocí šifrování můžete řídit přístup k citlivým informacím a zabránit tak náhodnému sdílení dat s někým, kdo není oprávněn jej zobrazit. 
+- Zabezpečte zařízení, která se připojují k vašemu podniku, a zajistěte, aby data v systémech iOS, Android, Windows a Mac byla zabezpečena a aby byla vaše zařízení systému Windows aktuální.
+
+Společnost Microsoft 365 Business je plně integrována se sadou Office 365, která vám poskytne známé umístění pro správu, fakturaci a podporu 24x7. Je složena z podnikové technologie postavené pro podniky s méně než 300 zaměstnanci. 
 
 ### <a name="how-can-i-get-microsoft-365-business-for-my-business"></a>Jak lze získat společnost Microsoft 365 Business pro svůj podnik? 
 Společnost Microsoft 365 Business může být zakoupena prostřednictvím <a href="https://www.microsoft.com/solution-providers/search" target="_blank">partnera společnosti Microsoft</a> nebo přímo od <a href="https://www.microsoft.com//microsoft-365/business" target="_blank">společnosti Microsoft</a>. Při volbě, zda chcete zakoupit přímo od společnosti Microsoft nebo prostřednictvím partnera společnosti Microsoft, byste měli zvážit možnost svého personálu a touhu udržovat infrastrukturu IT. Partner společnosti Microsoft vám může pomoci s nasazením a správou infrastruktury IT včetně řešení společnosti Microsoft.
@@ -75,7 +81,11 @@ Pokud je dnes spuštěný hardware spuštěn systém Windows 7 pro nebo vyšší
 V systému Windows 10 je kompatibilita se stávající aplikací pro stolní počítače (Win32) silná, přičemž většina existujících aplikací pracuje beze změn. Zákazníci a jejich důvěryhodní poradci v oblasti IT by měli přečíst doporučený postup testování aplikací pro <a href="https://docs.microsoft.com/windows/deployment/planning/windows-10-compatibility#recommended-application-testing-process" target="_blank">kompatibilitu se systémem Windows 10</a> a zkontrolovat <a href="https://products.office.com/office-system-requirements#subscription-plans-section" target="_blank">požadavky systému Office</a> , aby byl zajištěn hladký přechod k aplikaci Microsoft 365 Business. 
 
 ### <a name="what-is-windows-10-business"></a>Co je systém Windows 10 Business? 
-Windows 10 Business je sada funkcí shluku a správy zařízení, které doplňují systém Windows 10 pro a umožňují centralizované ovládací prvky pro správu a zabezpečení společnosti Microsoft 365 Business. Systém Windows 10 Business také dodává se službou Windows AutoPilot, což je služba, která zefektivní zavádění nových počítačů se systémem Windows 10. Pokud máte zařízení s licencí pro systémy Windows 7, 8 a 8,1 Professional, Microsoft 365 Business poskytuje upgrade na systém Windows 10 pro, což je předpoklad pro zavedení systému Windows 10 Business.
+Windows 10 Business je sada funkcí shluku a správy zařízení, které doplňují systém Windows 10 pro a umožňují centralizované ovládací prvky pro správu a zabezpečení společnosti Microsoft 365 Business.
+
+Systém Windows 10 Business obsahuje také určité prémiové funkce programu Microsoft Defender, jako je přístup k kontrolovaným složkám a ochrana sítě webových vláken. Zahrnuje také službu Windows AutoPilot, což je služba, která zefektivní zavádění nových počítačů se systémem Windows 10.
+
+Pokud máte zařízení s licencí pro systémy Windows 7, 8 a 8,1 Professional, Microsoft 365 Business poskytuje upgrade na systém Windows 10 pro, což je předpoklad pro zavedení systému Windows 10 Business.
 > [!IMPORTANT]
 > Při inovaci je třeba zadat původní kód Product Key, jinak upgrade nebude fungovat. 
 
@@ -99,7 +109,7 @@ Společnost Microsoft disponuje řadou nabídek správy produktivity a zabezpeč
 
 **Sada office 365 Business Premium** poskytuje produktivitu v nejlepší třídě s aplikacemi a službami sady Office 365, ale nezahrnuje funkce ochrany aplikací a správy zařízení společnosti Microsoft 365 Business.
 
-**Společnost Microsoft 365 Business** kombinuje sady Office 365 aplikace a služby s pomocí správy mobilních aplikací a systému Windows 10 pro, které umožňují vzdálenou správu a pomáhají chránit zařízení před viry a malwarem. Obsahuje zjednodušenou konzolu pro správu, prostřednictvím které mohou být spravovány zásady zařízení a dat. Pro společnost Microsoft 365 Business lze nejlépe podávat mnoho malých a středně velkých podniků. 
+**Microsoft 365 Business** kombinuje sady Office 365 aplikace a služby s pokročilými funkcemi zabezpečení, které pomáhají chránit vaše podnikání před pokročilými kyberhrozbami, zabezpečit data a spravovat vaše zařízení. Obsahuje zjednodušenou konzolu pro správu, prostřednictvím které mohou být spravovány zásady zařízení a dat. Pro společnost Microsoft 365 Business lze nejlépe podávat mnoho malých a středně velkých podniků. 
  
 **Microsoft 365 Enterprise** je sada licenčních plánů, které nabízejí zvýšenou úroveň kompatibility a zabezpečení v systému Microsoft 365 Business a jsou navrženy pro podnikové zákazníky a zákazníky, kteří mají více než 300 uživatelů. Kromě toho plány Microsoft 365 Enterprise nabízejí další funkce včetně analytických nástrojů.
 
@@ -137,18 +147,13 @@ Windows AutoPilot je služba, která zjednodušuje nasazení nových počítač�
 ## <a name="compatibility"></a>Kompatibility
 
 ### <a name="can-i-add-office-365-add-ons-to-microsoft-365-business"></a>Mohu přidat doplňky sady Office 365 do společnosti Microsoft 365 Business? 
-Všechny doplňky, které lze přidat do sady Office 365 Business Premium, lze přidat do společnosti Microsoft 365 Business. To znamená, že můžete zakoupit rozšířenou ochranu proti hrozbám, sadu Office 365, zabezpečení aplikace Cloud App, pokročilé zajištění kompatibility, informace o hrozbě, službu Mojeanalytics, PowerBI pro a zvukové konference. 
+Všechny doplňky, které lze přidat do sady Office 365 Business Premium, lze přidat do společnosti Microsoft 365 Business. To znamená, že můžete zakoupit sadu Office 365 Cloud App, pokročilé zabezpečení, informace o ohrožení, MyAnalytics, PowerBI pro a audio Conferencing. 
  
 ### <a name="can-i-add-phone-system-and-calling-plans-to-microsoft-365-business"></a>Mohu přidat telefonní systém a volat plány společnosti Microsoft 365 Business? 
 Ne, telefonní systém a volací plán jsou vyhrazeny pro zákazníky, kteří mají pokročilejší potřeby. Zákazníci, kteří tyto možnosti požadují, by se měli podívat na nabídky Microsoft 365 Enterprise. 
  
 ### <a name="can-microsoft-365-business-customers-use-windows-defender-advanced-threat-protection"></a>Může společnost Microsoft 365 obchodní zákazníci používat rozšířenou ochranu proti ohrožení programu Windows Defender? 
 Ne, zákazníci, kteří vyžadují rozšířenou ochranu proti ohrožení pomocí programu Windows Defender, potřebují systém Windows 10 Enterprise E5 nebo Microsoft 365 Enterprise E5. 
- 
-
-
-### <a name="can-customers-create-hosted-windows-10-vms-with-a-microsoft-365-business-subscription"></a>Mohou zákazníci vytvářet hostované systémy Windows 10 VMs pomocí předplatného společnosti Microsoft 365 Business? 
-Ne, zákazníci, kteří požadují virtualizaci, by měli zakoupit systém Windows 10 Enterprise nebo předplatné Microsoft 365 Enterprise.
 
 ## <a name="partner-opportunity"></a>Partnerská příležitost
 
@@ -180,20 +185,11 @@ Zprostředkovatel řešení Cloud společnosti Microsoft by měl vždy prodat pl
  
 ### <a name="some-of-my-customers-have-devices-that-are-not-genuine-will-microsoft-365-business-make-these-devices-genuine"></a>Někteří mí zákazníci mají zařízení, která nejsou pravá; bude společnost Microsoft 365 Business provádět tato zařízení jako pravá? 
 Aplikace Microsoft 365 Business netvoří jinak originální verzi systému Windows, která není originální. Společnost Microsoft 365 Business poskytuje výhody pro upgrade, díky čemuž mohou zákazníci, kteří používají originální systém Windows 7, 8 nebo 8,1 pro, upgradovat na nejnovější pravou verzi systému Windows 10 pro. 
- 
-### <a name="what-support-is-available-to-csp-partners-for-the-microsoft-365-business-preview"></a>Jaká podpora je k dispozici partnerům CSP pro aplikaci Microsoft 365 Business Preview? 
-Stejné kanály podpory, které jsou k dispozici partnerům CSP dnes (Podpora Premier a pokročilé podpůrné programy), byly vyškolené na webu Microsoft 365 Business a jsou připraveny poskytnout podporu partnerům. 
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>Co je to GDPR a jak společnost Microsoft 365 Business pomáhá zákazníkům s plněním závazků?
-Obecné nařízení o ochraně údajů (GDPR) je obsáhlým novým zákonem o ochraně soukromí, který poskytuje rezidentům Evropské unie (EU) větší kontrolu nad jejich "osobními údaji" a vyžaduje, aby organizace zachovaly integritu těchto osobních údajů. GDPR vyžaduje, aby organizace, které kontrolují nebo zpracovávají osobní údaje vázané na obyvatele EU, používaly pouze datové procesory jiných výrobců, které splňují požadavky GDPR pro zpracování osobních údajů. V březnu 2017 společnost Microsoft poskytla k dispozici smluvní záruky, které tyto záruky poskytují. Zákazníci, kteří mají dotazy, jak jim může společnost Microsoft pomoci splnit své dodatečné povinnosti v rámci GDPR, by měli získat informace o rozšířených funkcích kompatibility a zabezpečení, které jsou k dispozici jako doplňky (např. Ochrana informací Azure, zabránění ztrátě dat, upřesnění Ochrana proti ohrožení, atd.) a v jiných apartmánech (např. Microsoft 365 Enterprise E5). Další informace získáte na adrese [www.Microsoft.com/gdpr](https://www.microsoft.com/gdpr).
-
-
+Obecné nařízení o ochraně údajů (GDPR) je obsáhlým novým zákonem o ochraně soukromí, který poskytuje rezidentům Evropské unie (EU) větší kontrolu nad jejich "osobními údaji" a vyžaduje, aby organizace zachovaly integritu těchto osobních údajů. GDPR vyžaduje, aby organizace, které kontrolují nebo zpracovávají osobní údaje vázané na obyvatele EU, používaly pouze datové procesory jiných výrobců, které splňují požadavky GDPR pro zpracování osobních údajů. V březnu 2017 společnost Microsoft poskytla k dispozici smluvní záruky, které tyto záruky poskytují. Zákazníci, kteří mají dotazy, jak jim může společnost Microsoft pomoci splnit své dodatečné povinnosti v rámci GDPR, by měli získat informace o rozšířených funkcích kompatibility a zabezpečení dostupných v aplikaci Microsoft 365 Business (např. Ochrana informací Azure, ztráta dat Prevence, Pokročilá ochrana proti ohrožení, atd.) a v jiných apartmánech (např. Microsoft 365 Enterprise E5). Další informace získáte na adrese [www.Microsoft.com/gdpr](https://www.microsoft.com/gdpr).
 
 
 ## <a name="footnotes"></a>Poznámky pod čarou
 <sup><a name="footnote1">**1**</a></sup> <small>k dispozici v USA, Velké Británii a Kanadě.</small> </br>
 <sup><a name="footnote2">**2**</a></sup> <small>zařízení se systémem windows 7 nebo 8,1 pro jsou způsobilá pro upgrade na systém Windows 10 pro v rámci programu Microsoft 365 Business Preview.</small>
- 
-
-
-
