@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Seznamte se s funkcemi zabezpečení, které jsou součástí aplikace Microsoft 365 Business.
-ms.openlocfilehash: 668b83e363a40e61391cbe56b0dbfab88cae7c43
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 0d1c35192bf82ac61e59356cda4d9fb29cb3d995
+ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575692"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37636766"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 obchodní zabezpečení a funkce kompatibility
 
@@ -48,7 +48,7 @@ V centru pro správu můžete spravovat mnoho funkcí aplikace Microsoft 365 Bus
     
 - Nastavení [ochrany zařízení pro zařízení systému Windows 10](protection-settings-for-windows-10-pcs.md) . 
     
-    Pomocí šifrování [nástroje BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) můžete zajistit ochranu dat v případě ztráty nebo krádeže zařízení a povolení ochrany pomocí [systému Windows](https://go.microsoft.com/fwlink/p/?linkid=871404) , která poskytuje rozšířenou ochranu před Ransomware. 
+    Pomocí šifrování [nástroje BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) můžete zajistit ochranu dat v případě ztráty nebo krádeže zařízení a povolení ochrany pomocí [systému Windows](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) , která poskytuje rozšířenou ochranu před Ransomware. 
     
 - [Odebrání dat společnosti ze zařízení](remove-company-data.md)
     

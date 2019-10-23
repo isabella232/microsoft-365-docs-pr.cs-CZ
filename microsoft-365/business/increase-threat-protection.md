@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Nastavení sady Office 365 Pokročilá ochrana proti ohrožení a ochrana citlivých dat
-ms.openlocfilehash: 0b0c1ac1d23bc7b167a58ecf93019a77c51c4366
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: fb63ca7e3cf38ecf31aab98e425b02e8b9983bf8
+ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37576012"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37636746"
 ---
 # <a name="increase-threat-protection"></a>Zvýšení ochrany proti ohrožení
 
@@ -134,7 +134,7 @@ Chcete-li vytvořit protipodvodné zásady ATP, Sledujte [Toto krátké výukov�
     
 4. Na stránce **anti-phishing** vyberte možnost **+ Create**. Spustí se průvodce, který vás provede definováním protipodvodných zásad.
     
-5. Podle doporučení v následující tabulce zadejte název, popis a nastavení zásad. Další informace naleznete v tématu [informace o možnostech ATP anti-phishing zásad](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409) . 
+5. Podle doporučení v následující tabulce zadejte název, popis a nastavení zásad. Další informace naleznete v tématu [informace o možnostech ATP anti-phishing zásad](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies#learn-about-atp-anti-phishing-policy-options) . 
     
 6. Po kontrole nastavení zvolte možnost **vytvořit tuto zásadu** nebo ji **uložte**podle potřeby.
     
