@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, nejčastější dotazy, nejčastější dotazy, odpovědi, obchody
 ms.date: 06/08/2018
-ms.openlocfilehash: 18198007bf61d448581335594016433668edb47d
-ms.sourcegitcommit: 23173f7d0ca5079662ef4060371d8ee11bac228e
+ms.openlocfilehash: 23cf7c4770387050c60ac21f537fbd7738a8aab4
+ms.sourcegitcommit: 1e3916bbe94d4fbb858566e7db5018e1e46bcd0d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611415"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37646379"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 časté otázky týkající se podniků
 
@@ -164,7 +164,7 @@ Poskytovatelé služeb IT, kteří nejsou dosud partnery společnosti Microsoft,
 Partneři, kteří nyní prodávají sadu Office 365, mohou používat stejné konzultační způsoby prodeje jako prodej společnosti Microsoft 365 Business. Navíc zavádíme více zdrojů a školení pro vaše prodejní týmy, abyste pochopili stávající prostředí pro stolní počítače, spoléhání se na službu Active Directory, mobilitu a zabezpečení musí účinně sdělovat plnou hodnotu společnosti Microsoft 365 Business způsobem, který je pro zákazníka relevantní. Tyto zdroje naleznete na portálu pro partnery Office na [http://partners.office.com/microsoft365business](http://partners.office.com/microsoft365business)adrese. 
 
 ### <a name="how-can-microsoft-365-business-help-partners-increase-the-profitability"></a>Jak může společnost Microsoft 365 obchodní partneři zvýšit ziskovost? 
-Společnost Microsoft 365 Business pomůže partnerům snižovat náklady díky vyšší provozní efektivitě a zvýšit výnosy prodejem dalších služeb. Studie společnosti Forrester Research, Microsoft 365 Business Total ekonomický dopad (TEI), červen 2017 (https://partners.office.com/TEIBusiness), dokládá, že společnost Microsoft 365 Business bude mít kladný dopad na ziskovost partnerů. 
+Společnost Microsoft 365 Business pomůže partnerům snižovat náklady díky vyšší provozní efektivitě a zvýšit výnosy prodejem dalších služeb. Studie společnosti Forrester Research, Microsoft 365 Business Total ekonomický dopad (TEI), červen 2017 (https://www.microsoft.com/microsoft-365/partners/PartnerTEI), dokládá, že společnost Microsoft 365 Business bude mít kladný dopad na ziskovost partnerů. 
 
 V partnerských studiích společnosti TEI bylo hlášeno, že společnost Microsoft 365 Business očekává: 
 
