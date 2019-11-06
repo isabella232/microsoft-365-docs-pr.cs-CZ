@@ -1,9 +1,9 @@
 # Microsoft 365 Business
-## [Microsoft 365](index.md)
+## [Microsoft 365](index.yml)
 ## [Co je společnost Microsoft 365 Business?](microsoft-365-business-overview.md)
 ## [Získejte Microsoft 365 Business](sign-up.md)
 ## [Předběžné požadavky pro ochranu dat](pre-requisites-for-data-protection.md)
-## Nastavení
+## Instalace
 ### [Přehled nastavení](set-up-overview.md)
 ### [Nastavení aplikace Microsoft 365 Business](set-up.md)
 ### [Inovovat na aktualizaci Windows pro Creator](upgrade-to-windows-pro-creators-update.md)
@@ -20,7 +20,7 @@
 ### [Zvýšení ochrany proti ohrožení](increase-threat-protection.md)
 ### [Nastavení funkcí kompatibility](set-up-compliance.md)
 ## Správa uživatelů
-### [Add users](add-users-m365b.md)
+### [Přidání uživatelů](add-users-m365b.md)
 ### [Odebrání zaměstnance](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ## Spravovat zařízení
 ### [Zobrazení a úprava zásad a zařízení](view-policies-and-devices.md)
@@ -32,7 +32,10 @@
 ### [Nastavení ochrany zařízení pro počítače se systémem Windows 10](protection-settings-for-windows-10-pcs.md)
 #### [Ověřit nastavení v počítačích se systémem Windows 10](validate-settings-on-windows-10-pcs.md)
 ### [Nastavení ochrany aplikace pro počítače se systémem Windows 10](protection-settings-for-windows-10-devices.md)
-## [Migrace na Microsoft 365 Business](migrate-to-microsoft-365-business.md)
+## Migrace na Microsoft 365 Business
+### [Migrace z aplikace Office 365 Business Premium](migrate-to-microsoft-365-business.md)
+### [Migrovat ze sady Office 365 E3](migrate-from-e3.md)
+### [Migrovat ro Microsoft 365 Enterprise](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
 ## Fakturace
 ### [Váš účet](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Platit](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)

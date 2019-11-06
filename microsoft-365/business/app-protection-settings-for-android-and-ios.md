@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Naučte se vytvářet, upravovat nebo odstraňovat zásady správy aplikací a chránit pracovní soubory na zařízeních Android nebo iOS.
-ms.openlocfilehash: a829cfbcb3209313a53e0a1406f5252d3d5580d8
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 914e6848ac46eb334516aadff2827da2b83a38c4
+ms.sourcegitcommit: 0fa897d06b664c0ed005817752da1426d4ee17cb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574732"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "38002079"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Nastavení ochrany aplikací pro zařízení s Androidem nebo iOSem
 
@@ -71,7 +71,7 @@ ms.locfileid: "37574732"
     
 ## <a name="available-settings"></a>Dostupná nastavení
 
-Následující tabulky poskytují podrobné informace o dostupných nastaveních, která chrání pracovní soubory na zařízeních, a nastaveních, která spravují přístup uživatelů k souborům Office z mobilních zařízení.
+Následující tabulky obsahují podrobné informace o dostupných nastaveních pro ochranu pracovních souborů na zařízeních a nastavení, které řídí způsob, jakým uživatelé přistupují k souborům sady Office z mobilních zařízení.
   
  Další informace najdete v tématu o [mapování funkcí ochrany v Microsoft 365 Business na nastavení Intune](map-protection-features-to-intune-settings.md). 
   
