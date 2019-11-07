@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Nastavení sady Office 365 Pokročilá ochrana proti ohrožení a ochrana citlivých dat
-ms.openlocfilehash: fb63ca7e3cf38ecf31aab98e425b02e8b9983bf8
-ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
+ms.openlocfilehash: 1827b70f1e4d78a072753390c1a99d7cb4bd5cfd
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37636746"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38030758"
 ---
 # <a name="increase-threat-protection"></a>Zvýšení ochrany proti ohrožení
 
@@ -31,7 +31,7 @@ Tento článek pomáhá zvýšit ochranu předplatného aplikace Microsoft 365, 
 
 Než začnete, zkontrolujte, zda je v sadě Office 365 bezpečné skóre. Sada Office 365 zabezpečené skóre analyzuje zabezpečení organizace Office 365 na základě pravidelných aktivit a nastavení zabezpečení a přiřazuje skóre. Začněte tím, že si budete brát na vědomí aktuální skóre. S ohledem na akce doporučené v tomto článku zvýšíte skóre. Cílem není dosáhnout maximálního skóre, ale uvědomit si možnosti ochrany vašeho prostředí, které negativně neovlivní produktivitu pro uživatele. 
 
-Další informace naleznete v tématu [Microsoft Secure Score](https://docs.microsoft.com/en-us/office365/securitycompliance/microsoft-secure-score).
+Další informace naleznete v tématu [Microsoft Secure Score](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Zvýšit úroveň ochrany proti malwaru v poště
 

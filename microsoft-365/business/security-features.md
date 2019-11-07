@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Seznamte se s funkcemi zabezpečení, které jsou součástí aplikace Microsoft 365 Business.
-ms.openlocfilehash: 0d1c35192bf82ac61e59356cda4d9fb29cb3d995
-ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
+ms.openlocfilehash: 5e295480b1a578ca26646a89d6a0a4183a15428d
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37636766"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031439"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 obchodní zabezpečení a funkce kompatibility
 
@@ -73,7 +73,7 @@ V aplikaci Microsoft 365 Business jsou k dispozici pokročilé funkce, které v�
 - **[Plné schopnosti Intune v azurově portálu](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
     Přístup k centrovému středisku Intune v Azure portálu umožňuje nastavit další zabezpečovací funkce, jako je Správa zařízení MacOS, iPhone a Android, spolu s rozšířenou správou zařízení pro systém Windows, které nejsou dostupné prostřednictvím společnosti Microsoft 365 centrum pro správu podniku.
-- **Stejný [podmíněný přístup](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) jako plán Azure AD P1**
+- **Stejný [podmíněný přístup](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) jako plán Azure AD P1**
 
     Podmíněný přístup může pomoci ochránit vaši organizaci před svým přístupem, pokusy o přístup z neočekávané sítě nebo národního prostředí, pokusy o přístup vytvářejí rizikové typy zařízení atd. Zásady podmíněného přístupu jsou vynuceny po dokončení prvního ověřování a pomocí signálů z první události ověřování lze určit, zda má být pokus o přístup schválen, odepřen nebo f více důkazů (například druhá forma identifikace) Požadované.
 

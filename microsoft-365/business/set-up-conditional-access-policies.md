@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Naučte se nastavit zásady podmíněného přístupu pro aplikaci Microsoft 365 kampaněmi.
-ms.openlocfilehash: 31f3b7f3678671af3b5ca3947dec37041b226fac
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 3772aa0d505ef54a0587423e890ede519d571e0c
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575632"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031389"
 ---
 # <a name="set-up-conditional-access-policies"></a>Nastavení zásad podmíněného přístupu
 
@@ -53,9 +53,9 @@ Další informace o těchto zásadách naleznete v tématu [co jsou základní z
     ![Stránka se seznamem zásad základní úrovně pro podmíněný přístup.](media/baslinepolicies.png)
 1. Pro jednotlivé zásady se podívejte na následující specifické pokyny:
 
-  - [Vyžadovat MFA pro administrátoři](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-administrators)
-- [Vyžadovat MFA pro uživatele](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-end-users)  
- - [Blokovat starší ověřování](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
+  - [Vyžadovat MFA pro administrátoři](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)
+- [Vyžadovat MFA pro uživatele](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)  
+ - [Blokovat starší ověřování](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
   - [Vyžadovat MFA pro správu servisu](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-azure)
 
 Můžete nastavit mnoho dalších zásad, například vyžadování schválených klientských aplikací. Další informace naleznete v [dokumentaci k podmíněnému přístupu](https://docs.microsoft.com/azure/active-directory/conditional-access/) .
