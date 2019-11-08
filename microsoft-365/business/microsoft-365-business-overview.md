@@ -22,18 +22,18 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Naučte se nastavit aplikaci Microsoft 365 Business.
-ms.openlocfilehash: afc39ce57e63ad039780ad33e60fa81d8e8eec7a
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 86af927c05168fabe5a72f331c14c9f3e5cbc1dd
+ms.sourcegitcommit: 550ea6f093ec35182e7c65a2811e9bfb07ec7d01
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38031459"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38038943"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Přehled produktu Microsoft 365 Business
 
 ## <a name="what-is-microsoft-365-business"></a>Co je Microsoft 365 Business
 
-Microsoft 365 Business je komplexní sada nástrojů zaměřených na produktivitu firmy a spolupráci, do které například patří vždy aktuální Outlook, Word, Excel a další produkty Office. Pracovní soubory můžete chránit na všech zařízeních s iOSem, Androidem a Windows 10. Umožňuje to zabezpečení na podnikové úrovni s jednoduchou správou.
+Microsoft 365 Business je předplatitelskou službou, která zahrnuje nástroje sady Office 365 produktivity a pokročilé funkce, které pomáhají chránit vaše podnikání před kyberhrozbami, chránit data a spravovat zařízení.
   
 Microsoft 365 Business umožňuje používat maximálně 300 licencí. Pokud potřebujete více licencí, podívejte se na dokumentaci k [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986), kde získáte více informací.
 

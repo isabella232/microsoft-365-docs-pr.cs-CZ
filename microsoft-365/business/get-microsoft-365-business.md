@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
 description: Dozvíte se, jak zakoupit aplikaci Microsoft 365 Business od společnosti Microsoft Partner Center.
-ms.openlocfilehash: 168c68c7394ff736e9d94cb40872230a3f3b8894
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 09d2f24fba1725278b663d5c3159163a56dcdc59
+ms.sourcegitcommit: 550ea6f093ec35182e7c65a2811e9bfb07ec7d01
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38030808"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38038913"
 ---
 # <a name="get-microsoft-365-business"></a>Jak získat Microsoft 365 Business
 
@@ -36,7 +36,7 @@ Pokud nemáte partnera a chcete získat Microsoft 365 Business, můžete si ho [
 
 Podrobné pokyny naleznete v části [Přihlásit se k produktu Microsoft 365 Business](sign-up.md) .
 
-Můžete také zamířit do [aplikace Microsoft Store](https://www.microsoft.com/store/locations/find-a-store?icid=en-us_UF_FAS) a zakoupit aplikaci Microsoft 365 Business a získat nápovědu pro nastavení.
+Můžete také zamířit do [aplikace Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) a zakoupit aplikaci Microsoft 365 Business a získat nápovědu pro nastavení.
   
 ## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a>Získání Microsoft 365 Business z partnerského centra Microsoftu
 
@@ -46,7 +46,7 @@ Můžete také zamířit do [aplikace Microsoft Store](https://www.microsoft.com
     
     ![In the Microsoft Partner center, add a new customer.](media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
-3. Na stránce **Předplatné** zákazníka vyberte Přidat předplatné, v části Katalog zvolte možnost Malá firma a potom zvolte **Microsoft 365 Business**.
+3. Na stránce **předplatného** zákazníka vyberte položku **Přidat předplatné**, v části katalog vyberte možnost malá obchodní společnost a pak vyberte položku **Microsoft 365 Business**.
     
     Vyberte požadovaný počet licencí (maximálně 300). Pokud máte více než 300 uživatelů, přejděte k [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316). 
     
