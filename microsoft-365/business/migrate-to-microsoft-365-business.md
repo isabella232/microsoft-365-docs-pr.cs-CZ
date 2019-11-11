@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Kroky pro upgrade vašeho podniku z produktu Office 365 Business Premium na Microsoft 365 Business.
-ms.openlocfilehash: 1e337b908f848da1d33cbd8e662652550d302b14
-ms.sourcegitcommit: 0fa897d06b664c0ed005817752da1426d4ee17cb
+ms.openlocfilehash: f3a25746cf123fa471c29084a62a6fcfc1542a02
+ms.sourcegitcommit: f0a4290793e296474ecd3c6eb0ca96eae7faa434
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "38002105"
+ms.lasthandoff: 11/11/2019
+ms.locfileid: "38231405"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Inovujte na aplikaci Microsoft 365 Business z webu Office 365 Business Premium
 
@@ -38,37 +38,6 @@ Další informace o společnosti Microsoft 365 Business na adrese [Microsoft.com
 ## <a name="whats-the-difference-between-office-365-business-premium-and-microsoft-365-business"></a>Jaký je rozdíl mezi sadou Office 365 Business Premium a společností Microsoft 365 Business?
 Přidali jsme souběžné porovnání těchto dvou plánů k [popisu obchodní služby Microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description). 
 
-1. Jakmile jste zakoupili nové licence a poprvé jste to udělali, zobrazí se nápis nastavení pro Microsoft 365 Business v horní části centra pro správu.
-    
-    > [!NOTE]
-    > Nápis nastavení je příležitostí k přidání nových uživatelů, nové domény a k migraci e-mailů pro nové uživatele. Pokud nechcete provádět žádné řešení, měli byste stále procházet Průvodce a zvolit výchozí možnosti, které z domovské stránky pro správu zmizí. 
-  
-   ![Klepněte na tlačítko Start v aplikaci Microsoft 365 Business je připraven k vytvoření nápisu.](media/8d3b0d97-7cca-497f-9364-4b00ad670209.png)
-  
-    Zvolte možnost **Spustit instalaci**.
-    
-2. Na stránce **přizpůsobit přihlašovací a e-mailovou** stránku můžete přidat doménu volbou **připojit již vlastní doménu** , pokud chcete tuto příležitost použít k přidání další domény do předplatného. 
-    
-    Pokud jste již nastavili doménu, druhé pole označí, že bude **pokračovat v používání** \< _názvu_ \> domény **pro e-mail a přihlášení**.   Pokud jste nenastavili doménu s vaším předplatitelním, budete pokračovat v **používání** \< _vaší společnosti Name.onmicrosoft.com_ \> **pro e-mail a přihlášení**.  
-    
-    Zvolte **Další**.
-    
-    ![Na stránce přizpůsobit přihlášení a e-mailovou stránku vyberte buď doménu, nebo použijte ten, který jste používali.](media/c3f5cfb2-1189-4d2f-803b-c9feb008a7a3.png)
-  
-3. Na stránce **Přidat nové uživatele** můžete přidat nové uživatele, pokud máte nové zaměstnance, kterým chcete přiřadit obchodní licence společnosti Microsoft 365. 
-    
-    Pokud nemáte nové zaměstnance k přidání a chcete přiřadit licence existujícím uživatelům, zvolte **Další**.
-    
-4. Na stránce **migrovat e-mailové zprávy** můžete zvolit migraci e-mailů pro všechny nové uživatele, které jste přidali v kroku 3. Tento krok můžete také vynechat. Zvolte **Další**.
-    
-5. Na poslední stránce Zvolte možnost **Přejít do centra pro správu**a pokračujte v instalaci.
-    
-6. V centru pro správu přejděte na **uživatele** \> **Active Users**.
-    
-7. Vyberte uživatele, kterému chcete přiřadit licenci **Microsoft 365 Business** License, a pak zvolte možnost **Upravit** vedle **licencí produktu**.
-    
-    ![Na kartě uživatele zvolte možnost Upravit vedle licencí produktu.](media/be0fe2d8-7ff8-447c-88f6-d212ed78451c.png)
-  
 ## <a name="before-you-get-started"></a>Než začnete
 
 - **Kdy je vhodné zvolit upgrade?** Upgrade je správná volba, pokud chcete upgradovat **všechny uživatele** přiřazené k jedinému plánu. Při volbě upgradu se všichni uživatelé plánují přepnout na jiný plán najednou. Pokud nechcete inovovat všechny uživatele přiřazené k jedinému plánu, kupte si licence pro nový plán (v tomto případě Microsoft 365 Business) a [přiřaďte licence jednotlivě](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) každému uživateli, kterého chcete inovovat. 
