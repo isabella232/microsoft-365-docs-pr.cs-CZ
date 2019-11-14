@@ -23,24 +23,24 @@ search.appverid:
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
 description: Naučte se odesílat zařízení pomocí služby AutoPilot v aplikaci Microsoft 365 Business. K zařízení nebo skupině zařízení můžete přiřadit profil.
-ms.openlocfilehash: 4eadaa800aa174bcd9cac50375f68c8471e1684e
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 1dd6b1a574166379e29465bf3699e47e3b155e0b
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575402"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38320252"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>Vytvoření a úpravy zařízení pomocí AutoPilota
 
 ## <a name="upload-a-list-of-devices"></a>Nahrání seznamu zařízení
 
-K nahrání zařízení můžete použít [podrobného průvodce](add-autopilot-devices-and-profile.md). Zařízení také můžete nahrát na kartě **Zařízení**. 
+K nahrání zařízení můžete použít [podrobný průvodce](add-autopilot-devices-and-profile.md) , ale můžete také odeslat zařízení na kartě **zařízení** . 
   
-Zařízení musejí splňovat tyto podmínky:
+Zařízení musí splňovat tyto požadavky:
   
-- Windows 10 verze 1703 nebo novější.
+- Windows 10, verze 1703 nebo novější
     
-- Nová zařízení, na kterých nedošlo ke spuštění softwaru Windows používaného při prvním zapnutí počítače.
+- Nová zařízení, která nebyla součástí systému Windows,
 
 1. V centru Microsoft 365 Business admin zvolte **zařízení** \> **autopilot**.
   
@@ -48,13 +48,13 @@ Zařízení musejí splňovat tyto podmínky:
     
     ![In the Devices tab, choose Add devices.](media/6ba81e22-c873-40ad-8a72-ce64d15ea6ba.png)
   
-3. V panelu **Přidat zařízení** přejděte do [souboru CSV se seznamem zařízení](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) , který jste připravili \> pro **uložení** \> **.**
+3. Na panelu **Přidat zařízení** přejděte do [souboru CSV se seznamem zařízení](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) , který jste připravili \> **Uložit** \> **.**
     
-    Tyto informace můžete získat od svého dodavatele hardwaru nebo můžete použít [skript PowerShellu Get-WindowsAutoPilotInfo](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo), který vygeneruje soubor CSV. 
+    Tyto informace můžete získat od dodavatele hardwaru nebo můžete vytvořit soubor CSV pomocí [skriptu PowerShell Get-WindowsAutoPilotInfo](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) . 
     
 ## <a name="assign-a-profile-to-a-device-or-a-group-of-devices"></a>Přiřazení profilu zařízení nebo skupině zařízení
 
-1. Na stránce **Připravit Windows** zvolte kartu **Zařízení** a zaškrtněte políčko u jednoho nebo více zařízení. 
+1. Na stránce **Příprava systému Windows** zvolte kartu **zařízení** a zaškrtněte políčko u jednoho nebo více zařízení. 
     
 2. Na panelu **Zařízení** vyberte v rozevíracím seznamu **Přiřazený profil** některý profil. 
     

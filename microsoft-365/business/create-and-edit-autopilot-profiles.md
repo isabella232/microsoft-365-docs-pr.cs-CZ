@@ -23,12 +23,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: Naučte se vytvářet, upravovat, odstraňovat nebo odebírat profily automatických Opilot.
-ms.openlocfilehash: 4305340a2fc5df8202cf4d85f9e2541690bf9ed0
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: f7fdc2632e93c48e043fe158842f8395d6a89e14
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574712"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38320232"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>Vytvoření a úpravy profilů AutoPilota
 
@@ -40,17 +40,17 @@ Profil se používá pro zařízení nebo skupinu zařízení.
   
 2. Na stránce **autopilot** zvolte záložku \> **profily** **vytvořit profil**.
     
-3. Na stránce **Vytvořit profil** zadejte název, který vám pomůže profil identifikovat, třeba Marketing, zapněte požadované nastavení (další informace najdete v článku [O nastavení profilu AutoPilota](autopilot-profile-settings.md)) a zvolte **Uložit**.
+3. Na stránce **vytvořit profil** zadejte název profilu, který vám pomůže jej identifikovat, například marketing. Zapněte požadované nastavení a pak klepněte na tlačítko **Uložit**. Další informace o nastavení profilu AutoPilot naleznete v tématu [o nastavení profilu autopilot](autopilot-profile-settings.md).
     
     ![Enter name and turn on settings in the Create profile panel.](media/63b5a00d-6a5d-48d0-9557-e7531e80702a.png)
   
 ### <a name="apply-profile-to-a-device"></a>Použití profilu u zařízení
 
-Jakmile vytvoříte profil, můžete ho použít pro zařízení nebo skupinu zařízení. Stávající profil můžete vybrat v [podrobném průvodci](add-autopilot-devices-and-profile.md), můžete ho použít u nových zařízení nebo ho můžete u zařízení nebo skupiny zařízení nahradit. 
+Vytvořený profil můžete použít na zařízení nebo skupinu zařízení. Můžete vybrat existující profil v [podrobných pokynech](add-autopilot-devices-and-profile.md) a použít jej na nová zařízení nebo nahradit existující profil zařízení nebo skupiny zařízení. 
   
 1. Na stránce **Připravit Windows** zvolte kartu **Zařízení**. 
     
-2. Klikněte na zaškrtávací políčko vedle názvu zařízení a na panelu **Zařízení** vyberte profil v rozevíracím seznamu **Přiřazený profil** \> **Uložit**.
+2. Zaškrtněte políčko vedle názvu zařízení a v panelu **zařízení** zvolte profil z \> **rozevíracího seznamu** **přiřazený profil** .
     
     ![In the Device panel, select an Assigned profile to apply it.](media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
@@ -62,7 +62,7 @@ Jakmile zařízení přiřadíte profil, můžete profil aktualizovat, a to i te
 
 1. Na stránce **Připravit Windows** zvolte kartu **Profily**. 
     
-2. Klikněte na zaškrtávací políčko vedle názvu zařízení. Na panelu **Profil** můžete aktualizovat dostupná nastavení \> **Uložit**.
+2. Zaškrtněte políčko vedle názvu zařízení a v panelu **profil** aktualizujte všechna \> **dostupná nastavení.**
     
     Pokud to uděláte předtím, než uživatel připojí zařízení k internetu, použije se profil v procesu nastavení.
     
@@ -70,7 +70,7 @@ Jakmile zařízení přiřadíte profil, můžete profil aktualizovat, a to i te
 
 1. Na stránce **Připravit Windows** zvolte kartu **Profily**. 
     
-2. Klikněte na zaškrtávací políčko vedle názvu zařízení a na panelu **Profil** klikněte na **Odstranit profil** \> **Uložit**.
+2. Zaškrtněte políčko vedle názvu zařízení a v panelu **profil** vyberte možnost **Odstranit** \> **uložení**profilu.
     
     Pokud profil odstraníte, odebere se ze zařízení nebo skupiny zařízení, kterým byl přiřazen.
     
@@ -78,5 +78,5 @@ Jakmile zařízení přiřadíte profil, můžete profil aktualizovat, a to i te
 
 1. Na stránce **Připravit Windows** zvolte kartu **Zařízení**. 
     
-2. Klikněte na zaškrtávací políčko vedle názvu zařízení a na panelu **Zařízení** vyberte v rozevíracím seznamu **Přiřazený profil** možnost **Žádný** \> **Uložit**.
+2. Zaškrtněte políčko vedle názvu zařízení a v panelu **zařízení** vyberte v \> **rozevíracím seznamu** **přiřazený profil** položku **žádný** .
     

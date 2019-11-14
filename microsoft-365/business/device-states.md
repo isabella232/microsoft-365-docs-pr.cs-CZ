@@ -21,17 +21,15 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Informace o stavech zařízení v Microsoft 365 Business.
-ms.openlocfilehash: 06e5c800e6a104785c1fd0724223e05d7729722e
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Informace o stavech zařízení v aplikaci Microsoft 365 Business.
+ms.openlocfilehash: b55e6a5d538ec28d195225e93797cea27afd2e8b
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072714"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38320202"
 ---
 # <a name="device-states"></a>Stavy zařízení
-
-## <a name="device-states"></a>Stavy zařízení
 
 Zařízení v seznamu **Akce zařízení** (domovská stránka správce \> **Akce zařízení**) můžou mít následující stavy.
   
@@ -43,12 +41,12 @@ Zařízení v seznamu **Akce zařízení** (domovská stránka správce \> **Akc
 |Čeká se na vyřízení  <br/> |Microsoft 365 Business se připravuje odebrat ze zařízení data společnosti.  <br/> |
 |Probíhá vyřazování  <br/> |Microsoft 365 Business právě odebírá ze zařízení data společnosti.  <br/> |
 |Vyřazení selhalo  <br/> | Akce spočívající v odebrání dat společnosti se nezdařila.  <br/> |
-|Vyřazení bylo zrušeno  <br/> |Akce vyřazení byla zrušena.  <br/> |
+|Zrušení důchodu  <br/> |Akce odchodu do důchodu byla zrušena.  <br/> |
 |Čeká se na vymazání  <br/> |Čeká se na spuštění obnovení továrního nastavení.  <br/> |
 |Probíhá mazání  <br/> |Byl vydán příkaz k obnovení továrního nastavení.  <br/> |
-|Vymazání selhalo  <br/> |Obnovení továrního nastavení nejde provést.  <br/> |
-|Vymazání bylo zrušeno  <br/> |Vymazání do čistého továrního nastavení bylo zrušeno.  <br/> |
-|Není v pořádku  <br/> |Znamená, že se čeká na provedení akce (nebo akce probíhá), ale zařízení se 30 a více dní nezaregistrovalo.  <br/> |
+|Vymazání selhalo  <br/> |Tovární resetování nelze.  <br/> |
+|Vymazání bylo zrušeno.  <br/> |Vymazání výrobního závodu bylo zrušeno.  <br/> |
+|Není v pořádku  <br/> |Akce čeká na vyřízení (nebo probíhá), ale zařízení se nekontroluje po dobu 30 + dní.  <br/> |
 |Čeká se na odstranění  <br/> |Čeká se na provedení akce odstranění.  <br/> |
 |Zjištěné  <br/> |Služba Microsoft 365 Business zařízení rozpoznala  <br/> |
    
