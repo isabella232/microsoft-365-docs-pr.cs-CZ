@@ -1,5 +1,5 @@
 ---
-title: Předpoklady pro ochranu dat na zařízeních s Microsoft 365 Business
+title: Předpoklady pro ochranu dat u zařízení s aplikací Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -17,33 +17,30 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: 'Znáte předpoklady pro nastavení organizace pomocí společnosti Microsoft 365 Business. '
-ms.openlocfilehash: 157abf0a3396ab374297441bf90d6defc4093390
-ms.sourcegitcommit: e2ed110c4c3a8434f9fcc9d610069bc77bc39220
+description: Znát předpoklady pro nastavení organizace pomocí společnosti Microsoft 365 Business.
+ms.openlocfilehash: 874a85859e315ef17e10fdd8094860e1e6bf2560
+ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38290524"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640535"
 ---
-# <a name="pre-requisites-for-protecting-data-on-devices-with-microsoft-365-business"></a><span data-ttu-id="1397d-103">Předpoklady pro ochranu dat na zařízeních s Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="1397d-103">Pre-requisites for protecting data on devices with Microsoft 365 Business</span></span>
+# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-business"></a><span data-ttu-id="1a42c-103">Předpoklady pro ochranu dat u zařízení s aplikací Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="1a42c-103">Prerequisites for protecting data on devices with Microsoft 365 Business</span></span>
 
-<span data-ttu-id="1397d-104">[] První krok nastavení Microsoft 365 Business pro vaši organizaci spočívá v kontrole, jestli splňujete všechny předpoklady.</span><span class="sxs-lookup"><span data-stu-id="1397d-104">The first step in setting up your organization with Microsoft 365 Business is to make sure you are able to meet the pre-requisites.</span></span>
+<span data-ttu-id="1a42c-104">Prvním krokem při nastavování organizace se společností Microsoft 365 Business je zajistit, aby bylo možné splnit předpoklady.</span><span class="sxs-lookup"><span data-stu-id="1a42c-104">The first step in setting up your organization with Microsoft 365 Business is to make sure you can meet the prerequisites.</span></span>
   
-## <a name="pre-requisites"></a><span data-ttu-id="1397d-105">Předpoklady</span><span class="sxs-lookup"><span data-stu-id="1397d-105">Pre-requisites</span></span>
+## <a name="prerequisites"></a><span data-ttu-id="1a42c-105">Požadavky</span><span class="sxs-lookup"><span data-stu-id="1a42c-105">Prerequisites</span></span>
 
-- <span data-ttu-id="1397d-106">Na zařízeních s Windows musí běžet Windows 7 Professional, Windows 8 Pro nebo Windows 8.1 Pro.</span><span class="sxs-lookup"><span data-stu-id="1397d-106">Windows devices must be running Windows 7 Professional, Windows 8 Pro, or Windows 8.1 Pro.</span></span>
+- <span data-ttu-id="1a42c-106">Na zařízeních s Windows musí běžet Windows 7 Professional, Windows 8 Pro nebo Windows 8.1 Pro.</span><span class="sxs-lookup"><span data-stu-id="1a42c-106">Windows devices must be running Windows 7 Professional, Windows 8 Pro, or Windows 8.1 Pro.</span></span>
     
-    [<span data-ttu-id="1397d-107">Upgrade zařízení s Windows na Windows Pro Creators Update</span><span class="sxs-lookup"><span data-stu-id="1397d-107">Upgrade Windows devices to Windows Pro Creators Update</span></span>](upgrade-to-windows-pro-creators-update.md)
+    [<span data-ttu-id="1a42c-107">Upgrade zařízení s Windows na Windows Pro Creators Update</span><span class="sxs-lookup"><span data-stu-id="1a42c-107">Upgrade Windows devices to Windows Pro Creators Update</span></span>](upgrade-to-windows-pro-creators-update.md)
     
-    <span data-ttu-id="1397d-108">Používáte-li systém Windows 10 Home, je třeba **zakoupit** systém Windows 10 pro.</span><span class="sxs-lookup"><span data-stu-id="1397d-108">If you are running Windows 10 Home, then you need to **purchase** Windows  10 Pro.</span></span> <span data-ttu-id="1397d-109">Pokyny naleznete v části [upgrade systému Windows 10 Home na systém Windows 10 pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) .</span><span class="sxs-lookup"><span data-stu-id="1397d-109">See [upgrade Windows 10 Home to Windows 10 Pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) for instructions.</span></span> 
+    <span data-ttu-id="1a42c-108">Pokud používáte systém Windows 10 Home, je třeba **zakoupit** systém Windows 10 pro.</span><span class="sxs-lookup"><span data-stu-id="1a42c-108">If you're running Windows 10 Home, then you must **purchase** Windows  10 Pro.</span></span> <span data-ttu-id="1a42c-109">Pokyny naleznete v části [upgrade systému Windows 10 Home na systém Windows 10 pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) .</span><span class="sxs-lookup"><span data-stu-id="1a42c-109">See [upgrade Windows 10 Home to Windows 10 Pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) for instructions.</span></span> 
     
-- <span data-ttu-id="1397d-p102">Odeberte zařízení ze systému správy mobilních zařízení (Mobile Iron, AirWatch apod.). Všechny uživatele v organizaci zaregistrujete do správy mobilních zařízení Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="1397d-p102">Remove devices from mobile management solutions (Mobile Iron, AirWatch, etc.). You will enroll all the people in your organization to Microsoft 365 Business mobile management.</span></span>
+- <span data-ttu-id="1a42c-110">Odeberte zařízení z řešení mobilního řízení (mobilní železo, AirWatch atd.).</span><span class="sxs-lookup"><span data-stu-id="1a42c-110">Remove devices from mobile management solutions (Mobile Iron, AirWatch, and so on).</span></span> <span data-ttu-id="1a42c-111">Všechny osoby ve vaší organizaci se zapíšou v aplikaci Microsoft 365 Business Mobile Management.</span><span class="sxs-lookup"><span data-stu-id="1a42c-111">You'll enroll all the people in your organization in Microsoft 365 Business mobile management.</span></span>
     
-- <span data-ttu-id="1397d-112">Apple iOS 8.0 a novější.</span><span class="sxs-lookup"><span data-stu-id="1397d-112">Apple iOS 8.0 and later.</span></span>
+- <span data-ttu-id="1a42c-112">Apple iOS 8.0 a novější.</span><span class="sxs-lookup"><span data-stu-id="1a42c-112">Apple iOS 8.0 and later.</span></span>
     
-    <span data-ttu-id="1397d-p103">Google Android 4.0 a novější (včetně systému Samsung KNOX Standard 4.0 a novějších). Podrobnější informace najdete v části [Zařízení podporovaná pro Intune](https://go.microsoft.com/fwlink/p/?linkid=852307).</span><span class="sxs-lookup"><span data-stu-id="1397d-p103">Google Android 4.0 and later (including Samsung KNOX Standard 4.0 and higher). For more details, see [Intune supported devices](https://go.microsoft.com/fwlink/p/?linkid=852307).</span></span>
+    <span data-ttu-id="1a42c-113">Google Android 4.0 a novější (včetně systému Samsung KNOX Standard 4.0 a novějších).</span><span class="sxs-lookup"><span data-stu-id="1a42c-113">Google Android 4.0 and later (including Samsung KNOX Standard 4.0 and higher).</span></span> <span data-ttu-id="1a42c-114">Další informace naleznete v části [podporované zařízení Intune](https://go.microsoft.com/fwlink/p/?linkid=852307).</span><span class="sxs-lookup"><span data-stu-id="1a42c-114">For more information, see [Intune supported devices](https://go.microsoft.com/fwlink/p/?linkid=852307).</span></span>
     
-- <span data-ttu-id="1397d-115">Pokud na uživatelských počítačích máte stávající aplikace Office, přečtěte si, [jak připravit instalaci klienta Office](prepare-for-office-client-deployment.md), abyste pochopili kroky, které možná bude potřeba provést před nastavením Microsoft 365 Business na instalaci Office 2016 na uživatelské počítače.</span><span class="sxs-lookup"><span data-stu-id="1397d-115">If you have existing Office applications on user computers, read [prepare for Office client installation](prepare-for-office-client-deployment.md) to understand steps you might have to take before you can set up Microsoft 365 Business to install Office 2016 to user computers.</span></span> 
-    
-
-
+- <span data-ttu-id="1a42c-115">Máte-li v uživatelských počítačích existující aplikace sady Office, [Připravte se na instalaci klienta sady Office](prepare-for-office-client-deployment.md) a pochopte kroky, které budete pravděpodobně potřebovat, než nainstalujete aplikaci Microsoft 365 Business na instalaci sady Office 2016 do uživatelských počítačů.</span><span class="sxs-lookup"><span data-stu-id="1a42c-115">If you have existing Office applications on user computers, read [prepare for Office client installation](prepare-for-office-client-deployment.md) to understand steps you might need to take before you can set up Microsoft 365 Business to install Office 2016 on user computers.</span></span> 
