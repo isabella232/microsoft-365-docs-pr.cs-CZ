@@ -1,5 +1,5 @@
 ---
-title: Předpoklady pro ochranu dat na zařízeních s Microsoft 365 Business
+title: Předpoklady pro ochranu dat u zařízení s aplikací Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -17,33 +17,30 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: 'Znáte předpoklady pro nastavení organizace pomocí společnosti Microsoft 365 Business. '
-ms.openlocfilehash: 157abf0a3396ab374297441bf90d6defc4093390
-ms.sourcegitcommit: e2ed110c4c3a8434f9fcc9d610069bc77bc39220
+description: Znát předpoklady pro nastavení organizace pomocí společnosti Microsoft 365 Business.
+ms.openlocfilehash: 874a85859e315ef17e10fdd8094860e1e6bf2560
+ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38290524"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640535"
 ---
-# <a name="pre-requisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Předpoklady pro ochranu dat na zařízeních s Microsoft 365 Business
+# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Předpoklady pro ochranu dat u zařízení s aplikací Microsoft 365 Business
 
-[] První krok nastavení Microsoft 365 Business pro vaši organizaci spočívá v kontrole, jestli splňujete všechny předpoklady.
+Prvním krokem při nastavování organizace se společností Microsoft 365 Business je zajistit, aby bylo možné splnit předpoklady.
   
-## <a name="pre-requisites"></a>Předpoklady
+## <a name="prerequisites"></a>Požadavky
 
 - Na zařízeních s Windows musí běžet Windows 7 Professional, Windows 8 Pro nebo Windows 8.1 Pro.
     
     [Upgrade zařízení s Windows na Windows Pro Creators Update](upgrade-to-windows-pro-creators-update.md)
     
-    Používáte-li systém Windows 10 Home, je třeba **zakoupit** systém Windows 10 pro. Pokyny naleznete v části [upgrade systému Windows 10 Home na systém Windows 10 pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) . 
+    Pokud používáte systém Windows 10 Home, je třeba **zakoupit** systém Windows 10 pro. Pokyny naleznete v části [upgrade systému Windows 10 Home na systém Windows 10 pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) . 
     
-- Odeberte zařízení ze systému správy mobilních zařízení (Mobile Iron, AirWatch apod.). Všechny uživatele v organizaci zaregistrujete do správy mobilních zařízení Microsoft 365 Business.
+- Odeberte zařízení z řešení mobilního řízení (mobilní železo, AirWatch atd.). Všechny osoby ve vaší organizaci se zapíšou v aplikaci Microsoft 365 Business Mobile Management.
     
 - Apple iOS 8.0 a novější.
     
-    Google Android 4.0 a novější (včetně systému Samsung KNOX Standard 4.0 a novějších). Podrobnější informace najdete v části [Zařízení podporovaná pro Intune](https://go.microsoft.com/fwlink/p/?linkid=852307).
+    Google Android 4.0 a novější (včetně systému Samsung KNOX Standard 4.0 a novějších). Další informace naleznete v části [podporované zařízení Intune](https://go.microsoft.com/fwlink/p/?linkid=852307).
     
-- Pokud na uživatelských počítačích máte stávající aplikace Office, přečtěte si, [jak připravit instalaci klienta Office](prepare-for-office-client-deployment.md), abyste pochopili kroky, které možná bude potřeba provést před nastavením Microsoft 365 Business na instalaci Office 2016 na uživatelské počítače. 
-    
-
-
+- Máte-li v uživatelských počítačích existující aplikace sady Office, [Připravte se na instalaci klienta sady Office](prepare-for-office-client-deployment.md) a pochopte kroky, které budete pravděpodobně potřebovat, než nainstalujete aplikaci Microsoft 365 Business na instalaci sady Office 2016 do uživatelských počítačů. 
