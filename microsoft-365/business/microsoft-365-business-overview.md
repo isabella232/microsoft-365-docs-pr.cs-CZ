@@ -1,5 +1,5 @@
 ---
-title: Přehled společnosti Microsoft 365 Business
+title: Přehled produktu Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Naučte se nastavit aplikaci Microsoft 365 Business.
-ms.openlocfilehash: 86af927c05168fabe5a72f331c14c9f3e5cbc1dd
-ms.sourcegitcommit: 550ea6f093ec35182e7c65a2811e9bfb07ec7d01
+description: Další informace o aplikaci Microsoft 365 Business.
+ms.openlocfilehash: 03e16c336a2d6d3d8ffd5875ed7419bba3c7e378
+ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38038943"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38633393"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Přehled produktu Microsoft 365 Business
 
@@ -35,7 +35,7 @@ ms.locfileid: "38038943"
 
 Microsoft 365 Business je předplatitelskou službou, která zahrnuje nástroje sady Office 365 produktivity a pokročilé funkce, které pomáhají chránit vaše podnikání před kyberhrozbami, chránit data a spravovat zařízení.
   
-Microsoft 365 Business umožňuje používat maximálně 300 licencí. Pokud potřebujete více licencí, podívejte se na dokumentaci k [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986), kde získáte více informací.
+Společnost Microsoft 365 Business je určena na 300 licencí. Potřebujete-li více licencí, vyhledejte další informace v dokumentaci k [produktu Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) .
 
 Informace o celém seznamu funkcí naleznete v [popisu služby Microsoft 365 Business Service](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) .
   
@@ -43,12 +43,12 @@ Informace o celém seznamu funkcí naleznete v [popisu služby Microsoft 365 Bus
 
 Vaše obchodní data mohou být ohrožena mnoha způsoby. Vy a vaši uživatelé můžete ohrozit zabezpečení vaší organizace, pokud se přihlašujete s narušeného pověření nebo chcete zobrazit data organizace v různých zařízeních a aplikacích. Konkrétně je ohrožena vaše organizace:
 
-1. Narušený nebo slabý přihlašovací pověření.
-2. Ohrožené zařízení se slabým kolíkem nebo uživatelem vlastněným zařízením.
-3. Uživatelé, kteří mohou kopírovat/vkládat nebo ukládat data organizace do osobních aplikací.
-4. Uživatelé, kteří instalují a používají 3 aplikace na straně<sup>VP</sup> se slabým zabezpečením.
-5. Chyby zabezpečení e-mailů včetně sdílení citlivých dat, pokusů o podvodné zprávy, malware atd.
-6. Uživatelé, kteří nemají přístup, mohou přistupovat k dokumentům s důvěrnými informacemi.
+- Narušený nebo slabý přihlašovací pověření.
+- Ohrožené zařízení se slabým kolíkem nebo uživatelem vlastněným zařízením.
+- Uživatelé, kteří mohou kopírovat/vkládat nebo ukládat data organizace do osobních aplikací.
+- Uživatelé, kteří instalují a používají aplikace jiných výrobců se slabým zabezpečením.
+- Chyby zabezpečení e-mailů, včetně sdílení citlivých dat, pokusů o podvodné zprávy, malware atd.
+- Uživatelé, kteří nemají přístup, mohou přistupovat k dokumentům s důvěrnými informacemi.
 
 Společnost Microsoft 365 Business pomáhá zabezpečit data ve všech těchto instancích. Bezpečnostní prvky, které chrání vaše obchodní data, jsou podrobně popsány na následujícím obrázku.
 
@@ -58,7 +58,7 @@ Společnost Microsoft 365 Business pomáhá zabezpečit data ve všech těchto i
 
 Společnost Microsoft 365 Business pomáhá **bránit před hrozbami** prostřednictvím:
 
-Prohledávání všech odkazů v e-mailech a dokumentech v reálném čase k zablokování nebezpečných webových serverů (zabezpečené odkazy ATP).
+- Prohledávání odkazů v e-mailech a dokumentech v reálném čase k zablokování nebezpečných webových serverů (zabezpečené odkazy ATP).
 
 - Provedení pokročilé analýzy e-mailových příloh v prostředí izolovaného prostoru pro detekci nově vyvinutého malwaru (bezpečné přílohy ATP). 
 
@@ -66,23 +66,23 @@ Prohledávání všech odkazů v e-mailech a dokumentech v reálném čase k zab
 
 - Nastavení upřesňujících zásad, které zakazují přístup z nedůvěryhodných umístění nebo vynechání vícefaktorového ověřování z důvěryhodných míst, jako je například kancelářskou síť (Azure MFA včetně důvěryhodných adres IP a podmíněný přístup). 
 
-- Vynucení ochrany proti malwaru ve všech zařízeních systému Windows 10 ve vaší společnosti a ochrana souborů v klíčových systémových složkách před změnami provedenými Ransomware (Windows Defender)
+- Vynucení ochrany proti malwaru ve všech zařízeních systému Windows 10 v organizaci a ochrana souborů v klíčových systémových složkách před změnami provedenými Ransomware (Windows Defender)
 
 Vaše **obchodní data jsou chráněna** :
 
-- Pomocí automatického zjišťování můžete zabránit vzniku citlivých informací, jako jsou čísla sociálního pojištění nebo kreditní karty, mimo vaše podnikání (zabránění ztrátě dat). 
+- Použití automatického zjišťování k ochraně citlivých informací, jako jsou čísla sociálního pojištění nebo kreditní karty, z úniku mimo vaši organizaci (zabránění ztrátě dat). 
 
-- Šifrování citlivých e-mailů, abyste mohli bezpečně komunikovat se zákazníky nebo jinými osobami mimo vaši společnost, a zajistit, aby zprávu mohli přečíst pouze zamýšlený příjemce (sada Office 365 pro šifrování zpráv).
+- Šifrování citlivých emailů, abyste mohli bezpečně komunikovat se zákazníky nebo jinými lidmi mimo vaši organizaci. Tím zajistíte, že zprávu bude moci přečíst pouze zamýšlený příjemce (sada Office 365 pro šifrování zpráv).
 
 - Kontrola, kdo má přístup k informacím o společnosti použitím omezení, jako je **kopírování** a **nepředávání** e-mailů a dokumentů (Azure Information Protection, plán 1).
 
-- Povolení neomezené archivace mraků, aby bylo možné uchovat všechny e-maily svých firem včetně poštovních schránek bývalých zaměstnanců (online archivace serveru Exchange).
+- Povolení neomezené archivace mraků, aby bylo možné zachovat všechny e-mailové zprávy organizace včetně poštovních schránek bývalých zaměstnanců (online archivace serveru Exchange).
 
 Vaše **zařízení jsou zabezpečena** :
 
-- Řízení, která zařízení a uživatelé mají přístup k datům sady Office 365; s možnostmi blokování uživatelů před přihlášením z domácích počítačů, neschválených aplikací nebo mimo pracovní dobu (podmíněný přístup).
+- Řízení, která zařízení a uživatelé mají přístup k datům sady Office 365, s možnostmi blokování uživatelů před přihlášením z domácích počítačů, neschválených aplikací nebo mimo pracovní dobu (podmíněný přístup).
 
-- Použití zásad zabezpečení pro ochranu obchodních dat na zařízeních iOS a Android.  Můžete například požadovat, aby uživatelé poskytli kód PIN nebo otisk, aby mohli získat přístup k obchodním datům, a šifrovat data na mobilních zařízeních (Ochrana aplikace pro aplikace Office Mobile Apps).
+- Použití zásad zabezpečení pro ochranu obchodních dat na zařízeních iOS a Android. Můžete například požadovat, aby uživatelé poskytli kód PIN nebo otisk, aby mohli získat přístup k obchodním datům, a šifrovat data na mobilních zařízeních (Ochrana aplikace pro aplikace Office Mobile Apps).
 
 - Uchování obchodních dokumentů, e-mailů a dalších dat ve schválených aplikacích sady Office a zabránění zaměstnancům v jejich ukládání do neoprávněných aplikací a umístění (Ochrana aplikace pro aplikace Office Mobile Apps).
 
@@ -90,11 +90,11 @@ Vaše **zařízení jsou zabezpečena** :
 
 - Použití zjednodušených ovládacích prvků ke správě zásad pro všechny počítače se systémem Windows 10 ve vaší firmě, vynucení šifrování nástrojem BitLocker a automatickou instalaci důležitých aktualizací systému Windows (vynutit zásady aktualizace systému Windows).
 
-Úplný seznam funkcí zabezpečení naleznete v tématu [Microsoft 365 Business Security Features](security-features.md). Po [instalaci aplikace Microsoft 365 Business](set-up.md)naleznete v tématu [Nastavení rozšířených zásad zabezpečení](set-up-advanced-security.md) pro seznámení s funkcemi zabezpečení, které nejsou součástí instalace s průvodcem. Přečtěte si také [10 nejlepších způsobů zabezpečení sady Office 365 a Microsoft 365 obchodní plány](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) pro dobrý přehled o nastavení ochrany proti internetovým podvodníkům a hackerům.
+Úplný seznam funkcí zabezpečení naleznete v tématu [Microsoft 365 Business Security Features](security-features.md). Po [instalaci aplikace Microsoft 365 Business](set-up.md)naleznete v tématu [Nastavení rozšířených zásad zabezpečení](set-up-advanced-security.md) , které umožňuje začít s funkcemi zabezpečení, které nejsou součástí instalace s průvodcem. Přečtěte si také [10 nejlepších způsobů zabezpečení sady Office 365 a Microsoft 365 obchodní plány](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) pro dobrý přehled o nastavení ochrany proti internetovým podvodníkům a hackerům.
 
 ## <a name="get-microsoft-365-business"></a>Jak získat Microsoft 365 Business
 
-- Pokud máte partnera, získá partner Microsoft 365 Business: [Jak získat Microsoft 365 Business z partnerského centra Microsoftu](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
+- Pokud máte partnera, budou mít společnost Microsoft 365 Business: [získat microsoft 365 Business od společnosti Microsoft Partner Center](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
 
 - Pokud nemáte partnera a chcete získat společnost Microsoft 365 Business, můžete si [jej zakoupit zde](https://www.microsoft.com/microsoft-365/business) a postupovat podle pokynů pro [zápis](sign-up.md) .
 

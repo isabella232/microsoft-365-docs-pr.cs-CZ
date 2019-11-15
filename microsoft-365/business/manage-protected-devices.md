@@ -23,17 +23,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
-description: Naučte se obnovit nebo odstranit zařízení, která jsou spravována prostřednictvím zásad ochrany.
-ms.openlocfilehash: 78eff4b4d29ee5de6f773841cc77239f6acf0634
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Naučte se resetovat nebo vymazat zařízení, které je spravováno pomocí zásad ochrany.
+ms.openlocfilehash: ef3b8ed0e3b3f8b9136d3929bce1b835309498c7
+ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074664"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38633323"
 ---
 # <a name="manage-protected-devices-with-microsoft-365-business"></a>Správa chráněných zařízení pomocí Microsoft 365 Business
 
-[] Když uživatel připojí své zařízení k vaší organizaci tím, že se k zařízení přihlásí pod svým pracovním účtem nebo se na něm přihlásí k aplikacím Office, můžeme takové zařízení ochránit zásadami, které nastavíte, a mimo to se zařízení objeví na stránce **Zařízení**. V případě ztráty nebo odcizení ho můžete z této stránky spravovat a odstranit veškerá data společnosti. U zařízení s Windows 10 můžete také obnovit tovární nastavení, abyste vymazali jakákoli vlastní nastavení. Další informace o úlohách, které můžete na spravovaných zařízeních provádět, najdete v těchto článcích: 
+Jakmile uživatel připojí své zařízení k vaší organizaci přihlášením s jejich pracovním účtem k zařízení nebo k aplikacím sady Office v zařízení, můžete zařízení chránit pomocí vámi nastavených zásad. Připojená zařízení jsou uvedena na stránce **zařízení** . V případě ztráty nebo odcizení ho můžete z této stránky spravovat a odstranit veškerá data společnosti. U zařízení s Windows 10 můžete také obnovit tovární nastavení, abyste vymazali jakákoli vlastní nastavení. 
+
+Další informace o úkolech, které lze použít ke správě zařízení, naleznete v následujících článcích: 
   
 [Odebrání dat společnosti ze zařízení](remove-company-data.md)
   

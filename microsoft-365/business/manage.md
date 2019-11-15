@@ -18,21 +18,21 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: Informace o správě společnosti Microsoft 365 obchodní úkoly související se správou, mobilními zařízeními, Windows 10Ks a mnoha takovými úlohami.
-ms.openlocfilehash: 1e39adad50688686ef1d03ef7ed51534e067e6b3
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+description: Informace o správě společnosti Microsoft 365 obchodní úkoly související se správou, mobilními zařízeními, počítači se systémem Windows 10 a mnoha takovými úlohami.
+ms.openlocfilehash: ee1c856c6c0005842df8b3581a602dd539490bea
+ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575952"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38633303"
 ---
 # <a name="manage-microsoft-365-business"></a>Správa Microsoft 365 Business
 
 ## <a name="general-microsoft-365-business-admin-tasks"></a>Obecné úkoly správy Microsoft 365 Business
 
-Většina [obsahu admin](/Office365/Admin/admin-home.md) pro sadu Office 365 pro podniky se vztahuje také na společnost Microsoft 365 Business.
+Většina obsahu pro [správu](/Office365/Admin/admin-home.md) sady Office 365 pro podniky se vztahuje také na společnost Microsoft 365 Business.
 
-- [Přidání dalších uživatelů do Microsoft 365 Business](add-users-m365b.md)
+- [Přidání dalších uživatelů do aplikace Microsoft 365 Business](add-users-m365b.md)
     
 - [Zobrazení zásad a zařízení](view-policies-and-devices.md)
     
@@ -40,7 +40,7 @@ Většina [obsahu admin](/Office365/Admin/admin-home.md) pro sadu Office 365 pro
     
 - [Mapování funkcí ochrany v Microsoft 365 Business na nastavení Intune](map-protection-features-to-intune-settings.md)
     
-Následující části obsahují odkazy na články o tom, jak se Microsoft 365 Business používá k ochraně dat organizace na osobních počítačích a mobilních zařízeních.
+V následujících částech najdete informace o používání aplikace Microsoft 365 Business k ochraně dat organizace na osobních počítačích a mobilních zařízeních.
   
 ## <a name="manage-mobile-devices"></a>Správa mobilních zařízení
 
@@ -48,7 +48,7 @@ Následující části obsahují odkazy na články o tom, jak se Microsoft 365 
     
 - [Nastavení ochrany aplikací pro zařízení s Androidem nebo iOSem](app-protection-settings-for-android-and-ios.md)
     
-    Zkontrolujte, zda [je na zařízení Android nebo iOS ověřeno nastavení ochrany aplikace](validate-settings-on-android-or-ios.md) , aby se ujistil, že tento postup funguje. 
+    Chcete-li se ujistit, že tato práce fungovala, viz [ověření nastavení ochrany aplikace u zařízení Android nebo iOS](validate-settings-on-android-or-ios.md). 
     
 - [Odebrání dat společnosti ze zařízení](remove-company-data.md)
     
@@ -62,11 +62,11 @@ Následující části obsahují odkazy na články o tom, jak se Microsoft 365 
     
 - [Nastavení ochrany zařízení pro zařízení s Windows 10](protection-settings-for-windows-10-pcs.md)
     
-    Podle pokynů v článku [Ověření nastavení ochrany zařízení na zařízeních s Windows 10](validate-settings-on-windows-10-pcs.md) můžete zkontrolovat, jestli nastavení funguje. 
+    Chcete-li se ujistit, že tato práce fungovala, viz [ověření nastavení ochrany zařízení u zařízení Windows 10](validate-settings-on-windows-10-pcs.md). 
     
 - [Nastavení ochrany aplikací pro zařízení s Windows 10](protection-settings-for-windows-10-devices.md)
     
-    Podle pokynů v článku [Ověření nastavení ochrany aplikací na počítačích s Windows 10](validate-protection-settings-on-windows-10-pcs.md) můžete zkontrolovat, jestli nastavení funguje. 
+    Chcete-li zajistit, aby tato práce fungovala, viz [ověření nastavení ochrany aplikace v počítačích se systémem Windows 10](validate-protection-settings-on-windows-10-pcs.md). 
     
 - [Odebrání dat společnosti ze zařízení](remove-company-data.md)
     
@@ -88,9 +88,9 @@ Následující témata popisují, jak pomocí Windows AutoPilota v Microsoft 365
     
 - [Informace o nastavení profilu AutoPilota](autopilot-profile-settings.md) .
     
-## <a name="set-up-and-pre-requisite-information"></a>Nastavení a předpoklady
+## <a name="set-up-and-prerequisite-information"></a>Nastavit a nezbytné informace
 
-- [Předpoklady pro ochranu dat na zařízeních s Microsoft 365 Business](pre-requisites-for-data-protection.md)
+- [Předpoklady pro ochranu dat u zařízení s aplikací Microsoft 365 Business](pre-requisites-for-data-protection.md)
     
 - [Nastavení Microsoft 365 Business pomocí průvodce nastavením](set-up.md)
     
@@ -98,8 +98,4 @@ Následující témata popisují, jak pomocí Windows AutoPilota v Microsoft 365
     
 - [Jak nastavit, aby zařízení s Windows 10 připojená k doméně byla spravovaná prostřednictvím plánu Microsoft 365 Business](manage-windows-devices.md)
     
-[Další funkce zabezpečení](security-features.md#additional-security-features)
-    
-
-  
-
+- [Další funkce zabezpečení](security-features.md#additional-security-features)
