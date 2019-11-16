@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Přehled kroků nastavených pro aplikaci Microsoft 365 Business.
-ms.openlocfilehash: 50f172c235aa06aa78fec60fc119ac7f568df308
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 3e1cf240db673a7b961ec8aa574f3e09efee476b
+ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575582"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "38676022"
 ---
 # <a name="overview-of-setup"></a>Přehled nastavení
 
@@ -70,7 +70,6 @@ Většinu kroků nastavení lze provést v Průvodci nastavením, ale jsou zde t
 
 ## <a name="stes-4-install-office-365-business"></a>Stes 4: instalace sady Office 365 Business
 - Sadu Office lze automaticky nainstalovat do zařízení systému Windows pomocí [Průvodce instalací](set-up.md#deploy-office-365-client-apps).
-- Automaticky [nainstalujte sadu Office](auto-install-or-uninstall-office.md) z centra pro správu.
 - Umožňuje uživatelům [instalovat aplikace sady Office](https://docs.microsoft.com/office365/admin/setup/install-applications) pro systém Windows a zařízení.
      
 ## <a name="advanced"></a>Pokročilé
@@ -82,6 +81,6 @@ Většinu kroků nastavení lze provést v Průvodci nastavením, ale jsou zde t
 
      - Pokud vaše organizace používá v místním počítači službu Active Directory systému Windows Server, můžete nastavit ochranu zařízení systému Windows 10 v aplikaci Microsoft 365 Business a současně zachovat přístup k místním prostředkům, které vyžadují místní ověřování. Postupujte podle kroků, [které umožňují, aby zařízení systému Windows 10 spojená s doménou byla spravována společností Microsoft 365 Business](manage-windows-devices.md) . Toto je upřednostňovaná metoda a zařízení v tomto stavu se nazývají zařízení spojená s hybridním Azure.
 
-    - Pokud váš podnik disponuje místním adresářem služby Active Directory obsahujícím některé místní zdroje (například sdílené soubory a tiskárny), můžete k těmto zdrojům poskytnout přístup k těmto prostředkům pomocí zařízení Azure AD, a to následujícím postupem: [přístup k místním prostředkům z Zařízení připojené k Azure v aplikaci Microsoft 365 Business](access-resources.md).
+    - Pokud vaše společnost disponuje místním adresářem služby Active Directory obsahujícím některé místní zdroje (například sdílené soubory a tiskárny), můžete k těmto zdrojům poskytnout přístup k těmto prostředkům pomocí zařízení Azure AD, a to následujícím postupem: [přístup k místním prostředkům z zařízení připojeném Azure AD v Microsoft 365 Business](access-resources.md).
 
   

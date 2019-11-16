@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
 description: Informace o výchozím nastavení a dalších nastaveních dostupných v aplikaci Microsoft 365 Business k zabezpečení zařízení systému Windows 10.
-ms.openlocfilehash: ab306e3d5a6011a0e7d537c98ecca6ef49ff82d9
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 5d4bce02df1276dc9b284c7b0709c7dc26b0dbce
+ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575752"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "38676042"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>Nastavení ochrany zařízení pro počítače s Windows 10
 
@@ -64,9 +64,9 @@ Další informace najdete v tématu o [mapování funkcí ochrany v Microsoft 36
 |Nastavení  <br/> |Popis  <br/> |
 |Zvýšit ochranu počítačů před viry a dalšími hrozbami pomocí Antivirové ochrany v programu Windows Defender  <br/> |Vyžaduje zapnutí antivirové ochrany v programu Windows Defender, aby bylo možné počítače chránit před nebezpečím spočívajícím v připojení k internetu.  <br/> |
 |Chránit počítače před webovými hrozbami v prohlížeči Microsoft Edge  <br/> |Zapne nastavení v Edgi, které pomáhá chránit uživatele před škodlivými weby a nebezpečným stahováním.  <br/> |
-|Použít pravidla k omezení potenciálních oblastí útoku na zařízení  <br/> |Pokud je omezování potenciálních oblastí útoku zapnuté, pomáhá blokovat akce a aplikace, které obvykle používá malware k napadnutí zařízení. Toto nastavení je dostupné jenom v případě, že je zapnutá Antivirová ochrana v programu Windows Defender. Další informace získáte v článku o [omezování potenciálních oblastí útoku](https://go.microsoft.com/fwlink/?linkid=870417).  <br/> |
-|Chránit složky před hrozbami, jako je ransomware  <br/> |Toto nastavení využívá řízený přístup ke složkám a chrání data společnosti před úpravami prostřednictvím podezřelých nebo škodlivých aplikací, jako je ransomware. Těmto typům aplikací se v chráněných složkách nepovolí provést změny. Toto nastavení je dostupné jenom v případě, že je zapnutá Antivirová ochrana v programu Windows Defender. Další informace získáte v článku o [ochraně složek pomocí řízeného přístupu](https://go.microsoft.com/fwlink/?linkid=870418).  <br/> |
-|Bránit síťovému přístupu k potenciálně škodlivému obsahu na internetu  <br/> |Pomocí tohoto nastavení můžete blokovat odchozí uživatelská připojení k umístěním na internetu s nízkou reputací, která můžou být hostiteli podvodů, útoků phishing, zneužití nebo jiného škodlivého obsahu. Toto nastavení je dostupné jenom v případě, že je zapnutá Antivirová ochrana v programu Windows Defender. Další informace získáte v článku o [ochraně sítě](https://go.microsoft.com/fwlink/?linkid=870419).  <br/> |
+|Použít pravidla k omezení potenciálních oblastí útoku na zařízení  <br/> |Pokud je omezování potenciálních oblastí útoku zapnuté, pomáhá blokovat akce a aplikace, které obvykle používá malware k napadnutí zařízení. Toto nastavení je dostupné jenom v případě, že je zapnutá Antivirová ochrana v programu Windows Defender. Další informace získáte v článku o [omezování potenciálních oblastí útoku](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/exploit-protection).  <br/> |
+|Chránit složky před hrozbami, jako je ransomware  <br/> |Toto nastavení využívá řízený přístup ke složkám a chrání data společnosti před úpravami prostřednictvím podezřelých nebo škodlivých aplikací, jako je ransomware. Těmto typům aplikací se v chráněných složkách nepovolí provést změny. Toto nastavení je dostupné jenom v případě, že je zapnutá Antivirová ochrana v programu Windows Defender. Další informace naleznete v části [ochrana složek pomocí řízené složky](https://docs.microsoft.com/configmgr/protect/deploy-use/create-deploy-exploit-guard-policy#bkmk_CFA) .  <br/> |
+|Bránit síťovému přístupu k potenciálně škodlivému obsahu na internetu  <br/> |Pomocí tohoto nastavení můžete blokovat odchozí uživatelská připojení k umístěním na internetu s nízkou reputací, která můžou být hostiteli podvodů, útoků phishing, zneužití nebo jiného škodlivého obsahu. Toto nastavení je dostupné jenom v případě, že je zapnutá Antivirová ochrana v programu Windows Defender. Další informace získáte v článku o [ochraně sítě](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/configure-real-time-protection-windows-defender-antivirus).  <br/> |
 |Chránit soubory a složky na počítačích před neoprávněným přístupem pomocí BitLockeru  <br/> |BitLocker chrání data tím, že šifruje pevné disky počítačů. Brání tak vyzrazení dat v případě ztráty nebo odcizení počítačů. Další informace najdete v [častých otázkách k BitLockeru](https://go.microsoft.com/fwlink/?linkid=871000).  <br/> |
 |Povolit uživatelům stahovat aplikace z webu Microsoft Store  <br/> |Umožňuje uživatelům stahovat a instalovat aplikace z webu Microsoft Store. Aplikací může být cokoli, od her až po nástroje na zvyšování produktivity, proto nechte toto nastavení **zapnuté**. Kvůli větší bezpečnosti ho ale můžete vypnout.  <br/> |
 |Umožnit uživatelům přístup ke Cortaně  <br/> |Cortana může být velice užitečná. Může vám zapínat nebo vypínat nastavení, dávat vám pokyny a postarat se o to, abyste chodili včas na schůzky. Proto jsme nastavení nechali implicitně **zapnuté**.  <br/> |

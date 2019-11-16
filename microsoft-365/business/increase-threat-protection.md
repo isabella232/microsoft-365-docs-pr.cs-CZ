@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Nastavení sady Office 365 Pokročilá ochrana proti ohrožení a ochrana citlivých dat
-ms.openlocfilehash: 00a40ceb6d51add2ebe8cc7ca4c299fe07a10b89
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: bca5400a04ca2986496c4a704289474887eb834b
+ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320102"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "38676002"
 ---
 # <a name="increase-threat-protection"></a>Zvýšení ochrany proti ohrožení
 
@@ -86,7 +86,7 @@ Vytvoření pravidla pro přenos pošty:
    
 Další informace najdete tady:
   
-- [Jak se vypořádat s Ransomware](https://go.microsoft.com/fwlink/?linkid=2016501&amp;clcid=0x409)
+- [Jak se vypořádat s Ransomware](https://go.microsoft.com/fwlink/?linkid=2016501)
     
 - [Obnovení aplikace OneDrive](https://support.office.com/article/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
 
@@ -178,7 +178,7 @@ Chcete-li vytvořit zásadu bezpečného připojení ATP, Sledujte [Toto krátk�
 |Přesměrovat přílohu při detekci  <br/> |Povolit přesměrování (toto políčko zaškrtněte) zadejte účet správce nebo nastavení poštovní schránky pro karanténu.          Použijte výše uvedený výběr, pokud dojde k vyhledání chyby v přílohách nebo k chybě (zaškrtněte toto políčko).  <br/> |
 |Použito pro  <br/> |Doménou příjemce je. . . Vyberte doménu.  <br/> |
    
-Další informace naleznete v tématu [set up Microsoft Office 365 ATP anti-phishing zásady](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409).
+Další informace naleznete v tématu [set up Microsoft Office 365 ATP anti-phishing zásady](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies).
   
 
 
