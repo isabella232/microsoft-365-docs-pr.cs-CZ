@@ -25,12 +25,12 @@ search.appverid:
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
 description: Naučte se vytvářet zásady správy aplikací a chránit pracovní soubory na zařízeních systému Windows 10.
-ms.openlocfilehash: 0e1221e533418166b80afd94431414016774f247
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: ca6d789e0242975a0395e6cf5653d3f43f819801
+ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575772"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38715246"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>Nastavení ochrany aplikací pro zařízení s Windows 10
 
@@ -52,15 +52,15 @@ Pokud mají uživatelé osobní zařízení s Windows 10, na kterých dělají p
     
 7. Pokud nechcete, aby uživatelé ukládali pracovní soubory na své počítače, **zapněte** možnost **Brání uživatelům v kopírování dat společnosti do osobních souborů a vynucuje, aby ukládali pracovní soubory na OneDrive pro firmy**. 
     
-9. Rozbalte možnost **Obnovit data na zařízeních s Windows**, kterou vám doporučujeme **Zapnout**.
+9. Rozbalte položku **obnovit data u zařízení systému Windows**. Doporučujeme **zapnout jej.**
     
-    Než budete moct přejít do umístění certifikátu agenta obnovování dat, musíte nějaký nejprve vytvořit. Pokyny najdete v článku o [vytvoření a ověření certifikátu agenta obnovování dat (DRA) systému souborů EFS](https://go.microsoft.com/fwlink/p/?linkid=853700).
+    Než budete moct přejít do umístění certifikátu agenta obnovování dat, musíte nějaký nejprve vytvořit. Pokyny naleznete v tématu [Vytvoření a ověření certifikátu agenta obnovení dat systému souborů EFS (Encrypting File System)](https://go.microsoft.com/fwlink/p/?linkid=853700).
     
-    Ve výchozím nastavení jsou pracovní soubory šifrované pomocí tajného klíče, který je uložený v zařízení a přidružený k profilu uživatele. Soubor může otevřít a dešifrovat jenom uživatel. Pokud ovšem dojde ke ztrátě zařízení nebo odebrání uživatele, soubor může zůstat zašifrovaný. Může ho dešifrovat správce pomocí certifikátu agenta obnovování dat (DRA).
+    Ve výchozím nastavení jsou pracovní soubory šifrované pomocí tajného klíče, který je uložený v zařízení a přidružený k profilu uživatele. Soubor může otevřít a dešifrovat jenom uživatel. Pokud ovšem dojde ke ztrátě zařízení nebo odebrání uživatele, soubor může zůstat zašifrovaný. Správce může dešifrovat soubor pomocí certifikátu agenta obnovování dat (DRA).
     
     ![Browse to Data Recovery Agent certificate.](media/7d7d664f-b72f-4293-a3e7-d0fa7371366c.png)
   
-10. Pokud chcete přidat další domény nebo umístění SharePointu Online, abyste se ujistili, že soubory ve všech uvedených aplikacích budou chráněné, rozbalte možnost **Chránit další umístění v síti a cloudu**. Pokud potřebujete zadat do jednoho z polí více než jednu položku, oddělte tyto položky středníkem (;).
+10. Chcete-li zajistit ochranu souborů ve všech uvedených aplikacích, rozbalte položku **Chraňte další místa v síti a shluku** , pokud chcete přidat další domény nebo umístění služby SharePoint Online. Pokud potřebujete zadat do jednoho z polí více než jednu položku, oddělte tyto položky středníkem (;).
     
     ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
   

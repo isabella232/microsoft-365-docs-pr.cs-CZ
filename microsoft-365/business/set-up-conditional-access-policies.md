@@ -21,16 +21,16 @@ search.appverid:
 - MET150
 - MOE150
 description: Naučte se nastavit zásady podmíněného přístupu pro aplikaci Microsoft 365 kampaněmi.
-ms.openlocfilehash: 3772aa0d505ef54a0587423e890ede519d571e0c
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 0fccd103e3633c7fa5ac07c731341eee93059986
+ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38031389"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38715076"
 ---
 # <a name="set-up-conditional-access-policies"></a>Nastavení zásad podmíněného přístupu
 
-Zásady [podmíněného přístupu](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) přidávají podstatně další zabezpečení. Společnost Microsoft poskytuje sadu zásad podmíněného přístupu podle směrného plánu, které jsou doporučeny všem zákazníkům. Zásady směrného plánu představují sadu předdefinovaných zásad, které pomáhají chránit organizace před mnoha běžnými útoky. Tyto běžné útoky mohou zahrnovat postřik hesla, přehrání a podvodné zprávy.
+Zásady [podmíněného přístupu](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) přidávají podstatné dodatečné zabezpečení. Společnost Microsoft poskytuje sadu zásad podmíněného přístupu podle směrného plánu, které jsou doporučeny všem zákazníkům. Zásady směrného plánu představují sadu předdefinovaných zásad, které pomáhají chránit organizace před mnoha běžnými útoky. Tyto běžné útoky mohou zahrnovat postřik hesla, přehrání a podvodné zprávy.
 
 Tyto zásady vyžadují, aby správci a uživatelé zadávali při splnění určitých podmínek druhou formu ověřování (tzv. vícefaktorové ověřování nebo MFA). Pokud se například uživatel přihlašuje z jiné země, může být přihlášení považováno za rizikové a uživatel musí poskytnout další způsob ověřování. 
 
@@ -58,4 +58,4 @@ Další informace o těchto zásadách naleznete v tématu [co jsou základní z
  - [Blokovat starší ověřování](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
   - [Vyžadovat MFA pro správu servisu](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-azure)
 
-Můžete nastavit mnoho dalších zásad, například vyžadování schválených klientských aplikací. Další informace naleznete v [dokumentaci k podmíněnému přístupu](https://docs.microsoft.com/azure/active-directory/conditional-access/) .
+Můžete nastavit mnoho dalších zásad, například vyžadování schválených klientských aplikací. Další informace naleznete v dokumentaci k [podmíněnému přístupu](https://docs.microsoft.com/azure/active-directory/conditional-access/).

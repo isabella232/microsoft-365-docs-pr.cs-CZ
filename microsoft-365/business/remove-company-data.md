@@ -20,16 +20,16 @@ search.appverid:
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: 'Dozvíte se, jak pomocí aplikace Microsoft 365 Business odebrat data společnosti z uživatelských zařízení nebo počítačů se systémem Windows. '
-ms.openlocfilehash: 169bc7d849bb934de2788daebb90308b1a086111
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 59e94a08e149a5cb119aabbbe816ccd2f4a9f9fb
+ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575732"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38715226"
 ---
 # <a name="remove-company-data-from-devices"></a>Odebrání dat společnosti ze zařízení
 
-[![Popisek vám dá vědět, že se centrum pro správu mění a další podrobnosti naleznete na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 ## <a name="remove-company-data"></a>Odebrání dat společnosti
 
@@ -41,9 +41,9 @@ Microsoft 365 Business můžete použít k odebrání dat společnosti, která m
   
 3. Na stránce **Spravovat** vyberte nebo vyhledejte uživatele, jehož data chcete odebrat, a zvolte název. 
     
-4. V dalším podokně vyberte zařízení nebo zařízení ze seznamu **zařízení** a v podokně zařízení, které se otevře, můžete zvolit, zda chcete zařízení resetovat na tovární nastavení, nebo odebrat data společnosti v závislosti na typu zařízení. 
+4. V dalším podokně vyberte zařízení nebo zařízení ze seznamu **zařízení** . V podokně zařízení, které se otevře, můžete zvolit, zda chcete zařízení resetovat na tovární nastavení nebo odebrat data společnosti v závislosti na typu zařízení. 
     
-    ![On the remove comapany data pane, select the device from which you want to remove the data.](media/resetorremove.png)
+    ![V podokně dat odebrání společnosti vyberte zařízení, ze kterého chcete data odebrat.](media/resetorremove.png)
   
 5. V podokně potvrzení zvolte položku **Potvrdit** \> **uzavření**.
     
