@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Nastavení sady Office 365 Pokročilá ochrana proti ohrožení a ochrana citlivých dat
-ms.openlocfilehash: bca5400a04ca2986496c4a704289474887eb834b
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+ms.openlocfilehash: 87a5c79636a2eefe394b4a30e72971eb851e3ecb
+ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676002"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704069"
 ---
 # <a name="increase-threat-protection"></a>Zvýšení ochrany proti ohrožení
 
@@ -233,4 +233,4 @@ Další informace naleznete v tématu [Office 365 bezpečné odkazy ATP](https:/
 
 3. Po zobrazení výsledků vyberte začátek vedle položky **Microsoft Intune** , abyste jej mohli později snadno najít.
 
-Kromě centra pro správu můžete pomocí nástroje Intune zapsat a spravovat zařízení organizace. Další informace naleznete v tématu [Capabilities pomocí metody zápisu pro zařízení systému Windows](https://docs.microsoft.com/intune/enrollment-method-capabs) a [Možnosti zápisu pro zařízení spravovaná společností Intune](https://docs.microsoft.com/intune/enrollment-options).
+Kromě centra pro správu můžete pomocí nástroje Intune zapsat a spravovat zařízení organizace. Další informace naleznete v tématu [Capabilities pomocí metody zápisu pro zařízení systému Windows](https://docs.microsoft.com/intune/enrollment/enrollment-method-capab) a [Možnosti zápisu pro zařízení spravovaná společností Intune](https://docs.microsoft.com/intune/enrollment-options).

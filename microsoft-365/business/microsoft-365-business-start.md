@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Naučte se nastavit aplikaci Microsoft 365 Business.
-ms.openlocfilehash: 5986e3fb7786ebb3fa7bcf42b34345be98af44a2
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+ms.openlocfilehash: f269e970cc1ee5ba7455ea799b238db577116f09
+ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633423"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704109"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Začínáme s Microsoft 365 Business
 
@@ -80,7 +80,6 @@ Pokud vaše organizace používá v místním počítači službu Active Directo
   
 Pokud zachováte místní adresář služby Active Directory, který bude obsahovat některé z místních zdrojů (například sdílené položky a tiskárny), můžete k těmto zdrojům poskytnout přístup k těmto prostředkům pomocí technologie **Azure AD** , a to následujícím postupem: [přístup k místním prostředkům z zařízení PŘIPOJENÉM Azure ad v Microsoft 365 Business](access-resources.md).
   
-Po instalaci systému Windows 10 počítačů můžete systém [Office automaticky nainstalovat](auto-install-or-uninstall-office.md) do zařízení. 
   
 ## <a name="contact-support"></a>Kontaktujte podporu.
 
