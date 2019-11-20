@@ -22,24 +22,23 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Přehled kroků nastavených pro aplikaci Microsoft 365 Business.
-ms.openlocfilehash: 3e1cf240db673a7b961ec8aa574f3e09efee476b
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+description: Přehled kroků nastavení pro aplikaci Microsoft 365 Business.
+ms.openlocfilehash: 3447f06d031462a7bebc6f129238de9f0c5dee41
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676022"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38721553"
 ---
 # <a name="overview-of-setup"></a>Přehled nastavení
 
 Většinu kroků nastavení lze provést v Průvodci nastavením, ale jsou zde také uvedeny další možnosti.
 
-
 ## <a name="step-1-add-your-domain-and-users"></a>Krok 1: Přidání domény a uživatelů
 
    - **[Přidejte svou doménu](set-up.md#add-your-domain-to-personalize-sign-in)** (Pokud jste během [přihlášení](sign-up.md)koupili doménu, je tento krok již vykonáno.)
 
-    - **Přidejte uživatele**. To lze provést některým ze tří způsobů:
+    - **Přidejte uživatele**. Uživatele můžete přidat některým ze tří způsobů:
         - V [Průvodci](set-up.md#add-users-in-the-wizard).
         - Chcete-li [Přidat uživatele pomocí funkce Azure AD Connect](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) (v prostorách služby Active Directory), použijte synchronizaci adresářů.
         - Uživatele můžete také [přidat později](add-users-m365b.md) v centru pro správu.
@@ -65,17 +64,17 @@ Většinu kroků nastavení lze provést v Průvodci nastavením, ale jsou zde t
 
    Připojíte-li zařízení se systémem Windows 10 k Azure AD, zásady nastavené v [kroku 2](#step-2-set-up-security-policies-and-configure-devices) se na něj uplatní.
 
-   - Systém Windows 10 pro je [předpokladem](pre-requisites-for-data-protection.md) pro Microsoft 365 Business, ale pokud máte Windows 7 pro, Windows 8 pro nebo Windows 8,1 pro, vaše předplatné vás opravňuje k [inovaci na systém Windows 10 pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
+   - Systém Windows 10 pro je [nezbytným předpokladem](pre-requisites-for-data-protection.md) pro Microsoft 365 Business, ale pokud používáte systém Windows 7 pro, Windows 8 pro nebo Windows 8,1 pro, vaše předplatné vás opravňuje k [inovaci na systém Windows 10 pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
     - Pomocí [Průvodce instalací](set-up.md#protect-data-and-devices) nakonfigurujte zásady pro zařízení systému Windows 10.
 
-## <a name="stes-4-install-office-365-business"></a>Stes 4: instalace sady Office 365 Business
+## <a name="step-4-install-office-365-business"></a>Krok 4: instalace sady Office 365 Business
 - Sadu Office lze automaticky nainstalovat do zařízení systému Windows pomocí [Průvodce instalací](set-up.md#deploy-office-365-client-apps).
 - Umožňuje uživatelům [instalovat aplikace sady Office](https://docs.microsoft.com/office365/admin/setup/install-applications) pro systém Windows a zařízení.
      
 ## <a name="advanced"></a>Pokročilé
 - **Použití automatického Opilotu k nastavení nových zařízení**
             
-     Pomocí [systému Windows autopilot](add-autopilot-devices-and-profile.md) můžete automaticky nakonfigurovat **Nová** zařízení systému Windows 10 pro uživatele, ale může být jednodušší získat [partnera](https://www.microsoft.com/solution-providers/search) , který by to mohl udělat za vás. Můžete také přejít do [aplikace Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598) a požádat odborníka na technologii cloud, aby nastavil nová zařízení, která vám zakoupíte.
+     Pomocí [systému Windows autopilot](add-autopilot-devices-and-profile.md) můžete automaticky nakonfigurovat **Nová** zařízení systému Windows 10 pro uživatele, ale může být jednodušší získat [partnera](https://www.microsoft.com/solution-providers/search) , který by to mohl udělat za vás. Můžete také přejít do [aplikace Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598)a požádat odborníka na technologii cloud, aby nastavil nová zařízení, která zakoupíte.
 
 - **Přístup k prostředkům na místě**
 

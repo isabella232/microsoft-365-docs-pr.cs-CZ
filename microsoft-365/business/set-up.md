@@ -23,18 +23,18 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Naučte se nastavit aplikaci Microsoft 365 Business.
-ms.openlocfilehash: cd59570cbcb9b027780e160117b44be88770d6b9
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: f29dbdb61636fdfe573a1a6920d0aed963b737ad
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575542"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38721483"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Nastavení aplikace Microsoft 365 Business v Průvodci nastavením
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>Přidání domény, uživatelů a nastavení zásad
 
-[![Popisek vám dá vědět, že se centrum pro správu mění a další podrobnosti naleznete na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Zakoupí-li společnost Microsoft 365 Business, máte možnost používat vlastní doménu nebo ji zakoupit během [zápisu](sign-up.md).
 
@@ -58,7 +58,7 @@ Zakoupí-li společnost Microsoft 365 Business, máte možnost používat vlastn
     
 4. Postupujte podle pokynů průvodce a [vytvořte záznamy DNS u kteréhokoli poskytovatele hostitelských služeb DNS pro sadu Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , který ověřuje vlastní doménu. Pokud znáte hostitele domény, podívejte se také na [pokyny týkající se hostitele](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions).
 
-    Pokud je poskytovatelem hostitelských služeb GoDaddy nebo jiný hostitel s připojením k [doméně](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), je tento proces snadný a budete automaticky požádáni o přihlášení a společnost Microsoft vám bude ověřovat ve vašem zastoupení:
+    Pokud je poskytovatelem hostitelských služeb GoDaddy nebo jiný hostitel povolený s [připojením k doméně](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), je tento proces snadný a budete automaticky požádáni o přihlášení a ověřování společnosti Microsoft ve vašem zastoupení.
 
     ![U možnosti potvrdit přístup na stránce GoDaddy vyberte možnost ověřit.](media/godaddyauth.png)
 
@@ -103,7 +103,7 @@ Abyste mohli nastavit služby, musíte aktualizovat některé záznamy u svého 
 
 Zásady nastavené v průvodci jsou automaticky použity pro [skupinu zabezpečení](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) nazvanou *Všichni uživatelé*. Můžete také vytvořit další skupiny pro přiřazení zásad v centru pro správu.
 
-1. Na panelu **Chraňte své pracovní soubory na mobilních zařízeních** možnost **chránit pracovní soubory při ztrátě nebo odcizení zařízení** je ve výchozím nastavení vybráno. Máte možnost zapnout **správu způsobu, jakým uživatelé přistupují k souborům sady Office na mobilních zařízeních**, a tento postup je doporučen.
+1. Na panelu **Chraňte své pracovní soubory na mobilních zařízeních**při výchozím nastavení **chrání pracovní soubory při ztrátě nebo odcizení zařízení** . Máte možnost zapnout **správu způsobu, jakým uživatelé přistupují k souborům sady Office na mobilních zařízeních**, a tento postup je doporučen.
 
     ![Obrazovka o ochraně pracovních souborů na stránce mobilních zařízení](media/protectworkfilesondevices.png)
 
@@ -123,7 +123,8 @@ Zásady nastavené v průvodci jsou automaticky použity pro [skupinu zabezpeče
 
 ## <a name="deploy-office-365-client-apps"></a>Nasadit sadu Office 365 Client Apps
 
-Pokud se rozhodnete automaticky instalovat aplikace sady Office během nastavování, budou aplikace nainstalovány do zařízení systému Windows 10, jakmile se uživatelé budou přihlásit k Azure AD z jejich zařízení se systémem Windows s jejich pracovním pověřením.
+Pokud jste při instalaci zvolili automatickou instalaci aplikací sady Office, budou aplikace nainstalovány do zařízení systému Windows 10, jakmile se uživatelé k Azure AD přihlašují z jejich zařízení se systémem Windows, pomocí svých pracovních pověření.
+
 Informace o instalaci sady Office na mobilních zařízeních iOS nebo Android naleznete v tématu [nastavení mobilních zařízení pro Microsoft 365 Business Users](set-up-mobile-devices.md).
 
 Sadu Office můžete nainstalovat také jednotlivě. Pokyny naleznete [v části instalace sady Office v počítači nebo Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) .

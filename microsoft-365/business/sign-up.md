@@ -19,12 +19,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Dozvíte se, jak zakoupit a přihlásit se k serveru Microsoft 365 Business.
-ms.openlocfilehash: ef34a3e2bc848ce98efb2218f7bdd9b2a186b6b2
-ms.sourcegitcommit: 9206e7f2d61b5ba7f788fe5e7f75a2218c12c716
+ms.openlocfilehash: 16953f7c752c3105af795e721332e2e6d6bdebe5
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37968777"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718713"
 ---
 # <a name="sign-up-for-microsoft-365-business"></a>Přihlaste se k serveru Microsoft 365 Business
 
@@ -46,10 +46,10 @@ Společnost Microsoft 365 Business lze získat třemi způsoby:
 Chcete-li se přihlásit a zakoupit společnost Microsoft 365 pro váš podnik, proveďte následující kroky:
 
 1. Na [stránce Microsoft 365 pro obchodní stránku](https://go.microsoft.com/fwlink/?linkid=2109654)vyberte možnost **Zobrazit plány & ceny**. 
-2. Na další stránce Zjistěte měsíční náklady a přejděte na stránku a vyhledejte další informace o tom, co je zahrnuto v aplikaci Microsoft 365 Business. V části Microsoft 365 Business vyberte možnost **koupit nyní**.
+2. Na další stránce Zjistěte měsíční náklady a potom přejděte na stránku a vyhledejte další informace o tom, co je zahrnuto v aplikaci Microsoft 365 Business. V části Microsoft 365 Business vyberte možnost **koupit nyní**.
 3. Na stránce **Děkujeme vám, že jste zvolili možnost Microsoft 365 Business** Page, zadejte informace, které chcete začít.
 4. V **kroku 1**zadejte e-mailovou adresu, kterou jste již používali. Může se jednat o aktuální pracovní e-mailovou adresu nebo adresu, kterou má společnost Microsoft použít ke komunikaci s vámi během instalace. Je to také adresa, na které vám pošleme informace o vašem účtu a obnově. Pak vyberte možnost **nastavit účet**.
-5. V **kroku 2**zadejte své jméno, telefonní číslo do zaměstnání, název společnosti a umístění. Všimněte si, že vaše země nebo oblast určuje přesné služby, které obdržíte od společnosti Microsoft, a po dokončení tohoto kroku je nelze změnit. Vyberte **Další**.
+5. V **kroku 2**zadejte své jméno, telefonní číslo do zaměstnání, název společnosti a umístění. Vaše země nebo oblast určuje přesné služby, které obdržíte od společnosti Microsoft, a po dokončení tohoto kroku je nelze změnit. Vyberte **Další**.
     > [!NOTE]
     > Název vaší společnosti zobrazíte v centru pro správu; Zde můžete spravovat uživatele společnosti Microsoft 365, licence a podobně. Je také zahrnut do všech interních adres URL webu (SharePoint).
 6. V **kroku 3**:
@@ -66,7 +66,7 @@ Chcete-li se přihlásit a zakoupit společnost Microsoft 365 pro váš podnik, 
         
         - **Nejsem si jist, nebo vlastní název domény již** 
         
-             Zvolte **pro tuto chvíli doménu společnosti Microsoft**. To nic nestálo a později si můžete získat vlastní název podniku, nebo se připojit k již vlastni&mdash;, ukážeme vám jak.
+             Zvolte **pro tuto chvíli doménu společnosti Microsoft**. To nic nestálo a později můžete získat vlastní název podniku nebo se připojit k již vlastni. Ukážeme vám jak.
 
     3. Vyberte **Další** , chcete-li vytvořit ID uživatele a e-mailovou adresu v zaměstnání. Zadejte název (označovaný také jako alias), který chcete použít. Robert Young může například použít jako alias práce RobY nebo RobYoung. Přidejte heslo a vyberte **zápis**. Poznamenejte si heslo. Na adresu zadanou v kroku 1 pošleme e-mail, který vám připomene vaše ID uživatele.
 7. V **kroku 4**: 

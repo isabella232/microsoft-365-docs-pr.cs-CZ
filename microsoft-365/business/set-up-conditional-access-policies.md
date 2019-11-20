@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Naučte se nastavit zásady podmíněného přístupu pro aplikaci Microsoft 365 kampaněmi.
-ms.openlocfilehash: 0fccd103e3633c7fa5ac07c731341eee93059986
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+ms.openlocfilehash: aebdb733c2dd9a05947335ad4f151104d801568e
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715076"
+ms.locfileid: "38718823"
 ---
 # <a name="set-up-conditional-access-policies"></a>Nastavení zásad podmíněného přístupu
 
@@ -35,10 +35,10 @@ Zásady [podmíněného přístupu](https://docs.microsoft.com/azure/active-dire
 Tyto zásady vyžadují, aby správci a uživatelé zadávali při splnění určitých podmínek druhou formu ověřování (tzv. vícefaktorové ověřování nebo MFA). Pokud se například uživatel přihlašuje z jiné země, může být přihlášení považováno za rizikové a uživatel musí poskytnout další způsob ověřování. 
 
 Zásady základní linie v současné době zahrnují následující:
-- **Požadovat MFA pro** správce – vyžaduje vícefaktorové ověřování pro nejvíce privilegované role správců, včetně globálního správce.
-- **Ochrana koncového uživatele** – vyžaduje vícefaktorové ověřování pro uživatele pouze v případě, že je přihlášení riskantní. 
-- **Blokovat starší ověřování** – starší klientské aplikace a některé nové aplikace nepoužívají novější, bezpečnější a ověřovací protokoly. Tyto starší aplikace mohou obejít zásady podmíněného přístupu a získat neoprávněný přístup k vašemu prostředí. Tato zásada blokuje přístup od klientů, kteří nepodporují podmíněný přístup. 
-- **Vyžadují MFA pro správu servisu** – vyžaduje vícefaktorové ověřování pro přístup k nástrojům pro správu, včetně portálu Azure (kde se konfigurují základní zásady). 
+- **Vyžadují, aby MFA pro administrátora** &ndash; vyžadovala vícefaktorové ověřování pro nejvíce privilegované role správců, včetně globálního správce.
+- **Ochrana** &ndash; koncového uživatele vyžaduje vícefaktorové ověřování pro uživatele pouze v případě, že je přihlášení riskantní. 
+- **Blokovat starší ověřování** &ndash; starší klientské aplikace a některé nové aplikace nepoužívají novější, bezpečnější a ověřovací protokoly. Tyto starší aplikace mohou obejít zásady podmíněného přístupu a získat neoprávněný přístup k vašemu prostředí. Tato zásada blokuje přístup od klientů, kteří nepodporují podmíněný přístup. 
+- **Požadavek na MFA pro správu** &ndash; servisu vyžaduje vícefaktorové ověřování pro přístup k nástrojům pro správu, včetně portálu Azure (kde konfigurujete zásady směrného plánu). 
 
 Společnost Microsoft doporučuje povolit všechny tyto zásady základní linie. Po povolení těchto zásad budou správci a uživatelé vyzváni k zaregistrování pro ověřování Azure Multii-Factor.
 
