@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, nejčastější dotazy, nejčastější dotazy, odpovědi, obchody
 ms.date: 06/08/2018
-ms.openlocfilehash: e4db583fa52807e27bb088083aae028e2e1c05ce
-ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
+ms.openlocfilehash: 09a155c87bf90309f8a4cdd2eb5c0b71d2337d58
+ms.sourcegitcommit: b535fe233234fd25146cfe15478e20d954f71e03
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38311058"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38748365"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 Nejčastější dotazy týkající se podniku
 
@@ -36,7 +36,7 @@ Microsoft 365 je integrované řešení, které spojuje nejlepší nástroje pro
 -   Ochrana aplikací pro sadu Office a další mobilní aplikace s ochranou Intune App. 
 -  Správa zařízení pro počítače se systémem Windows 10, MacOS a mobilní zařízení s řízením zařízení Intune. 
 -  Ochrana identity pomocí vícefaktorového ověřování, samoobslužného obnovení hesla a podmíněného přístupu.
--  Konzistentní konfigurace zabezpečení mezi zařízeními&mdash;ochrana dat společnosti mezi zařízeními; Windows Defender, který je stále zapnutý a aktuální. 
+-  Konzistentní konfigurace zabezpečení mezi zařízeními&mdash;ochrana dat společnosti mezi zařízeními; Program Windows Defender, který je stále zapnutý a aktuální. 
  
  
 **Zjednodušené nasazení zařízení a nastavení uživatelů** 
@@ -52,18 +52,18 @@ Microsoft 365 je integrované řešení, které spojuje nejlepší nástroje pro
 Microsoft 365 Business je komplexní řešení zabezpečení založené na oblaku, které umožňuje:  
 - Braň svůj obchod proti pokročilým kyberhrozbám pomocí sofistikované podvodné a ransomwarové ochrany. 
 - Pomocí šifrování můžete řídit přístup k citlivým informacím a zabránit tak náhodnému sdílení dat s někým, kdo není oprávněn jej zobrazit. 
-- Zabezpečte zařízení, která se připojují k vašemu podniku, a zajistěte, aby data v systémech iOS, Android, Windows a Mac byla zabezpečena a aby byla vaše zařízení systému Windows aktuální.
+- Zabezpečte zařízení, která se připojují k vašemu podniku a pomohou zachovat data v systémech iOS, Android, Windows a Mac, a zařízení systému Windows aktuální.
 
 Společnost Microsoft 365 Business je plně integrována s aplikací Office 365, aby vám poskytla známé místo pro správu, fakturaci a podporu 24x7. Je složena z technologie podnikových tříd, která je postavena pro podniky s méně než 300 zaměstnanci. 
 
 ### <a name="how-can-i-get-microsoft-365-business-for-my-business"></a>Jak lze získat společnost Microsoft 365 Business pro svůj podnik? 
-Společnost Microsoft 365 Business může být zakoupena prostřednictvím <a href="https://www.microsoft.com/solution-providers/search" target="_blank">partnera společnosti Microsoft</a> nebo přímo od <a href="https://www.microsoft.com//microsoft-365/business" target="_blank">společnosti Microsoft</a>. Při volbě, zda chcete zakoupit přímo od společnosti Microsoft nebo prostřednictvím partnera společnosti Microsoft, byste měli zvážit možnost svého personálu a touhu udržovat infrastrukturu IT. Partner společnosti Microsoft vám může pomoci s nasazením a správou infrastruktury IT včetně řešení společnosti Microsoft.
+Společnost Microsoft 365 Business může být zakoupena prostřednictvím <a href="https://www.microsoft.com/solution-providers/search" target="_blank">partnera společnosti Microsoft</a> nebo přímo od <a href="https://www.microsoft.com//microsoft-365/business" target="_blank">společnosti Microsoft</a>. Při volbě, zda chcete zakoupit přímo od společnosti Microsoft nebo prostřednictvím partnera společnosti Microsoft, byste měli zvážit možnost svého personálu a touhu udržovat infrastrukturu IT. Partner společnosti Microsoft vám může pomoci s nasazením a správou infrastruktury IT, včetně řešení společnosti Microsoft.
 
 ### <a name="how-much-does-microsoft-365-business-cost"></a>Kolik stojí společnost Microsoft 365 Business? 
 Společnost Microsoft 365 Business je nabízena na základě _roční smlouvy_ 20.00 USD, která je zakoupena přímo od společnosti Microsoft. Při nákupu prostřednictvím partnera společnosti Microsoft se ceny mohou lišit v závislosti na službách, které partner poskytuje, a na jejich modelu tvorby cen pro společnost Microsoft 365 Business. 
 
 ### <a name="is-there-a-cap-to-how-many-microsoft-365-business-seats-a-customer-can-have"></a>Existuje nějaká čepice, kolik má společnost Microsoft 365 obchodních míst, které může zákazník mít? 
-Společnost Microsoft 365 Business byla navržena pro malé a střední podniky s nízkým až středním požadavkem na složitost IT. Zákazníci si mohou zakoupit až 300 společností Microsoft 365 obchodní licence pro svou organizaci. Zákazníci se mohou smíchat s odběry mraků a porovnávat je. v důsledku toho mohou zákazníci v závislosti na požadavcích na IT přidat na stejný účet licence společnosti Microsoft 365 Enterprise. 
+Společnost Microsoft 365 Business byla navržena pro malé a střední podniky s nízkým až středním požadavkem na složitost IT. Zákazníci si mohou zakoupit až 300 společností Microsoft 365 obchodní licence pro svou organizaci. Zákazníci se mohou smíchat s odběry mraků a porovnávat je. V důsledku toho mohou zákazníci v závislosti na požadavcích na IT přidat na stejný účet licence společnosti Microsoft 365 Enterprise. 
  
 Pokud zákazníci považují prostředí skládající se z více typů předplatného, měli by spolupracovat se svými důvěryhodnými poradci IT, aby určili, jak nejlépe spravovat a zabezpečit různé předplatné jako Microsoft 365 Business a Microsoft 365 Enterprise různé možnosti zabezpečení a správy aplikací a dat.
 
@@ -81,7 +81,7 @@ Pokud je dnes spuštěný hardware spuštěn systém Windows 7 pro nebo vyšší
 V systému Windows 10 je kompatibilita se stávající aplikací pro stolní počítače (Win32) silná, přičemž většina existujících aplikací pracuje beze změn. Zákazníci a jejich důvěryhodní poradci v oblasti IT by měli přečíst doporučený postup testování aplikací pro <a href="https://docs.microsoft.com/windows/deployment/planning/windows-10-compatibility#recommended-application-testing-process" target="_blank">kompatibilitu se systémem Windows 10</a> a zkontrolovat <a href="https://products.office.com/office-system-requirements#subscription-plans-section" target="_blank">požadavky systému Office</a> , aby byl zajištěn hladký přechod k aplikaci Microsoft 365 Business. 
 
 ### <a name="what-is-windows-10-business"></a>Co je systém Windows 10 Business? 
-Windows 10 Business je sada funkcí shluku a správy zařízení, které doplňují systém Windows 10 pro a umožňují centralizované ovládací prvky pro správu a zabezpečení společnosti Microsoft 365 Business.
+Windows 10 Business je sada funkcí mraků a správy zařízení, které doplňují systém Windows 10 pro a umožňují centralizované ovládací prvky pro správu a zabezpečení společnosti Microsoft 365 Business.
 
 Systém Windows 10 Business obsahuje také určité prémiové funkce programu Microsoft Defender, jako je přístup k kontrolovaným složkám a ochrana sítě pro webové podprocesy. Zahrnuje také službu Windows AutoPilot, což je služba, která zefektivní zavádění nových počítačů se systémem Windows 10.
 
@@ -107,7 +107,7 @@ Systém Windows 10 Business také obsahuje novou sadu možností prevence vniknu
 ### <a name="whats-the-difference-between-office-365-business-premium-microsoft-365-business-and-microsoft-365-enterprise"></a>Jaký je rozdíl mezi Office 365 Business Premium, Microsoft 365 Business a Microsoft 365 Enterprise? 
 Společnost Microsoft nabízí různé nabídky správy produktivity a zabezpečení, které malé a středně velké zákazníky mohou zvážit při inovaci plochy a infrastruktury zařízení, z nichž každý přináší stále výkonnější funkce a funkčnost. 
 
-**Sada office 365 Business Premium** poskytuje produktivitu v nejlepší třídě s aplikacemi a službami sady Office 365, ale nezahrnuje funkce ochrany aplikací a správy zařízení společnosti Microsoft 365 Business.
+**Sada office 365 Business Premium** poskytuje produktivitu v nejlepší třídě s aplikacemi a službami sady Office 365, ale nezahrnuje funkce ochrany aplikace a správy zařízení společnosti Microsoft 365 Business.
 
 **Microsoft 365 Business** kombinuje sady Office 365 aplikace a služby s pokročilými funkcemi zabezpečení, které pomáhají chránit vaše podnikání před pokročilými kyberhrozbami, zabezpečit data a spravovat vaše zařízení. Obsahuje zjednodušenou konzolu pro správu, prostřednictvím které mohou být spravovány zásady zařízení a dat. Pro společnost Microsoft 365 Business lze nejlépe podávat mnoho malých a středně velkých podniků. 
  
@@ -135,7 +135,7 @@ Ano, společnost Microsoft 365 pro obchodní předplatitele je licencována k po
   
 
 ### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Je Azuure Active Directory Premium P1 součástí společnosti Microsoft 365 Business? 
-Společnost Microsoft 365 Business zahrnuje výběr funkcí Azure AD Premium P1 (AADP P1), jako je například resetování hesla pro samoobsluhu s možností zpětného zápisu, Azure MFA a podmíněného přístupu. Nezahrnuje celý rozsah AADP P1. Další informace naleznete v [popisu služby Microsoft 365 Business Service](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) . 
+Společnost Microsoft 365 Business zahrnuje výběr funkcí Azure AD Premium P1 (AADP P1), jako je například resetování hesla pro samoobsluhu s možností zpětného zápisu, Azure MFA a podmíněného přístupu. Nezahrnuje celý rozsah AADP P1. Další informace naleznete v [popisu služby Microsoft 365 Business Service](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148).
  
  
 ### <a name="does-microsoft-365-business-allow-customers-to-manage-macs"></a>Umožňuje společnost Microsoft 365 Business zákazníkům správu programu MACS? 
@@ -178,13 +178,13 @@ Společnost Microsoft poskytuje široký výběr zdrojů pro partnery CSP na trh
 ### <a name="what-up-sell-opportunities-does-microsoft-365-business-give-partners"></a>Jaké příležitosti nabízí společnost Microsoft 365 Business partnerům? 
 Společnost Microsoft 365 Business umožňuje partnerům udržovat svou důvěryhodnou pozici u zákazníků vytvořením pevné a bezpečné platformy, na jejímž základě budou prodávat další služby a upgradovány existující produkty a služby. Společnost Microsoft 365 Business poskytuje příležitost k diskusi o inovaci se zákazníky, kteří nyní používají Exchange Server, Exchange Online nebo Office 365 Business Essentials. Partneři mohou také získat více výnosů ze zvýšených spravovaných služeb nebo poplatků za podporu peruživatelů. 
  
-Díky nové funkci Windows AutoPilot zahrnuté v aplikaci Microsoft 365 Business se partneři, kteří se zdráhají prodávat nová zařízení systému Windows kvůli logistice a nákladům, budou tuto příležitost mnohem atraktivnější. Zákazníci, kteří jsou přesvědčeni o bezpečnosti svých provozoven a mobilních zařízení, mohou také investovat do více služeb, jako je například Dynamics 365. 
+Díky nové funkci Windows AutoPilot zahrnuté v aplikaci Microsoft 365 Business se partneři, kteří se zdráhají prodávat nová zařízení systému Windows kvůli logistice a nákladům na zavedení, tuto příležitost budou mnohem atraktivnější. Zákazníci, kteří jsou přesvědčeni o bezpečnosti svých provozoven a mobilních zařízení, mohou také investovat do více služeb, jako je například Dynamics 365. 
  
 ### <a name="should-partners-sell-microsoft-365-business-over-other-plans-from-microsoft"></a>Měli by partneři prodávat společnost Microsoft 365 Business před dalšími plány společnosti Microsoft? 
 Zprostředkovatel řešení Cloud společnosti Microsoft by měl vždy prodat plán, který nejlépe odpovídá potřebám a rozpočtu zákazníků. Pokud například zákazník musí dodržovat předpisy týkající se ochrany osobních údajů a zabezpečení, může zprostředkovatel prodat společnost Microsoft 365 Business Plus všechny doplňky, které zákazníkům pomohou splnit jeho požadavky, nebo mohou navrhnout pokročilé zabezpečení a správu poskytovanou společností Microsoft 365 Business Enterprise SKUs. 
  
-### <a name="some-of-my-customers-have-devices-that-are-not-genuine-will-microsoft-365-business-make-these-devices-genuine"></a>Někteří mí zákazníci mají zařízení, která nejsou pravá; bude společnost Microsoft 365 Business provádět tato zařízení jako pravá? 
-Aplikace Microsoft 365 Business netvoří jinak originální verzi systému Windows, která není originální. Společnost Microsoft 365 Business poskytuje výhody pro upgrade, díky čemuž mohou zákazníci, kteří používají originální systém Windows 7, 8 nebo 8,1 pro, upgradovat na nejnovější pravou verzi systému Windows 10 pro. 
+### <a name="some-of-my-customers-have-devices-that-arent-genuine-will-microsoft-365-business-make-these-devices-genuine"></a>Někteří mí zákazníci mají zařízení, která nejsou pravá; bude společnost Microsoft 365 Business provádět tato zařízení jako pravá? 
+Společnost Microsoft 365 Business nedělá jinak originální verzi systému Windows, která není originální. Společnost Microsoft 365 Business poskytuje výhody pro upgrade, díky čemuž mohou zákazníci, kteří používají originální systém Windows 7, 8 nebo 8,1 pro, upgradovat na nejnovější pravou verzi systému Windows 10 pro. 
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>Co je to GDPR a jak společnost Microsoft 365 Business pomáhá zákazníkům s plněním závazků?
 Obecné nařízení o ochraně údajů (GDPR) je obsáhlým novým zákonem o ochraně soukromí, který poskytuje rezidentům Evropské unie (EU) větší kontrolu nad jejich "osobními údaji" a vyžaduje, aby organizace zachovaly integritu těchto osobních údajů. GDPR vyžaduje, aby organizace, které kontrolují nebo zpracovávají osobní údaje vázané na obyvatele EU, používaly pouze datové procesory jiných výrobců, které splňují požadavky GDPR pro zpracování osobních údajů. V březnu 2017 společnost Microsoft poskytla k dispozici smluvní záruky, které tyto záruky poskytují. Zákazníci, kteří mají dotazy, jak jim může společnost Microsoft pomoci splnit své dodatečné povinnosti v rámci GDPR, by měli získat informace o rozšířených funkcích kompatibility a zabezpečení dostupných v aplikaci Microsoft 365 Business (například o ochraně informací Azure, data prevence ztrát, Rozšířená ochrana proti ohrožení atd.) a v jiných apartmánech (například Microsoft 365 Enterprise E5). Další informace získáte na adrese [www.Microsoft.com/gdpr](https://www.microsoft.com/gdpr).
