@@ -35,7 +35,7 @@
 ## Migrace na Microsoft 365 Business
 ### [Migrace z aplikace Office 365 Business Premium](migrate-to-microsoft-365-business.md)
 ### [Migrovat ze sady Office 365 E3](migrate-from-e3.md)
-### [Migrovat ro Microsoft 365 Enterprise](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
+### [Migrovat do společnosti Microsoft 365 Enterprise](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
 ## Fakturace
 ### [Váš účet](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Platit](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
