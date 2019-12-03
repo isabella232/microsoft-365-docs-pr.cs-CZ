@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Seznamte se s funkcemi zabezpečení, které jsou součástí aplikace Microsoft 365 Business.
-ms.openlocfilehash: f24836ef93c529eddc05c767d6e4fa8af6aef314
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+ms.openlocfilehash: 98eb0c2015ed6088b2d5e8621c8e72a5b63f2a17
+ms.sourcegitcommit: 58a7bd70a4bcf52530baf5f82507fd5dc4455fd9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715136"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39668842"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 obchodní zabezpečení a funkce kompatibility
 
@@ -74,7 +74,8 @@ V aplikaci Microsoft 365 Business jsou k dispozici pokročilé funkce, které v�
     Přístup k centrovému středisku Intune v Azure portálu umožňuje nastavit další zabezpečovací funkce, jako je Správa zařízení MacOS, iPhone a Android, spolu s rozšířenou správou zařízení pro systém Windows, které nejsou dostupné prostřednictvím společnosti Microsoft 365 centrum pro správu podniku.
 - **Stejný [podmíněný přístup](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) jako plán Azure AD P1**
 
-    Podmíněný přístup může pomoci ochránit vaši organizaci před svým přístupem, pokusy o přístup z neočekávané sítě nebo národního prostředí, pokusy o přístup z rizikových typů zařízení atd. Zásady podmíněného přístupu jsou vynuceny po dokončení prvního ověření a pomocí signálů z první události ověřování lze určit, zda by měl být pokus o přístup schválen, odepřen nebo zda má být více důkazů (například druhá forma Identifikace).
+
+    Podmíněný přístup může pomoci ochránit vaši organizaci před svým přístupem, pokusy o přístup z neočekávané sítě nebo národního prostředí, pokusy o přístup z rizikových typů zařízení atd. Zásady podmíněného přístupu jsou vynuceny po dokončení prvního ověření a pomocí signálů z první události ověřování lze určit, zda by měl být pokus o přístup schválen, odepřen nebo zda má být více důkazů (například druhá forma identifikace). je požadován.
 
     Mezi zahrnuté funkce podmíněného přístupu patří:
 
