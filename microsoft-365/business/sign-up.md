@@ -10,6 +10,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -19,12 +20,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Dozvíte se, jak zakoupit a přihlásit se k serveru Microsoft 365 Business.
-ms.openlocfilehash: 16953f7c752c3105af795e721332e2e6d6bdebe5
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 3470d07f98a1c5806a27d8f21f152a818e4a0371
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718713"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39812792"
 ---
 # <a name="sign-up-for-microsoft-365-business"></a>Přihlaste se k serveru Microsoft 365 Business
 
@@ -42,6 +43,12 @@ Společnost Microsoft 365 Business lze získat třemi způsoby:
 - [Přihlaste se k domovskému nebo rodinnému plánu](https://go.microsoft.com/fwlink/?linkid=2109398) , pokud si nekupujete pro podnik. 
 
 ## <a name="sign-up-steps"></a>Postup přihlášení
+
+Sledujte toto video a vyhledejte stručný přehled procesu zápisu.
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3znhX] 
+
+Pokud jste toto video našli, podívejte se na [kompletní tréninkové řady pro malé firmy a ty nové do společnosti Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Chcete-li se přihlásit a zakoupit společnost Microsoft 365 pro váš podnik, proveďte následující kroky:
 
@@ -82,3 +89,6 @@ Vyberte možnost **Přejít k instalačnímu programu** a dokončete další kro
 
 Nápovědu k instalaci naleznete v tématu [set up](set-up.md).
 
+## <a name="see-also"></a>Viz také
+
+[Microsoft 365 Business Training video](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

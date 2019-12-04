@@ -10,6 +10,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -21,18 +22,22 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Naučte se nastavit aplikaci Microsoft 365 Business.
-ms.openlocfilehash: f269e970cc1ee5ba7455ea799b238db577116f09
-ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
+ms.openlocfilehash: 2e6e1e6153fe4033aa7dd47280c737957d0e4bd5
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704109"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39813052"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Začínáme s Microsoft 365 Business
 
 ## <a name="what-is-microsoft-365-business"></a>Co je Microsoft 365 Business
 
 Microsoft 365 Business je komplexní sada nástrojů pro produktivitu práce a spolupráci, jako jsou aplikace Outlook, Word, Excel a další produkty sady Office, které jsou vždy aktuální. Své pracovní soubory můžete chránit na všech zařízeních iOS, Android a Windows 10 se zabezpečením podnikové kvality, které lze snadno spravovat.
+
+Sledujte toto video a vyhledejte stručný přehled společnosti Microsoft 365 Business.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
 Společnost Microsoft 365 Business je určena na 300 licencí. Potřebujete-li více licencí, vyhledejte další informace v dokumentaci k [produktu Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) . 
   
@@ -49,6 +54,13 @@ Společnost Microsoft 365 Business je určena na 300 licencí. Potřebujete-li v
 Následující diagram popisuje způsob, jakým správci nastavují aplikaci Microsoft 365 Business. Popisuje také kroky při přípravě počítačů s Windows na Microsoft 365 Business. Nová zařízení můžete také přidat v centru Microsoft 365 Business Admin Center pomocí [systému Windows AutoPilot](add-autopilot-devices-and-profile.md). Funkci AutoPilot můžete použít k nastavení a předkonfiguraci nových zařízení tak, aby byla připravena k produktivním využití, jakmile se uživatel přihlásí pomocí svých obchodních pověření společnosti Microsoft 365.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
+
+Na tomto videu můžete sledovat přehled programu Microsoft 365 Business Setup.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
+
+Pokud jste toto video našli, podívejte se na [kompletní tréninkové řady pro malé firmy a ty nové do společnosti Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
   
 ### <a name="1-set-up-microsoft-365-business-admin"></a>1: nastavení aplikace Microsoft 365 Business (admin)
 
@@ -89,9 +101,10 @@ Pokud zachováte místní adresář služby Active Directory, který bude obsaho
     
 - Jako společnost Microsoft 365 Business admin máte přístup k našemu týmu zákaznické podpory: ** [kontaktování podpory pro obchodní produkty-Nápověda pro správce](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
     
-## <a name="related-topics"></a>Související témata
+## <a name="see-also"></a>Viz také
+
 [Dokumentace a zdroje informací k Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
 [Správa Microsoft 365 Business](manage.md)[Migrace na Microsoft 365 Business](migrate-to-microsoft-365-business.md)
-  
 
+[Microsoft 365 Business Training video](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 

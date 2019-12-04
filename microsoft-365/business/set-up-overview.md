@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Přehled kroků nastavení pro aplikaci Microsoft 365 Business.
-ms.openlocfilehash: 3447f06d031462a7bebc6f129238de9f0c5dee41
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 425c465262c266ca764ae8c7a52130903fa635a5
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38721553"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39812772"
 ---
 # <a name="overview-of-setup"></a>Přehled nastavení
 
@@ -44,16 +44,15 @@ Většinu kroků nastavení lze provést v Průvodci nastavením, ale jsou zde t
         - Uživatele můžete také [přidat později](add-users-m365b.md) v centru pro správu.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Krok 2: nastavení zásad zabezpečení a konfigurace zařízení 
 
-  - Pomocí [Průvodce instalací](set-up.md#protect-data-and-devices) nakonfigurujte zásady zařízení a zabezpečení. 
+  - Pomocí [Průvodce instalací](set-up.md#protect-your-organization) nakonfigurujte zásady zařízení. 
   - Můžete je také přidat nebo upravit později v [centru pro správu](view-policies-and-devices.md) a na [portálu Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
-  - Kromě nastavení zabezpečení v Průvodci nastavením můžete zvýšit zabezpečení přidáním následujících nastavení:
+  - Průvodce instalací také nastaví základní ochranu proti ohrožení a nastavení prevence ztráty dat.
+  
+  Kromě nastavení zabezpečení v Průvodci nastavením můžete zvýšit zabezpečení přidáním následujících nastavení:
 
       - **Ochrana proti malwaru e-mailu**
-      - **Rozšířené možnosti ochrany proti ohrožení (ATP) bezpečné odkazy**
-      - **Bezpečné přílohy ATP**
       - **ATP anti-phishing**
       - **Exchange Online - archiv**
-      - **Zabránění ztrátě dat (DLP)**
       - **Ochrana informací Azure (Plan1**)
 
           Chcete-li se začít podívat, [nastavte pokročilé zásady zabezpečení](set-up-advanced-security.md).
@@ -62,10 +61,12 @@ Většinu kroků nastavení lze provést v Průvodci nastavením, ale jsou zde t
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Krok 3: nastavení a Správa zařízení systému Windows 10
 
-   Připojíte-li zařízení se systémem Windows 10 k Azure AD, zásady nastavené v [kroku 2](#step-2-set-up-security-policies-and-configure-devices) se na něj uplatní.
+Po spuštění Průvodce nastavením budete chtít v organizaci proctit všechny počítače společnosti Windwos 10.
+  
+- Systém Windows 10 pro je [nezbytným předpokladem](pre-requisites-for-data-protection.md) pro Microsoft 365 Business, ale pokud používáte systém Windows 7 pro, Windows 8 pro nebo Windows 8,1 pro, vaše předplatné vás opravňuje k [inovaci na systém Windows 10 pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
+- Chcete-li nastavit zásady pro zařízení systému Windows 10, postupujte podle kroků v [zabezpečených počítačích se systémem Windows 10](secure-win-10-pcs.md) .
 
-   - Systém Windows 10 pro je [nezbytným předpokladem](pre-requisites-for-data-protection.md) pro Microsoft 365 Business, ale pokud používáte systém Windows 7 pro, Windows 8 pro nebo Windows 8,1 pro, vaše předplatné vás opravňuje k [inovaci na systém Windows 10 pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
-    - Pomocí [Průvodce instalací](set-up.md#protect-data-and-devices) nakonfigurujte zásady pro zařízení systému Windows 10.
+Připojíte-li zařízení se systémem Windows 10 k Azure AD, budou na něj použity zásady nastavené pro počítače se systémem Windows 10. Další informace naleznete v tématu [nastavení zařízení systému Windows pro Microsoft 365 Business Users](set-up-windows-devices.md).
 
 ## <a name="step-4-install-office-365-business"></a>Krok 4: instalace sady Office 365 Business
 - Sadu Office lze automaticky nainstalovat do zařízení systému Windows pomocí [Průvodce instalací](set-up.md#deploy-office-365-client-apps).
@@ -82,4 +83,6 @@ Většinu kroků nastavení lze provést v Průvodci nastavením, ale jsou zde t
 
     - Pokud vaše společnost disponuje místním adresářem služby Active Directory obsahujícím některé místní zdroje (například sdílené soubory a tiskárny), můžete k těmto zdrojům poskytnout přístup k těmto prostředkům pomocí zařízení Azure AD, a to následujícím postupem: [přístup k místním prostředkům z zařízení připojeném Azure AD v Microsoft 365 Business](access-resources.md).
 
-  
+## <a name="see-also"></a>Viz také
+
+[Microsoft 365 Business Training video](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

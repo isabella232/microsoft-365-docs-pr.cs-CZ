@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'Dozvíte se, jak nastavit zařízení systému Windows se systémem Windows 10 pro pro Microsoft 365 obchodní uživatele. '
-ms.openlocfilehash: f929c64b00e4ebf24e9f82fcfea433119abf2f1c
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: b377c1e69d117b893b256880cd3b9972e33345c7
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718863"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39812872"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Nastavení zařízení s Windows pro uživatele služby Microsoft 365 Business
 
@@ -37,7 +37,13 @@ Pokud máte zařízení, na kterých běží Windows 7 Pro, Windows 8 Pro nebo W
   
 Další informace o upgradu zařízení s Windows na Windows 10 Pro Creators Update najdete v krocích popsaných v tomto tématu: [Upgrade zařízení s Windows na Windows Pro Creators Update](upgrade-to-windows-pro-creators-update.md).
   
-Další informace naleznete [v tématu ověření, zda je zařízení připojeno k Azure AD](#verify-the-device-is-connected-to-azure-ad) , abyste ověřili, zda máte upgrade nebo zda upgrade fungoval. 
+Další informace naleznete [v tématu ověření, zda je zařízení připojeno k Azure AD](#verify-the-device-is-connected-to-azure-ad) , abyste ověřili, zda máte upgrade nebo zda upgrade fungoval.
+
+Sledujte krátké video o připojení systému Windows k aplikaci Microsoft 365.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
+
+Pokud jste toto video našli, podívejte se na [kompletní tréninkové řady pro malé firmy a ty nové do společnosti Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Připojení zařízení s Windows 10 ke službě Azure AD organizace
 
@@ -115,3 +121,6 @@ Zkontrolujte, jestli zařízení s Windows 10 připojená k Azure AD byla v rám
 
 Pokud chcete nastavit mobilní zařízení, přečtěte si článek [Nastavení mobilních zařízení pro uživatele služby Microsoft 365 Business](set-up-mobile-devices.md). Pokud chcete nastavit zásady ochrany zařízení nebo aplikací, přečtěte si článek [Správa Microsoft 365 Business](manage.md).
   
+## <a name="see-also"></a>Viz také
+
+[Microsoft 365 Business Training video](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
