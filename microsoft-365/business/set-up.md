@@ -13,6 +13,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -23,14 +24,20 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Naučte se nastavit aplikaci Microsoft 365 Business.
-ms.openlocfilehash: f29dbdb61636fdfe573a1a6920d0aed963b737ad
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 7ab6ae095ae30f8ceb74be69fcee20f31977ae21
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38721483"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39818881"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Nastavení aplikace Microsoft 365 Business v Průvodci nastavením
+
+Na tomto videu můžete sledovat přehled programu Microsoft 365 Business Setup.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
+
+Pokud jste toto video našli, podívejte se na [kompletní tréninkové řady pro malé firmy a ty nové do společnosti Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>Přidání domény, uživatelů a nastavení zásad
 
@@ -44,16 +51,18 @@ Zakoupí-li společnost Microsoft 365 Business, máte možnost používat vlastn
 
 1. Přihlaste se ke [středisku Microsoft 365 Admin Center](https://admin.microsoft.com) pomocí globálních pověření pro správu. 
 
-2. Zvolte možnost **Přidat doménu** nebo **Přidat uživatele** Chcete-li spustit průvodce.
+2. Chcete-li spustit průvodce, zvolte možnost **Přejít k instalačnímu programu** .
+
+    ![Vyberte možnost přejít k nastavení.](media/gotosetupinadmincenter.png)
+
+3. Na stránce **instalace aplikací sady Office** můžete aplikace volitelně nainstalovat do vlastního počítače.
+    
+4. V kroku **Přidat doménu** zadejte název domény, který chcete použít (například contoso.com).
+
     > [!IMPORTANT]
     > Pokud jste během zápisu zakoupili doménu, nezobrazí se zde krok **Přidat doménu** . Přejděte na místo pro [Přidání uživatelů](#add-users-and-assign-licenses) .
 
-    ![Vyberte možnost přejít k nastavení.](media/gotosetupinadmincenter.png)
-    
-3. V průvodci zadejte název domény, který chcete použít (například contoso.com).
-
-
-    ![Obrazovka stránky přizpůsobit přihlašovací stránku.](media/personalizesignin.png)
+    ![Obrazovka stránky přizpůsobit přihlašovací stránku.](media/adddomain.png)
 
     
 4. Postupujte podle pokynů průvodce a [vytvořte záznamy DNS u kteréhokoli poskytovatele hostitelských služeb DNS pro sadu Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , který ověřuje vlastní doménu. Pokud znáte hostitele domény, podívejte se také na [pokyny týkající se hostitele](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions).
@@ -76,13 +85,6 @@ Všichni uživatelé, které přidáte v průvodci, dostanou automaticky přiřa
 
 2. Po přidání uživatelů budete mít také možnost sdílet pověření s novými uživateli, které jste přidali. Můžete je vytisknout, poslat e-mailem nebo si je stáhnout.
 
-3. Do pole vytvořit týmy pro vaši organizaci můžete přidat týmy a přidat do nich uživatele. Můžete to provést také později. Další informace naleznete v tématu [vytvoření týmu pro celou společnost](https://support.office.com/article/037bb27a-bcc9-48fe-8d72-44d9482420a3).
-
-4. Přesun e-mailových zpráv přeskočte a na stránce **Migrace e-mailových zpráv** zvolte **Další**. 
-
-    Pokud se přesouváte od jiného poskytovatele e-mailu a chcete data později zkopírovat, můžete [přenést e-maily a kontakty do sady Office 365](https://support.office.com/article/a3e3bddb-582e-4133-8670-e61b9f58627e).
-
-
 ### <a name="connect-your-domain"></a>Připojení domény
 
 > [!NOTE]
@@ -95,31 +97,29 @@ Abyste mohli nastavit služby, musíte aktualizovat některé záznamy u svého 
     - Pokud máte existující záznamy DNS, například existující web, ale hostitel DNS je povolen pro [připojení k doméně](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), zvolte možnost **Přidat záznamy**. Na stránce **Vyberte stránku služeb online** , přijměte všechny výchozí hodnoty a klepněte na tlačítko **Další**a na stránce hostitele DNS vyberte možnost **autorizovat** .
     - Pokud máte existující záznamy DNS s jinými hostiteli DNS (nejsou povoleny pro připojení k doméně), budete chtít spravovat své vlastní záznamy DNS, abyste zajistili, že stávající služby zůstanou propojeny. Další informace naleznete v tématu [základy domény](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) .
 
-        ![Připojte stránku domény ke správě vlastních záznamů DNS.](media/connectyourdomainpage.png)
+        ![Aktivuje stránku záznamů.](media/activaterecords.png)
 
 2. Postupujte podle pokynů průvodce a e-maily a další služby budou nastaveny pro vás.
 
-### <a name="protect-data-and-devices"></a>Ochrana dat a zařízení 
+### <a name="protect-your-organization"></a>Ochrana organizace 
 
 Zásady nastavené v průvodci jsou automaticky použity pro [skupinu zabezpečení](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) nazvanou *Všichni uživatelé*. Můžete také vytvořit další skupiny pro přiřazení zásad v centru pro správu.
 
-1. Na panelu **Chraňte své pracovní soubory na mobilních zařízeních**při výchozím nastavení **chrání pracovní soubory při ztrátě nebo odcizení zařízení** . Máte možnost zapnout **správu způsobu, jakým uživatelé přistupují k souborům sady Office na mobilních zařízeních**, a tento postup je doporučen.
+1. Při **zvýšení ochrany před pokročilými internetovými hrozbami**se doporučuje přijmout výchozí hodnoty, které umožňují [systému Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) prohledávat soubory a odkazy v aplikacích sady Office.
 
-    ![Obrazovka o ochraně pracovních souborů na stránce mobilních zařízení](media/protectworkfilesondevices.png)
+    ![Obrazovka stránky zvýšení ochrany.](media/increasetreatprotection.png)
 
-     - Rozbalit **ochranu pracovních souborů při ztrátě nebo odcizení zařízení** pro zobrazení [výchozích hodnot](protect-work-files-on-lost-or-stolen-device.md):
 
-        ![Obrazovka výchozích hodnot pro ochranu souborů ztracených zařízení.](media/protectworkfilesondevicesdefault.png)
+2. Pokud chcete **zabránit úniku citlivých datových** stránek, přijměte výchozí nastavení pro zapnutí funkce Zabránění ztrátám dat (DLP) sady Office 365 za účelem sledování citlivých dat v aplikacích sady Office a zabránění nechtěnému sdílení těchto dat mimo vaši organizaci.
 
-    - Vyberte možnost **spravovat způsob, jakým uživatelé přistupují k souborům systému Office v mobilních zařízeních** , a rozbalte ji, aby zobrazili [výchozí hodnoty](manage-user-access-on-mobile-devices.md). Doporučujeme, abyste při instalaci přijali výchozí hodnoty a vytvořili tak zásady použití pro systémy Android, iOS a Windows 10, které se vztahují na všechny uživatele. Další zásady můžete vytvořit po dokončení instalace.
+3. Na stránce **Chraňte data v sadě Office pro mobilní** stránku ponechejte správu mobilních aplikací, rozbalte nastavení a Prohlédněte si je a pak vyberte možnost **vytvořit zásadu správy mobilních aplikací**.
 
-        ![Obrazovka nastavení ochrany pro soubory sady Office v mobilním počítači.](media/useraccessonmobile.png)
+    ![Kopie obrazovky Chraňte data v sadě Office pro mobilní stránku.](media/protectdatainmobile.png)
 
-2. Poslední krok týkající se ochrany dat a zařízení umožňuje nastavit zásady pro zabezpečení zařízení systému Windows 10. Tato nastavení jsou automaticky použita při připojení uživatele systému Windows 10 k vaší organizaci. Můžete rozbalit **Zabezpečená zařízení Windows 10** a zobrazit a upravit [výchozí hodnoty](secure-windows-10-devices.md).
-3. Můžete také zvolit [automatickou instalaci sady Office](install-office-on-windows-10-during-setup.md) do zařízení systému Windows 10.
 
-    ![Obrazovka nastavení stránky konfigurace zařízení systému Windows 10.](media/setwin10config.png)
+## <a name="secure-windows-10-pcs"></a>Zabezpečení systému Windows 10 počítačů
 
+Na levém navigačním panelu vyberte **Nastavení** a potom v části zapnuto **a zabezpečení**zvolte zabezpečení **počítačů se systémem Windows 10**. Zvolte **zobrazení** pro začátek. Úplné pokyny naleznete v části [zabezpečení počítačů se systémem Windows 10](secure-win-10-pcs.md) .
 
 ## <a name="deploy-office-365-client-apps"></a>Nasadit sadu Office 365 Client Apps
 
@@ -128,3 +128,7 @@ Pokud jste při instalaci zvolili automatickou instalaci aplikací sady Office, 
 Informace o instalaci sady Office na mobilních zařízeních iOS nebo Android naleznete v tématu [nastavení mobilních zařízení pro Microsoft 365 Business Users](set-up-mobile-devices.md).
 
 Sadu Office můžete nainstalovat také jednotlivě. Pokyny naleznete [v části instalace sady Office v počítači nebo Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) .
+
+## <a name="see-also"></a>Viz také
+
+[Microsoft 365 Business Training video](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
