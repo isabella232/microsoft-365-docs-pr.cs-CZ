@@ -18,12 +18,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Dozvíte se, jak získat přístup k prostorovým zdrojům, jako je například obchodní aplikace, sdílení souborů a tiskárny z Azure Active Directory do zařízení Windows 10.
-ms.openlocfilehash: 4a2ff28107c6e2ec4473859c75bf720df7662747
-ms.sourcegitcommit: 58a7bd70a4bcf52530baf5f82507fd5dc4455fd9
+ms.openlocfilehash: 89ac38f3da9cbdd3ff1a5eb33dc129d2e83521c7
+ms.sourcegitcommit: 8c244b38c43dd00c4ef0102f8bed02ab36639a6b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39668782"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39967157"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Přístup k prostředkům v místě z zařízení připojeném Azure AD v Microsoft 365 Business
 
@@ -47,7 +47,7 @@ Chcete-li umožnit přístup k prostředkům v rámci podniku, proveďte násled
     
 K získání přístupu k prostředkům na místě pro zařízení spojená s Azure AD nejsou zapotřebí žádné další kroky. Tato funkce je integrována do systému Windows 10. 
 
-Máte-li v úmyslu přihlásit se k jinému zařízení, než je metoda hesla, jako je například PIN/bio-metric přes WHFB přihlašovací pověření a potom přístup k místní síti (sdílené položky, tiskárny.. atd.), prosím následujtehttps://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
+Máte-li v úmyslu přihlásit se k jinému zařízení, než je metoda hesla, jako je například PIN/bio-metric přes WHFB přihlašovací pověření a potom přístup k místní síti (sdílené položky, tiskárny.. atd.), prosím následujtehttps://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
   
 Pokud vaše organizace není připravena k nasazení ve výše popsané konfiguraci zařízení Azure AD, zvažte nastavení [Konfigurace zařízení připojené k hybridní síti Azure](manage-windows-devices.md).
   

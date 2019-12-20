@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Přehled kroků nastavení pro aplikaci Microsoft 365 Business.
-ms.openlocfilehash: 425c465262c266ca764ae8c7a52130903fa635a5
-ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
+ms.openlocfilehash: f531830bffbe1cb6ce4e39ee2ba12da5738a2684
+ms.sourcegitcommit: 8c244b38c43dd00c4ef0102f8bed02ab36639a6b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39812772"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39967617"
 ---
 # <a name="overview-of-setup"></a>Přehled nastavení
 
@@ -50,14 +50,16 @@ Většinu kroků nastavení lze provést v Průvodci nastavením, ale jsou zde t
   
   Kromě nastavení zabezpečení v Průvodci nastavením můžete zvýšit zabezpečení přidáním následujících nastavení:
 
-      - **Ochrana proti malwaru e-mailu**
-      - **ATP anti-phishing**
-      - **Exchange Online - archiv**
-      - **Ochrana informací Azure (Plan1**)
 
-          Chcete-li se začít podívat, [nastavte pokročilé zásady zabezpečení](set-up-advanced-security.md).
+- **Ochrana proti malwaru e-mailu**
+- **ATP anti-phishing**
+- **Exchange Online - archiv**
+- **Ochrana informací Azure (Plan1**)
 
-        Viz také [10 nejlepších způsobů zabezpečení společnosti Microsoft 365 Business](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) pro cestovní mapu s nejlepšími bezpečnostními postupy.
+
+Chcete-li se začít podívat, [nastavte pokročilé zásady zabezpečení](set-up-advanced-security.md).
+
+Viz také [10 nejlepších způsobů zabezpečení společnosti Microsoft 365 Business](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) pro cestovní mapu s nejlepšími bezpečnostními postupy.
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Krok 3: nastavení a Správa zařízení systému Windows 10
 
