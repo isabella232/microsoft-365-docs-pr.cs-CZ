@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Nainstalujte sadu Office na telefon iPhone nebo Android a pracovní soubory v aplikacích sady Office budou chráněny společností Microsoft 365 Business.
-ms.openlocfilehash: d87ea714f578130d05be57d1f66270b306f37c7c
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+ms.openlocfilehash: 6dc116f9c0822d33e8d742d065c8485a0cf82c37
+ms.sourcegitcommit: 178ecb21cacdeaf440f3df2fe6e539e9127fcf15
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831377"
+ms.lasthandoff: 12/23/2019
+ms.locfileid: "40850818"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a>Nastavení mobilních zařízení pro uživatele služby Microsoft 365 Business
 
@@ -39,9 +39,11 @@ Následující příklad se týká Outlooku, ale platí i pro všechny ostatní 
 
 ## <a name="iphonetabiphone"></a>[Iphone](#tab/iPhone)
   
-Sledujte video o nastavení aplikací sady Office na zařízeních iOS se společností Microsoft 365 Business.<br><br>
+Sledujte krátké video o nastavení aplikací sady Office na zařízeních iOS se společností Microsoft 365 Business.<br><br>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/e0ee7052-e0f4-4c42-a4f1-5e91b9776ce9?autoplay=false] 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
+
+Pokud jste toto video našli, podívejte se na [kompletní tréninkové řady pro malé firmy a ty nové do společnosti Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Přejděte do **App Storu** a do vyhledávacího pole zadejte Microsoft Outlook.
   
