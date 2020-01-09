@@ -25,12 +25,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Další informace o aplikaci Microsoft 365 Business.
-ms.openlocfilehash: 1d4eb62a31cc44ab8dc75964c038f0a3deef4005
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+ms.openlocfilehash: eafd03be90c128051c8c91bc339af69a0a613136
+ms.sourcegitcommit: d48b7852383262083a6a109530d84f0858cb3801
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831427"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40999548"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Přehled produktu Microsoft 365 Business
 
@@ -42,7 +42,7 @@ Sledujte toto video a vyhledejte stručný přehled společnosti Microsoft 365 B
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Pokud jste toto video našli, podívejte se na [kompletní tréninkové řady pro malé firmy a ty nové do společnosti Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+Pokud je pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
 
 Společnost Microsoft 365 Business je určena na 300 licencí. Potřebujete-li více licencí, vyhledejte další informace v dokumentaci k [produktu Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) .
 
@@ -99,7 +99,7 @@ Vaše **zařízení jsou zabezpečena** :
 
 - Použití zjednodušených ovládacích prvků ke správě zásad pro všechny počítače se systémem Windows 10 ve vaší firmě, vynucení šifrování nástrojem BitLocker a automatickou instalaci důležitých aktualizací systému Windows (vynutit zásady aktualizace systému Windows).
 
-Úplný seznam funkcí zabezpečení naleznete v tématu [Microsoft 365 Business Security Features](security-features.md). Po [instalaci aplikace Microsoft 365 Business](set-up.md)naleznete v tématu [Nastavení rozšířených zásad zabezpečení](set-up-advanced-security.md) , které umožňuje začít s funkcemi zabezpečení, které nejsou součástí instalace s průvodcem. Přečtěte si také [10 nejlepších způsobů zabezpečení sady Office 365 a Microsoft 365 obchodní plány](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) pro dobrý přehled o nastavení ochrany proti internetovým podvodníkům a hackerům.
+Úplný seznam funkcí zabezpečení naleznete v tématu [Microsoft 365 Business Security Features](security-features.md). Po [instalaci aplikace Microsoft 365 Business](set-up.md)naleznete v části [zvýšení ochrany proti ohrožení](increase-threat-protection.md) a [Nastavení funkcí kompatibility](set-up-compliance.md) tak, aby bylo možné začít s funkcemi zabezpečení, které nejsou součástí instalace s průvodcem. Přečtěte si také [10 nejlepších způsobů zabezpečení sady Office 365 a Microsoft 365 obchodní plány](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) pro dobrý přehled o nastavení ochrany proti internetovým podvodníkům a hackerům.
 
 ## <a name="get-microsoft-365-business"></a>Jak získat Microsoft 365 Business
 
@@ -114,4 +114,4 @@ Vaše **zařízení jsou zabezpečena** :
 
 ## <a name="see-also"></a>Viz také
 
-[Microsoft 365 Business Training video](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Školicí videa k Microsoftu 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
