@@ -1,5 +1,5 @@
 ---
-title: Upgrade zařízení s Windows na Windows Pro Creators Update
+title: Upgradovat zařízení systému Windows na systém Windows 10 pro
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,25 +21,25 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: 'Dozvíte se, jak upgradovat zařízení systému Windows na aktualizaci Windows 10 pro Creator. '
-ms.openlocfilehash: e8399ad94ef58ad8fa5386d4ab0ed7fa4b8627a0
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+description: 'Naučte se upgradovat zařízení systému Windows na systém Windows 10 pro. '
+ms.openlocfilehash: acad4a393e0870299df768fd4c821d9c1e83ecac
+ms.sourcegitcommit: cf7b0fd80ecfb7a216111a801269c5322794795e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831187"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40995264"
 ---
-# <a name="upgrade-windows-devices-to-windows-pro-creators-update"></a>Upgrade zařízení s Windows na Windows Pro Creators Update
+# <a name="upgrade-windows-devices-to-windows-10-pro"></a>Upgradovat zařízení systému Windows na systém Windows 10 pro
 
 Sledujte krátké video o inovaci zařízení systému Windows na systém Windows 10 pro.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
-Pokud jste toto video našli, podívejte se na [kompletní tréninkové řady pro malé firmy a ty nové do společnosti Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Pokud je pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-## <a name="upgrade-to-windows-10-pro-creators-update"></a>Upgradovat na aktualizaci Windows 10 pro Creator
+## <a name="upgrade-to-windows-10-pro"></a>Inovovat na systém Windows 10 pro
   
-Chcete-li inovovat na systém Windows 10 pro tvůrce aktualizací, máte několik možností. Můžeš:
+Chcete-li inovovat na systém Windows 10 pro, máte několik možností. Můžeš:
     
 - Nainstalujte inovaci ze &ndash; [serveru společnosti Microsoft pro stažení softwaru](https://go.microsoft.com/fwlink/?LinkID=836951 ) . tuto možnost vyberte v případě, že se zařízení, ke kterému jste přihlášeni, nachází ve stejném zařízení jako je ten, který chcete aktualizovat. 
 
@@ -50,7 +50,7 @@ Chcete-li inovovat na systém Windows 10 pro tvůrce aktualizací, máte několi
     - Přečtěte si pokyny týkající se použití nástroje a vytvoření instalačních médií. 
 
 > [!NOTE]
-> Pokud máte zařízení systému Windows se systémem Windows 7 pro, Windows 8 pro nebo Windows 8,1 pro, vaše předplatné Microsoft 365 Business vás opravňuje k upgradu na systém Windows 10. Kód Product Key není vyžadován.
+> Pokud používáte zařízení systému Windows se systémem Windows 7 pro, Windows 8 pro nebo Windows 8,1 pro, vaše předplatné Microsoft 365 Business vás opravňuje k upgradu na systém Windows pro 10; Kód Product Key není vyžadován.
     
 Viz [nastavení zařízení systému Windows pro aplikaci Microsoft 365 Business Users](set-up-windows-devices.md) pro dokončení instalace zařízení systému Windows 10. 
   
@@ -58,4 +58,4 @@ Viz [nastavení mobilních zařízení pro aplikaci Microsoft 365 obchodní uži
   
 ## <a name="see-also"></a>Viz také
 
-[Microsoft 365 Business Training video](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Školicí videa k Microsoftu 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
