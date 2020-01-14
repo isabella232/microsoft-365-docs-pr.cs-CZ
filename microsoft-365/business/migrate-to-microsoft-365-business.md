@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Kroky pro upgrade vašeho podniku z produktu Office 365 Business Premium na Microsoft 365 Business.
-ms.openlocfilehash: 95c4504d7e6e33bdededee0cfca7add0cb5f7204
-ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
+ms.openlocfilehash: 61da9148ccb87654aa2391ff90c4f086a4cbbe24
+ms.sourcegitcommit: 3c296126ba69a32af07e339f2f1eacdd8e5b878e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38640555"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41120135"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Inovujte na aplikaci Microsoft 365 Business z webu Office 365 Business Premium
 
@@ -68,7 +68,7 @@ Vytvoření nových servisních plánů trvá několik minut od společnosti Mic
 1. Jakmile je plán připraven, bude pravděpodobně nutné provést některé další kroky instalace v centru pro správu. V navigačním podokně vyberte **domovskou** položku pro dokončení dalších kroků instalace.
 
 > [!NOTE]
-> Obdržíte podínovou refundaci pro licence na Opatnáctce 365, které již nepotřebujete. Po nastavení nového plánu bude váš bankovní účet nebo kreditní karta účtován přibližně dva dny.
+> Obdržíte poměrně refundovanou náhradu za licence sady Office 365, které již nepotřebujete. Po nastavení nového plánu bude váš bankovní účet nebo kreditní karta účtován přibližně dva dny.
   
 ## <a name="protect-user-devices-and-files"></a>Ochrana uživatelských zařízení a souborů
 
