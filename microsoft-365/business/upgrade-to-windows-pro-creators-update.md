@@ -22,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: 'Naučte se upgradovat zařízení systému Windows na systém Windows 10 pro. '
-ms.openlocfilehash: acad4a393e0870299df768fd4c821d9c1e83ecac
-ms.sourcegitcommit: cf7b0fd80ecfb7a216111a801269c5322794795e
+ms.openlocfilehash: 3457b35c5f9e313e176664ca088e64ce5dd4f881
+ms.sourcegitcommit: 1db269c0349a252eaf3f315ee72ff679fff829f1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "40995264"
+ms.lasthandoff: 01/22/2020
+ms.locfileid: "41265852"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Upgradovat zařízení systému Windows na systém Windows 10 pro
 
@@ -50,7 +50,7 @@ Chcete-li inovovat na systém Windows 10 pro, máte několik možností. Může�
     - Přečtěte si pokyny týkající se použití nástroje a vytvoření instalačních médií. 
 
 > [!NOTE]
-> Pokud používáte zařízení systému Windows se systémem Windows 7 pro, Windows 8 pro nebo Windows 8,1 pro, vaše předplatné Microsoft 365 Business vás opravňuje k upgradu na systém Windows pro 10; Kód Product Key není vyžadován.
+> Pokud používáte zařízení systému Windows se systémem Windows 7 pro, Windows 8 pro nebo Windows 8,1 pro, vaše předplatné Microsoft 365 Business vás opravňuje k upgradu na systém Windows pro 10.
     
 Viz [nastavení zařízení systému Windows pro aplikaci Microsoft 365 Business Users](set-up-windows-devices.md) pro dokončení instalace zařízení systému Windows 10. 
   
