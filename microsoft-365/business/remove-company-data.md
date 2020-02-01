@@ -1,5 +1,7 @@
 ---
 title: Odebrání dat společnosti ze zařízení
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -19,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
-description: 'Dozvíte se, jak pomocí aplikace Microsoft 365 Business odebrat data společnosti z uživatelských zařízení nebo počítačů se systémem Windows. '
-ms.openlocfilehash: 59e94a08e149a5cb119aabbbe816ccd2f4a9f9fb
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+description: 'Přečtěte si, jak pomocí Microsoft 365 Business odebrat firemní data z uživatelských zařízení nebo počítačů se systémem Windows. '
+ms.openlocfilehash: ff0ad9d7f22f9bb1b21ee15fe383c6994896a9a8
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715226"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593490"
 ---
 # <a name="remove-company-data-from-devices"></a>Odebrání dat společnosti ze zařízení
 
@@ -35,17 +37,17 @@ ms.locfileid: "38715226"
 
 Microsoft 365 Business můžete použít k odebrání dat společnosti, která mají uživatelé na svých [zařízeních](app-protection-settings-for-android-and-ios.md) nebo [osobních počítačích s Windows](protection-settings-for-windows-10-devices.md) chráněných pomocí Microsoft 365. **Pokud ze zařízení odeberete data společnosti, nepůjdou později obnovit.** 
   
-1. Přejděte do centra pro správu na <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>adrese.
+1. Přejděte do centra <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>pro správu na adrese .
     
-2. Na levém navigačním panelu vyberte položku **** \> **Správa**zařízení.  
+2. Na levé nav zvolte **Správa zařízení** \> **.**  
   
-3. Na stránce **Spravovat** vyberte nebo vyhledejte uživatele, jehož data chcete odebrat, a zvolte název. 
+3. Na stránce **Spravovat** zvolte nebo vyhledejte uživatele, který má odebrat data, a zvolte název. 
     
-4. V dalším podokně vyberte zařízení nebo zařízení ze seznamu **zařízení** . V podokně zařízení, které se otevře, můžete zvolit, zda chcete zařízení resetovat na tovární nastavení nebo odebrat data společnosti v závislosti na typu zařízení. 
+4. V dalším podokně vyberte zařízení nebo zařízení ze seznamu **Zařízení.** V podokně zařízení, které se otevře, můžete v závislosti na typu zařízení obnovit tovární nastavení zařízení nebo odebrat firemní data. 
     
-    ![V podokně dat odebrání společnosti vyberte zařízení, ze kterého chcete data odebrat.](media/resetorremove.png)
+    ![V podokně odebrat data společnosti vyberte zařízení, ze kterého chcete data odebrat.](media/resetorremove.png)
   
-5. V podokně potvrzení zvolte položku **Potvrdit** \> **uzavření**.
+5. V podokně potvrzení zvolte **Potvrdit** \> **zavřít**.
     
 
 

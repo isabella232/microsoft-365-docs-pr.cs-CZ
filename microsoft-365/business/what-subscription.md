@@ -1,5 +1,7 @@
 ---
-title: Jaké Předplatné je pro váš podnik správné?
+title: Jaké předplatné je pro vaši firmu správné?
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -15,14 +17,14 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Zjistěte, zda je pro vaše podnikání správně nastavena sada Office 365 E3, Office 365 Business Premium nebo Microsoft 365 Business.
-ms.openlocfilehash: f3adf67cf164b14596bc0cedf1cacd7dec41955e
-ms.sourcegitcommit: b535fe233234fd25146cfe15478e20d954f71e03
+description: Zjistěte, jestli je Office 365 E3, Office 365 Business Premium nebo Microsoft 365 Business pro vaši firmu to pravé.
+ms.openlocfilehash: 44d8b6c64882b0357674793e8430423802b0fc1a
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38748315"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594929"
 ---
-# <a name="what-subscription-is-right-for-your-small-business"></a>Jaké Předplatné je pro váš malý podnik správné?
+# <a name="what-subscription-is-right-for-your-small-business"></a>Jaké předplatné je pro vaši malou firmu správné?
 
-Společnost Microsoft nabízí několik plánů pro malé firmy. Doporučeným předplatným je buď sada Office 365 Business Premium nebo Microsoft 365 Business s až 300 uživateli. Společnost Microsoft 365 Business nabízí více funkcí zabezpečení než sada Office 365 Business Premium za další náklady.
+Společnost Microsoft nabízí několik plánů pro malé firmy. Doporučená předplatná jsou buď Office 365 Business Premium nebo Microsoft 365 Business s až 300 uživateli. Microsoft 365 Business nabízí za příplatek více funkcí zabezpečení než Office 365 Business Premium.

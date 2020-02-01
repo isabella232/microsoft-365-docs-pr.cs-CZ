@@ -1,5 +1,7 @@
 ---
 title: Odstraňování chyb zařízení AutoPilota
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -23,25 +25,25 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 1f468690-530c-47ea-918f-fede24607c53
-description: Dozvíte se, jak odstraňovat chyby v souborech zařízení AutoPilot.
-ms.openlocfilehash: 1b5358bd6686c2548e82ec5297ac0ad675835718
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+description: Přečtěte si, jak řešit problémy s chybami souborů zařízení AutoPilot.
+ms.openlocfilehash: 8390f695a3e11386ae2617da4061bed1d8214375
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718693"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594202"
 ---
 # <a name="troubleshoot-autopilot-device-errors"></a>Odstraňování chyb zařízení AutoPilota
 
 ## <a name="device-file-error-messages"></a>Chybové zprávy souboru zařízení
 
-Zde jsou informace o některých chybách, které se mohou zobrazit při práci se soubory zařízení AutoPilot v aplikaci Microsoft 365 Business. 
+Zde jsou informace o některých chybách, které se mohou zobrazit při práci se soubory zařízení AutoPilot v Microsoft 365 Business. 
   
 |**Kód chyby**|**Oprava vyzkoušet**|
 |:-----|:-----|
-|Neplatný text požadavku  <br/> |Tato chyba by se měla dít zřídka, pokud se zobrazí tato chyba, zkuste operaci zopakovat.  <br/> |
-|Hardwarová hodnota hash pro zařízení není správná.  <br/> |Pokud se zobrazí tato chyba, znamená to, že hodnota, kterou jste v souboru CSV poskytli pro hardwarovou hodnotu hash jednoho zařízení, není správná. Nejprve ověřte, zda byla hodnota zadána správně. Pokud se domníváte, že je hodnota správná, ale tato chyba se stále děje, požádejte o pomoc dodavatele hardwaru.  <br/> |
-|Zařízení přiřazené jinému nájemci  <br/> |Pokud se zobrazí tato chyba, znamená to, že hodnota poskytnutá v souboru CSV buď pro sériové číslo, nebo pro kód Product Key jednoho nebo více zařízení není správná. Nejprve ověřte, zda byla hodnota zadána správně. Pokud se domníváte, že je hodnota správná, ale tato chyba se stále děje, požádejte o pomoc dodavatele hardwaru.  <br/> |
-|Soubor CSV obsahuje neplatné sériové číslo nebo kód Product Key.  <br/> |Pokud se zobrazí tato chyba, znamená to, že zařízení, které se pokoušíte zaregistrovat, je již registrováno jinou organizací. Chcete-li tuto chybu opravit, požádejte o pomoc dodavatele hardwaru.  <br/> |
-|Toto zařízení není podporováno pro instalaci pomocí automatického Opilot.  <br/> | Tato chyba znamená, že zařízení nesplňuje požadavky na nasazení AutoPilot. Zařízení musejí splňovat tyto podmínky:  <br/>  Windows 10 verze 1703 nebo novější.  <br/>  Nová zařízení, která nebyla součástí systému Windows.  <br/> |
-|Zařízení nebylo nalezeno.  <br/> |Tato chyba znamená, že jedno nebo více zařízení v souboru CSV není registrováno ve vaší organizaci. Chcete-li tento problém vyřešit, požádejte o pomoc dodavatele hardwaru.  <br/> |
+|Neplatný text požadavku  <br/> |K této chybě by mělo dojít zřídka, pokud se zobrazí tato chyba, zkuste operaci znovu.  <br/> |
+|Hodnota hash hardwaru pro zařízení není správná.  <br/> |Pokud se zobrazí tato chyba, znamená to, že hodnota, kterou jste zadali v souboru CSV pro hardwarovou hodnotu hash jednoho zařízení, není správná. Nejprve ověřte, zda byla hodnota zadána správně. Pokud si myslíte, že hodnota je správná, ale tato chyba stále probíhá, požádejte o pomoc dodavatele hardwaru.  <br/> |
+|Zařízení přiřazené jinému klientovi  <br/> |Pokud se zobrazí tato chyba, znamená to, že hodnota, kterou jste zadali v souboru CSV pro sériové číslo nebo kód Product Key jednoho nebo více zařízení, není správná. Nejprve ověřte, zda byla hodnota zadána správně. Pokud si myslíte, že hodnota je správná, ale tato chyba stále probíhá, požádejte o pomoc dodavatele hardwaru.  <br/> |
+|Soubor CSV obsahuje neplatné sériové číslo nebo kód Product Key.  <br/> |Pokud se zobrazí tato chyba, znamená to, že zařízení, které se pokoušíte zaregistrovat, je již registrováno jinou organizací. Chcete-li tuto chybu vyřešit, požádejte dodavatele hardwaru o pomoc.  <br/> |
+|Toto zařízení není podporováno pro instalaci pomocí funkce AutoPilot  <br/> | Tato chyba znamená, že zařízení nesplňuje požadavky na nasazení autopilota. Zařízení musejí splňovat tyto podmínky:  <br/>  Windows 10 verze 1703 nebo novější.  <br/>  Nová zařízení, která neprošla systémem Windows, jsou v pořádku.  <br/> |
+|Zařízení nebylo nalezeno.  <br/> |Tato chyba znamená, že jedno nebo více zařízení v souboru CSV není registrováno ve vaší organizaci. Chcete-li tento problém vyřešit, požádejte dodavatele hardwaru o pomoc.  <br/> |

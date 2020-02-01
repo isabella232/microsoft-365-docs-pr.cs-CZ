@@ -1,5 +1,7 @@
 ---
 title: Vytvoření a úpravy profilů AutoPilota
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -22,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
-description: Naučte se vytvářet, upravovat, odstraňovat nebo odebírat profily automatických Opilot.
-ms.openlocfilehash: f7fdc2632e93c48e043fe158842f8395d6a89e14
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: Naučte se vytvářet, upravovat, odstraňovat nebo odebírat profily autopilota.
+ms.openlocfilehash: 35967cb1f6e2cdeea9d7c42a529526410fa8b586
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320232"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593985"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>Vytvoření a úpravy profilů AutoPilota
 
@@ -36,21 +38,21 @@ ms.locfileid: "38320232"
 
 Profil se používá pro zařízení nebo skupinu zařízení.
   
-1. V centru Microsoft 365 Business admin zvolte **zařízení** \> **autopilot**.
+1. V Centru pro správu microsoft365 Business zvolte **Zařízení** \> **AutoPilot**.
   
-2. Na stránce **autopilot** zvolte záložku \> **profily** **vytvořit profil**.
+2. Na stránce **AutoPilot** zvolte \> kartu **Profily** **Vytvořit profil**.
     
-3. Na stránce **vytvořit profil** zadejte název profilu, který vám pomůže jej identifikovat, například marketing. Zapněte požadované nastavení a pak klepněte na tlačítko **Uložit**. Další informace o nastavení profilu AutoPilot naleznete v tématu [o nastavení profilu autopilot](autopilot-profile-settings.md).
+3. Na stránce **Vytvořit profil** zadejte název profilu, který vám pomůže ho identifikovat, například Marketing. Zapněte požadované nastavení a pak zvolte **Uložit**. Další informace o nastavení profilu autopilota naleznete [v tématu O nastavení profilu autopilota](autopilot-profile-settings.md).
     
     ![Enter name and turn on settings in the Create profile panel.](media/63b5a00d-6a5d-48d0-9557-e7531e80702a.png)
   
 ### <a name="apply-profile-to-a-device"></a>Použití profilu u zařízení
 
-Vytvořený profil můžete použít na zařízení nebo skupinu zařízení. Můžete vybrat existující profil v [podrobných pokynech](add-autopilot-devices-and-profile.md) a použít jej na nová zařízení nebo nahradit existující profil zařízení nebo skupiny zařízení. 
+Po vytvoření profilu jej můžete použít na zařízení nebo skupinu zařízení. Můžete vybrat existující profil v [podrobné příručce](add-autopilot-devices-and-profile.md) a aplikovat ho na nová zařízení nebo nahradit existující profil zařízení nebo skupiny zařízení. 
   
 1. Na stránce **Připravit Windows** zvolte kartu **Zařízení**. 
     
-2. Zaškrtněte políčko vedle názvu zařízení a v panelu **zařízení** zvolte profil z \> **rozevíracího seznamu** **přiřazený profil** .
+2. Zaškrtněte políčko vedle názvu zařízení a v panelu **Zařízení** zvolte profil z \> rozevíracího seznamu **Přiřazený profil** **Uložit**.
     
     ![In the Device panel, select an Assigned profile to apply it.](media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
@@ -62,7 +64,7 @@ Jakmile zařízení přiřadíte profil, můžete profil aktualizovat, a to i te
 
 1. Na stránce **Připravit Windows** zvolte kartu **Profily**. 
     
-2. Zaškrtněte políčko vedle názvu zařízení a v panelu **profil** aktualizujte všechna \> **dostupná nastavení.**
+2. Zaškrtněte políčko vedle názvu zařízení a v panelu **Profil** aktualizujte libovolné dostupné nastavení \> **Uložit**.
     
     Pokud to uděláte předtím, než uživatel připojí zařízení k internetu, použije se profil v procesu nastavení.
     
@@ -70,7 +72,7 @@ Jakmile zařízení přiřadíte profil, můžete profil aktualizovat, a to i te
 
 1. Na stránce **Připravit Windows** zvolte kartu **Profily**. 
     
-2. Zaškrtněte políčko vedle názvu zařízení a v panelu **profil** vyberte možnost **Odstranit** \> **uložení**profilu.
+2. Zaškrtněte políčko vedle názvu zařízení a v panelu **Profil** vyberte **Odstranit profil** \> **Uložit**.
     
     Pokud profil odstraníte, odebere se ze zařízení nebo skupiny zařízení, kterým byl přiřazen.
     
@@ -78,5 +80,5 @@ Jakmile zařízení přiřadíte profil, můžete profil aktualizovat, a to i te
 
 1. Na stránce **Připravit Windows** zvolte kartu **Zařízení**. 
     
-2. Zaškrtněte políčko vedle názvu zařízení a v panelu **zařízení** vyberte v \> **rozevíracím seznamu** **přiřazený profil** položku **žádný** .
+2. Zaškrtněte políčko vedle názvu zařízení a v panelu **Zařízení** zvolte **Žádné** z rozevíracího seznamu \> **Přiřazený profil** **Uložit**.
     

@@ -1,5 +1,7 @@
 ---
-title: Přidání dalších uživatelů do aplikace Microsoft 365 Business
+title: Přidání dalších uživatelů do Microsoftu 365 Business
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -22,38 +24,38 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
-description: Dozvíte se, jak přidat nové uživatele, zabezpečit jejich zařízení a přiřazovat role v aplikaci Microsoft 365 Business.
-ms.openlocfilehash: f0498134d9f258f831cdbab10b7ee9c77b5d133d
-ms.sourcegitcommit: 178ecb21cacdeaf440f3df2fe6e539e9127fcf15
+description: Přečtěte si, jak přidávat nové uživatele, zabezpečit jejich zařízení a přiřazovat role v Microsoft365 Business.
+ms.openlocfilehash: 932b969d089dd223426e35c5bea4efde4409ad48
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/23/2019
-ms.locfileid: "40850918"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593287"
 ---
-# <a name="add-more-users-to-microsoft-365-business"></a>Přidání dalších uživatelů do aplikace Microsoft 365 Business
+# <a name="add-more-users-to-microsoft-365-business"></a>Přidání dalších uživatelů do Microsoftu 365 Business
 
 ## <a name="add-new-users"></a>Přidání nových uživatelů
 
-Sledujte krátké video o přidávání uživatele. <br><br>
+Podívejte se na krátké video o přidání uživatele. <br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfN] 
 
-Pokud jste toto video našli, podívejte se na [kompletní tréninkové řady pro malé firmy a ty nové do společnosti Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Pokud je pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Přidání uživatele:
 
-1. Přejděte do centra pro správu na <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>adrese. 
-2. V levém navigačním podokně vyberte možnost **Uživatelé** \> **aktivních uživatelů**.
-3. Na stránce **aktivní uživatelé** zvolte možnost **Přidat uživatele**.
-4. V panelu **Nový uživatel** zadejte požadované informace. 
+1. Přejděte do centra <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>pro správu na adrese . 
+2. V levém navigačním podokně zvolte **Uživatelé** \> **Aktivní uživatelé**.
+3. Na stránce **Aktivní uživatelé** zvolte **Přidat uživatele**.
+4. Do panelu **Nový uživatel** zadejte požadované informace. 
   
-    Můžete zadat další informace pod **kontaktními informacemi**, zvolit způsob nastavení hesla v nastavení **hesla** a přiřadit role v rámci **rolí**.
+    Další informace můžete zadat v části **Kontaktní informace**, zvolit způsob nastavení hesla v části Nastavení **hesla** a přiřadit role v části **Role**.
       
     ![Enter user information in the New user card](media/f04d39ca-48be-4868-8330-8552a4754c8b.png)
       
-    V části licence k produktu nastavte pro produkt **Microsoft 365 Business** Product licence na hodnotu **on**.
+    V části Licence produktu nastavte nastavení licence produktu **Microsoft 365 Business** na **zapnuto**.
       
     ![Set the license setting to On position](media/7404f7f7-93bc-44a3-9ffb-4208b5b17402.png)
   
-Další informace o přidávání uživatelů naleznete v části [Přidání uživatelů jednotlivě nebo hromadně](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Další informace o přidávání uživatelů naleznete v tématu [Přidání uživatelů jednotlivě nebo hromadně](https://docs.microsoft.com/office365/admin/add-users/add-users).
   

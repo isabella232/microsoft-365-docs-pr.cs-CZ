@@ -1,5 +1,7 @@
 ---
 title: Informace o nastavení profilu AutoPilota .
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -26,32 +28,32 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 99bfbf81-e719-4630-9b0f-c187edfa1f8a
-description: Profily AutoPilot vám pomohou určit, jak bude systém Windows nainstalován na uživatelských zařízeních. Profily obsahují výchozí a volitelná nastavení, jako je vynechání instalace Cortana.
-ms.openlocfilehash: 912a24e3d458986a4bcf7dcf903f80211996aca2
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: Profily autopilota vám pomohou řídit způsob instalace systému Windows na uživatelských zařízeních. Profily obsahují výchozí a volitelná nastavení, jako je přeskočení instalace Cortany.
+ms.openlocfilehash: 1cc8a3171bbc4a1e5cb531b9364c7791586fc339
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38321779"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593327"
 ---
 # <a name="about-autopilot-profile-settings"></a>Informace o nastavení profilu AutoPilota .
 
-## <a name="autopilot-profile-settings"></a>Nastavení profilu AutoPilot
+## <a name="autopilot-profile-settings"></a>Nastavení profilu autopilota
 
-Pomocí profilů automatických Opilot můžete řídit způsob instalace systému Windows na uživatelská zařízení. Profily obsahují následující nastavení.
+Profily AutoPilot můžete použít k řízení způsobu instalace systému Windows na uživatelských zařízeních. Profily obsahují následující nastavení.
   
- **Automaticky nastaveny výchozí funkce AutoPilot (povinné):**
+ **Výchozí funkce autopilota (povinné), které jsou nastaveny automaticky:**
   
 |**Nastavení**|**Popis**|
 |:-----|:-----|
-|Přeskočit Cortana, OneDrive a registraci OEM  <br/> |Přeskočí instalaci zákaznických aplikací, jako je Cortana a Personal OneDrive. Uživatel zařízení je může nainstalovat později, dokud je uživatel místním správcem zařízení. Původní registrace výrobce je přeskočena, protože zařízení bude spravováno společností Microsoft 365 Business.  <br/> |
-|Přihlášení ke zkušenostem s firemní značkou  <br/> |Pokud vaše společnost disponuje [značkou vaší společnosti na přihlašovací stránce sady Office 365](https://support.office.com/article/a1229cdb-ce19-4da5-90c7-2b9b146aef0a), zobrazí se uživateli zařízení při přihlášení tato zkušenost.  <br/> |
-|Automatický zápis MDM s konfigurovanými účty AAD.  <br/> |Identita uživatele bude spravována společností Azure Active Directory a uživatelé se budou přihlašovat k systému Windows a sadě Office 365 se svými pověřeními Microsoft 365 Business.  <br/> |
+|Přeskočit registraci Cortany, OneDrivu a OEM  <br/> |Přeskočí instalaci spotřebitelských aplikací, jako je Cortana a osobní OneDrive. Uživatel zařízení je může nainstalovat později, pokud je uživatel místním správcem zařízení. Původní registrace výrobce je přeskočena, protože zařízení bude spravováno společností Microsoft 365 Business.  <br/> |
+|Přihlaste se ke značce vaší společnosti  <br/> |Pokud má vaše společnost na [přihlašovací stránku Office 365 značku Přidat vaši společnost](https://support.office.com/article/a1229cdb-ce19-4da5-90c7-2b9b146aef0a), uživatel zařízení toto prostředí získá při přihlášení.  <br/> |
+|Automatický zápis MDM s nakonfigurovanými účty AAD.  <br/> |Identitu uživatele bude spravovat služba Azure Active Directory a uživatelé se k Windows a Office 365 přihlásí pomocí přihlašovacích údajů Microsoft 365 Business.  <br/> |
    
- **Volitelná nastavení:**
+ **Volitelné nastavení:**
   
 |**Nastavení**|**Popis**|
 |:-----|:-----|
-|Přeskočit nastavení ochrany osobních údajů (ve výchozím nastavení vypnuto)  <br/> |Je-li tato možnost nastavena na zapnuto, nezobrazí se uživateli zařízení licenční smlouva pro zařízení a systém Windows při prvním **přihlášení**.  <br/> |
-|Nepovolit uživateli stát se místním správcem  <br/> |Pokud je tato možnost nastavena na **zapnuto**, nebude uživatel zařízení moci instalovat žádné osobní aplikace, například Cortana.<br/> |
+|Přeskočit nastavení ochrany osobních údajů (ve výchozím nastavení vypnuto)  <br/> |Pokud je tato možnost nastavena na **zapnuto**, uživatel zařízení neuvidí licenční smlouvu pro zařízení a systém Windows, když se poprvé přihlásí.  <br/> |
+|Nedovolte, aby se uživatel stal místním správcem  <br/> |Pokud je tato možnost nastavena na **Zapnuto**, uživatel zařízení nebude moci nainstalovat žádné osobní aplikace, jako je například Cortana.<br/> |
    

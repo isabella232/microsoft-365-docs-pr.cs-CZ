@@ -1,5 +1,7 @@
 ---
 title: Stavy zařízení
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,13 +23,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Informace o stavech zařízení v aplikaci Microsoft 365 Business.
-ms.openlocfilehash: b55e6a5d538ec28d195225e93797cea27afd2e8b
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: Přečtěte si o stavech zařízení v Microsoft365 Business.
+ms.openlocfilehash: 02b4eebac62a48e3ddd53d362db2d60067ac05eb
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320202"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593965"
 ---
 # <a name="device-states"></a>Stavy zařízení
 
@@ -41,12 +43,12 @@ Zařízení v seznamu **Akce zařízení** (domovská stránka správce \> **Akc
 |Čeká se na vyřízení  <br/> |Microsoft 365 Business se připravuje odebrat ze zařízení data společnosti.  <br/> |
 |Probíhá vyřazování  <br/> |Microsoft 365 Business právě odebírá ze zařízení data společnosti.  <br/> |
 |Vyřazení selhalo  <br/> | Akce spočívající v odebrání dat společnosti se nezdařila.  <br/> |
-|Zrušení důchodu  <br/> |Akce odchodu do důchodu byla zrušena.  <br/> |
+|Vyřazení zrušeno  <br/> |Akce v důchodu byla zrušena.  <br/> |
 |Čeká se na vymazání  <br/> |Čeká se na spuštění obnovení továrního nastavení.  <br/> |
 |Probíhá mazání  <br/> |Byl vydán příkaz k obnovení továrního nastavení.  <br/> |
-|Vymazání selhalo  <br/> |Tovární resetování nelze.  <br/> |
-|Vymazání bylo zrušeno.  <br/> |Vymazání výrobního závodu bylo zrušeno.  <br/> |
-|Není v pořádku  <br/> |Akce čeká na vyřízení (nebo probíhá), ale zařízení se nekontroluje po dobu 30 + dní.  <br/> |
+|Vymazání selhalo  <br/> |Nemohl jsem obnovit tovární nastavení.  <br/> |
+|Vymazání bylo zrušeno.  <br/> |Tovární vymazání bylo zrušeno.  <br/> |
+|Není v pořádku  <br/> |Akce čeká na vyřízení (nebo probíhající), ale zařízení se nepřihlásilo se změnami po dobu 30 + dnů.  <br/> |
 |Čeká se na odstranění  <br/> |Čeká se na provedení akce odstranění.  <br/> |
 |Zjištěné  <br/> |Služba Microsoft 365 Business zařízení rozpoznala  <br/> |
    

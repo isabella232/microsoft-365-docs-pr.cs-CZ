@@ -1,5 +1,7 @@
 ---
-title: Zvyšte ochranu proti ohrožení společnosti Microsoft 365 Business
+title: Zvýšení ochrany před hrozbami pro Microsoft 365 Business
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -17,57 +19,57 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Nastavte funkce kompatibility tak, aby nedocházelo ke ztrátám dat a k popisu citlivých dat.
-ms.openlocfilehash: 6fae95e8c5e6d133e3163dbdfd3c09cfede11382
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+description: Nastavte funkce dodržování předpisů, abyste zabránili ztrátě dat a popisek citlivých dat.
+ms.openlocfilehash: 09619de03aafde37106fb3942890b457c488ad43
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715116"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593399"
 ---
-# <a name="set-up-compliance-features"></a>Nastavení funkcí kompatibility
+# <a name="set-up-compliance-features"></a>Nastavení funkcí dodržování předpisů
 
-Společnost Microsoft 365 Business obsahuje funkce pro ochranu dat a zařízení a pomáhá zabezpečit vaše a citlivé informace zákazníků.
+Microsoft 365 Business je vybaven funkcemi, které chrání vaše data a zařízení a pomáhají vám zabezpečit vaše a citlivé informace vašich zákazníků.
 
-## <a name="set-up-dlp-features"></a>Nastavení funkcí DLP
+## <a name="set-up-dlp-features"></a>Nastavení funkcí dlp
 
-Viz [Vytvoření zásady DLP ze šablony](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) pro příklad, jak nastavit zásady ochrany proti osobním identifikovatelným informacím (PII). 
+Viz [Vytvoření zásady dlp ze šablony,](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) kde najdete příklad nastavení zásady ochrany před osobně identifikovatelnými informacemi. 
   
-DLP přináší mnoho šablon zásad připravených k použití pro mnoho různých národních prostředí. Například australské finanční údaje, zákon o osobních informacích Kanady, finanční data USA a tak dál. Podívejte [se, co šablony zásad DLP obsahují](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) pro úplný seznam. Všechny tyto šablony lze povolit podobným příkladem šablony PII. 
+DLP je dodáván s mnoha šablonami zásad připravených k použití pro mnoho různých národních prostředí. Například Austrálie Finanční údaje, Kanada osobní údaje zákona, americké finanční údaje, a tak dále. Úplný seznam najdete v [tématu Co obsahují šablony zásad dlp.](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) Všechny tyto šablony mohou být povoleny podobně jako příklad šablony PII. 
   
-## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Nastavení uchování e-mailu pomocí archivace online serveru Exchange
+## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Nastavení uchovávání e-mailů pomocí archivace Exchange Online
 
- Funkce pro **archivaci online systému Exchange** pomáhá udržovat dodržování a regulační standardy zachováním obsahu e-mailu pro program eDiscovery. Pomáhá také snižovat riziko v případě, že existuje soudní proces, a poskytuje způsob, jak obnovit data po porušení zabezpečení nebo pokud potřebujete obnovit odstraněné položky. Chcete-li zachovat veškerý obsah uživatele nebo pomocí zásad uchovávání informací upravit, co chcete zachovat, můžete použít blokování sporů.
+ Funkce licencí **Exchange Online Archivační** licence pomáhají udržovat dodržování předpisů a regulační standardy tím, že zachovávají e-mailový obsah pro eDiscovery. Pomáhá také snížit riziko, pokud dojde k soudnímu sporu, a poskytuje způsob, jak obnovit data po narušení zabezpečení nebo když potřebujete obnovit odstraněné položky. Blokování soudních sporů můžete použít k zachování veškerého obsahu uživatele nebo k přizpůsobení toho, co chcete zachovat, pomocí zásad uchovávání.
   
-**Soudní spor:** Veškerý obsah poštovní schránky včetně odstraněných položek můžete zachovat umístěním celé poštovní schránky uživatele do blokování soudních sporů. 
+**Soudní spory drží:** Veškerý obsah poštovní schránky včetně odstraněných položek můžete zachovat tak, že celou poštovní schránku uživatele zadržíte. 
     
-Chcete-li umístit poštovní schránku na soudní řízení, v centru pro správu:
+Umístění poštovní schránky na blokování soudních sporů v Centru pro správu:
     
-1. V levém navigačním poli přejděte na **uživatele** \> **Active Users**.
+1. V levé nav přejděte na **Uživatelé** \> **Aktivní uživatelé**.
     
-2. Vyberte uživatele, jehož poštovní schránku chcete umístit do soudních sporů. V podokně uživatele rozbalte **Nastavení pošty**a vedle **dalších nastavení**zvolte možnost **Upravit vlastnosti serveru Exchange**.
+2. Vyberte uživatele, jehož poštovní schránku chcete umístit do blokování soudních sporů. V podokně uživatelů rozbalte **nastavení pošty**a vedle části **Další nastavení**zvolte **Upravit vlastnosti serveru Exchange**.
     
-3. Na stránce poštovní schránky uživatele zvolte * * funkce poštovní schránky * * na levém navigačním panelu a pak zvolte možnost **Povolit** odkaz v rámci **soudního sporu**.
+3. Na stránce poštovní schránky pro uživatele zvolte ** funkce poštovní schránky ** na levé nav a pak zvolte **odkaz Povolit** v části **Blokování soudních sporů**.
     
-4. V dialogovém okně **soudní spor** můžete určit dobu trvání v poli **Doba trvání** soudního sporu. Pokud chcete umístit nekonečné blokování, ponechejte pole prázdné. Můžete také přidat poznámky a nasměrovat vlastníka poštovní schránky na web, který bude pravděpodobně nutné vysvětlit o daném soudním řízení. \>**Uložit**.
+4. V dialogovém okně **blokování soudních sporů** můžete určit dobu trvání blokování soudních sporů v poli **Doba trvání blokování soudních sporů.** Pole ponechejte prázdné, pokud chcete umístit nekonečné držení. Můžete také přidat poznámky a nasměrovat vlastníka poštovní schránky na web, který budete muset vysvětlit více o blokování soudních sporů. \>**Uložit**.
     
-**Uchovávání informací:** Můžete povolit vlastní zásady uchovávání informací, například chcete-li zachovat určitou dobu nebo trvale odstranit obsah na konci retenční periody. Další informace naleznete v tématu [Přehled zásad uchovávání informací](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
+**Uchovávání:** Můžete povolit vlastní zásady uchovávání, například zachovat po určitou dobu nebo odstranit obsah trvale na konci období uchovávání. Další informace naleznete v [tématu Přehled zásad uchovávání informací](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
 
-## <a name="set-up-sensitivity-labels"></a>Nastavit popisky citlivosti
+## <a name="set-up-sensitivity-labels"></a>Nastavení popisků citlivosti
 
-Štítky s citlivostí jsou součástí plánu 1 Azure Information Protection (AIP) a pomáhají klasifikovat a volitelně chránit dokumenty a e-maily použitím štítků. Štítky mohou být automaticky použity správci, kteří definují pravidla a podmínky, ručně uživateli nebo pomocí kombinace, v níž jsou uživatelům poskytnuta doporučení.
+Popisky citlivosti jsou dodávány s plánem Ochrany informací Azure (AIP) 1 a pomáhají klasifikovat a volitelně chránit vaše dokumenty a e-maily použitím štítků. Popisky mohou automaticky použít správci, kteří definují pravidla a podmínky, ručně uživateli nebo pomocí kombinace, kde jsou uživatelům poskytnuta doporučení.
 
-Chcete-li nastavit popisky citlivosti, zobrazte [Vytvoření a správu popisků citlivosti](https://support.office.com/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) videa.
+Chcete-li nastavit popisky citlivosti, zobrazte a spravujte video [popisků citlivosti.](https://support.office.com/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9)
 
 
 
-### <a name="install-the-azure-information-protection-client-manually"></a>Ruční instalace klienta ochrany informací Azure
+### <a name="install-the-azure-information-protection-client-manually"></a>Ruční instalace klienta Azure Information Protection
 
 Ruční instalace klienta AIP:
 
-1. Stáhněte **AzinfoProtection_UL. exe** z [webu služby Stažení softwaru](https://www.microsoft.com/download/details.aspx?id=53018).
+1. Stáhněte si **AzinfoProtection_UL.exe** z [Centra pro stahování společnosti Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
  
-2. Instalaci můžete ověřit zobrazením dokumentu aplikace Word a ověřením, zda je na kartě **Domů** k dispozici možnost **Citlivost** .
-<br/>![Rozevírací karta zámku v dokumentu aplikace Word.](media/word-sensitivity.png)
+2. Můžete ověřit, zda instalace fungovala zobrazením dokumentu aplikace Word a zajištěním, že možnost **Citlivost** je dostupná na kartě **Domů.**
+<br/>![Rozevírací zpráva karta Ochrana v dokumentu aplikace Word](media/word-sensitivity.png)
 
-Další informace naleznete v části [instalace klienta](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3).
+Další informace naleznete v [tématu Instalace klienta](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3).

@@ -1,5 +1,7 @@
 ---
 title: Nasazení Office na zařízení s Windows 10 během instalace
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -21,18 +23,18 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
-description: Naučte se automaticky nasadit systém Office do zařízení systému Windows 10 během instalace.
-ms.openlocfilehash: 7b58fd3db6c6f15effe2bc4876903a9f480366b1
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+description: Naučte se teď automaticky nasazovat Office do zařízení s Windows 10 během instalace.
+ms.openlocfilehash: 8a631d3976ae3bce82d59d84e38a14405010ab02
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831617"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593855"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Nasazení Office na zařízení s Windows 10 během instalace
 
-![To je nápis https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+![Banner, který https://aka.ms/aboutM365previewodkazují na .](media/m365admincenterchanging.png)
 
-Toto nastavení je ve výchozím nastavení vypnuto. Chcete-li se ujistit, že uživatelé mají nejnovější verzi sady Office na všech svých zařízeních systému Windows 10, můžete ji zapnout, ale nejprve ověřit, zda jsou splněny všechny požadavky. Uživatelé musí mít licenci pro společnost Microsoft 365 Business, aby mohli software do zařízení tlačit, kromě dalších požadavků popsaných v [přípravě na nasazení klienta sady Office společností Microsoft 365 Business](prepare-for-office-client-deployment.md).
+Toto nastavení je ve výchozím nastavení vypnuto. Můžete ji zapnout, abyste měli na všech svých zařízeních s Windows 10 nejnovější verzi Office, ale nejprve ověřte, zda jsou splněny všechny požadavky. Uživatelé musí mít licenci pro Microsoft 365 Business, aby toto nastavení bylo možné do zařízení stisknout, kromě dalších požadavků popsaných v [části Příprava na nasazení klienta Sady Office společností Microsoft 365 Business](prepare-for-office-client-deployment.md).
   
-Doporučujeme, abyste při instalaci přijali výchozí nastavení.
+Doporučujeme přijmout výchozí nastavení během instalace.

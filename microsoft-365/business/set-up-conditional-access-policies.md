@@ -1,5 +1,7 @@
 ---
-title: Nastavení zásad podmíněného přístupu pro kampaně společnosti Microsoft 365
+title: Nastavení zásad podmíněného přístupu pro kampaně Microsoft365
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -20,42 +22,42 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
-description: Naučte se nastavit zásady podmíněného přístupu pro aplikaci Microsoft 365 kampaněmi.
-ms.openlocfilehash: aebdb733c2dd9a05947335ad4f151104d801568e
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+description: Přečtěte si, jak nastavit zásady podmíněného přístupu pro kampaně Microsoft 365.
+ms.openlocfilehash: 335fbd7e771b1595e1846529daed76e5ddd3a8f5
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718823"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593379"
 ---
 # <a name="set-up-conditional-access-policies"></a>Nastavení zásad podmíněného přístupu
 
-Zásady [podmíněného přístupu](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) přidávají podstatné dodatečné zabezpečení. Společnost Microsoft poskytuje sadu zásad podmíněného přístupu podle směrného plánu, které jsou doporučeny všem zákazníkům. Zásady směrného plánu představují sadu předdefinovaných zásad, které pomáhají chránit organizace před mnoha běžnými útoky. Tyto běžné útoky mohou zahrnovat postřik hesla, přehrání a podvodné zprávy.
+[Zásady podmíněného přístupu](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) přidávají podstatné další zabezpečení. Společnost Microsoft poskytuje sadu zásad podmíněného přístupu podle směrného plánu, které jsou doporučeny pro všechny zákazníky. Zásady podle směrného plánu jsou sadou předdefinovaných zásad, které pomáhají chránit organizace před mnoha běžnými útoky. Tyto běžné útoky mohou zahrnovat sprej heslem, přehrání a phishing.
 
-Tyto zásady vyžadují, aby správci a uživatelé zadávali při splnění určitých podmínek druhou formu ověřování (tzv. vícefaktorové ověřování nebo MFA). Pokud se například uživatel přihlašuje z jiné země, může být přihlášení považováno za rizikové a uživatel musí poskytnout další způsob ověřování. 
+Tyto zásady vyžadují, aby správci a uživatelé zadali druhou formu ověřování (nazývané vícefaktorové ověřování nebo vícefaktorové ověřování), pokud jsou splněny určité podmínky. Pokud se například uživatel přihlašuje z jiné země, může být přihlášení považováno za rizikové a uživatel musí poskytnout další formu ověřování. 
 
-Zásady základní linie v současné době zahrnují následující:
-- **Vyžadují, aby MFA pro administrátora** &ndash; vyžadovala vícefaktorové ověřování pro nejvíce privilegované role správců, včetně globálního správce.
-- **Ochrana** &ndash; koncového uživatele vyžaduje vícefaktorové ověřování pro uživatele pouze v případě, že je přihlášení riskantní. 
-- **Blokovat starší ověřování** &ndash; starší klientské aplikace a některé nové aplikace nepoužívají novější, bezpečnější a ověřovací protokoly. Tyto starší aplikace mohou obejít zásady podmíněného přístupu a získat neoprávněný přístup k vašemu prostředí. Tato zásada blokuje přístup od klientů, kteří nepodporují podmíněný přístup. 
-- **Požadavek na MFA pro správu** &ndash; servisu vyžaduje vícefaktorové ověřování pro přístup k nástrojům pro správu, včetně portálu Azure (kde konfigurujete zásady směrného plánu). 
+V současné době zásady směrného plánu zahrnují následující:
+- **Vyžadovat vícefaktorové** &ndash; ověřování pro správce Vyžaduje vícefaktorové ověřování pro nejvíce privilegované role správce, včetně globálního správce.
+- **Ochrana** &ndash; koncových uživatelů Vyžaduje vícefaktorové ověřování pro uživatele pouze v případě, že je přihlášení riskantní. 
+- **Blokovat starší ověřování** &ndash; Starší klientské aplikace a některé nové aplikace nepoužívají novější, bezpečnější ověřovací protokoly. Tyto starší aplikace mohou obejít zásady podmíněného přístupu a získat neoprávněný přístup k vašemu prostředí. Tato zásada blokuje přístup klientům, kteří nepodporují podmíněný přístup. 
+- **Vyžadovat vícefaktorové ověřování pro správu** &ndash; služeb Vyžaduje vícefaktorové ověřování pro přístup k nástrojům pro správu, včetně portálu Azure (kde nakonfigurujete zásady směrného plánu). 
 
-Společnost Microsoft doporučuje povolit všechny tyto zásady základní linie. Po povolení těchto zásad budou správci a uživatelé vyzváni k zaregistrování pro ověřování Azure Multii-Factor.
+Společnost Microsoft doporučuje povolit všechny tyto zásady směrného plánu. Po povolení těchto zásad budou správci a uživatelé vyzváni k registraci pro ověřování multiifaktoru Azure.
 
-Další informace o těchto zásadách naleznete v tématu [co jsou základní zásady](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)?
+Další informace o těchto zásadách naleznete v tématu [Co jsou zásady základní ho použití](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)?
 
 
 ## <a name="set-up-baseline-policies"></a>Nastavení zásad směrného plánu
 
-1. Přejděte na [portál Azure](https://portal.azure.com)a pak přejděte na Azure **podmíněný přístup** **služby Active Directory** \> .
+1. Přejděte na [portál Azure](https://portal.azure.com)a přejděte na **podmíněný přístup** **služby Azure Active Directory** \> .
     
-    Základní zásady jsou uvedeny na stránce. <br/> <br/>
-    ![Stránka se seznamem zásad základní úrovně pro podmíněný přístup.](media/baslinepolicies.png)
-1. Pro jednotlivé zásady se podívejte na následující specifické pokyny:
+    Zásady směrného plánu jsou uvedeny na stránce. <br/> <br/>
+    ![Stránka, která obsahuje seznam zásad směrného plánu pro podmíněný přístup.](media/baslinepolicies.png)
+1. Pro každou zásadu naleznete následující konkrétní pokyny:
 
-  - [Vyžadovat MFA pro administrátoři](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)
-- [Vyžadovat MFA pro uživatele](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)  
+  - [Vyžadovat vícefaktorové čekání pro správce](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)
+- [Vyžadovat vícefaktorové čekání pro uživatele](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)  
  - [Blokovat starší ověřování](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
-  - [Vyžadovat MFA pro správu servisu](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-azure)
+  - [Vyžadovat vícefaktorové řešení pro správu služeb](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-azure)
 
-Můžete nastavit mnoho dalších zásad, například vyžadování schválených klientských aplikací. Další informace naleznete v dokumentaci k [podmíněnému přístupu](https://docs.microsoft.com/azure/active-directory/conditional-access/).
+Můžete nastavit mnoho dalších zásad, jako je například vyžadování schválených klientských aplikací. Další informace naleznete v [dokumentaci podmíněného přístupu](https://docs.microsoft.com/azure/active-directory/conditional-access/).

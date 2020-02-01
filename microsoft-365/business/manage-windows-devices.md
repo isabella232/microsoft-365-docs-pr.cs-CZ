@@ -1,5 +1,7 @@
 ---
 title: Jak nastavit, aby zařízení s Windows 10 připojená k doméně byla spravovaná prostřednictvím plánu Microsoft 365 Business
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -20,66 +22,66 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
-description: Dozvíte se, jak povolit aplikaci Microsoft 365 chránit místní službu Active Directory v zařízeních systému Windows 10.
-ms.openlocfilehash: 93e3364fc94f3878bec13d0a87b17a7d3678a4cc
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+description: Přečtěte si, jak povolit Microsoft 365 chránit místní zařízení se systémem Active Directory připojená k windows 10.
+ms.openlocfilehash: 170703c7367f9c0e9cb4c10edbd81cb214aa1d3e
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633263"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593795"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>Jak nastavit, aby zařízení s Windows 10 připojená k doméně byla spravovaná prostřednictvím plánu Microsoft 365 Business
 
-Pokud vaše organizace používá v místním počítači službu Active Directory systému Windows Server, můžete nastavit ochranu zařízení systému Windows 10 v aplikaci Microsoft 365 Business a současně zachovat přístup k místním prostředkům, které vyžadují místní ověřování.
-Chcete-li tuto ochranu nastavit, můžete implementovat **zařízení**, která jsou připojena k této službě. Tato zařízení jsou připojena jak k počítači, tak k vaší budově Active Directory a k Azure Active Directory.
+Pokud vaše organizace používá místní službu Windows Server Active Directory, můžete nastavit Microsoft 365 Business k ochraně zařízení s Windows 10 a přitom zachovat přístup k místním prostředkům, které vyžadují místní ověřování.
+Chcete-li nastavit tuto ochranu, můžete implementovat **hybridní zařízení připojená ke**službě Azure AD . Tato zařízení jsou spojena s místní službou Active Directory i s Azure Active Directory.
 
-Toto video popisuje postup nastavení tohoto postupu pro nejběžnější scénář, který je také podrobně popsán v následujících krocích.
+Toto video popisuje postup, jak nastavit tento pro nejběžnější scénář, který je také podrobně popsán v následujících krocích.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
 
 ## <a name="1-prepare-for-directory-synchronization"></a>1. Příprava na synchronizaci adresářů 
 
-Před synchronizací uživatelů a počítačů z místní domény služby Active Directory se seznamte [s přípravou synchronizace adresářů na sadu Office 365](https://docs.microsoft.com/office365/enterprise/prepare-for-directory-synchronization). Zejména:
+Před synchronizací uživatelů a počítačů z místní domény služby Active Directory zkontrolujte, že [synchronizace adresářů s Office 365](https://docs.microsoft.com/office365/enterprise/prepare-for-directory-synchronization)najdete v části Příprava na synchronizaci adresářů . Zejména:
 
-   - Ujistěte se, že v adresáři neexistují duplicity pro následující atributy: **mail**, **proxyAddresses**a **userPrincipalName**. Tyto hodnoty musí být jedinečné a všechny duplicity musí být odstraněny.
+   - Ujistěte se, že v adresáři neexistují žádné duplikáty pro následující atributy: **pošta**, **proxyAdresy**a **userPrincipalName**. Tyto hodnoty musí být jedinečné a všechny duplikáty musí být odebrány.
    
-   - Doporučujeme nakonfigurovat atribut **userPrincipalName** (UPN) pro každý místní uživatelský účet tak, aby odpovídal primární e-mailovou adresou, která odpovídá Licencovanému uživateli Microsoft 365. Například: *Mary.Shelley@contoso.com* místo *Mary@contoso. Local*
+   - Doporučujeme nakonfigurovat atribut **userPrincipalName** (UPN) pro každý místní uživatelský účet tak, aby odpovídal primární e-mailové adrese, která odpovídá licencovanému uživateli Microsoft 365. Například: *mary.shelley@contoso.com* spíše než *mary@contoso.local*
    
-   - Pokud je doména služby Active Directory ukončena v Nesměrovatelné příponě jako *. Local* nebo *. LAN*namísto internetové směrovatelné přípony, například *. com* nebo *. org*, upravte nejprve příponu UPN místních uživatelských účtů tak, jak je popsáno v [přípravě domény, která není směrovatelná pro synchronizaci adresářů](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
+   - Pokud doména služby Active Directory končí nesměrovatelnou příponou, jako *je místní* nebo *.lan*, namísto internetové horečné přípony, jako je *například .com* nebo *.org*, upravte příponu hlavního názvu místních uživatelských účtů, jak je popsáno v [části Příprava nesměrovatelné domény pro synchronizaci adresářů](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
 
-## <a name="2-install-and-configure-azure-ad-connect"></a>2. instalace a konfigurace Azure AD Connect
+## <a name="2-install-and-configure-azure-ad-connect"></a>2. Instalace a konfigurace Azure AD Connect
 
-Chcete-li synchronizovat uživatele, skupiny a kontakty z místního adresáře služby Active Directory do Azure Active Directory, nainstalujte připojení k adresáři Azure Active Directory a nastavte synchronizaci adresářů. Další informace naleznete v tématu [Nastavení synchronizace adresářů pro sadu Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) .
+Chcete-li synchronizovat uživatele, skupiny a kontakty z místní služby Active Directory do služby Azure Active Directory, nainstalujte Azure Active Directory Connect a nastavte synchronizaci adresářů. Další informace najdete v [tématu Nastavení synchronizace adresářů pro Office 365.](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846)
 
 > [!NOTE]
-> Postup je pro společnost Microsoft 365 Business zcela stejný. 
+> Kroky jsou přesně stejné pro Microsoft 365 Business. 
 
-Při konfiguraci možností pro Azure AD Connect doporučujeme povolit funkci **Synchronizace hesel**, **bezproblémové jednotné přihlašování**a funkce **zpětného zápisu hesel** , která je podporována také v aplikaci Microsoft 365 Business.
+Při konfiguraci možností pro Azure AD Connect doporučujeme povolit **synchronizaci hesel**, **bezproblémové jednotné přihlašování**a funkci **zpětného zápisu hesla,** která je také podporována v Microsoft 365 Business.
 
 > [!NOTE]
-> Existují další kroky pro zpětný zápis hesla mimo zaškrtávací políčko v Azure AD Connect. Další informace naleznete v tématu [Postupy: Konfigurace zpětného zápisu hesla](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback). 
+> Zaškrtávací políčko Azure AD Connect zaškrtávací políčko jsou i další kroky pro zpětný zápis hesla. Další informace naleznete v tématu [Postup: konfigurace zpětného zápisu hesla](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback). 
 
-## <a name="3-configure-hybrid-azure-ad-join"></a>3. nastavit hybridní Azure spojení AD
+## <a name="3-configure-hybrid-azure-ad-join"></a>3. Konfigurace hybridního připojení azure reklam
 
-Dříve než povolíte, aby zařízení Windows 10 byla připojena k hybridním Azure, ujistěte se, že splažení následující předpoklady:
+Než povolíte, aby zařízení s Windows 10 byla připojena k hybridní azure ad, ujistěte se, že splňujete následující požadavky:
 
-   - Máte poslední verzi programu Azure AD Connect.
+   - Používáte nejnovější verzi Azure AD Connect.
 
-   - Azure AD Connect synchronizovalo všechny počítačové objekty zařízení, které chcete použít jako hybridní Azure AD. Pokud objekty počítače patří do určitých organizačních jednotek, zkontrolujte, zda jsou tyto organizační jednotky nastaveny pro synchronizaci také v Azure AD Connect.
+   - Připojení Azure AD synchronizované všechny objekty počítače zařízení, které chcete být hybridní Azure AD připojil. Pokud objekty počítače patří do konkrétních organizačních jednotek (OU), ujistěte se, že tyto organizační jednotky jsou nastaveny pro synchronizaci v připojení Azure AD také.
 
-Chcete-li registrovat existující domény spojené se systémem Windows 10, jak je připojena hybridní Azure AD, postupujte podle pokynů v [výukovém programu: Konfigurace hybridního připojení k adresáři Active Directory pro spravované domény](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join). Tento Hybrid-umožňuje stávajícím prostorovým počítačům Active Directory připojit počítače se systémem Windows 10 a zajistit jejich připravenost k oblaku.
+Chcete-li zaregistrovat existující zařízení s Windows 10 připojenou k doméně jako připojení hybridní azure ad, postupujte podle pokynů v [kurzu: Konfigurace hybridního připojení služby Azure Active Directory pro spravované domény](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join). Tento hybrid umožňuje, aby se k počítačům se systémem Windows 10 připojily stávající místní služby Active Directory a připravily je na cloud.
     
-## <a name="4-enable-automatic-enrollment-for-windows-10"></a>4. Povolit automatický zápis pro systém Windows 10
+## <a name="4-enable-automatic-enrollment-for-windows-10"></a>4. Povolit automatickou registraci pro Windows 10
 
- Informace o automatickém zápisu zařízení systému Windows 10 pro správu mobilních zařízení v nástroji Intune naleznete v tématu [zápis zařízení systému Windows 10 automaticky pomocí zásad skupiny](https://docs.microsoft.com/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy). Chcete-li nastavit zásady skupiny na úrovni místního počítače nebo hromadných operací, můžete k vytvoření tohoto nastavení zásad skupiny v řadiči domény použít konzolu pro správu zásad skupiny a šablony ADMX.
+ Pokud chcete automaticky zaregistrovat zařízení s Windows 10 pro správu mobilních zařízení v Intune, přečtěte si článku [Automatické registrace zařízení s Windows 10 pomocí zásad skupiny](https://docs.microsoft.com/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy). Zásady skupiny můžete nastavit na úrovni místního počítače nebo pro hromadné operace, můžete použít šablony Konzoly pro správu zásad skupiny a šablony ADMX k vytvoření tohoto nastavení zásad skupiny v řadiči domény.
 
-## <a name="5-configure-seamless-single-sign-on"></a>5. konfigurace bezproblémové jednotného přihlašování
+## <a name="5-configure-seamless-single-sign-on"></a>5. Konfigurace bezproblémového jednotného přihlášení
 
-  Bezproblémový přihlášení SSO při použití podnikových počítačů automaticky podepisuje uživatele do svých zdrojů shluku Microsoft 365. Jednoduše nasaďte jednu ze dvou možností zásad skupiny popsaných v [Azure Active Directory – bezproblémové jednotné přihlášení: rychlý Start](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start#step-2-enable-the-feature). Možnost **Zásady skupiny** neumožňuje uživatelům měnit jejich nastavení, zatímco možnost **předvoleb zásad skupiny** nastavuje hodnoty, ale také je nechává konfigurovatelné uživatelem.
+  Bezproblémové jednotné přihlašuje automaticky uživatele do svých cloudových prostředků Microsoft 365, když používají podnikové počítače. Jednoduše nasaďte jednu ze dvou možností zásad skupiny popsaných v [Azure Active Directory Bezproblémové jednotné přihlašování: Rychlý start](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start#step-2-enable-the-feature). Možnost **Zásady skupiny** neumožňuje uživatelům měnit jejich nastavení, zatímco možnost **Předvolby zásad skupiny** nastavuje hodnoty, ale také je ponechá uživatelsky konfigurovatelné.
 
-## <a name="6-set-up-windows-hello-for-business"></a>6. nastavení systému Windows Hello for Business
+## <a name="6-set-up-windows-hello-for-business"></a>6. Nastavení Windows Hello pro firmy
 
- Systém Windows Hello for Business nahrazuje hesla silným dvoufaktorového ověřování (2FA) pro přihlášení k místnímu počítači. Jeden faktor je asymetrický pár klíčů a druhý je PIN nebo jiné místní gesto, jako je například otisk prstu nebo obličeje, pokud to zařízení podporuje. Doporučujeme nahradit hesla 2FA a Windows Hello for Business, pokud je to možné.
+ Windows Hello for Business nahrazuje hesla silným dvoufaktorovým ověřováním (2FA) pro přihlášení k místnímu počítači. Jedním z faktorů je asymetrický pár klíčů a druhý je KÓD PIN nebo jiné místní gesto, jako je otisk prstu nebo rozpoznávání obličeje, pokud jej zařízení podporuje. Pokud je to možné, doporučujeme nahradit hesla 2FA a Windows Hello pro firmy.
 
-Chcete-li nakonfigurovat hybridní systém Windows Hello for Business, zkontrolujte [důvěryhodnost hybridního klíče Windows Hello for Business předpoklady](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-trust-prereqs). Potom postupujte podle pokynů v [konfiguraci hybridních klíčů Windows Hello pro nastavení důvěryhodnosti obchodního klíče](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-whfb-settings). 
+Chcete-li nakonfigurovat hybridní windows hello pro firmy, přečtěte si [vztah důvěryhodnosti hybridního klíče Windows Hello pro obchodní předpoklady](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-trust-prereqs). Potom postupujte podle pokynů v [části Konfigurovat hybridní nastavení důvěryhodnosti klíčů systému Windows Hello pro firmy](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-whfb-settings). 

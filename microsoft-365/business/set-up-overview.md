@@ -1,5 +1,7 @@
 ---
 title: Přehled nastavení
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -22,72 +24,72 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Přehled kroků nastavení pro aplikaci Microsoft 365 Business.
-ms.openlocfilehash: cab999493bf86ed0adf32521eaf6b3943f107f79
-ms.sourcegitcommit: cf7b0fd80ecfb7a216111a801269c5322794795e
+description: Přehled kroků nastavení pro Microsoft 365 Business.
+ms.openlocfilehash: 07cbd4fd187f78474783db848ac9b69068d2b44a
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "40995244"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41595059"
 ---
 # <a name="overview-of-setup"></a>Přehled nastavení
 
-Sledujte krátké video o aplikaci Microsoft 365 Business Setup.<br><br>
+Podívejte se na krátké video o nastavení Microsoft 365 Business.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
 Pokud je pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-Většinu kroků nastavení lze provést v Průvodci nastavením, ale jsou zde také uvedeny další možnosti.
+Většinu kroků nastavení lze provést v průvodci nastavením, ale jsou uvedeny i další možnosti.
 
 ## <a name="step-1-add-your-domain-and-users"></a>Krok 1: Přidání domény a uživatelů
 
-   - **[Přidejte svou doménu](set-up.md#add-your-domain-to-personalize-sign-in)** (Pokud jste během [přihlášení](sign-up.md)koupili doménu, je tento krok již vykonáno.)
+   - **[Přidejte doménu](set-up.md#add-your-domain-to-personalize-sign-in)** (pokud jste si zakoupili doménu během [registrace](sign-up.md), tento krok je již hotový.)
 
-    - **Přidejte uživatele**. Uživatele můžete přidat některým ze tří způsobů:
-        - V [Průvodci](set-up.md#add-users-in-the-wizard).
-        - Chcete-li [Přidat uživatele pomocí funkce Azure AD Connect](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) (v prostorách služby Active Directory), použijte synchronizaci adresářů.
-        - Uživatele můžete také [přidat později](add-users-m365b.md) v centru pro správu.
-## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Krok 2: nastavení zásad zabezpečení a konfigurace zařízení 
+    - **Přidejte uživatele**. Uživatele můžete přidat libovolným ze tří způsobů:
+        - V [průvodci](set-up.md#add-users-in-the-wizard).
+        - Synchronizace adresářů slouží k [přidání uživatelů pomocí azure ad connect,](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) pokud máte místní adresář Active.
+        - Uživatele můžete přidat [i později](add-users-m365b.md) v Centru pro správu.
+## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Krok 2: Nastavení zásad zabezpečení a konfigurace zařízení 
 
-  - Pomocí [Průvodce instalací](set-up.md#protect-your-organization) nakonfigurujte zásady zařízení. 
-  - Můžete je také přidat nebo upravit později v [centru pro správu](view-policies-and-devices.md) a na [portálu Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
-  - Průvodce instalací také nastaví základní ochranu proti ohrožení a nastavení prevence ztráty dat.
+  - Průvodce [instalací](set-up.md#protect-your-organization) slouží ke konfiguraci zásad zařízení. 
+  - Další možnosti můžete přidat nebo upravit později v [Centru pro správu](view-policies-and-devices.md) a na [portálu Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
+  - Průvodce instalací také nastaví základní nastavení ochrany před hrozbami a zabránění ztráty dat.
   
-  Kromě nastavení zabezpečení v Průvodci nastavením můžete zvýšit zabezpečení přidáním následujících nastavení:
+  Kromě nastavení zabezpečení v průvodci nastavením můžete zvýšit zabezpečení přidáním následujících nastavení:
 
-- **Ochrana proti malwaru e-mailu**
-- **ATP anti-phishing**
+- **E-mailová ochrana proti malwaru**
+- **Ochrana proti phishingu atp**
 - **Exchange Online - archiv**
 - **Ochrana informací Azure (Plan1**)
 
-Chcete-li začít, přečtěte si informace o [zvýšení ochrany proti ohrožení](increase-threat-protection.md) a [Nastavení funkcí kompatibility](set-up-compliance.md).
+Chcete-li začít, přečtěte si [příklady zvýšení ochrany před hrozbami](increase-threat-protection.md) a [nastavení funkcí dodržování předpisů](set-up-compliance.md).
 
-Viz také [10 nejlepších způsobů zabezpečení společnosti Microsoft 365 Business](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) pro cestovní mapu s nejlepšími bezpečnostními postupy.
+Plán osvědčených postupů zabezpečení najdete také [v 10 nejlepších způsobech zabezpečení microsoft365 firmy.](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data)
 
-## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Krok 3: nastavení a Správa zařízení systému Windows 10
+## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Krok 3: Nastavení a správa zařízení s Windows 10
 
-Po spuštění Průvodce nastavením budete chtít v organizaci proctit všechny počítače společnosti Windwos 10.
+Po spuštění průvodce nastavením budete chtít proctect všechny Windwos 10 počítačů ve vaší organizaci.
   
-- Systém Windows 10 pro je [nezbytným předpokladem](pre-requisites-for-data-protection.md) pro Microsoft 365 Business, ale pokud používáte systém Windows 7 pro, Windows 8 pro nebo Windows 8,1 pro, vaše předplatné vás opravňuje k [inovaci na systém Windows 10 pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
-- Chcete-li nastavit zásady pro zařízení systému Windows 10, postupujte podle kroků v [zabezpečených počítačích se systémem Windows 10](secure-win-10-pcs.md) .
+- Windows 10 Pro je [předpokladem](pre-requisites-for-data-protection.md) pro Microsoft 365 Business, ale pokud máte Windows 7 Pro, Windows 8 Pro nebo Windows 8.1 Pro, vaše předplatné vás opravňuje k [upgradu na Windows 10 Pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
+- Podle pokynů v [zabezpečených počítačích s Windows 10](secure-win-10-pcs.md) nastavte zásady pro zařízení s Windows 10.
 
-Připojíte-li zařízení se systémem Windows 10 k Azure AD, budou na něj použity zásady nastavené pro počítače se systémem Windows 10. Další informace naleznete v tématu [nastavení zařízení systému Windows pro Microsoft 365 Business Users](set-up-windows-devices.md).
+Když připojíte zařízení s Windows 10 k Azure AD, zásady, které nastavíte pro počítače s Windows 10, se na něj použijí. Další informace naleznete v tématu [Nastavení zařízení se systémem Windows pro uživatele Microsoft 365 Business](set-up-windows-devices.md).
 
-## <a name="step-4-install-office-365-business"></a>Krok 4: instalace sady Office 365 Business
-- Sadu Office lze automaticky nainstalovat do zařízení systému Windows pomocí [Průvodce instalací](set-up.md#deploy-office-365-client-apps).
-- Umožňuje uživatelům [instalovat aplikace sady Office](https://docs.microsoft.com/office365/admin/setup/install-applications) pro systém Windows a zařízení.
+## <a name="step-4-install-office-365-business"></a>Krok 4: Instalace Office 365 Business
+- Office můžete do zařízení se systémem Windows nainstalovat automaticky pomocí [Průvodce instalací](set-up.md#deploy-office-365-client-apps).
+- Upřete uživatelům [instalaci aplikací Office](https://docs.microsoft.com/office365/admin/setup/install-applications) pro Windows a zařízení.
      
 ## <a name="advanced"></a>Pokročilé
-- **Použití automatického Opilotu k nastavení nových zařízení**
+- **Nastavení nových zařízení pomocí autopilota**
             
-     Pomocí [systému Windows autopilot](add-autopilot-devices-and-profile.md) můžete automaticky nakonfigurovat **Nová** zařízení systému Windows 10 pro uživatele, ale může být jednodušší získat [partnera](https://www.microsoft.com/solution-providers/search) , který by to mohl udělat za vás. Můžete také přejít do [aplikace Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598)a požádat odborníka na technologii cloud, aby nastavil nová zařízení, která zakoupíte.
+     Pomocí [automatického pilotního projektu systému Windows](add-autopilot-devices-and-profile.md) můžete automaticky předkonfigurovat **nová** zařízení s Windows 10 pro uživatele, ale může být jednodušší získat [partnera,](https://www.microsoft.com/solution-providers/search) který to může udělat za vás. Můžete také přejít do [Obchodu Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598)a požádat odborníka na cloudové technologie o nastavení nových zařízení, která si koupíte.
 
-- **Přístup k prostředkům na místě**
+- **Přístup k místním prostředkům**
 
-     - Pokud vaše organizace používá v místním počítači službu Active Directory systému Windows Server, můžete nastavit ochranu zařízení systému Windows 10 v aplikaci Microsoft 365 Business a současně zachovat přístup k místním prostředkům, které vyžadují místní ověřování. Postupujte podle kroků, [které umožňují, aby zařízení systému Windows 10 spojená s doménou byla spravována společností Microsoft 365 Business](manage-windows-devices.md) . Toto je upřednostňovaná metoda a zařízení v tomto stavu se nazývají zařízení spojená s hybridním Azure.
+     - Pokud vaše organizace používá místní službu Windows Server Active Directory, můžete nastavit Microsoft 365 Business k ochraně zařízení s Windows 10 a přitom zachovat přístup k místním prostředkům, které vyžadují místní ověřování. Podle pokynů v [části Povolit zařízení windows 10 připojená k doméně, která má spravovat Microsoft 365 Business,](manage-windows-devices.md) a nastavte tak to. Toto je upřednostňovaná metoda a zařízení v tomto stavu se nazývají hybridní zařízení připojená k Azure AD.
 
-    - Pokud vaše společnost disponuje místním adresářem služby Active Directory obsahujícím některé místní zdroje (například sdílené soubory a tiskárny), můžete k těmto zdrojům poskytnout přístup k těmto prostředkům pomocí zařízení Azure AD, a to následujícím postupem: [přístup k místním prostředkům z zařízení připojeném Azure AD v Microsoft 365 Business](access-resources.md).
+    - Pokud má vaše firma místní službu Active Directory, která obsahuje některé místní prostředky (například sdílené složky a tiskárny), můžete k těmto prostředkům přistupovat k těmto prostředkům se službou Azure AD podle kroků: [Přístup k místním prostředkům ze zařízení se službou Azure AD v Microsoft365 Business](access-resources.md).
 
 ## <a name="see-also"></a>Viz také
 

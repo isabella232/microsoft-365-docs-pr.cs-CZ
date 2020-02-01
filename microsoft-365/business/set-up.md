@@ -1,5 +1,7 @@
 ---
 title: Nastavení Microsoft 365 Business
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -25,112 +27,112 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Naučte se nastavit aplikaci Microsoft 365 Business.
-ms.openlocfilehash: 0001c2b9962f6cce0be1f77cbf427c68f9ee3249
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+description: Přečtěte si, jak nastavit Microsoft 365 Business.
+ms.openlocfilehash: c370a5b3fd735e704eea56ac1079bb2e5dad4c4b
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831297"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594263"
 ---
-# <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Nastavení aplikace Microsoft 365 Business v Průvodci nastavením
+# <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Nastavení Microsoft 365 Business v průvodci nastavením
 
-Na tomto videu můžete sledovat přehled programu Microsoft 365 Business Setup.<br><br>
+Podívejte se na toto video, kde najdete přehled nastavení Microsoft 365 Business.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-Pokud jste toto video našli, podívejte se na [kompletní tréninkové řady pro malé firmy a ty nové do společnosti Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Pokud je pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>Přidání domény, uživatelů a nastavení zásad
 
 [![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
-Zakoupí-li společnost Microsoft 365 Business, máte možnost používat vlastní doménu nebo ji zakoupit během [zápisu](sign-up.md).
+Při nákupu Microsoft 365 Business máte možnost používat doménu, kterou vlastníte, nebo ji zakoupit během [registrace](sign-up.md).
 
-- Pokud jste při přihlášení zakoupili novou doménu, je vaše doména nastavena a můžete se přesouvat a [přidávat uživatele a přiřazovat jim licence](#add-users-and-assign-licenses).
+- Pokud jste si zakoupili novou doménu, když jste se zaregistrovali, je vaše doména nastavena a můžete přejít na [Přidat uživatele a přiřadit licence](#add-users-and-assign-licenses).
 
-### <a name="add-your-domain-to-personalize-sign-in"></a>Přidání domény k přizpůsobení přihlášení
+### <a name="add-your-domain-to-personalize-sign-in"></a>Přidání domény pro přizpůsobení přihlášení
 
-1. Přihlaste se ke [středisku Microsoft 365 Admin Center](https://admin.microsoft.com) pomocí globálních pověření pro správu. 
+1. Přihlaste se do [Centra pro správu Microsoftu 365](https://admin.microsoft.com) pomocí globálních přihlašovacích údajů pro správce. 
 
-2. Chcete-li spustit průvodce, zvolte možnost **Přejít k instalačnímu programu** .
+2. Chcete-li spustit průvodce, zvolte **Přejít a** spustit ho.
 
-    ![Vyberte možnost přejít k nastavení.](media/gotosetupinadmincenter.png)
+    ![Vyberte Přejít na nastavení.](media/gotosetupinadmincenter.png)
 
-3. Na stránce **instalace aplikací sady Office** můžete aplikace volitelně nainstalovat do vlastního počítače.
+3. Na stránce **Instalovat aplikace Office** můžete aplikace volitelně nainstalovat do vlastního počítače.
     
 4. V kroku **Přidat doménu** zadejte název domény, který chcete použít (například contoso.com).
 
     > [!IMPORTANT]
-    > Pokud jste během zápisu zakoupili doménu, nezobrazí se zde krok **Přidat doménu** . Přejděte na místo pro [Přidání uživatelů](#add-users-and-assign-licenses) .
+    > Pokud jste si během registrace zakoupili doménu, nezobrazí se zde přidání kroku **domény.** Přejděte místo toho na [Přidat uživatele.](#add-users-and-assign-licenses)
 
-    ![Obrazovka stránky přizpůsobit přihlašovací stránku.](media/adddomain.png)
+    ![Snímek obrazovky s přihlašovací stránkou](media/adddomain.png)
 
     
-4. Postupujte podle pokynů průvodce a [vytvořte záznamy DNS u kteréhokoli poskytovatele hostitelských služeb DNS pro sadu Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , který ověřuje vlastní doménu. Pokud znáte hostitele domény, podívejte se také na [pokyny týkající se hostitele](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions).
+4. Podle pokynů průvodce [vytvořte záznamy DNS u libovolného poskytovatele hostingu DNS pro Office 365,](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) který ověřuje vlastní doménu. Pokud znáte hostitele domény, přečtěte si také [pokyny pro konkrétní hostitele](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions).
 
-    Pokud je poskytovatelem hostitelských služeb GoDaddy nebo jiný hostitel povolený s [připojením k doméně](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), je tento proces snadný a budete automaticky požádáni o přihlášení a ověřování společnosti Microsoft ve vašem zastoupení.
+    Pokud je vaším poskytovatelem hostingu GoDaddy nebo jiný hostitel povolen s [připojením domény](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), proces je snadný a budete automaticky vyzváni, abyste se přihlásili a nechali Microsoft ověřovat vaším jménem.
 
-    ![U možnosti potvrdit přístup na stránce GoDaddy vyberte možnost ověřit.](media/godaddyauth.png)
+    ![Na stránce Potvrzení přístupu GoDaddy vyberte Autorizovat.](media/godaddyauth.png)
 
 ### <a name="add-users-and-assign-licenses"></a>Přidání uživatelů a přiřazení licencí
 
-Můžete přidat uživatele v průvodci, ale můžete je také [přidat později](add-users-m365b.md) v centru pro správu. Navíc, pokud máte místní řadič domény, můžete přidat uživatele pomocí [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+Do průvodce můžete přidat uživatele, ale uživatele můžete přidat [i později](add-users-m365b.md) v Centru pro správu. Pokud máte místní řadič domény, můžete navíc přidat uživatele pomocí [služby Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
 
-#### <a name="add-users-in-the-wizard"></a>Přidání uživatelů v Průvodci
+#### <a name="add-users-in-the-wizard"></a>Přidání uživatelů do průvodce
 
-Všichni uživatelé, které přidáte v průvodci, dostanou automaticky přiřazenu licenci Microsoft 365 Business.
+Všem uživatelům, které přidáte do průvodce, bude automaticky přiřazena licence Microsoft 365 Business.
 
-![Obrazovka stránky přidat nové uživatele v Průvodci](media/addnewuserspage.png)
+![Snímek obrazovky stránky Přidat nové uživatele v průvodci](media/addnewuserspage.png)
 
-1. Pokud vaše předplatné aplikace Microsoft 365 Business obsahuje existující uživatele (například pokud jste použili program Azure AD Connect), můžete jim nyní přiřadit licence. Neváhejte a přidejte licence i jim.
+1. Pokud má vaše předplatné Microsoft 365 Business existující uživatele (například pokud jste použili Azure AD Connect), získáte možnost přiřadit jim licence nyní. Neváhejte a přidejte licence i jim.
 
-2. Po přidání uživatelů budete mít také možnost sdílet pověření s novými uživateli, které jste přidali. Můžete je vytisknout, poslat e-mailem nebo si je stáhnout.
+2. Po přidání uživatelů získáte také možnost sdílet přihlašovací údaje s novými uživateli, které jste přidali. Můžete je vytisknout, poslat e-mailem nebo si je stáhnout.
 
 ### <a name="connect-your-domain"></a>Připojení domény
 
 > [!NOTE]
-> Pokud zvolíte použití domény. onmicrosoft nebo použijete Azure AD Connect pro nastavení uživatelů, tento krok se nezobrazí.
+> Pokud jste se rozhodli použít doménu .onmicrosoft nebo pomocí Azure AD Connect k nastavení uživatelů, tento krok se vám nezobrazí.
   
 Abyste mohli nastavit služby, musíte aktualizovat některé záznamy u svého hostitele DNS nebo doménového registrátora.
   
-1. Průvodce nastavením obvykle rozpozná vašeho registrátora a poskytne odkaz na podrobné pokyny pro aktualizaci vašich záznamů názvového serveru na webu registrátora. Pokud tomu tak není, [změňte nameservery tak, aby sadu Office 365 nastavil s jakýmkoli registrátorem domény](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2). 
+1. Průvodce nastavením obvykle rozpozná vašeho registrátora a poskytne odkaz na podrobné pokyny pro aktualizaci vašich záznamů názvového serveru na webu registrátora. Pokud tomu tak není, [změňte názvové servery a nastavte Office 365 s libovolným registrátorem domény](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2). 
 
-    - Pokud máte existující záznamy DNS, například existující web, ale hostitel DNS je povolen pro [připojení k doméně](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), zvolte možnost **Přidat záznamy**. Na stránce **Vyberte stránku služeb online** , přijměte všechny výchozí hodnoty a klepněte na tlačítko **Další**a na stránce hostitele DNS vyberte možnost **autorizovat** .
-    - Pokud máte existující záznamy DNS s jinými hostiteli DNS (nejsou povoleny pro připojení k doméně), budete chtít spravovat své vlastní záznamy DNS, abyste zajistili, že stávající služby zůstanou propojeny. Další informace naleznete v tématu [základy domény](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) .
+    - Pokud máte existující záznamy DNS, například existující web, ale hostitel DNS je povolen pro [připojení domény](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), zvolte Přidat záznamy **pro mě**. Na stránce **Zvolit online služby** přijměte všechny výchozí hodnoty a zvolte **Další**a na stránce hostitele DNS zvolte **Autorizovat.**
+    - Pokud máte existující záznamy DNS s jinými hostiteli DNS (není povoleno pro připojení domény), budete chtít spravovat vlastní záznamy DNS, abyste zajistili, že stávající služby zůstanou připojeny. Další informace naleznete v [základech domény.](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics)
 
-        ![Aktivuje stránku záznamů.](media/activaterecords.png)
+        ![Aktivujte stránku záznamů.](media/activaterecords.png)
 
-2. Postupujte podle pokynů průvodce a e-maily a další služby budou nastaveny pro vás.
+2. Postupujte podle pokynů průvodce a e-mail a další služby budou nastaveny pro vás.
 
-### <a name="protect-your-organization"></a>Ochrana organizace 
+### <a name="protect-your-organization"></a>Ochrana vaší organizace 
 
-Zásady nastavené v průvodci jsou automaticky použity pro [skupinu zabezpečení](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) nazvanou *Všichni uživatelé*. Můžete také vytvořit další skupiny pro přiřazení zásad v centru pro správu.
+Zásady nastavené v průvodci se automaticky použijí na [skupinu zabezpečení](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) s názvem *Všichni uživatelé*. Můžete také vytvořit další skupiny, které budou přiřazeny zásady v Centru pro správu.
 
-1. Při **zvýšení ochrany před pokročilými internetovými hrozbami**se doporučuje přijmout výchozí hodnoty, které umožňují [systému Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) prohledávat soubory a odkazy v aplikacích sady Office.
+1. V části **Zvýšení ochrany před pokročilými kybernetickými hrozbami**doporučujeme přijmout výchozí nastavení, které umožní [Office 365 Advance Threat Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) skenovat soubory a odkazy v aplikacích Office.
 
-    ![Obrazovka stránky zvýšení ochrany.](media/increasetreatprotection.png)
-
-
-2. Pokud chcete **zabránit úniku citlivých datových** stránek, přijměte výchozí nastavení pro zapnutí funkce Zabránění ztrátám dat (DLP) sady Office 365 za účelem sledování citlivých dat v aplikacích sady Office a zabránění nechtěnému sdílení těchto dat mimo vaši organizaci.
-
-3. Na stránce **Chraňte data v sadě Office pro mobilní** stránku ponechejte správu mobilních aplikací, rozbalte nastavení a Prohlédněte si je a pak vyberte možnost **vytvořit zásadu správy mobilních aplikací**.
-
-    ![Kopie obrazovky Chraňte data v sadě Office pro mobilní stránku.](media/protectdatainmobile.png)
+    ![Snímek obrazovky stránky Zvýšit ochranu](media/increasetreatprotection.png)
 
 
-## <a name="secure-windows-10-pcs"></a>Zabezpečení systému Windows 10 počítačů
+2. Na stránce **Zabránit úniku citlivých dat** přijměte výchozí nastavení pro zapnutí Office 365 Data Loss Prevention (DLP) pro sledování citlivých dat v aplikacích Office a zabránění náhodnému sdílení těchto dat mimo vaši organizaci.
 
-Na levém navigačním panelu vyberte **Nastavení** a potom v části zapnuto **a zabezpečení**zvolte zabezpečení **počítačů se systémem Windows 10**. Zvolte **zobrazení** pro začátek. Úplné pokyny naleznete v části [zabezpečení počítačů se systémem Windows 10](secure-win-10-pcs.md) .
+3. Na stránce **Zamknout data v Office pro mobilní zařízení** ponechte zapnutou správu mobilních aplikací, rozbalte nastavení a zkontrolujte je a pak vyberte Vytvořit **zásady správy mobilních aplikací**.
 
-## <a name="deploy-office-365-client-apps"></a>Nasadit sadu Office 365 Client Apps
+    ![Snímek obrazovky Stránky Ochrana dat v Office pro mobilní zařízení](media/protectdatainmobile.png)
 
-Pokud jste při instalaci zvolili automatickou instalaci aplikací sady Office, budou aplikace nainstalovány do zařízení systému Windows 10, jakmile se uživatelé k Azure AD přihlašují z jejich zařízení se systémem Windows, pomocí svých pracovních pověření.
 
-Informace o instalaci sady Office na mobilních zařízeních iOS nebo Android naleznete v tématu [nastavení mobilních zařízení pro Microsoft 365 Business Users](set-up-mobile-devices.md).
+## <a name="secure-windows-10-pcs"></a>Zabezpečené počítače s Windows 10
 
-Sadu Office můžete nainstalovat také jednotlivě. Pokyny naleznete [v části instalace sady Office v počítači nebo Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) .
+Na levé nav vyberte **Nastavení** a potom v části **Sing-in a security**zvolte **Zabezpečit počítače se systémem Windows 10**. Chcete-li začít, zvolte **Zobrazení.** Kompletní pokyny najdete v [tématu zabezpečení počítačů s Windows 10.](secure-win-10-pcs.md)
+
+## <a name="deploy-office-365-client-apps"></a>Nasazení klientských aplikací Office 365
+
+Pokud jste se během instalace rozhodli automaticky nainstalovat aplikace Office, aplikace se nainstalují na zařízení s Windows 10, jakmile se uživatelé přihlásí k Azure AD ze svých zařízení s Windows pomocí svých pracovních přihlašovacích údajů.
+
+Pokud chcete Office nainstalovat na mobilní zařízení se systémem iOS nebo Android, přečtěte si v [tématu Nastavení mobilních zařízení pro uživatele Microsoft 365 Business](set-up-mobile-devices.md).
+
+Office můžete nainstalovat také samostatně. Pokyny najdete v [tématu Instalace Office na PC nebo Mac.](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658)
 
 ## <a name="see-also"></a>Viz také
 
-[Microsoft 365 Business Training video](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Školicí videa k Microsoftu 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

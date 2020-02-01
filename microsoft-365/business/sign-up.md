@@ -1,5 +1,7 @@
 ---
-title: Přihlaste se k serveru Microsoft 365 Business
+title: Zaregistrujte se do Microsoftu 365 Business
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,76 +23,76 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Dozvíte se, jak zakoupit a přihlásit se k serveru Microsoft 365 Business.
-ms.openlocfilehash: d755931b6383a15376d3a875a9cf1ed93e9f4a63
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+description: Přečtěte si, jak nakupovat a zaregistrovat se pro Microsoft 365 Business.
+ms.openlocfilehash: 63bff3d34df017d1c7cc437ef050d53623e76aa9
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831237"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594242"
 ---
-# <a name="sign-up-for-microsoft-365-business"></a>Přihlaste se k serveru Microsoft 365 Business
+# <a name="sign-up-for-microsoft-365-business"></a>Zaregistrujte se do Microsoftu 365 Business
 
-Chcete-li zjistit, co společnost Microsoft 365 Business obsahuje, Sledujte [krátké video](https://go.microsoft.com/fwlink/?linkid=2109651) a Prohlédněte si [Přehled](microsoft-365-business-overview.md).
+Chcete-li zjistit, co obsahuje Microsoft 365 Business, podívejte se na [krátké video](https://go.microsoft.com/fwlink/?linkid=2109651) a podívejte se na [přehled](microsoft-365-business-overview.md).
 
-Společnost Microsoft 365 Business lze získat třemi způsoby:
-- **Kupte si microsoft 365 Business a dokončete vlastní nastavení**: Chcete-li zakoupit aplikaci Microsoft 365 Business Online, [postupujte podle následujících pokynů](#sign-up-steps).
-- **Pro partnery společnosti Microsoft**: Pokud jste partner, naleznete informace [v tématu získání Microsoft 365 Business od společnosti Microsoft Partner Center](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
-- **Získání nápovědy v obchodě společnosti Microsoft**: zamiřte do [úložiště aplikace Microsoft Store](https://go.microsoft.com/fwlink/?linkid=2109652). Obchody společnosti Microsoft vám mohou pomoci s otázkami ohledně plánů, pomohou vám zakoupit plán, který vyhovuje vašim potřebám podniku, a pomohou vám dokončit nastavení.
+Existují tři způsoby, jak získat Microsoft 365 Business:
+- **Kupte si Microsoft 365 Business a dokončete vlastní nastavení**: Chcete-li si koupit Microsoft 365 Business online, [postupujte podle následujících kroků](#sign-up-steps).
+- **Partneři společnosti Microsoft**: Pokud jste partnerem, přečtěte si v [tématu Získání Microsoft 365 Business z Centra partnerů společnosti Microsoft](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
+- **Nápovědu v obchodě Microsoft**: Přemísknete do [obchodu Microsoft Store](https://go.microsoft.com/fwlink/?linkid=2109652). Obchody microsoftu vám mohou pomoci s otázkami týkajícími se plánů, mohou vám pomoci zakoupit plán, který vyhovuje vašim obchodním potřebám, a pomoci vám dokončit nastavení.
 
 **Potřebujete něco jiného?** Můžeš:
-- [Inovujte plán Office 365 na verzi Microsoft 365 Business](migrate-to-microsoft-365-business.md).
-- [Získejte bezplatnou zkušební](https://go.microsoft.com/fwlink/p/?linkid=2102309) verzi produktu Microsoft 365 Business po dobu jednoho měsíce.
-- Pokud potřebujete plán s menším počtem funkcí, [Přihlaste se k sadě Office 365 Business Premium](https://go.microsoft.com/fwlink/p/?LinkID=510935) . Zjistěte, co každý obchodní plán zahrnuje na adrese [Products.Office.com](https://go.microsoft.com/fwlink/?linkid=2109397).
-- [Přihlaste se k domovskému nebo rodinnému plánu](https://go.microsoft.com/fwlink/?linkid=2109398) , pokud si nekupujete pro podnik. 
+- [Upgradujte svůj plán Office 365 na Microsoft 365 Business](migrate-to-microsoft-365-business.md).
+- [Získejte bezplatnou zkušební verzi](https://go.microsoft.com/fwlink/p/?linkid=2102309) microsoftu 365 Business na jeden měsíc.
+- Pokud potřebujete plán s menším počtem funkcí, [zaregistrujte si Office 365 Business Premium.](https://go.microsoft.com/fwlink/p/?LinkID=510935) Zjistěte, co každý obchodní plán zahrnuje na [products.office.com](https://go.microsoft.com/fwlink/?linkid=2109397).
+- Pokud nekupujete [podnik, zaregistrujte si domácí nebo rodinný plán.](https://go.microsoft.com/fwlink/?linkid=2109398) 
 
-## <a name="sign-up-steps"></a>Postup přihlášení
+## <a name="sign-up-steps"></a>Registrační kroky
 
-Sledujte toto video a vyhledejte stručný přehled procesu zápisu.<br><br>
+Podívejte se na toto video pro rychlý přehled procesu registrace.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3znhX] 
 
-Pokud jste toto video našli, podívejte se na [kompletní tréninkové řady pro malé firmy a ty nové do společnosti Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Pokud je pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-Chcete-li se přihlásit a zakoupit společnost Microsoft 365 pro váš podnik, proveďte následující kroky:
+Chcete-li se zaregistrovat a zakoupit Microsoft 365 pro vaši firmu, proveďte následující kroky:
 
-1. Na [stránce Microsoft 365 pro obchodní stránku](https://go.microsoft.com/fwlink/?linkid=2109654)vyberte možnost **Zobrazit plány & ceny**. 
-2. Na další stránce Zjistěte měsíční náklady a potom přejděte na stránku a vyhledejte další informace o tom, co je zahrnuto v aplikaci Microsoft 365 Business. V části Microsoft 365 Business vyberte možnost **koupit nyní**.
-3. Na stránce **Děkujeme vám, že jste zvolili možnost Microsoft 365 Business** Page, zadejte informace, které chcete začít.
-4. V **kroku 1**zadejte e-mailovou adresu, kterou jste již používali. Může se jednat o aktuální pracovní e-mailovou adresu nebo adresu, kterou má společnost Microsoft použít ke komunikaci s vámi během instalace. Je to také adresa, na které vám pošleme informace o vašem účtu a obnově. Pak vyberte možnost **nastavit účet**.
-5. V **kroku 2**zadejte své jméno, telefonní číslo do zaměstnání, název společnosti a umístění. Vaše země nebo oblast určuje přesné služby, které obdržíte od společnosti Microsoft, a po dokončení tohoto kroku je nelze změnit. Vyberte **Další**.
+1. Na [stránce Microsoft 365 pro firmy](https://go.microsoft.com/fwlink/?linkid=2109654)vyberte **Zobrazit plány & ceny**. 
+2. Na další stránce se dozvíte měsíční náklady a pak přejděte dolů na stránku a zjistěte další informace o tom, co je součástí Microsoft 365 Business. V části Microsoft 365 Business vyberte **Koupit nyní**.
+3. Na stránce **Poděkování za výběr Microsoftu 365 Business** zadejte své informace, abyste mohli začít.
+4. V **kroku 1**zadejte e-mailovou adresu, kterou již používáte. Může se jedná o aktuální pracovní e-mailovou adresu nebo jakoukoli adresu, kterou má společnost Microsoft použít ke komunikaci během instalace. Je to také adresa, na kterou vám pošleme informace o vašem účtu a obnovení. Pak vyberte **možnost Nastavit účet**.
+5. V **kroku 2**zadejte své jméno, telefonní číslo firmy, název společnosti a místo. Vaše země nebo oblast určuje přesné služby, které obdržíte od společnosti Microsoft, a po dokončení tohoto kroku je nelze změnit. Vyberte **Další**.
     > [!NOTE]
-    > Název vaší společnosti zobrazíte v centru pro správu; Zde můžete spravovat uživatele společnosti Microsoft 365, licence a podobně. Je také zahrnut do všech interních adres URL webu (SharePoint).
+    > V centru pro správu zobrazíme název vaší společnosti; To to je místo, kde spravujete Uživatele, licence microsoftu 365 a tak dále. Zahrneme ji také do všech interních adres URL webu (SharePoint).
 6. V **kroku 3**:
 
-    1. Dokaž, že nejsi robot! Vyberte buď **text mě** nebo **zavolejte**a zadejte číslo, kde vás můžeme zastihnout. Vyberte možnost **Odeslat ověřovací kód** a obdržíte ihned text nebo hovor. Zadejte kód a vyberte možnost **ověřit**.
-    2. Dále rozhodněte, zda si chcete koupit nový název domény nebo získat dočasný:
+    1. Dokažte, že nejste robot! Vyberte buď **Napište mi,** nebo **zavolejte mi**, a zadejte číslo, kde můžeme zastihnout vás. Vyberte **Odeslat ověřovací kód** a obdržíte textovou zprávu nebo hovor. Zadejte kód a vyberte **Ověřit**.
+    2. Dále se rozhodněte, zda si chcete koupit nový název domény nebo získat dočasný název:
 
-        - **Nevlastníte název domény** 
+        - **Nevlastním název domény** 
         
-            Pokud vaše e-mailová adresa neobsahuje vaše obchodní jméno a nemáte web, který používá vaše obchodní jméno, můžete nyní snadno zakoupit doménu. Vyberte možnost **koupit nový název domény**a zadejte název podniku. Pokud se například vaše společnost nazývá *Contososki*, zkuste zadat Contosokis.com, Contososkis.org nebo Contososkis.BIZ. Potom vyberte možnost **zkontrolovat dostupnost** a zjistěte, zda je zvolená doména k dispozici. Před přijetím rozhodnutí můžete vyzkoušet více možností. Pokud je váš název domény k dispozici, dáme vám vědět náklady a vyúčtování přímo s novým plánem. 
+            Pokud vaše e-mailová adresa neobsahuje název vaší firmy a pokud nemáte web, který používá název vaší firmy, můžete si nyní snadno koupit doménu. Vyberte **Koupit nový název domény**a zadejte název firmy. Pokud se například vaše společnost nazývá *ContosoSkis*, zkuste zadat Contosokis.com, Contososkis.org nebo Contososkis.biz. Pak vyberte **Zkontrolovat dostupnost** a zjistěte, zda je vybraná doména dostupná. Než se rozhodnete, můžete vyzkoušet více možností. Pokud je vaše doménové jméno k dispozici, dáme vám vědět, kolik vám náklady a fakturují přímo s novým plánem. 
        
             > [!TIP]
-            > Pokud si nejste jisti, jakou příponu domény zvolit pro novou doménu (například. com nebo. org), přečtěte si informace o [zakoupení názvu domény](https://go.microsoft.com/fwlink/?linkid=2109700)
+            > Pokud si nejste jisti, jaké rozšíření domény zvolit pro novou doménu (například .com nebo .org), viz [Koupit název domény](https://go.microsoft.com/fwlink/?linkid=2109700)
         
-        - **Nejsem si jist, nebo vlastní název domény již** 
+        - **Nejsem si jistý, nebo jsem vlastní název domény již** 
         
-             Zvolte **pro tuto chvíli doménu společnosti Microsoft**. To nic nestálo a později můžete získat vlastní název podniku nebo se připojit k již vlastni. Ukážeme vám jak.
+             Zvolte **Získat doménu Microsoftu prozatím**. To nic nestojí a později můžete získat vlastní název pro vaši firmu nebo se připojit k tomu, který již vlastníte. Ukážeme vám jak.
 
-    3. Vyberte **Další** , chcete-li vytvořit ID uživatele a e-mailovou adresu v zaměstnání. Zadejte název (označovaný také jako alias), který chcete použít. Robert Young může například použít jako alias práce RobY nebo RobYoung. Přidejte heslo a vyberte **zápis**. Poznamenejte si heslo. Na adresu zadanou v kroku 1 pošleme e-mail, který vám připomene vaše ID uživatele.
+    3. Vyberte **Další,** chcete-li vytvořit id uživatele a firemní e-mailovou adresu. Zadejte název (nazývaný také alias), který chcete použít. Robert Young může například použít RobY nebo RobYoung jako pracovní alias. Přidejte heslo a vyberte **Zaregistrovat**. Poznamenejte si heslo. Pošleme e-mail na adresu, kterou jste zadali v kroku 1, abychom vám připomněli vaše ID uživatele.
 7. V **kroku 4**: 
 
-    1. Rozhodněte, kolik osob v podniku potřebuje licenci Microsoft 365, nebo ponechte **počet uživatelů** nastavený na hodnotu 1 a později přidejte další uživatele. 
-    2. Vyberte měsíční nebo roční účtování, zkontrolujte celkové náklady a klepněte na možnost **Další**. 
-    3. Přidejte podrobnosti o platební kartě. Pokud adresa vaší společnosti neodpovídá adrese vaší kreditní karty, bude potřeba i adresa vaší společnosti. Adresa vaší společnosti určuje daně, které platíte, a služby, které jsou k dispozici. Chcete-li získat další informace o daních, podívejte se, [Jaká daň bude účtována?](https://go.microsoft.com/fwlink/?linkid=2109701)
-    4. Vyberte **pořadí umístění**. Dokončení nastavení nového plánu je pro společnost Microsoft krátkou dobou.
+    1. Rozhodněte se, kolik lidí ve vaší firmě potřebuje licenci Microsoftu 365, nebo nechte **počet uživatelů** nastavený na 1 a přidejte další lidi později. 
+    2. Vyberte měsíční nebo roční fakturaci, zkontrolujte celkové náklady a vyberte **Další**. 
+    3. Přidejte údaje o své kreditní kartě. Pokud adresa vaší společnosti neodpovídá adrese vaší kreditní karty, budeme potřebovat i vaši firemní adresu. Adresa vaší společnosti určuje, jaké daně platíte a které služby jsou k dispozici. Další informace o daních naleznete v tématu [Jaká daň bude účtována?](https://go.microsoft.com/fwlink/?linkid=2109701).
+    4. Vyberte **Umístit pořadí**. To trvá krátkou dobu pro Microsoft dokončit nastavení nového plánu.
 
 ## <a name="whats-next"></a>Co dál?
 
-Vyberte možnost **Přejít k instalačnímu programu** a dokončete další kroky, jako je například přidání většího zabezpečení pro ochranu podniku a stažení aplikací sady Office, jako jsou aplikace Word a Excel.
+Vyberte **Přejít na nastavení,** chcete-li provést další kroky, jako je přidání většího zabezpečení pro ochranu vaší firmy, a stahování aplikací Office, jako je Word a Excel.
 
-Nápovědu k instalaci naleznete v tématu [set up](set-up.md).
+Nápovědu k nastavení naleznete [v tématu nastavení](set-up.md).
 
 ## <a name="see-also"></a>Viz také
 
-[Microsoft 365 Business Training video](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Školicí videa k Microsoftu 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

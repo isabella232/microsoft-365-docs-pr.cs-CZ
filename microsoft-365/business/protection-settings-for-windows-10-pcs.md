@@ -1,5 +1,7 @@
 ---
 title: Nastavení ochrany zařízení pro počítače s Windows 10
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -19,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
-description: Informace o výchozím nastavení a dalších nastaveních dostupných v aplikaci Microsoft 365 Business k zabezpečení zařízení systému Windows 10.
-ms.openlocfilehash: 1846ee7ae09db94575ef27dcf4f5721661f7666d
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+description: Přečtěte si o výchozím nastavení a dalších nastaveních dostupných v Microsoft 365 Business pro zabezpečení zařízení s Windows 10.
+ms.openlocfilehash: b286eb417a8e723b01838c16286ceb612d497c7d
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715196"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593510"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>Nastavení ochrany zařízení pro počítače s Windows 10
 
@@ -35,15 +37,15 @@ Podívejte se na video o tom, jak zabezpečit zařízení s Windows 10 s Microso
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
-1. Přejděte do centra pro správu na <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>adrese. 
+1. Přejděte do centra <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>pro správu na adrese . 
     
-2. Na levém navigačním panelu zvolte položku **** \> **zásady** \> zařízení **Add**.
+2. Na levé nav zvolte Přidat **zásady** \> **zařízení** \> **.**
   
 3. V podokně **Přidat zásadu** zadejte název, který je jedinečný. 
     
 4. V části **Typ zásady** zvolte **Konfigurace zařízení s Windows 10**.
     
-5. Rozbalte **Zabezpečit zařízení s Windows 10** \> nakonfigurujte nastavení požadovaným způsobem. Další informace naleznete v tématu [dostupné nastavení](#available-settings). 
+5. Rozbalte **Zabezpečit zařízení s Windows 10** \> nakonfigurujte nastavení požadovaným způsobem. Další informace naleznete v [tématu Dostupná nastavení](#available-settings). 
     
     Pokud se chcete vrátit k výchozímu nastavení, použijte odkaz **Obnovit výchozí nastavení**. 
     
@@ -65,11 +67,11 @@ Další informace najdete v článku o [mapování funkcí ochrany v Microsoft 3
 |Zvýšit ochranu počítačů před viry a dalšími hrozbami pomocí Antivirové ochrany v programu Windows Defender  <br/> |Vyžaduje zapnutí antivirové ochrany v programu Windows Defender, aby bylo možné počítače chránit před nebezpečím spočívajícím v připojení k internetu.  <br/> |
 |Chránit počítače před webovými hrozbami v prohlížeči Microsoft Edge  <br/> |Zapne nastavení v Edgi, které pomáhá chránit uživatele před škodlivými weby a nebezpečným stahováním.  <br/> |
 |Použít pravidla k omezení potenciálních oblastí útoku na zařízení  <br/> |Pokud je omezování potenciálních oblastí útoku zapnuté, pomáhá blokovat akce a aplikace, které obvykle používá malware k napadnutí zařízení. Toto nastavení je dostupné jenom v případě, že je zapnutá Antivirová ochrana v programu Windows Defender. Další informace získáte v článku o [omezování potenciálních oblastí útoku](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/exploit-protection).  <br/> |
-|Chránit složky před hrozbami, jako je ransomware  <br/> |Toto nastavení využívá řízený přístup ke složkám a chrání data společnosti před úpravami prostřednictvím podezřelých nebo škodlivých aplikací, jako je ransomware. Těmto typům aplikací se v chráněných složkách nepovolí provést změny. Toto nastavení je dostupné jenom v případě, že je zapnutá Antivirová ochrana v programu Windows Defender. Další informace naleznete v části [ochrana složek pomocí řízené složky](https://docs.microsoft.com/configmgr/protect/deploy-use/create-deploy-exploit-guard-policy#bkmk_CFA) .  <br/> |
-|Bránit síťovému přístupu k potenciálně škodlivému obsahu na internetu  <br/> |Toto nastavení slouží k blokování připojení odchozích uživatelů k internetovým místům s nízkou pověstí, která mohou hostit podvodné zprávy, zneužití nebo jiný škodlivý obsah. Toto nastavení je k dispozici pouze v případě, že je program Windows Defender Antivirus nastaven **na hodnotu Zapnuto**. Další informace naleznete v tématu [Ochrana sítě](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/configure-real-time-protection-windows-defender-antivirus).  <br/> |
-|Chránit soubory a složky na počítačích před neoprávněným přístupem pomocí BitLockeru  <br/> |Nástroj BitLocker chrání data šifrováním pevných disků počítače a chrání před vystavením dat, pokud dojde ke ztrátě nebo odcizení počítače. Další informace naleznete v části [Nejčastější dotazy nástroje BitLocker](https://go.microsoft.com/fwlink/?linkid=871000).  <br/> |
+|Chránit složky před hrozbami, jako je ransomware  <br/> |Toto nastavení využívá řízený přístup ke složkám a chrání data společnosti před úpravami prostřednictvím podezřelých nebo škodlivých aplikací, jako je ransomware. Těmto typům aplikací se v chráněných složkách nepovolí provést změny. Toto nastavení je dostupné jenom v případě, že je zapnutá Antivirová ochrana v programu Windows Defender. Další informace najdete v tématu [Ochrana složek s přístupem k řízené složce.](https://docs.microsoft.com/configmgr/protect/deploy-use/create-deploy-exploit-guard-policy#bkmk_CFA)  <br/> |
+|Bránit síťovému přístupu k potenciálně škodlivému obsahu na internetu  <br/> |Toto nastavení slouží k blokování odchozích uživatelských připojení k internetovým umístěním s nízkou reputací, která mohou hostit phishingové podvody, zneužití nebo jiný škodlivý obsah. Toto nastavení je k dispozici pouze v případě, že je antivirový program Windows Defender antivirus nastaven na **zapnuto**. Další informace naleznete v tématu [Ochrana sítě](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/configure-real-time-protection-windows-defender-antivirus).  <br/> |
+|Chránit soubory a složky na počítačích před neoprávněným přístupem pomocí BitLockeru  <br/> |Nástroj Bitlocker chrání data šifrováním pevných disků počítače a chrání před vystavením dat, pokud dojde ke ztrátě nebo odcizení počítače. Další informace naleznete v [tématu Nejčastější dotazy k systému bitlockeru](https://go.microsoft.com/fwlink/?linkid=871000).  <br/> |
 |Povolit uživatelům stahovat aplikace z webu Microsoft Store  <br/> |Umožňuje uživatelům stahovat a instalovat aplikace z webu Microsoft Store. Aplikací může být cokoli, od her až po nástroje na zvyšování produktivity, proto nechte toto nastavení **zapnuté**. Kvůli větší bezpečnosti ho ale můžete vypnout.  <br/> |
-|Umožnit uživatelům přístup ke Cortaně  <br/> |Cortana může být velmi užitečný! Cortana může zapnout nebo vypnout nastavení, poskytnout pokyny a ujistit se, že máte čas na schůzky, takže toto nastavení ponechejte ve výchozím nastavení **zapnuto** .  <br/> |
+|Umožnit uživatelům přístup ke Cortaně  <br/> |Cortana může být velmi užitečná! Cortana vám může zapnout nebo vypnout nastavení, dávat pokyny a ujistit se, že máte čas na schůzky, takže toto nastavení ve výchozím nastavení ponecháme **zapnuté.**  <br/> |
 |Povolit uživatelům přijímat tipy pro Windows a reklamy od společnosti Microsoft  <br/> |Praktické tipy k Windows mohou uživatelům pomoci zorientovat se v nově vydaných funkcích.  <br/> |
 |Automaticky aktualizovat zařízení s Windows 10  <br/> |Zajistí, aby zařízení s Windows 10 automaticky dostávala nejnovější aktualizace.  <br/> |
 |Vypnout obrazovku zařízení po nečinnosti  <br/> |Zajistí ochranu dat společnosti, když uživatel zařízení nepoužívá. Uživatel může pracovat na veřejném místě, jako je kavárna, a může si na chvilku odskočit nebo ho někdo vyruší. Informací na zařízení si může všimnout náhodný kolemjdoucí. Toto nastavení určuje, jak dlouho smí být uživatel nečinný, než se obrazovka vypne.  <br/> |

@@ -1,5 +1,7 @@
 ---
 title: Správa přístupu uživatelů k dokumentům Office na mobilních zařízeních
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -22,17 +24,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
-description: Seznamte se s zásadami ochrany, které mohou pomoci zabezpečit přístup k aplikacím sady Office z mobilních zařízení.
-ms.openlocfilehash: c24dae7e0eea777e728ebead9a2abcc3785763dd
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+description: Přečtěte si o zásadách ochrany, které mohou pomoci zabezpečit přístup k aplikacím Office z mobilních zařízení.
+ms.openlocfilehash: 39d28a3a78fb06d0020c484b1782b544f6a8c656
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633343"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593815"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Správa přístupu uživatelů k dokumentům Office na mobilních zařízeních
 
- [] Nastavení zásad, které řídí, jakým způsobem uživatelé přistupují k souborům Office ze svých mobilních zařízení, je ve výchozím nastavení **vypnuté**. Doporučujeme, abyste při instalaci přijali výchozí hodnoty a vytvořili tak zásady použití pro systémy Android, iOS a Windows 10, které se vztahují na všechny uživatele. Další zásady můžete vytvořit po dokončení instalace. 
+ [] Nastavení zásad, které řídí, jakým způsobem uživatelé přistupují k souborům Office ze svých mobilních zařízení, je ve výchozím nastavení **vypnuté**. Doporučujeme přijmout výchozí hodnoty během instalace a vytvořit zásady aplikací pro Android, iOS a Windows 10, které platí pro všechny uživatele. Další zásady můžete vytvořit po dokončení instalace. 
   
 ## <a name="settings-that-control-how-users-access-office-files-on-mobile-devices"></a>Nastavení spravující přístup uživatelů k souborům Office na mobilních zařízeních
 
@@ -41,10 +43,10 @@ Následující nastavení slouží ke správě přístupu uživatelů k pracovn�
 |||
 |:-----|:-----|
 |Nastavení  <br/> |Popis  <br/> |
-|Vyžadovat pro přístup k aplikacím Office PIN nebo otisk prstu  <br/> |Pokud je toto nastavení **zapnuto**, musí uživatelé před použitím aplikací sady Office v mobilním zařízení zadat kromě uživatelského jména a hesla i jiný způsob ověřování.  <br/> |
+|Vyžadovat pro přístup k aplikacím Office PIN nebo otisk prstu  <br/> |Pokud je toto nastavení **zapnuto**, musí uživatelé před použitím aplikací Office na svém mobilním zařízení zadat kromě svého uživatelského jména a hesla jinou formu ověřování.  <br/> |
 |Resetovat PIN po tomto počtu neúspěšných přihlášení  <br/> |Aby se zabránilo náhodnému uhodnutí PINu neoprávněným uživatelem, resetuje se PIN po vámi určeném počtu špatných pokusů.  <br/> |
-|Vyžadovat, aby se uživatelé znovu přihlásili, pokud byly aplikace Office nečinné po dobu  <br/> |Toto nastavení určuje, jak dlouho může být uživatel nečinný, než se znovu zobrazí výzva k přihlášení.  <br/> |
-|Odepřít přístup k pracovním souborům ze zařízení s jailbreakem nebo rootem  <br/> |Zruční uživatelé mohou mít zařízení s jailbreakem nebo rootem. To znamená, že uživatel může změnit operační systém, což může zařízení učinit náchylnějším k malwaru. Když je nastavení **zapnuté**, jsou tato zařízení blokovaná.  <br/> |
-|Nepovolit uživatelům kopírovat obsah z aplikací sady Office do osobních aplikací  <br/> |Pokud je nastavení **zapnuto**, nemůže uživatel kopírovat informace v pracovním souboru do osobního souboru. Pokud je nastavení **vypnuto**, může uživatel zkopírovat informace z pracovního souboru do osobního aplikace nebo osobního účtu.  <br/> |
+|Vyžadovat, aby se uživatelé znovu přihlásili, pokud byly aplikace Office nečinné po dobu  <br/> |Toto nastavení určuje, jak dlouho může být uživatel nečinný, než se bude znovu zobrazovat.  <br/> |
+|Odepřít přístup k pracovním souborům ze zařízení s jailbreakem nebo rootem  <br/> |Zruční uživatelé mohou mít zařízení s jailbreakem nebo rootem. To znamená, že uživatel může upravit operační systém, což může učinit zařízení náchylnější k malwaru. Když je nastavení **zapnuté**, jsou tato zařízení blokovaná.  <br/> |
+|Nedovolte uživatelům kopírovat obsah z aplikací Office do osobních aplikací  <br/> |Pokud je nastavení **zapnuto**, nemůže uživatel zkopírovat informace v pracovním souboru do osobního souboru. Pokud je nastavení **Vypnuto**, může uživatel zkopírovat informace z pracovního souboru do osobní aplikace nebo osobního účtu.  <br/> |
    
 
