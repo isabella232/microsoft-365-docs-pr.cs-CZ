@@ -24,17 +24,17 @@ search.appverid:
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
 description: Naučte se teď automaticky nasazovat Office do zařízení s Windows 10 během instalace.
-ms.openlocfilehash: 8a631d3976ae3bce82d59d84e38a14405010ab02
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 8ba69f73b455cb78e7141d57b2f690f49bb36f2e
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593855"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065689"
 ---
-# <a name="install-office-on-windows-10-during-setup"></a><span data-ttu-id="30ee1-103">Nasazení Office na zařízení s Windows 10 během instalace</span><span class="sxs-lookup"><span data-stu-id="30ee1-103">Install Office on Windows 10 during setup</span></span>
+# <a name="install-office-on-windows-10-during-setup"></a><span data-ttu-id="8e1fe-103">Nasazení Office na zařízení s Windows 10 během instalace</span><span class="sxs-lookup"><span data-stu-id="8e1fe-103">Install Office on Windows 10 during setup</span></span>
 
-![Banner, který https://aka.ms/aboutM365previewodkazují na .](media/m365admincenterchanging.png)
+![Banner, který https://aka.ms/aboutM365previewodkazují na .](../media/m365admincenterchanging.png)
 
-<span data-ttu-id="30ee1-105">Toto nastavení je ve výchozím nastavení vypnuto.</span><span class="sxs-lookup"><span data-stu-id="30ee1-105">This setting is off by default.</span></span> <span data-ttu-id="30ee1-106">Můžete ji zapnout, abyste měli na všech svých zařízeních s Windows 10 nejnovější verzi Office, ale nejprve ověřte, zda jsou splněny všechny požadavky.</span><span class="sxs-lookup"><span data-stu-id="30ee1-106">You can turn it on to make sure users have the latest version of Office on all their Windows 10 devices, but first verify that all prerequisites are met.</span></span> <span data-ttu-id="30ee1-107">Uživatelé musí mít licenci pro Microsoft 365 Business, aby toto nastavení bylo možné do zařízení stisknout, kromě dalších požadavků popsaných v [části Příprava na nasazení klienta Sady Office společností Microsoft 365 Business](prepare-for-office-client-deployment.md).</span><span class="sxs-lookup"><span data-stu-id="30ee1-107">Users must be licensed for Microsoft 365 Business for this setting to push the software to the device, in addition to other requirements described in [Prepare for Office client deployment by Microsoft 365 Business](prepare-for-office-client-deployment.md).</span></span>
+<span data-ttu-id="8e1fe-105">Toto nastavení je ve výchozím nastavení vypnuto.</span><span class="sxs-lookup"><span data-stu-id="8e1fe-105">This setting is off by default.</span></span> <span data-ttu-id="8e1fe-106">Můžete ji zapnout, abyste měli na všech svých zařízeních s Windows 10 nejnovější verzi Office, ale nejprve ověřte, zda jsou splněny všechny požadavky.</span><span class="sxs-lookup"><span data-stu-id="8e1fe-106">You can turn it on to make sure users have the latest version of Office on all their Windows 10 devices, but first verify that all prerequisites are met.</span></span> <span data-ttu-id="8e1fe-107">Uživatelé musí mít licenci pro Microsoft 365 Business, aby toto nastavení bylo možné do zařízení stisknout, kromě dalších požadavků popsaných v [části Příprava na nasazení klienta Sady Office společností Microsoft 365 Business](prepare-for-office-client-deployment.md).</span><span class="sxs-lookup"><span data-stu-id="8e1fe-107">Users must be licensed for Microsoft 365 Business for this setting to push the software to the device, in addition to other requirements described in [Prepare for Office client deployment by Microsoft 365 Business](prepare-for-office-client-deployment.md).</span></span>
   
-<span data-ttu-id="30ee1-108">Doporučujeme přijmout výchozí nastavení během instalace.</span><span class="sxs-lookup"><span data-stu-id="30ee1-108">We recommend that you accept the default setting during setup.</span></span>
+<span data-ttu-id="8e1fe-108">Doporučujeme přijmout výchozí nastavení během instalace.</span><span class="sxs-lookup"><span data-stu-id="8e1fe-108">We recommend that you accept the default setting during setup.</span></span>
