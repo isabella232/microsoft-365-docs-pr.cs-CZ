@@ -20,12 +20,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Nastavte funkce dodržování předpisů, abyste zabránili ztrátě dat a popisek citlivých dat.
-ms.openlocfilehash: 09619de03aafde37106fb3942890b457c488ad43
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: d569ff8d84faf82881035f0ed54e5d175605776f
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593399"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064693"
 ---
 # <a name="set-up-compliance-features"></a>Nastavení funkcí dodržování předpisů
 
@@ -70,6 +70,6 @@ Ruční instalace klienta AIP:
 1. Stáhněte si **AzinfoProtection_UL.exe** z [Centra pro stahování společnosti Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
  
 2. Můžete ověřit, zda instalace fungovala zobrazením dokumentu aplikace Word a zajištěním, že možnost **Citlivost** je dostupná na kartě **Domů.**
-<br/>![Rozevírací zpráva karta Ochrana v dokumentu aplikace Word](media/word-sensitivity.png)
+<br/>![Rozevírací zpráva karta Ochrana v dokumentu aplikace Word](../media/word-sensitivity.png)
 
 Další informace naleznete v [tématu Instalace klienta](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3).

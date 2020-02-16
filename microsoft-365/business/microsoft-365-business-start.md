@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Naučte se nastavit Microsoft 365 Business.
-ms.openlocfilehash: a353e39b824bae702fa015b0c7d3dd7e6416454c
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 5491486c2bf8da1ee38fcd986d5ecd682d57c82e
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593715"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065599"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Začínáme s Microsoft 365 Business
 
@@ -57,7 +57,7 @@ Microsoft 365 Business je určen až pro 300 licencí. Další informace nalezne
   
 Následující diagram popisuje, jak správci nastavují Microsoft 365 Business. Popisuje také kroky při přípravě počítačů s Windows na Microsoft 365 Business. Můžete také přidat nová zařízení v Centru pro správu Microsoft 365 Business pomocí [programu Windows AutoPilot](add-autopilot-devices-and-profile.md). Pomocí programu AutoPilot můžete nastavit a předkonfigurovat nová zařízení tak, aby byla připravena k produktivnímu použití, jakmile se uživatel přihlásí pomocí svých přihlašovacích údajů microsoft 365 Business.
   
-![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
+![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
 Podívejte se na toto video, kde najdete přehled nastavení Microsoft 365 Business.<br><br>
 

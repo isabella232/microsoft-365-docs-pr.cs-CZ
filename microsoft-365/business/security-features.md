@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Přečtěte si o funkcích zabezpečení, které jsou součástí aplikace Microsoft 365 Business.
-ms.openlocfilehash: 0e1823374ec1843b6caa3f080393ca013302bf72
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e5f67d70c5a8f22e95b60a229d68ae12574d0036
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593419"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064790"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Funkce zabezpečení a dodržování předpisů microsoft 365 Business
 
@@ -35,7 +35,7 @@ Microsoft 365 Business nabízí zjednodušené funkce zabezpečení, které pom�
     
 ## <a name="microsoft-365-business-admin-center-security-features"></a>Funkce zabezpečení Centra pro správu Microsoftu 365 Business
 
-[![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 V Centru pro správu můžete spravovat mnoho funkcí zabezpečení Microsoft 365 Business, což vám poskytuje zjednodušený způsob zapnutí nebo vypnutí těchto funkcí. V Centru pro správu můžete provést následující kroky:
   
@@ -123,6 +123,6 @@ Ano, tyto funkce jsou k dispozici na všech trzích, kde se prodává Microsoft 
     
 2. V levé nav vyhledejte **centra pro správu** a rozbalte je. 
     
-    ![V levé nav v Centru pro správu Microsoftu 365 zvolte Centra pro správu.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
+    ![V levé nav v Centru pro správu Microsoftu 365 zvolte Centra pro správu.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
 3. Zvolte dodržování předpisů &amp; **zabezpečení &amp; ** a přejděte do Centra dodržování předpisů zabezpečení.

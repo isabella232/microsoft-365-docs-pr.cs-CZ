@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Přečtěte si, jak nastavit zásady podmíněného přístupu pro kampaně Microsoft 365.
-ms.openlocfilehash: 335fbd7e771b1595e1846529daed76e5ddd3a8f5
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 1ef90bd77da43ded624d85cef9c7a33beec74345
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593379"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064598"
 ---
 # <a name="set-up-conditional-access-policies"></a>Nastavení zásad podmíněného přístupu
 
@@ -52,7 +52,7 @@ Další informace o těchto zásadách naleznete v tématu [Co jsou zásady zák
 1. Přejděte na [portál Azure](https://portal.azure.com)a přejděte na **podmíněný přístup** **služby Azure Active Directory** \> .
     
     Zásady směrného plánu jsou uvedeny na stránce. <br/> <br/>
-    ![Stránka, která obsahuje seznam zásad směrného plánu pro podmíněný přístup.](media/baslinepolicies.png)
+    ![Stránka, která obsahuje seznam zásad směrného plánu pro podmíněný přístup.](../media/baslinepolicies.png)
 1. Pro každou zásadu naleznete následující konkrétní pokyny:
 
   - [Vyžadovat vícefaktorové čekání pro správce](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)

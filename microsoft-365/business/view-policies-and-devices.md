@@ -22,16 +22,16 @@ search.appverid:
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
 description: Zobrazení zásad a akcí zařízení popřihlášení do Microsoft365 Business pomocí globálních přihlašovacích údajů správce.
-ms.openlocfilehash: 9664a72d85cf6eed9993937299d38a84b9a8f0d2
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: ac8ea8a5b484fe6401e72fd0eaab4d79515f3aac
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41595581"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42056554"
 ---
 # <a name="view-and-manage-policies-and-devices"></a>Zobrazení a správa zásad a zařízení
 
-[![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 ## <a name="view-and-edit-device-policies"></a>Zobrazení a úpravy zásad zařízení
 
@@ -40,7 +40,7 @@ ms.locfileid: "41595581"
 
     Na této stránce můžete vytvořit, upravit, změnit cílovou skupinu nebo odstranit zásadu.
 
-    ![Screenshot of the Policies page](media/devicepolicies.png)
+    ![Screenshot of the Policies page](../media/devicepolicies.png)
   
 ## <a name="view-and-manage-devices"></a>Zobrazení a správa zařízení
 
@@ -48,5 +48,5 @@ ms.locfileid: "41595581"
     
     Na této stránce můžete vybrat jedno nebo více zařízení a odebrat firemní data. U zařízení s Windows 10, kterým jste nastavili ochranu, můžete také vybrat, že chcete obnovit jejich tovární nastavení.
   
-   ![Stránka Spravovat zařízení](media/devicesmanage.png)
+   ![Stránka Spravovat zařízení](../media/devicesmanage.png)
 

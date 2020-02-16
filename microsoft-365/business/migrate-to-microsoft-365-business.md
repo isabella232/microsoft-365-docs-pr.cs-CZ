@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Postup upgradu vaší firmy z Office 365 Business Premium na Microsoft 365 Business.
-ms.openlocfilehash: 0732f76e5bd8540e5954bd7ea7b88061326901b5
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e17ac2658c7276ba4a77de371847343866815c42
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593673"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065261"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Upgrade na Microsoft 365 Business z Office 365 Business Premium
 
@@ -51,11 +51,11 @@ Kupte si licence podle následujících kroků v [novém Centru pro správu](htt
 1. Přihlaste se <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>do centra pro správu na adrese .
 2. Přejděte do navigačního podokna a vyberte **Fakturační** \> **produkty & služby**. Najděte předplatné Office 365 a vyberte ho, abyste si zobrazili podrobnosti. 
 
-    ![Snímek obrazovky ukazuje, jak najít a vybrat předplatné v Centru pro správu.](media/FindYourSubscription.png)
+    ![Snímek obrazovky ukazuje, jak najít a vybrat předplatné v Centru pro správu.](../media/FindYourSubscription.png)
 
 3. Na další stránce vyberte **Upgrade**. 
 
-      ![Snímek obrazovky ukazuje, kde vybrat upgrade v Centru pro správu.](media/SelectUpgrade.png)
+      ![Snímek obrazovky ukazuje, kde vybrat upgrade v Centru pro správu.](../media/SelectUpgrade.png)
 
   > [!NOTE]
   > Pokud se zobrazí zpráva, že **upgrade předplatného není podporováno s licencováním na základě skupiny ve službě Azure Active Directory**, můžete ji bezpečně ignorovat, pokud nemáte velmi velkou organizaci. Organizace, které tuto možnost zvolily, si budou vědomy toho, že používají skupinové licence.

@@ -23,12 +23,12 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: Přečtěte si, jak pomocí automatického pilotního projektu Windows nastavit nová zařízení s Windows 10 pro vaši firmu.
-ms.openlocfilehash: 1fd0abb76d16b79dd11ef27b6b27a87894d89ef9
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e5774b1e2079a5249e0f6e9e7142de19268253b5
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593267"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42068519"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Podrobné pokyny k přidání zařízení a profilů Autopilota
 
@@ -44,7 +44,7 @@ Zařízení musí splňovat tyto požadavky:
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Vytvoření zařízení a profilů pomocí průvodce instalací
 
-[![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Pokud jste ještě nevytvořili skupiny zařízení nebo profily, nejlepší způsob, jak začít, je použití podrobného průvodce. Můžete také [přidat zařízení](create-and-edit-autopilot-devices.md) a přiřadit jim [profily](create-and-edit-autopilot-profiles.md) bez použití průvodce. 
   
@@ -52,11 +52,11 @@ Pokud jste ještě nevytvořili skupiny zařízení nebo profily, nejlepší zp�
 
 2. V levém navigačním podokně zvolte **Zařízení** \> **AutoPilot**.
 
-    ![V Centru pro správu zvolte zařízení a pak AutoPilot.](media/AutoPilot.png)
+    ![V Centru pro správu zvolte zařízení a pak AutoPilot.](../media/AutoPilot.png)
   
 2. Na stránce **AutoPilot** klikněte nebo klepněte na **Úvodní příručka**.
     
-    ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
+    ![Click Start guide for step-by-step instructions for Autopilot.](../media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   
 3. Na **stránce Upload .csv se seznamem zařízení** vyhledejte místo, kde máte připravené . CSV soubor, pak **Otevřít** \> **další**. Soubor musí mít tři záhlaví:
     

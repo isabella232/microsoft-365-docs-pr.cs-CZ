@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
 description: Přečtěte si, jak zakoupit Microsoft 365 Business od Centra microsoft partnerů.
-ms.openlocfilehash: 18af5b0aee378784199e91c8254b50fd1104172b
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: ba6aa806e3e628e8c3478abb57c4529e4f5692bf
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593945"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065798"
 ---
 # <a name="get-microsoft-365-business"></a>Jak získat Microsoft 365 Business
 
@@ -46,13 +46,13 @@ Můžete také přejít do [Obchodu Microsoft Store](https://www.microsoft.com/e
     
 2. Na řídicím panelu partnera vyberte **Zákazníky**, pak vyberte zákazníka nebo přidejte nového zákazníka, než získáte Microsoft 365 Business.
     
-    ![V centru partnerů společnosti Microsoft přidejte zákazníka.](media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
+    ![V centru partnerů společnosti Microsoft přidejte zákazníka.](../media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
 3. Na stránce **Odběr** zákazníka vyberte **Přidat předplatné**, v části Katalog vyberte možnost Malá firma a pak zvolte **Microsoft 365 Business**.
     
     Vyberte požadovaný počet licencí (maximálně 300). Pokud máte více než 300 uživatelů, přejděte k [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316). 
     
-    ![Na stránce Nové předplatné zvolte malé firmy.](media/52d99e89-2175-4974-84bb-dd626048541b.png)
+    ![Na stránce Nové předplatné zvolte malé firmy.](../media/52d99e89-2175-4974-84bb-dd626048541b.png)
   
     Dokončete zbytek kroků pro přidání nového zákazníka, včetně obchodního názvu.
     
