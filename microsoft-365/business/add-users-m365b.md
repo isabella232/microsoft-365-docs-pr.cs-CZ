@@ -40,7 +40,7 @@ Podívejte se na krátké video o přidání uživatele. <br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfN] 
 
-Pokud je pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Přidání uživatele:
 
