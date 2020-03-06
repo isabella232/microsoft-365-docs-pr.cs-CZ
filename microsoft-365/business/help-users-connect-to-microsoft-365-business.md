@@ -20,22 +20,23 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
-description: Přečtěte si, co můžete očekávat po dokončení nastavení sady Business Cloud Suite.
-ms.openlocfilehash: 41055b02f0ca62aad27c2fd1838abac5f58832f4
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Přečtěte si, co můžete očekávat po dokončení instalace sady Business Cloud Suite a po zavedení výchozích zásad zařízení, které jsou připraveny k použití.
+ms.openlocfilehash: 7ec5a5e7e1f3fadbcdb8422ae041544436c185ed
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593925"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42547685"
 ---
 # <a name="help-users-connect-to-microsoft-365-business"></a>Pomoc uživatelům s připojením k Microsoft 365 Business
 
-Po dokončení instalace jsou nastaveny výchozí zásady zařízení a připraveny k použití. Na mobilních zařízeních si uživatelé stahují aplikace Office. Zásady se pak použijí, když se uživatel přihlásí pomocí svého pracovního nebo školního účtu. Na počítačích s Windows to zabere víc práce, než se zásady použijí, například je potřeba provést místní upgrade. Podívejte se a sdílejte následující témata, která uživatelům pomohou nastavit a připojit se k němu:
+Po dokončení instalace jsou výchozí zásady zařízení na místě a připraveny k použití. Na mobilních zařízeních si uživatelé stahují aplikace Office. Zásady se pak použijí, když se uživatel přihlásí pomocí svého pracovního nebo školního účtu. Na počítačích s Windows to zabere víc práce, než se zásady použijí, například je potřeba provést místní upgrade. Zobrazení a sdílení následujících témat, která uživatelům pomohou nastavit a připojit:
   
 [Nastavení zařízení s Windows pro uživatele plánu Microsoft 365 Business](set-up-windows-devices.md)
   

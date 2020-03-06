@@ -18,23 +18,24 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
-description: Naučte se teď automaticky nasazovat Office do zařízení s Windows 10 během instalace.
-ms.openlocfilehash: 8ba69f73b455cb78e7141d57b2f690f49bb36f2e
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Zjistěte, jak můžete s Microsoftem 365 Business automaticky zajistit, aby uživatelé měli nejnovější verzi Office na všech svých zařízeních s Windows 10.
+ms.openlocfilehash: cc98c0f4d14dbf0b2cb8eeefa86cd7ac3b8f4712
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42065689"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42547713"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Nasazení Office na zařízení s Windows 10 během instalace
 
-![Banner, který https://aka.ms/aboutM365previewodkazují na .](../media/m365admincenterchanging.png)
+![Banner, který https://aka.ms/aboutM365previewpřejděte na .](../media/m365admincenterchanging.png)
 
-Toto nastavení je ve výchozím nastavení vypnuto. Můžete ji zapnout, abyste měli na všech svých zařízeních s Windows 10 nejnovější verzi Office, ale nejprve ověřte, zda jsou splněny všechny požadavky. Uživatelé musí mít licenci pro Microsoft 365 Business, aby toto nastavení bylo možné do zařízení stisknout, kromě dalších požadavků popsaných v [části Příprava na nasazení klienta Sady Office společností Microsoft 365 Business](prepare-for-office-client-deployment.md).
+Toto nastavení je ve výchozím nastavení vypnuto. Můžete ji zapnout, abyste měli jistotu, že uživatelé mají nejnovější verzi Office na všech svých zařízeních s Windows 10, ale nejprve ověřte, zda jsou splněny všechny požadavky. Uživatelé musí mít k tomuto nastavení licenci pro microsoft 365 Business, aby mohl software do zařízení zatlačit, a to kromě dalších požadavků popsaných v části [Příprava nasazení klienta Office společností Microsoft 365 Business](prepare-for-office-client-deployment.md).
   
 Doporučujeme přijmout výchozí nastavení během instalace.
