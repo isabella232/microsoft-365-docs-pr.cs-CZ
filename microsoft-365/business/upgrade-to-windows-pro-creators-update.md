@@ -24,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: Objevte několik způsobů, jak můžete upgradovat zařízení s Windows na Windows 10 Pro a využívat tak pokročilejší funkce zabezpečení a firemní sítě.
-ms.openlocfilehash: 0668945d107be7abc0698035fa458e1c805c7201
-ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
+description: Objevte způsoby, jak můžete upgradovat svá zařízení s Windows na Windows 10 Pro a využívat pokročilejší funkce zabezpečení a firemní sítě.
+ms.openlocfilehash: 541169571fb9f58c7f75f610546ec250ffd40afb
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42547485"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549931"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Upgrade zařízení s Windows na Windows 10 Pro
 
@@ -59,6 +59,6 @@ Viz [Nastavení zařízení s Windows pro uživatele Microsoft365 Business](set-
   
 Viz [Nastavení mobilních zařízení pro uživatele Microsoft 365 Business](set-up-mobile-devices.md) k dokončení nastavení zařízení se systémem Android a iOS. 
   
-## <a name="see-also"></a>Viz také
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>Další informace o nastavení a používání Microsoftu 365 Business
 
 [Školicí videa k Microsoftu 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -16,23 +16,24 @@ ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
 - MSB365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Přečtěte si, jak ověřit nastavení ochrany aplikací Microsoft 365 Business na zařízeních s Windows 10.
-ms.openlocfilehash: 577921f7f33eafbbe652dcf825a145d89f1ff556
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Ověřte nastavení ochrany aplikací Microsoft 365 Business na zařízeních s Windows 10 a ověřte, zda uživatelé nemohou kopírovat firemní data do osobních souborů nebo do nespravovaných aplikací.
+ms.openlocfilehash: 4d3d7e950311ac32606e700ebb35bf026ae091cc
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42057190"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549991"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>Ověření nastavení ochrany aplikací na počítačích s Windows 10
 
 ## <a name="verify-that-users-cannot-copy-company-data-to-personal-files-on-corporate-devices"></a>Ověření, že uživatelé nemůžou kopírovat firemní data do osobních souborů na firemních zařízeních
 
-Jakmile [nastavíte zásady ochrany aplikací](protection-settings-for-windows-10-devices.md), může to trvat několik hodin, než se tyto zásady projeví na zařízeních uživatelů. Pokud jste **zapnuli** možnost **Zabránit uživatelům v kopírování firemních dat do osobních souborů a vynutit je ukládat pracovní soubory do nastavení OneDrivu pro firmy** pro zařízení vlastněná společností, můžete to zkontrolovat na zařízení uživatele poté, co se připojí k Azure AD a přihlásí se. 
+Jakmile [nastavíte zásady ochrany aplikací](protection-settings-for-windows-10-devices.md), může to trvat několik hodin, než se tyto zásady projeví na zařízeních uživatelů. Pokud jste **zapnuli možnost** **Zabránit uživatelům v kopírování firemních dat do osobních souborů a vynutit jim uložení pracovních souborů do nastavení OneDrivu pro firmy** pro zařízení vlastněná společností, můžete to zkontrolovat na zařízení uživatele po připojení k Azure AD a přihlášení. 
   
  **Ověření nastavení připojení**
   
@@ -40,11 +41,11 @@ Jakmile [nastavíte zásady ochrany aplikací](protection-settings-for-windows-1
     
     ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
-2. Na stránce **Spravovaný** \<podle názvu\> klienta se zobrazí **informace o připojení,** které obsahují adresu serveru pro **správu,** jako je adresa zobrazená na následujícím obrázku. 
+2. \> Na stránce Název **klienta** \<Správa podle můžete zobrazit **informace o připojení,** které obsahují adresu serveru pro **správu,** jako je adresa zobrazená na následujícím obrázku. 
     
     ![Managed by page shows connection info of the device manager URL.](../media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
   
- **Ověření, že nelze vložit firemní data do nespravované aplikace.**
+ **Ověření, že nelze vložit firemní data do nespravované aplikace**
   
 1. Otevřete Outlook 2016 nainstalovaný přes Microsoft 365 Business.
     
@@ -62,7 +63,7 @@ Jakmile [nastavíte zásady ochrany aplikací](protection-settings-for-windows-1
 
  **Ověření nastavení připojení**
   
-1. Na osobním zařízení s Windows 10, kde jste přihlášeni jako místní uživatel, přejděte do **nastavení systému Windows**a klikněte nebo klepněte na Položky Přístup k **účtům** \> **do práce nebo školy**.
+1. Na osobním zařízení s Windows 10, kde jste přihlášení jako místní uživatel, přejděte do **Nastavení Windows**a klikněte nebo klepněte na Přístup **k účtům** \> **v práci nebo ve škole**.
     
 2. V části **Přístup do práce nebo do školy** zvolte **Připojit**.
     
@@ -72,11 +73,11 @@ Jakmile [nastavíte zásady ochrany aplikací](protection-settings-for-windows-1
     
     ![Klikněte nebo klepněte na Informace v dialogovém okně Pracovní nebo školní účet.](../media/63bd8b32-cb32-4afa-8ce0-6070ac403abc.png)
   
-5. Na stránce **Práce nebo Škola aplikace Access** se zobrazí informace o **připojení,** které obsahují **adresu serveru pro správu,** jako je adresa zobrazená na následujícím obrázku, a obsahuje slova *wip* a *mam* uvnitř. 
+5. Na stránce **Práce nebo škola aplikace Access** se zobrazí informace o **připojení,** které obsahují **adresu serveru pro správu,** jako je adresa zobrazená na následujícím obrázku, a uvnitř obsahuje slova *stírací* a *mam.* 
     
     ![Managed by page shows connection info URL that includes the words mam and wpi.](../media/abd4eaf4-44fa-4538-a3e8-1e0d331dfe1e.png)
   
- **Ověření, že nelze vložit firemní data do nespravované aplikace.**
+ **Ověření, že nelze vložit firemní data do nespravované aplikace**
   
 1. Otevřete Outlook 2016 a přidejte svůj účet Microsoft 365 Business (pokud je to potřeba) a přihlaste se přihlašovacími údaji Microsoft 365 Business.
     

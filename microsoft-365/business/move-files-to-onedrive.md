@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: V několika jednoduchých krocích se dozvíte, jak můžete přesunout své osobní pracovní soubory a citlivé firemní soubory na OneDrive pro firmy.
-ms.openlocfilehash: 2f4e21096570e1b830a7a8ceee87d652abb9448f
-ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
+ms.openlocfilehash: 837ec8bb01ed78e7a13ee802afaf845c80544f5d
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42547745"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550261"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Přesun souborů na OneDrive pro firmy
 
@@ -51,6 +51,6 @@ Pokud má uživatel na počítači velký počet osobních souborů, měli byste
     
 K přesunu uživatelského profilu a dalších důležitých souborů také můžete použít externí nástroj, třeba ForensiT. Výsledné soubory byste také měli nahrát na OneDrive pro firmy.
   
-## <a name="see-also"></a>Viz také
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>Další informace o nastavení a používání Microsoftu 365 Business
 
 [Školicí videa k Microsoftu 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
