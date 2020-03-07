@@ -16,17 +16,17 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 description: Nastavte pokročilou ochranu před hrozbami Office 365 a chraňte citlivá data před phishingem, malwarem a dalšími hrozbami.
-ms.openlocfilehash: 9d7bae60091c87fa0246a697f2a49e1cbc6e2f06
-ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
+ms.openlocfilehash: 17425de3f6e0022945899a559cf88575b6315a56
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42550351"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42561604"
 ---
 # <a name="increase-threat-protection"></a>Zvýšení ochrany před hrozbami
 

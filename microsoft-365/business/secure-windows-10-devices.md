@@ -19,23 +19,23 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
-description: Přečtěte si o konfiguraci nastavení výchozízásady zařízení, které obdrží zařízení s Windows 10 při přihlášení ke svému pracovnímu nebo školnímu účtu.
-ms.openlocfilehash: 6c9dcd308db2fa41bad5f907b3c5a35577ac61f1
-ms.sourcegitcommit: d6c871bf3f94d9299d22695f5dbaf25dc1bd6ff9
+description: Přečtěte si o konfiguraci nastavení výchozích zásad zařízení, které libovolné zařízení s Windows 10 obdrží po přihlášení k jejich pracovnímu nebo školnímu účtu.
+ms.openlocfilehash: dfa6aca1f12ab37b8b0926dea4a6a79c934b1250
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417240"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42561274"
 ---
 # <a name="secure-windows-10-devices"></a>Zabezpečení zařízení s Windows 10
 
-[] Nastavení, která tady nakonfigurujete, jsou součástí výchozí zásady zařízení pro Windows 10. Tato nastavení automaticky obdrží všichni uživatelé, kteří připojí zařízení s Windows 10, včetně mobilních zařízení a počítačů, pomocí svého pracovního účtu. Doporučujeme vám během instalace přijmou výchozí zásady a další zásady, které budou cílit na konkrétní skupiny uživatelů, přidat později.
+[] Nastavení, která tady nakonfigurujete, jsou součástí výchozí zásady zařízení pro Windows 10. Toto nastavení automaticky obdrží všichni uživatelé, kteří připojí zařízení s Windows 10, včetně mobilních zařízení a počítačů, pomocí svého pracovního účtu. Doporučujeme vám během instalace přijmou výchozí zásady a další zásady, které budou cílit na konkrétní skupiny uživatelů, přidat později.
   
 ## <a name="settings-to-secure-windows-10-devices"></a>Nastavení pro zabezpečení zařízení s Windows 10
 
@@ -48,7 +48,7 @@ Ve výchozím nastavení jsou všechny možnosti **zapnuté**. K dispozici jsou 
 |Chránit počítače před webovými hrozbami v prohlížeči Microsoft Edge  <br/> |Zapne nastavení v Edgi, které pomáhá chránit uživatele před škodlivými weby a nebezpečným stahováním.  <br/> |
 |Vypnout obrazovku zařízení po nečinnosti  <br/> |Zajistí ochranu dat společnosti, když uživatel zařízení nepoužívá. Uživatel může pracovat na veřejném místě, jako je kavárna, a může si na chvilku odskočit nebo ho někdo vyruší. Informací na zařízení si může všimnout náhodný kolemjdoucí. Toto nastavení určuje, jak dlouho smí být uživatel nečinný, než se obrazovka vypne.  <br/> |
 |Povolit uživatelům stahovat aplikace z webu Microsoft Store  <br/> |Umožňuje uživatelům stahovat a instalovat aplikace z webu Microsoft Store. Aplikací může být cokoli, od her až po nástroje na zvyšování produktivity, proto nechte toto nastavení **zapnuté**. Kvůli větší bezpečnosti ho ale můžete vypnout.  <br/> |
-|Umožnit uživatelům přístup ke Cortaně  <br/> |Cortana může být velmi užitečná! Cortana vám může zapnout nebo vypnout nastavení, dávat pokyny a ujistit se, že máte čas na schůzky, takže toto nastavení ve výchozím nastavení ponecháme **zapnuté.**  <br/> |
+|Umožnit uživatelům přístup ke Cortaně  <br/> |Cortana může být velmi užitečné! Cortana vám může zapnout nebo vypnout nastavení, poskytnout pokyny a ujistit se, že jste na schůzky včas, takže toto **nastavení** ve výchozím nastavení zachováme.  <br/> |
 |Povolit uživatelům přijímat tipy pro Windows a reklamy od společnosti Microsoft  <br/> |Praktické tipy k Windows mohou uživatelům pomoci zorientovat se v nově vydaných funkcích.  <br/> |
 |Automaticky aktualizovat zařízení s Windows 10  <br/> |Zajistí, aby zařízení s Windows 10 automaticky dostávala nejnovější aktualizace.  <br/> |
    

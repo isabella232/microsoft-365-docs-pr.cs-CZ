@@ -19,18 +19,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: Zjistěte, jak nastavit zařízení s Windows s Windows 10 Pro pro uživatele Microsoft365 Business, což umožňuje centralizovanou správu a bezpečnostní kontroly.
-ms.openlocfilehash: 62d909b1e5658131f9381d1a800a70fad6e16cab
-ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
+ms.openlocfilehash: 6ecc45f825a783d9d47c4b069a6021143d96597c
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42550011"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42561154"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Nastavení zařízení s Windows pro uživatele služby Microsoft 365 Business
 

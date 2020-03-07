@@ -19,19 +19,19 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
-description: Naučte se vytvářet profil AutoPilot a aplikovat ho na zařízení, stejně jako upravit nebo odstranit profil nebo odebrat profil ze zařízení.
-ms.openlocfilehash: 6a8057969242d839ebbb4cbef8d26dd3f1858c59
-ms.sourcegitcommit: d6c871bf3f94d9299d22695f5dbaf25dc1bd6ff9
+description: Naučte se vytvořit profil AutoPilot a aplikovat ho na zařízení, stejně jako upravit nebo odstranit profil nebo odebrat profil ze zařízení.
+ms.openlocfilehash: 58c16b68c66dce7541a02ecd0d2466babe8cc338
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417330"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42560714"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>Vytvoření a úpravy profilů AutoPilota
 
@@ -39,7 +39,7 @@ ms.locfileid: "42417330"
 
 Profil se používá pro zařízení nebo skupinu zařízení.
   
-1. V Centru pro správu microsoft365 Business zvolte **Zařízení** \> **AutoPilot**.
+1. V Centru pro správu Microsoft 365 Business zvolte **Devices** \> **AutoPilot**.
   
 2. Na stránce **AutoPilot** zvolte \> kartu **Profily** **Vytvořit profil**.
     
@@ -49,11 +49,11 @@ Profil se používá pro zařízení nebo skupinu zařízení.
   
 ### <a name="apply-profile-to-a-device"></a>Použití profilu u zařízení
 
-Po vytvoření profilu jej můžete použít na zařízení nebo skupinu zařízení. Můžete vybrat existující profil v [podrobné příručce](add-autopilot-devices-and-profile.md) a aplikovat ho na nová zařízení nebo nahradit existující profil zařízení nebo skupiny zařízení. 
+Po vytvoření profilu ho můžete použít na zařízení nebo skupinu zařízení. Můžete vybrat existující profil v [podrobnépříručce](add-autopilot-devices-and-profile.md) a použít jej na nová zařízení nebo nahradit existující profil pro zařízení nebo skupinu zařízení. 
   
 1. Na stránce **Připravit Windows** zvolte kartu **Zařízení**. 
     
-2. Zaškrtněte políčko vedle názvu zařízení a v panelu **Zařízení** zvolte profil z \> rozevíracího seznamu **Přiřazený profil** **Uložit**.
+2. Zaškrtněte políčko vedle názvu zařízení a v panelu **Zařízení** zvolte profil z \> rozevíracího **seznamu** **Uložit přiřazený profil** .
     
     ![In the Device panel, select an Assigned profile to apply it.](../media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
@@ -65,7 +65,7 @@ Jakmile zařízení přiřadíte profil, můžete profil aktualizovat, a to i te
 
 1. Na stránce **Připravit Windows** zvolte kartu **Profily**. 
     
-2. Zaškrtněte políčko vedle názvu zařízení a v panelu **Profil** aktualizujte libovolné dostupné nastavení \> **Uložit**.
+2. Zaškrtněte políčko vedle názvu zařízení a v panelu **Profil** aktualizujte libovolné z dostupných nastavení \> **Uložit**.
     
     Pokud to uděláte předtím, než uživatel připojí zařízení k internetu, použije se profil v procesu nastavení.
     
@@ -81,5 +81,5 @@ Jakmile zařízení přiřadíte profil, můžete profil aktualizovat, a to i te
 
 1. Na stránce **Připravit Windows** zvolte kartu **Zařízení**. 
     
-2. Zaškrtněte políčko vedle názvu zařízení a v panelu **Zařízení** zvolte **Žádné** z rozevíracího seznamu \> **Přiřazený profil** **Uložit**.
+2. Zaškrtněte políčko vedle názvu zařízení a v panelu **Zařízení** zvolte **Žádný** z rozevíracího \> **seznamu**Uložit profil **přiřazený** .
     

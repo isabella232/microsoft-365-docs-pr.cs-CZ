@@ -20,18 +20,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
 description: Přečtěte si postup, jak snadno přidávat nové uživatele, zabezpečit jejich zařízení a přiřazovat role v Microsoftu 365 Business.
-ms.openlocfilehash: 574adbc6ae936d611c185681e99a3e9a516962aa
-ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
+ms.openlocfilehash: 8181254aa56345e99e648c59474f4d7f8fa94990
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42547765"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42561554"
 ---
 # <a name="add-more-users-to-microsoft-365-business"></a>Přidání dalších uživatelů do Microsoftu 365 Business
 
