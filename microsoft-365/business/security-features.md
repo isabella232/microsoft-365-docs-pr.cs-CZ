@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Seznamte se s funkcemi zabezpečení, které jsou součástí Microsoftu 365 Business a pomáhají chránit vaše data na počítačích, telefonech a tabletech.
-ms.openlocfilehash: 85f9b50225c3dbdb0c1b76c33d516aaa03bec773
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 3f638a3287c06ded7bf4c29c647e62cbf3fca969
+ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561254"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "43153792"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Funkce zabezpečení a dodržování předpisů microsoft365 Business
 
@@ -74,13 +74,13 @@ K dispozici jsou pokročilé funkce microsoftu 365 Business, které vám pomohou
 
 - **[Kompletní možnosti Intune na webu Azure Portal](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
-    Přístup k Centru pro správu Intune na webu Azure Portal umožňuje nastavit další funkce zabezpečení, jako je správa zařízení s MacOS, iPhone a Android, spolu s pokročilou správou zařízení pro Windows, které nejsou dostupné přes Microsoft. 365 Centrum pro správu firmy.
-- **Stejný [podmíněný přístup](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) jako plán Azure AD P1**
+    Přístup k Centru pro správu Intune na webu Azure Portal umožňuje nastavit další funkce zabezpečení, jako je správa zařízení s MacOS, iPhone a Zařízení s Androidem, spolu s pokročilou správou zařízení pro Windows, které nejsou dostupné prostřednictvím Centra pro správu Microsoft365 Business.
+- **Stejný [podmíněný přístup](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) jako plán Azure AD Premium P1**
 
 
-    Podmíněný přístup může pomoci chránit vaši organizaci před rizikem přihlášení, pokusy o přístup z neočekávané sítě nebo národního prostředí, pokusy o přístup z rizikových typů zařízení a tak dále. Zásady podmíněného přístupu jsou vynuceny po dokončení prvního ověřování a používá signály z první události ověřování k určení, zda by měl být pokus o přístup schválen, odepřen nebo zda je více důkazu (například druhý formulář identifikace) je vyžadováno.
+    Podmíněný přístup může pomoci chránit vaši organizaci před rizikem přihlášení, pokusy o přístup z neočekávané sítě nebo národního prostředí, pokusy o přístup z rizikových typů zařízení a tak dále. Zásady podmíněného přístupu jsou vynuceny po dokončení prvního ověřování a používá signály z první události ověřování k určení, zda by měl být pokus o přístup schválen, odepřen nebo zda je vyžadován další důkaz (například druhý formulář identifikace).
 
-    Zahrnuty jsou funkce podmíněného přístupu:
+    Zahrnuty funkce podmíněného přístupu jsou:
 
     - Přístup založený na uživatelském jménu, skupině a roli
     - Přístup [založený na aplikaci](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
