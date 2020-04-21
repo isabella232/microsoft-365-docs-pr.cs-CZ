@@ -26,12 +26,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: Naučte se vytvořit profil AutoPilot a aplikovat ho na zařízení, stejně jako upravit nebo odstranit profil nebo odebrat profil ze zařízení.
-ms.openlocfilehash: 58c16b68c66dce7541a02ecd0d2466babe8cc338
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: a6e02ab56faeb08718a9831657b55cff0356a4ec
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560714"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627368"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>Vytvoření a úpravy profilů AutoPilota
 
@@ -39,7 +39,7 @@ ms.locfileid: "42560714"
 
 Profil se používá pro zařízení nebo skupinu zařízení.
   
-1. V Centru pro správu Microsoft 365 Business zvolte **Devices** \> **AutoPilot**.
+1. V Centru pro správu Microsoftu 365 zvolte **Zařízení** \> **AutoPilot**.
   
 2. Na stránce **AutoPilot** zvolte \> kartu **Profily** **Vytvořit profil**.
     

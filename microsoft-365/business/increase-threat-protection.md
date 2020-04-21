@@ -1,5 +1,5 @@
 ---
-title: Zvýšení ochrany před hrozbami pro Microsoft 365 Business
+title: Zvýšení ochrany před hrozbami pro Microsoft 365 pro firmy
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -21,18 +21,18 @@ search.appverid:
 - BCS160
 - MET150
 description: Nastavte pokročilou ochranu před hrozbami Office 365 a chraňte citlivá data před phishingem, malwarem a dalšími hrozbami.
-ms.openlocfilehash: 17425de3f6e0022945899a559cf88575b6315a56
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 2dd75b20bf203b9b8f0cdefb2459c45d1d0ccec1
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561604"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627120"
 ---
 # <a name="increase-threat-protection"></a>Zvýšení ochrany před hrozbami
 
 Tento článek vám pomůže zvýšit ochranu v předplatném Microsoftu 365 a chránit tak před phishingem, malwarem a dalšími hrozbami. Tato doporučení jsou vhodná pro organizace se zvýšenou potřebou bezpečnosti, jako jsou advokátní kanceláře a kliniky zdravotní péče.
 
-Než začnete, zkontrolujte si skóre zabezpečení Office 365. Skóre zabezpečení Office 365 analyzuje zabezpečení organizace Office 365 na základě vašich běžných aktivit a nastavení zabezpečení a přiřadí skóre. Začněte tím, že vezmete na vědomí své aktuální skóre. Chcete-li zvýšit skóre, proveďte akce doporučené v tomto článku. Cílem není dosáhnout maximálního skóre, ale být si vědom příležitostí k ochraně vašeho prostředí, které nemají negativní vliv na produktivitu pro vaše uživatele. 
+Než začnete, zkontrolujte si skóre zabezpečení Office 365. Skóre zabezpečení Office 365 analyzuje zabezpečení vaší organizace na základě vašich běžných aktivit a nastavení zabezpečení a přiřadí skóre. Začněte tím, že vezmete na vědomí své aktuální skóre. Chcete-li zvýšit skóre, proveďte akce doporučené v tomto článku. Cílem není dosáhnout maximálního skóre, ale být si vědom příležitostí k ochraně vašeho prostředí, které nemají negativní vliv na produktivitu pro vaše uživatele. 
 
 Další informace naleznete v tématu [Microsoft Secure Score](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).
 
@@ -42,7 +42,7 @@ Vaše prostředí Office 365 nebo Microsoft 365 zahrnuje ochranu proti malwaru. 
   
 1. Přejděte [https://protection.office.com](https://protection.office.com) na a přihlaste se pomocí přihlašovacích údajů účtu správce. 
     
-2. V Centru dodržování předpisů &amp; zabezpečení Office 365 v levém navigačním podokně v části **Správa hrozeb**zvolte **Zásady** \> **ochrany proti malwaru**.
+2. V Centru &amp; dodržování předpisů zabezpečení v levém navigačním podokně v části **Správa hrozeb**zvolte **Ochrana** \> **proti malwaru**.
     
 3. Poklepáním na výchozí zásadu upravte tuto celopodnikovou zásadu.
     
@@ -130,7 +130,7 @@ Chcete-li vytvořit zásady ochrany proti phishingu ATP, podívejte se na [toto 
   
 1. Přejděte na [https://protection.office.com](https://protection.office.com). 
     
-2. V Centru dodržování předpisů &amp; zabezpečení Office 365 v levém navigačním podokně v části **Správa hrozeb**zvolte **Zásady**.
+2. V Centru &amp; dodržování předpisů zabezpečení v levém navigačním podokně v části **Správa hrozeb**zvolte **Zásady**.
     
 3. Na stránce **Zásady** zvolte **ochrana proti phishingu ATP**.
     
@@ -160,7 +160,7 @@ Chcete-li vytvořit zásady bezpečné přílohy ochrany ATP, podívejte se na [
   
 1. Přejděte [https://protection.office.com](https://protection.office.com)na aplikaci a přihlaste se pomocí svého účtu správce. 
     
-2. V Centru dodržování předpisů &amp; zabezpečení Office 365 v levém navigačním podokně v části **Správa hrozeb**zvolte **Zásady**.
+2. V Centru &amp; dodržování předpisů zabezpečení v levém navigačním podokně v části **Správa hrozeb**zvolte **Zásady**.
     
 3. Na stránce Zásady zvolte **bezpečné přílohy ochrany ATP**.
     
@@ -183,8 +183,6 @@ Chcete-li vytvořit zásady bezpečné přílohy ochrany ATP, podívejte se na [
    
 Další informace naleznete v [tématu Nastavení zásad ochrany proti podvodným zprávám ochrany proti útokům ochrany proti útokům ochrany před podvodem 265 v Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies).
   
-
-
 ## <a name="protect-against-phishing-attacks-with-atp-safe-links"></a>Ochrana před phishingovými útoky pomocí bezpečných odkazů ATP
 
 Hackeři někdy skrývají škodlivé weby v odkazech v e-mailech nebo jiných souborech. Bezpečné odkazy ochrany ATP office 365 (bezpečné odkazy ATP), které jsou součástí rozšířené ochrany před hrozbami office 365, mohou pomoci chránit vaši organizaci tím, že v e-mailových zprávách a dokumentech Office poskytují ověření webových adres (URL) v době kliknutí. Ochrana je definována pomocí zásad atp bezpečné odkazy.
@@ -199,7 +197,7 @@ Chcete-li nastavit bezpečné odkazy ATP, podívejte se na [toto krátké školi
   
 1. Přejděte [https://protection.office.com](https://protection.office.com)na aplikaci a přihlaste se pomocí svého účtu správce. 
     
-2. V Centru dodržování předpisů &amp; zabezpečení Office 365 v levém navigačním podokně v části **Správa hrozeb**zvolte **Zásady**.
+2. V Centru &amp; dodržování předpisů zabezpečení v levém navigačním podokně v části **Správa hrozeb**zvolte **Zásady**.
     
 3. Na stránce Zásady zvolte **bezpečné odkazy ATP**.
     
@@ -207,7 +205,7 @@ Chcete-li změnit výchozí zásadu:
   
 1. Na stránce Bezpečné odkazy vyberte v části **Zásady, které platí pro celou organizaci**, **výchozí** zásady. 
     
-2. V části **Nastavení, která se vztahují k obsahu kromě e-mailu**, vyberte **Office 365 ProPlus, Office pro iOS a Android**.
+2. V části **Nastavení, která se vztahují k obsahu kromě e-mailu**, vyberte **Aplikace Microsoft 365 pro podniky, Office pro iOS a Android**.
     
 3. Vyberte **Uložit**. 
     

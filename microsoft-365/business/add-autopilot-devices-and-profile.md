@@ -24,12 +24,12 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: Přečtěte si, jak pomocí Windows AutoPilot nastavit nová zařízení s Windows 10 pro vaši firmu, aby byla připravená pro zaměstnance.
-ms.openlocfilehash: 3b1cf297914862aaa74fdf9a8bb7290d00f73b1d
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 98a2bfc721ce86c81ebd89e8f41603e619b31546
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561574"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627488"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Podrobné pokyny k přidání zařízení a profilů Autopilota
 
@@ -81,7 +81,7 @@ Pokud jste ještě nevytvořili skupiny zařízení nebo profily, nejlepší zp�
     
     - Vytvoření postupu přihlášení doplněného o značku společnosti.
     
-    - Připojte svá zařízení k účtům Azure Active Directory a automaticky je zaregistrujte ke spravovanému Microsoftem 365 Business.
+    - Připojte svá zařízení k účtům Azure Active Directory a automaticky je zaregistrujte ke spravovovizaci microsoftem 365 Business Premium.
     
     Další informace naleznete v tématu [O nastavení profilu autopilota](autopilot-profile-settings.md). 
     

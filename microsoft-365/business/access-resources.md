@@ -20,16 +20,16 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Zjistěte, jak získat přístup k místním prostředkům, jako jsou obchodní aplikace, sdílené složky a tiskárny z Azure Active Directory, které se připojilo k zařízení s Windows 10.
-ms.openlocfilehash: 653b53d29e84bbdc91273cb78b9b8407c0f6a209
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+ms.openlocfilehash: c1e04e5ca0d36c32a55a9819140356db5093e3a1
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "41593227"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627448"
 ---
-# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Přístup k místním prostředkům ze zařízení s azure a d-up v Microsoftu 365 Business
+# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Přístup k místním prostředkům ze zařízení s azure a d-up v Microsoft 365 Business Premium
 
-Každé zařízení s Windows 10, které je připojenou službou Azure Active Directory, má přístup ke všem cloudovým prostředkům, jako jsou vaše aplikace Office 365, a může být chráněno Microsoftem 365 Business. Můžete také povolit přístup k místním prostředkům, jako jsou obchodní aplikace , sdílené složky a tiskárny. Chcete-li povolit přístup, použijte [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) k synchronizaci místní služby Active Directory s Azure Active Directory. 
+Každé zařízení s Windows 10, které je připojenou službou Azure Active Directory, má přístup ke všem cloudovým prostředkům, jako jsou vaše aplikace Microsoft 365, a může být chráněno Microsoft 365 Business Premium. Můžete také povolit přístup k místním prostředkům, jako jsou obchodní aplikace , sdílené složky a tiskárny. Chcete-li povolit přístup, použijte [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) k synchronizaci místní služby Active Directory s Azure Active Directory. 
 
 Další informace najdete [v tématu Úvod ke správě zařízení ve službě Azure Active Directory](https://docs.microsoft.com/azure/active-directory/device-management-introduction).
 Kroky jsou také shrnuty v následujících částech.
@@ -43,9 +43,9 @@ Pomocí následujících kroků povolte zařízením Azure AD vaší organizace 
   
 1. Chcete-li synchronizovat uživatele, skupiny a kontakty z místní služby Active Directory do služby Azure Active Directory, spusťte Průvodce synchronizací adresářů a Azure AD Connect, jak je popsáno v části [Nastavení synchronizace adresářů pro Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
     
-2. Po dokončení synchronizace adresářů se ujistěte, že jsou připojená zařízení vaší organizace s Windows 10. Tento krok se provádí individuálně na každém zařízení s Windows 10. Podrobnosti najdete [v tématu Nastavení zařízení s Windows pro uživatele Microsoft 365 Business.](set-up-windows-devices.md) 
+2. Po dokončení synchronizace adresářů se ujistěte, že jsou připojená zařízení vaší organizace s Windows 10. Tento krok se provádí individuálně na každém zařízení s Windows 10. Podrobnosti najdete [v tématu Nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium.](set-up-windows-devices.md) 
     
-3. Jakmile jsou zařízení s Windows 10 připojena k Azure AD, každý uživatel musí restartovat svá zařízení a přihlásit se pomocí svých přihlašovacích údajů k Microsoft 365 Business. Všechna zařízení teď mají přístup i k místním prostředkům.
+3. Jakmile jsou zařízení s Windows 10 připojena k Azure AD, každý uživatel musí restartovat svá zařízení a přihlásit se pomocí svých přihlašovacích údajů Microsoft 365 Business Premium. Všechna zařízení teď mají přístup i k místním prostředkům.
     
 K získání přístupu k místním prostředkům pro zařízení připojená k Azure AD nejsou potřeba žádné další kroky. Tato funkce je integrována do systému Windows 10. 
 

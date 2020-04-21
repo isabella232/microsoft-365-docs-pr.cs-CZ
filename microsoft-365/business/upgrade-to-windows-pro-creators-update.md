@@ -25,12 +25,12 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: Objevte způsoby, jak můžete upgradovat svá zařízení s Windows na Windows 10 Pro a využívat pokročilejší funkce zabezpečení a firemní sítě.
-ms.openlocfilehash: 3901754d9ef269ae74dbf1893cb62b1ba810919d
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: f0cedda49dbff2a8c2884bb52e240fabfbeb4537
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560654"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43632045"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Upgrade zařízení s Windows na Windows 10 Pro
 
@@ -53,12 +53,12 @@ Chcete-li upgradovat na systém Windows 10 Pro, máte několik možností. Můž
     - Přečtěte si pokyny k použití nástroje a vytvoření instalačního média. 
 
 > [!NOTE]
-> Pokud máte zařízení s Windows 7 Pro, Windows 8 Pro nebo Windows 8.1 Pro, vaše předplatné Microsoft 365 Business vás opravňuje k upgradu na Windows Pro 10.
+> Pokud máte zařízení s Windows 7 Pro, Windows 8 Pro nebo Windows 8.1 Pro, vaše předplatné Microsoft 365 pro firmy vás opravňuje k upgradu na Windows Pro 10.
     
-Viz [Nastavení zařízení s Windows pro uživatele Microsoft365 Business](set-up-windows-devices.md) k dokončení nastavení zařízení s Windows 10. 
+Viz [Nastavení zařízení s Windows pro Microsoft 365 pro firemní uživatele](set-up-windows-devices.md) k dokončení nastavení zařízení s Windows 10. 
   
-Viz [Nastavení mobilních zařízení pro uživatele Microsoft 365 Business](set-up-mobile-devices.md) k dokončení nastavení zařízení se systémem Android a iOS. 
+Viz [Nastavení mobilních zařízení pro Microsoft 365 pro firemní uživatele](set-up-mobile-devices.md) k dokončení nastavení zařízení se systémem Android a iOS. 
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>Další informace o nastavení a používání Microsoftu 365 Business
+## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>Další informace o nastavení a používání Microsoftu 365 pro firmy
 
-[Školicí videa k Microsoftu 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 pro firemní školicí videa](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
