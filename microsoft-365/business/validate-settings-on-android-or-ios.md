@@ -21,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: f3433b6b-02f7-447f-9d62-306bf03638b0
-description: Přečtěte si, jak ověřit nastavení ochrany aplikací pro Firmy od Microsoftu 365 na zařízeních s Androidem nebo iOS.
-ms.openlocfilehash: f37bc262b3a80f4acb7113829e3d809ee16d41d1
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+description: Přečtěte si, jak ověřit nastavení ochrany aplikací Pro Business Premium od Microsoft 365 na zařízeních s Androidem nebo iOS.
+ms.openlocfilehash: d25a23bc8eb56e05bd74f7bf4658ee9e18dc41f8
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "42091009"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635718"
 ---
 # <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>Ověření nastavení ochrany aplikací na zařízeních se systémem Android nebo iOS
 
@@ -41,7 +41,7 @@ Jakmile [nastavíte konfigurace aplikací pro zařízení s Androidem](app-prote
   
 Nejprve se ujistěte, že se zásady vztahují na aplikaci, ve které ji budete ověřovat.
   
-1. V [Centru pro správu](https://portal.office.com) služby Microsoft 365 Business přejděte na **Zásady** \> **Upravit zásadu**.
+1. V [Centru pro správu](https://portal.office.com)Microsoft 365 Business Premium přejděte na **zásady úpravy** **zásad** \> .
     
 2. Zvolte **Zásady aplikace pro Android** pro nastavení, které jste vytvořili v nastavení, nebo jinou zásadu, kterou jste vytvořili, a ověřte, že je vynucená například pro Outlook. 
     
@@ -53,7 +53,7 @@ V podokně **Upravit zásadu** zvolte vedle **Řízení přístupu k dokumentům
   
 ![Ujistěte se, že je pro přístup k aplikacím Office nastavený kód VYŽADOVAT KÓD PIN nebo otisk prstu.](../media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
   
-1. Na zařízení uživatele s Androidem otevřete Outlook a přihlaste se pomocí uživatelského jména a hesla Microsoft 365 Business.
+1. V zařízení s Androidem uživatele otevřete Outlook a přihlaste se pomocí přihlašovacích údajů uživatele Microsoft 365 Business Premium.
     
 2. Budete také vyzváni k zadání kódu PIN nebo použití otisku prstu.
     
@@ -63,13 +63,13 @@ V podokně **Upravit zásadu** zvolte vedle **Řízení přístupu k dokumentům
 
 V podokně **Zásady úpravy** zvolte **Upravit** vedle **ovládacího prvku přístupu k dokumentům Office**, rozbalte možnost **Spravovat způsob, jakým uživatelé přistupují k souborům Office na mobilních zařízeních**, a ujistěte se, že je **resetovat PIN kód po počtu neúspěšných pokusů** nastavený na nějaký počet. Toje ve výchozím nastavení 5. 
   
-1. Na zařízení uživatele s Androidem otevřete Outlook a přihlaste se pomocí uživatelského jména a hesla Microsoft 365 Business.
+1. V zařízení s Androidem uživatele otevřete Outlook a přihlaste se pomocí přihlašovacích údajů uživatele Microsoft 365 Business Premium.
     
 2. Zadejte nesprávný PIN tolikrát, kolikrát to dovoluje nastavená zásada. Zobrazí se výzva, na které je uvedeno, že byl **dosaženo limitu pokusu o kód PIN** pro resetování kódu PIN. 
     
     ![After too many incorrect PIN attempts, you need to reset your PIN.](../media/fca6fcb4-bb5c-477f-af5e-5dc937e8b835.png)
   
-3. Stiskněte **Resetovat PIN kód**. Budete vyzváni k přihlášení pomocí přihlašovacích údajů uživatele microsoft 365 Business a potom budete muset nastavit nový KÓD PIN.
+3. Stiskněte **Resetovat PIN kód**. Budete vyzváni k přihlášení pomocí přihlašovacích údajů uživatele Microsoft 365 Business Premium a potom budete muset nastavit nový KÓD PIN.
     
 ### <a name="validate-force-users-to-save-all-work-files-to-onedrive-for-business"></a>Ověření možnosti Vynucovat, aby uživatelé ukládali všechny pracovní soubory na OneDrive pro firmy
 
@@ -77,7 +77,7 @@ V podokně **Upravit zásadu** zvolte vedle **Ochrana v případě ztráty nebo 
   
 ![Verify that Force users to save all work files to OneDrive for Business is set to On.](../media/7140fa1d-966d-481c-829f-330c06abb5a5.png)
   
-1. Na uživatelském zařízení s Androidem otevřete Outlook a přihlaste se pod uživatelským jménem a heslem Microsoft 365 Business. Pokud k tomu budete vyzváni, zadejte PIN.
+1. V zařízení s Androidem uživatele otevřete Outlook a přihlaste se pomocí přihlašovacích údajů uživatele Microsoft 365 Business Premium a zadejte PIN kód na požádání.
     
 2. Otevřete e-mail, který obsahuje přílohu, a vedle informací o příloze klepněte na ikonu se šipkou dolů.
     
@@ -94,7 +94,7 @@ V podokně **Upravit zásadu** zvolte vedle **Ochrana v případě ztráty nebo 
 
 V podokně **Zásady úpravy** zvolte **Upravit** vedle **ovládacího prvku přístupu k dokumentům Office**, rozbalte **možnost Spravovat způsob, jakým uživatelé přistupují k souborům Office na mobilních zařízeních**, a ujistěte se, že po nečinnosti aplikací Office bylo **nastaveno** na určitý počet minut. To je ve výchozím nastavení 30 minut. 
   
-1. Na uživatelském zařízení s Androidem otevřete Outlook a přihlaste se pod uživatelským jménem a heslem Microsoft 365 Business. Pokud k tomu budete vyzváni, zadejte PIN.
+1. V zařízení s Androidem uživatele otevřete Outlook a přihlaste se pomocí přihlašovacích údajů uživatele Microsoft 365 Business Premium a zadejte PIN kód na požádání.
     
 2. Měla by se zobrazit doručená pošta Outlooku. Nechte zařízení s Androidem nečinné aspoň 30 minut (nebo o něco déle, než jste zadali v zásadě). Obrazovka zařízení pravděpodobně ztmavne.
     
@@ -106,7 +106,7 @@ V podokně **Zásady úpravy** zvolte **Upravit** vedle **ovládacího prvku př
 
 V podokně **Upravit zásadu** zvolte vedle **Ochrana v případě ztráty nebo odcizení zařízení** možnost **Upravit**, rozbalte možnost **Chránit pracovní soubory při ztrátě nebo odcizení zařízení** a zkontrolujte, že **ochrana pracovních souborů šifrováním** je nastavená na **Zapnuto** a možnost **Vynucovat, aby uživatelé ukládali všechny pracovní soubory na OneDrive pro firmy** je nastavená na **Vypnuto**.
   
-1. Na uživatelském zařízení s Androidem otevřete Outlook a přihlaste se pod uživatelským jménem a heslem Microsoft 365 Business. Pokud k tomu budete vyzváni, zadejte PIN.
+1. V zařízení s Androidem uživatele otevřete Outlook a přihlaste se pomocí přihlašovacích údajů uživatele Microsoft 365 Business Premium a zadejte PIN kód na požádání.
     
 2. Otevřete e-mail, který obsahuje několik příloh souboru obrázků.
     
@@ -130,7 +130,7 @@ Jakmile [nastavíte konfigurace aplikací pro zařízení s iOSem](app-protectio
   
 Nejprve se ujistěte, že se zásady vztahují na aplikaci, ve které ji budete ověřovat.
   
-1. V [Centru pro správu](https://portal.office.com) služby Microsoft 365 Business přejděte na **Zásady** \> **Upravit zásadu**.
+1. V [Centru pro správu](https://portal.office.com)Microsoft 365 Business Premium přejděte na **zásady úpravy** **zásad** \> .
     
 2. Zvolte **Zásady aplikace pro iOS** pro nastavení, které jste vytvořili v nastavení, nebo pro jinou zásadu, kterou jste vytvořili, a ověřte, že je vynucená například pro Outlook. 
     
@@ -142,7 +142,7 @@ V podokně **Upravit zásadu** zvolte vedle **Řízení přístupu k dokumentům
   
 ![Ujistěte se, že je pro přístup k aplikacím Office nastavený kód VYŽADOVAT KÓD PIN nebo otisk prstu.](../media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
   
-1. Na zařízení uživatele s iOSem otevřete Outlook a přihlaste se pomocí uživatelského jména a hesla Microsoft 365 Business.
+1. V zařízení s iOS uživateleotevřete Outlook a přihlaste se pomocí přihlašovacích údajů uživatele Microsoft 365 Business Premium.
     
 2. Budete také vyzváni k zadání kódu PIN nebo použití otisku prstu.
     
@@ -152,13 +152,13 @@ V podokně **Upravit zásadu** zvolte vedle **Řízení přístupu k dokumentům
 
 V podokně **Zásady úpravy** zvolte **Upravit** vedle **ovládacího prvku přístupu k dokumentům Office**, rozbalte možnost **Spravovat způsob, jakým uživatelé přistupují k souborům Office na mobilních zařízeních**, a ujistěte se, že je **resetovat PIN kód po počtu neúspěšných pokusů** nastavený na nějaký počet. Toje ve výchozím nastavení 5. 
   
-1. Na zařízení uživatele s iOSem otevřete Outlook a přihlaste se pomocí uživatelského jména a hesla Microsoft 365 Business.
+1. V zařízení s iOS uživateleotevřete Outlook a přihlaste se pomocí přihlašovacích údajů uživatele Microsoft 365 Business Premium.
     
 2. Zadejte nesprávný PIN tolikrát, kolikrát to dovoluje nastavená zásada. Zobrazí se výzva, na které je uvedeno, že byl **dosaženo limitu pokusu o kód PIN** pro resetování kódu PIN. 
     
     ![After too many incorrect PIN attempts, you need to reset your PIN.](../media/fab5c089-a4a5-4e8d-8c95-b8eed1dfa262.png)
   
-3. Stiskněte **OK**. Budete vyzváni k přihlášení pomocí přihlašovacích údajů uživatele microsoft 365 Business a potom budete muset nastavit nový KÓD PIN.
+3. Stiskněte **OK**. Budete vyzváni k přihlášení pomocí přihlašovacích údajů uživatele Microsoft 365 Business Premium a potom budete muset nastavit nový KÓD PIN.
     
 ### <a name="validate-force-users-to-save-all-work-files-to-onedrive-for-business"></a>Ověření možnosti Vynucovat, aby uživatelé ukládali všechny pracovní soubory na OneDrive pro firmy
 
@@ -166,13 +166,13 @@ V podokně **Upravit zásadu** zvolte vedle **Ochrana v případě ztráty nebo 
   
 ![Verify that Force users to save all work files to OneDrive for Business is set to On.](../media/7140fa1d-966d-481c-829f-330c06abb5a5.png)
   
-1. Na uživatelském zařízení s iOSem otevřete Outlook a přihlaste se pod uživatelským jménem a heslem Microsoft 365 Business. Pokud k tomu budete vyzváni, zadejte PIN.
+1. V zařízení s iOS uživatelem otevřete Outlook a přihlaste se pomocí přihlašovacích údajů uživatele Microsoft 365 Business Premium a zadejte PIN kód na požádání.
     
 2. Otevřete e-mail, který obsahuje přílohu. Přílohu otevřete a ve spodní části obrazovky zvolte **Uložit**. 
     
     ![Tap the Save option after you open an attachment to try to save it.](../media/b419b070-1530-4f14-86a8-8d89933a2b25.png)
   
-3. Měla by se zobrazit jen možnost OneDrive pro firmy. Pokud ne, klepněte na **Přidat účet** a na obrazovce Přidat **účet úložiště** vyberte **OneDrive pro firmy.** Po zobrazení výzvy zadejte přihlašovací údaje koncového uživatele pro Microsoft 365 Business. 
+3. Měla by se zobrazit jen možnost OneDrive pro firmy. Pokud ne, klepněte na **Přidat účet** a na obrazovce Přidat **účet úložiště** vyberte **OneDrive pro firmy.** Po zadání výzvy poskytněte koncovému uživateli Microsoft 365 Business Premium. 
     
     Klepněte na **Uložit** a vyberte **OneDrive pro firmy**.
     
@@ -180,7 +180,7 @@ V podokně **Upravit zásadu** zvolte vedle **Ochrana v případě ztráty nebo 
 
 V podokně **Zásady úpravy** zvolte **Upravit** vedle **ovládacího prvku přístupu k dokumentům Office**, rozbalte **možnost Spravovat způsob, jakým uživatelé přistupují k souborům Office na mobilních zařízeních**, a ujistěte se, že po nečinnosti aplikací Office bylo **nastaveno** na určitý počet minut. To je ve výchozím nastavení 30 minut. 
   
-1. Na uživatelském zařízení s iOSem otevřete Outlook a přihlaste se pod uživatelským jménem a heslem Microsoft 365 Business. Pokud k tomu budete vyzváni, zadejte PIN.
+1. V zařízení s iOS uživatelem otevřete Outlook a přihlaste se pomocí přihlašovacích údajů uživatele Microsoft 365 Business Premium a zadejte PIN kód na požádání.
     
 2. Měla by se zobrazit doručená pošta Outlooku. Nechte zařízení s iOSem nečinné alespoň 30 minut (nebo o něco déle, než jste zadali v zásadě). Obrazovka zařízení pravděpodobně ztmavne.
     
@@ -192,7 +192,7 @@ V podokně **Zásady úpravy** zvolte **Upravit** vedle **ovládacího prvku př
 
 V podokně **Upravit zásadu** zvolte vedle **Ochrana v případě ztráty nebo odcizení zařízení** možnost **Upravit**, rozbalte možnost **Chránit pracovní soubory při ztrátě nebo odcizení zařízení** a zkontrolujte, že **ochrana pracovních souborů šifrováním** je nastavená na **Zapnuto** a možnost **Vynucovat, aby uživatelé ukládali všechny pracovní soubory na OneDrive pro firmy** je nastavená na **Vypnuto**.
   
-1. Na uživatelském zařízení s iOSem otevřete Outlook a přihlaste se pod uživatelským jménem a heslem Microsoft 365 Business. Pokud k tomu budete vyzváni, zadejte PIN.
+1. V zařízení s iOS uživatelem otevřete Outlook a přihlaste se pomocí přihlašovacích údajů uživatele Microsoft 365 Business Premium a zadejte PIN kód na požádání.
     
 2. Otevřete e-mail, který obsahuje několik příloh souboru obrázků.
     

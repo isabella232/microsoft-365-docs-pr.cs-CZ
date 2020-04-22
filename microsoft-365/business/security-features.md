@@ -1,5 +1,5 @@
 ---
-title: Funkce zabezpečení a dodržování předpisů microsoft365 Business
+title: Funkce zabezpečení a dodržování předpisů microsoft 365 Business Premium
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,23 +22,23 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
-description: Seznamte se s funkcemi zabezpečení, které jsou součástí Microsoftu 365 Business a pomáhají chránit vaše data na počítačích, telefonech a tabletech.
-ms.openlocfilehash: 3f638a3287c06ded7bf4c29c647e62cbf3fca969
-ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
+description: Seznamte se s funkcemi zabezpečení, které jsou součástí služby Microsoft 365 Business Premium a pomáhají chránit vaše data na počítačích, telefonech a tabletech.
+ms.openlocfilehash: 35eb0ac1dce216ccc557fc629ddb5d2df50e7134
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43153792"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635138"
 ---
-# <a name="microsoft-365-business-security-and-compliance-features"></a>Funkce zabezpečení a dodržování předpisů microsoft365 Business
+# <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Funkce zabezpečení a dodržování předpisů microsoft 365 Business Premium
 
-Microsoft 365 Business nabízí zjednodušené funkce zabezpečení, které pomáhají chránit vaše data na počítačích, telefonech a tabletech.
+Microsoft 365 Business Premium nabízí zjednodušené funkce zabezpečení, které pomáhají chránit vaše data na počítačích, telefonech a tabletech.
     
-## <a name="microsoft-365-business-admin-center-security-features"></a>Funkce zabezpečení Centra pro správu Microsoft 365 Business
+## <a name="microsoft-365-admin-center-security-features"></a>Funkce zabezpečení Centra pro správu Microsoftu 365
 
 [![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
-V Centru pro správu můžete spravovat mnoho funkcí zabezpečení Microsoft 365 Business, což vám umožní tyto funkce zapnout nebo vypnout. V Centru pro správu můžete provést následující kroky:
+V Centru pro správu můžete spravovat mnoho funkcí zabezpečení Microsoft 365 Business Premium, což vám umožní tyto funkce zapnout nebo vypnout. V Centru pro správu můžete provést následující kroky:
   
 - [Nastavte nastavení správy aplikací pro zařízení se systémem Android nebo iOS](app-protection-settings-for-android-and-ios.md) . 
     
@@ -62,7 +62,7 @@ V Centru pro správu můžete spravovat mnoho funkcí zabezpečení Microsoft 36
     
 ## <a name="additional-security-features"></a>Další funkce zabezpečení 
 
-K dispozici jsou pokročilé funkce microsoftu 365 Business, které vám pomohou chránit vaši firmu před kybernetickými hrozbami a chránit citlivé informace.
+K dispozici jsou pokročilé funkce v Microsoft 365 Business Premium, které vám pomohou chránit vaši firmu před kybernetickými hrozbami a chránit citlivé informace.
   
 - **[Rozšířená ochrana před hrozbami v Office 365](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
     
@@ -74,13 +74,13 @@ K dispozici jsou pokročilé funkce microsoftu 365 Business, které vám pomohou
 
 - **[Kompletní možnosti Intune na webu Azure Portal](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
-    Přístup k Centru pro správu Intune na webu Azure Portal umožňuje nastavit další funkce zabezpečení, jako je správa zařízení s MacOS, iPhone a Zařízení s Androidem, spolu s pokročilou správou zařízení pro Windows, které nejsou dostupné prostřednictvím Centra pro správu Microsoft365 Business.
+    Přístup k Centru pro správu Intune na webu Azure Portal umožňuje nastavit další funkce zabezpečení, jako je správa zařízení s MacOS, iPhone a Zařízení s Androidem, spolu s pokročilou správou zařízení pro Windows, které nejsou dostupné prostřednictvím Centra pro správu Microsoftu 365.
 - **Stejný [podmíněný přístup](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) jako plán Azure AD Premium P1**
 
 
     Podmíněný přístup může pomoci chránit vaši organizaci před rizikem přihlášení, pokusy o přístup z neočekávané sítě nebo národního prostředí, pokusy o přístup z rizikových typů zařízení a tak dále. Zásady podmíněného přístupu jsou vynuceny po dokončení prvního ověřování a používá signály z první události ověřování k určení, zda by měl být pokus o přístup schválen, odepřen nebo zda je vyžadován další důkaz (například druhý formulář identifikace).
 
-    Zahrnuty funkce podmíněného přístupu jsou:
+    Zahrnuty jsou funkce podmíněného přístupu:
 
     - Přístup založený na uživatelském jménu, skupině a roli
     - Přístup [založený na aplikaci](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
@@ -95,7 +95,7 @@ K dispozici jsou pokročilé funkce microsoftu 365 Business, které vám pomohou
     
 ## <a name="compliance-features"></a>Funkce dodržování předpisů
 
-Vaše předplatné Microsoft 365 Business obsahuje funkce, které vám pomohou dodržovat standardy dodržování předpisů a regulační standardy.
+Vaše předplatné Microsoft 365 Business Premium obsahuje funkce, které vám pomohou dodržovat standardy dodržování předpisů a regulační standardy.
 
 - **[Přehled zásad prevence ztráty dat](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
@@ -107,20 +107,20 @@ Vaše předplatné Microsoft 365 Business obsahuje funkce, které vám pomohou d
     
 - **[Štítky utajení](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
 
-   Microsoft 365 Business obsahuje všechny funkce [Azure Information Protection Plan 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Pomocí tohoto plánu můžete vytvořit **popisky citlivosti,** které umožňují řídit přístup k citlivým informacím v e-mailu a dokumentech pomocí ovládacích prvků jako "Nepředávat dál" a "Nekopírovat". Můžete také klasifikovat citlivé informace jako "důvěrné" a určit, jak mohou být utajované informace sdíleny mimo firmu i uvnitř podniku. Šifrování na podnikové úrovni se snadno aplikuje na e-maily a dokumenty, aby vaše informace zůstaly soukromé. Můžete taky nainstalovat doplněk klienta Azure Information Protection pro aplikace Office. Další informace najdete [v tématu Azure Information Protection sjednocené označování klienta](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). Pro popisky citlivosti nainstalujte **program AzInfoProtection_UL.exe**.
+   Microsoft 365 Business Premium obsahuje všechny funkce [Plánu ochrany informací Azure 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Pomocí tohoto plánu můžete vytvořit **popisky citlivosti,** které umožňují řídit přístup k citlivým informacím v e-mailu a dokumentech pomocí ovládacích prvků jako "Nepředávat dál" a "Nekopírovat". Můžete také klasifikovat citlivé informace jako "důvěrné" a určit, jak mohou být utajované informace sdíleny mimo firmu i uvnitř podniku. Šifrování na podnikové úrovni se snadno aplikuje na e-maily a dokumenty, aby vaše informace zůstaly soukromé. Můžete taky nainstalovat doplněk klienta Azure Information Protection pro aplikace Office. Další informace najdete [v tématu Azure Information Protection sjednocené označování klienta](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). Pro popisky citlivosti nainstalujte **program AzInfoProtection_UL.exe**.
 
-Tyto funkce můžete spravovat &amp; v Centru dodržování předpisů zabezpečení a v Centru pro správu Intune. V průběhu času budou zjednodušené ovládací prvky přidány do Centra pro správu Microsoft 365 Business.
+Tyto funkce můžete spravovat &amp; v Centru dodržování předpisů zabezpečení a v Centru pro správu Intune. V průběhu času budou zjednodušené ovládací prvky přidány do Centra pro správu Microsoftu 365.
   
     
 ## <a name="faq"></a>Časté otázky
 
  ### <a name="are-these-security-features-available-in-all-markets"></a>Jsou tyto funkce zabezpečení k dispozici na všech trzích?
   
-Ano, tyto funkce jsou dostupné na všech trzích, kde se microsoft 365 Business prodává.
+Ano, tyto funkce jsou dostupné na všech trzích, kde se prodává Microsoft 365 Business Premium.
   
 ### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Jak najdu Centrum &amp; dodržování předpisů zabezpečení?
   
-1. [Přihlaste se k Microsoft 365 Business](https://portal.microsoft.com/) pomocí přihlašovacích údajů správce. 
+1. [Přihlaste se k Microsoft 365 Business Premium](https://portal.microsoft.com/) pomocí přihlašovacích údajů správce. 
     
 2. V levém nav vyhledejte **centra pro správu** a rozbalte je. 
     

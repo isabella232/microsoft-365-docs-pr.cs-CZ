@@ -21,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Ověřte nastavení ochrany aplikací Microsoft 365 Business na zařízeních s Windows 10 a ověřte, zda uživatelé nemohou kopírovat firemní data do osobních souborů nebo do nespravovaných aplikací.
-ms.openlocfilehash: 5b798e0335188543fc308553f71085bcde8b7752
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Ověřte nastavení ochrany aplikací Microsoft 365 Business Premium na zařízeních s Windows 10 a ověřte, zda uživatelé nemohou kopírovat firemní data do osobních souborů nebo do nespravovaných aplikací.
+ms.openlocfilehash: 20b2e43ae53486c046440ff1066d241ec9661888
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560834"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635738"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>Ověření nastavení ochrany aplikací na počítačích s Windows 10
 
@@ -37,7 +37,7 @@ Jakmile [nastavíte zásady ochrany aplikací](protection-settings-for-windows-1
   
  **Ověření nastavení připojení**
   
-1. Až se přihlásíte pomocí přihlašovacích údajů Microsoft 365 Business a připojíte se k Azure AD, jak je popsáno v části [Nastavení zařízení s Windows pro uživatele služby Microsoft 365 Business](set-up-windows-devices.md), přejděte na **Nastavení systému Windows** \> **Účty** \> **Přístup do práce nebo do školy**. Zvolte **Připojeno k \<název tenanta\> Azure AD** a pak zvolte **Informace**.
+1. Po přihlášení pomocí přihlašovacích údajů k Microsoft 365 Business Premium a připojení k Azure AD, jak je popsáno v [části Nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium](set-up-windows-devices.md), přejděte na pracovní nebo školní téma Windows **Settings** \> **Accounts** \> **Access**. Zvolte **Připojeno k \<název tenanta\> Azure AD** a pak zvolte **Informace**.
     
     ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
@@ -47,7 +47,7 @@ Jakmile [nastavíte zásady ochrany aplikací](protection-settings-for-windows-1
   
  **Ověření, že nelze vložit firemní data do nespravované aplikace**
   
-1. Otevřete Outlook 2016 nainstalovaný přes Microsoft 365 Business.
+1. Otevřete Outlook 2016, který nainstaloval Microsoft 365 Business Premium.
     
 2. Otevřete e-mail a zkopírujte z něj nějaký obsah.
     
@@ -67,7 +67,7 @@ Jakmile [nastavíte zásady ochrany aplikací](protection-settings-for-windows-1
     
 2. V části **Přístup do práce nebo do školy** zvolte **Připojit**.
     
-3. Zadejte přihlašovací údaje Microsoft 365 Business do dialogu **Nastavení pracovního nebo školního účtu** \> **Přihlásit se**.
+3. Zadejte své přihlašovací údaje microsoft 365 Business Premium do **dialogového okna** \> Nastavit pracovní nebo školní účet **Přihlášení**.
     
 4. Na stránce **Přístup do práce nebo do školy** zvolte **Pracovní nebo školní účet** a pak zvolte **Informace**.
     
@@ -79,7 +79,7 @@ Jakmile [nastavíte zásady ochrany aplikací](protection-settings-for-windows-1
   
  **Ověření, že nelze vložit firemní data do nespravované aplikace**
   
-1. Otevřete Outlook 2016 a přidejte svůj účet Microsoft 365 Business (pokud je to potřeba) a přihlaste se přihlašovacími údaji Microsoft 365 Business.
+1. Otevřete Outlook 2016 a v případě potřeby přidejte svůj účet Microsoft 365 Business Premium a přihlaste se pomocí přihlašovacích údajů microsoft 365 Business Premium.
     
 2. Otevřete e-mail a zkopírujte z něj nějaký obsah.
     

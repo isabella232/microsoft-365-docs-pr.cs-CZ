@@ -24,13 +24,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Přečtěte si, jak ověřit, že nastavení ochrany aplikací Microsoft 365 Business se projevilo na zařízeních uživatelů s Windows 10.
-ms.openlocfilehash: 47977f8d79eb6dbb2f4d087af8f8ad7da4313c61
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Přečtěte si, jak ověřit, že nastavení ochrany aplikací Microsoftu 365 pro firmy se projevilo na zařízeních uživatelů s Windows 10.
+ms.openlocfilehash: b63681f040b0fe49127693e9cb7aac7ba6c41af6
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560674"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635698"
 ---
 # <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Ověření nastavení ochrany zařízení v počítačích s Windows 10
 
@@ -46,7 +46,7 @@ Po [nastavení zásad zařízení](protection-settings-for-windows-10-pcs.md)mů
     
     ![Možnosti rozšířených aktualizací systému Windows jsou všechny zobrazeny šedě.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
-3. Přejděte na **zabezpečení aktualizace** \> \> \> \> **** ** &amp; ** nastavení **Možnosti Windows Update** **Upřesnit způsob doručení aktualizací**.
+3. Přejděte na **zabezpečení aktualizace** \> \> \> \> **Advanced options** ** &amp; ** nastavení **Možnosti Windows Update** **Upřesnit způsob doručení aktualizací**.
     
     Zkontrolujte, zda se zobrazí zpráva (červeně), že některá nastavení jsou skryta nebo spravována vaší organizací, a že všechny možnosti jsou zobrazeny šedě.
     
@@ -60,11 +60,11 @@ Po [nastavení zásad zařízení](protection-settings-for-windows-10-pcs.md)mů
   
 ## <a name="related-topics"></a>Příbuzná témata
 
-[Dokumentace a zdroje informací o Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=853701)
+[Microsoft 365 pro obchodní dokumentaci a zdroje informací](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
-[Začínáme s Microsoft 365 Business](microsoft-365-business-overview.md)
+[Začínáme s Microsoftem 365 pro firmy](microsoft-365-business-overview.md)
   
-[Správa Microsoft 365 Business](manage.md)
+[Správa Microsoftu 365 pro firmy](manage.md)
   
 [Nastavení konfigurací zařízení pro počítače s Windows 10](protection-settings-for-windows-10-pcs.md)
   

@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, přechod csp předplatné
 ms.date: 11/01/2017
-ms.openlocfilehash: 0a30d80ad5217868fec81866ab1dc41013917e99
-ms.sourcegitcommit: dbbdeca5a6cd048e1bde9e820a8b8a0d6022c7a2
+ms.openlocfilehash: da56ce5bc70dfed5a3e86c739ef3c940b4ac1511
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43504101"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635058"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Přechod předplatného Microsoft 365 Business CSP
 
@@ -91,7 +91,7 @@ Následující tabulka shrnuje dopad zásad správy aplikací na mobilní zaří
 | **Resetovat PIN kód při selhání přihlášení** | Omezený přístup k aplikacím | Žádné omezení přístupu na úrovni aplikace |
 | **Vyžadovat, aby se uživatelé znovu přihlásili po nečinnosti aplikací Office** | Je vyžadováno přihlášení. | Není vyžadováno žádné přihlášení. |
 | **Odepřít přístup k pracovním souborům ze zařízení s jailbreakem nebo rootem** | Pracovní soubory nelze přistupovat na jailbroken / zakořeněné zařízení | Pracovní soubory lze přistupovat na jailbroken / zakořeněné zařízení |
-| **Povolení uživatelům kopírovat obsah z aplikací Office do osobních aplikací** | Kopírování a vkládání s omezeným přístupem k aplikacím dostupným v rámci předplatného Microsoft 365 Business | Kopírování a vkládání dostupné pro všechny aplikace |
+| **Povolení uživatelům kopírovat obsah z aplikací Office do osobních aplikací** | Kopírování a vkládání s omezeným přístupem k aplikacím dostupným v rámci předplatného Microsoftu 365 | Kopírování a vkládání dostupné pro všechny aplikace |
 
 ## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Windows 10 PC dopady na vypršení předplatného
 

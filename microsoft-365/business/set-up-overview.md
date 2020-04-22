@@ -25,17 +25,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Přečtěte si kroky nastavení pro Microsoft 365 Business, od přihlášení k odběru, přidání domény a uživatelů, nastavení zásad zabezpečení a další.
-ms.openlocfilehash: 9bb536b52981966f6c4c487f8400577b896261e0
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Přečtěte si postup nastavení pro Microsoft 365 Business Premium, od přihlášení k odběru, přidání domény a uživatelů, nastavení zásad zabezpečení a další.
+ms.openlocfilehash: 8b26d423d4f62ee8f9ea4a61eb8f7efa72ee26cb
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561185"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633349"
 ---
 # <a name="overview-of-setup"></a>Přehled nastavení
 
-Podívejte se na krátké video o nastavení Microsoft 365 Business.<br><br>
+Podívejte se na krátké video o nastavení Microsoft 365 Business Premium.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
@@ -66,18 +66,18 @@ Většinu kroků nastavení lze provést v průvodci nastavením, ale jsou také
 
 Chcete-li začít, přečtěte si informace o [zvýšení ochrany před hrozbami](increase-threat-protection.md) a [nastavení funkcí dodržování předpisů](set-up-compliance.md).
 
-Podívejte se také [na 10 nejlepších způsobů zabezpečení microsoftu 365 Business](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) a podívejte se na plán osvědčených postupů zabezpečení.
+Podívejte se také [na 10 nejlepších způsobů zabezpečení microsoftu 365 Business Premium](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) a podívejte se na přehled osvědčených postupů zabezpečení.
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Krok 3: Nastavení a správa zařízení s Windows 10
 
 Po spuštění průvodce nastavením budete chtít proctect všechny Windwos 10 počítačů ve vaší organizaci.
   
-- Windows 10 Pro je [předpokladem](pre-requisites-for-data-protection.md) pro Microsoft 365 Business, ale pokud máte Windows 7 Pro, Windows 8 Pro nebo Windows 8.1 Pro, vaše předplatné vás opravňuje k [upgradu na Windows 10 Pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
+- Windows 10 Pro je [předpokladem](pre-requisites-for-data-protection.md) pro Microsoft 365 Business Premium, ale pokud máte Windows 7 Pro, Windows 8 Pro nebo Windows 8.1 Pro, vaše předplatné vás opravňuje k [upgradu na Windows 10 Pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
 - Podle pokynů v [zabezpečeném počítači s Windows 10](secure-win-10-pcs.md) nastavte zásady pro zařízení s Windows 10.
 
-Když se připojíte k zařízení s Windows 10 do Azure AD, použijí se na něj zásady nastavené pro počítače s Windows 10. Další informace naleznete v [tématu Nastavení zařízení s Windows pro uživatele Microsoft 365 Business](set-up-windows-devices.md).
+Když se připojíte k zařízení s Windows 10 do Azure AD, použijí se na něj zásady nastavené pro počítače s Windows 10. Další informace naleznete v [tématu Nastavení zařízení s Windows pro uživatele Microsoftu 365](set-up-windows-devices.md).
 
-## <a name="step-4-install-office-365-business"></a>Krok 4: Instalace Office 365 Business
+## <a name="step-4-install-microsoft-365-apps-for-business"></a>Krok 4: Instalace aplikací Microsoft 365 pro firmy
 - Office můžete automaticky nainstalovat do zařízení s Windows pomocí [Průvodce instalací](set-up.md#deploy-office-365-client-apps).
 - [Uchvátíte uživatele, aby si nainstalovali aplikace Office](https://docs.microsoft.com/office365/admin/setup/install-applications) pro Windows a zařízení.
      
@@ -88,10 +88,10 @@ Když se připojíte k zařízení s Windows 10 do Azure AD, použijí se na ně
 
 - **Přístup k místním prostředkům**
 
-     - Pokud vaše organizace používá službu Windows Server Active Directory místně, můžete nastavit Microsoft 365 Business tak, aby chránila vaše zařízení s Windows 10, a přitom zachovat přístup k místním prostředkům, které vyžadují místní ověřování. Postupujte podle pokynů v [části Povolit, aby zařízení s Windows 10 připojená k doméně byla spravována microsoftem 365 Business,](manage-windows-devices.md) abyste to nastavili. Toto je upřednostňovaná metoda a zařízení v tomto stavu se nazývají hybridní zařízení azure ad připojená.
+     - Pokud vaše organizace používá windows server active directory místně, můžete nastavit Microsoft 365 Business Premium na ochranu zařízení s Windows 10, při zachování přístupu k místním prostředkům, které vyžadují místní ověřování. Postupujte podle pokynů v [části Povolit, aby zařízení s Windows 10 připojená k doméně byla spravována microsoftem 365 Business Premium](manage-windows-devices.md) a nastavte to. Toto je upřednostňovaná metoda a zařízení v tomto stavu se nazývají hybridní zařízení azure ad připojená.
 
-    - Pokud vaše firma má místní službu Active Directory, která obsahuje některé místní prostředky (například sdílené složky a tiskárny), můžete zařízení mandatáž Azure AD přístup k těmto prostředkům podle následujících kroků zde: [Přístup k místním prostředkům ze zařízení azure ad připojen k Microsoft 365 Business](access-resources.md).
+    - Pokud vaše firma má místní službu Active Directory, která obsahuje některé místní prostředky (například sdílené složky a tiskárny), můžete zařízení mandatáž Azure AD přístup k těmto prostředkům podle následujících kroků zde: [Přístup k místním prostředkům ze zařízení azure ad-joined v Microsoft 365 Business Premium](access-resources.md).
 
 ## <a name="see-also"></a>Viz také
 
-[Školicí videa k Microsoftu 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 pro firemní školicí videa](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -22,19 +22,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
-description: Přečtěte si, jak pomocí Microsoft 365 Business resetovat tovární reset zařízení s Windows 10, která spravujete, a vrátit je k původnímu nastavení při nákupu.
-ms.openlocfilehash: 3705448602cdc22e9fb5843c46d5bdc1c4dbdb2e
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Přečtěte si, jak používat Microsoft 365 pro firmy k obnovení továrního nastavení zařízení s Windows 10, která spravujete, a vrátit je k původnímu nastavení při nákupu.
+ms.openlocfilehash: 7cf5619cb1b6f5f847690d723381614d4b7afc3c
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561294"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43634786"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>Obnovení továrního nastavení u zařízení s Windows 10
 
 [![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
-[] Obnovení továrního nastavení vrátí zařízení do původního nastavení, jaké mělo při nákupu. Všechny aplikace a všechna data v zařízení nainstalovaná po nákupu se odeberou. K obnovení továrního nastavení u spravovaných zařízení s Windows 10 můžete použít Microsoft 365 Business.
+[] Obnovení továrního nastavení vrátí zařízení do původního nastavení, jaké mělo při nákupu. Všechny aplikace a všechna data v zařízení nainstalovaná po nákupu se odeberou. Microsoft 365 pro firmy můžete použít k obnovení továrního nastavení zařízení s Windows 10, která spravujete.
   
 1. Přejděte do Centra <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>pro správu na adrese .
     

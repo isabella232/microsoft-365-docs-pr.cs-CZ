@@ -1,5 +1,5 @@
 ---
-title: Jak nastavit, aby zařízení s Windows 10 připojená k doméně byla spravovaná prostřednictvím plánu Microsoft 365 Business
+title: Povolení spravovaných zařízení s Windows 10 připojená k doméně, kterou spravuje Microsoft 365 pro firmy
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -24,16 +24,16 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Přečtěte si, jak povolit Microsoft 365 k ochraně místních zařízení se službou Active-Directory se systémem Windows 10 v několika krocích.
-ms.openlocfilehash: 625eb7ac344b060409101d650ff30044d073f5bf
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 431c1be74723e156befb13ffe1ed98b48b9a23cb
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561454"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633277"
 ---
-# <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>Jak nastavit, aby zařízení s Windows 10 připojená k doméně byla spravovaná prostřednictvím plánu Microsoft 365 Business
+# <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-for-business"></a>Povolení spravovaných zařízení s Windows 10 připojená k doméně, kterou spravuje Microsoft 365 pro firmy
 
-Pokud vaše organizace používá službu Windows Server Active Directory místně, můžete nastavit Microsoft 365 Business tak, aby chránila vaše zařízení s Windows 10, a přitom zachovat přístup k místním prostředkům, které vyžadují místní ověřování.
+Pokud vaše organizace používá službu Windows Server Active Directory místně, můžete nastavit Microsoft 365 pro firmy, aby chránila vaše zařízení s Windows 10, a přitom zachovat přístup k místním prostředkům, které vyžadují místní ověřování.
 Chcete-li nastavit tuto ochranu, můžete implementovat **hybridní zařízení připojená k Azure AD**. Tato zařízení jsou připojená k místní službě Active Directory i ke službě Azure Active Directory.
 
 Toto video popisuje kroky, jak nastavit to pro nejběžnější scénář, který je také podrobně popsán v následujících krocích.
@@ -56,9 +56,9 @@ Před synchronizací uživatelů a počítačů s místní doménou služby Acti
 Chcete-li synchronizovat uživatele, skupiny a kontakty z místní služby Active Directory do služby Azure Active Directory, nainstalujte službu Azure Active Directory Connect a nastavte synchronizaci adresářů. Další informace najdete [v tématu Nastavení synchronizace adresářů pro Office 365.](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846)
 
 > [!NOTE]
-> Kroky jsou přesně stejné pro Microsoft 365 Business. 
+> Kroky jsou přesně stejné pro Microsoft 365 pro firmy. 
 
-Při konfiguraci možností pro Azure AD Connect doporučujeme povolit **synchronizaci hesel**, **bezproblémové jednotné přihlašování**a funkci **zpětného zápisu hesla,** která je také podporovaná v Microsoft 365 Business.
+Při konfiguraci možností pro Azure AD Connect doporučujeme povolit **synchronizaci hesel**, **bezproblémové jednotné přihlašování**a funkci **zpětného zápisu hesla,** která je také podporovaná v Microsoftu 365 pro firmy.
 
 > [!NOTE]
 > Existují některé další kroky pro zpětný zápis hesla za zaškrtávací políčko v Azure AD Connect. Další informace naleznete v [tématu How-to: configure password writeback](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback). 

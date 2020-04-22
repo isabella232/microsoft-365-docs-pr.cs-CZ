@@ -1,5 +1,5 @@
 ---
-title: Zaregistrujte se do Microsoft365 Business
+title: Zaregistrujte se na Microsoft 365 Business Premium
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -24,27 +24,27 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Zjistěte, co Microsoft 365 Business obsahuje, a získejte podrobné pokyny při registraci pro Microsoft 365 Business.
-ms.openlocfilehash: 85e9ff3585e1e4bbadc6c34699f75d77486f58ea
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Zjistěte, co Microsoft 365 Business Premium obsahuje, a získejte podrobné pokyny při registraci k Microsoft 365 Business Premium.
+ms.openlocfilehash: 443363fa673a112ae13eb5b63308115724d9bd00
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560745"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635098"
 ---
-# <a name="sign-up-for-microsoft-365-business"></a>Zaregistrujte se do Microsoft365 Business
+# <a name="sign-up-for-microsoft-365-business-premium"></a>Zaregistrujte se na Microsoft 365 Business Premium
 
-Chcete-li zjistit, co Microsoft 365 Business obsahuje, podívejte se na [krátké video](https://go.microsoft.com/fwlink/?linkid=2109651) a podívejte se na [přehled](microsoft-365-business-overview.md).
+Chcete-li zjistit, co Microsoft 365 Business Premium obsahuje, podívejte se na [krátké video](https://go.microsoft.com/fwlink/?linkid=2109651) a podívejte se na [přehled](microsoft-365-business-overview.md).
 
-Microsoft 365 Business může získat třemi způsoby:
-- **Kupte si Microsoft 365 Business a dokončete vlastní nastavení**: Chcete-li koupit Microsoft 365 Business online, [postupujte podle následujících kroků](#sign-up-steps).
-- **Pro partnery microsoftu**: Pokud jste partnerem, přečtěte si informace [o microsoftu 365 Business z Microsoft Partner Center](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
+Microsoft 365 Business Premium lze získat třemi způsoby:
+- **Kupte si Microsoft 365 Business Premium a dokončete vlastní nastavení**: Chcete-li zakoupit microsoft 365 Business Premium online, [postupujte podle následujících kroků](#sign-up-steps).
+- **Pro partnery microsoftu**: Pokud jste partnerem, přečtěte si téma [Získání Microsoftu 365 Business Premium z Microsoft Partner Center](get-microsoft-365-business.md).
 - **Nápovědu k webu Microsoft Store**: Zamiřte do obchodu Microsoft [Store](https://go.microsoft.com/fwlink/?linkid=2109652). Obchody Microsoft vám mohou pomoci s dotazy týkajícími se plánů, pomohou vám zakoupit plán, který vyhovuje vašim obchodním potřebám, a pomoci vám dokončit nastavení.
 
 **Potřebujete něco jiného?** Můžeš:
-- [Upgradujte svůj plán Office 365 na Microsoft 365 Business](migrate-to-microsoft-365-business.md).
-- [Získejte bezplatnou zkušební verzi](https://go.microsoft.com/fwlink/p/?linkid=2102309) Microsoftu 365 Business na jeden měsíc.
-- Pokud potřebujete plán s menším počtem funkcí, [zaregistrujte si Office 365 Business Premium.](https://go.microsoft.com/fwlink/p/?LinkID=510935) Zjistěte, co každý podnikatelský plán obsahuje na [products.office.com](https://go.microsoft.com/fwlink/?linkid=2109397).
+- [Upgradujte svůj plán Office 365 na Microsoft 365 Business Premium](migrate-to-microsoft-365-business.md).
+- [Získejte bezplatnou zkušební verzi](https://go.microsoft.com/fwlink/p/?linkid=2102309) Microsoft 365 Business Premium na jeden měsíc.
+- Pokud potřebujete plán s menším počtem funkcí, [zaregistrujte si microsoft 365 Business Standard.](https://go.microsoft.com/fwlink/p/?LinkID=510935) Zjistěte, co každý podnikatelský plán obsahuje na [products.office.com](https://go.microsoft.com/fwlink/?linkid=2109397).
 - Pokud si nekupujete pro firmu, [zaregistrujte si domácí nebo rodinný plán.](https://go.microsoft.com/fwlink/?linkid=2109398) 
 
 ## <a name="sign-up-steps"></a>Kroky registrace
@@ -58,8 +58,8 @@ Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní 
 Pokud chcete zaregistrovat a zakoupit Microsoft 365 pro vaši firmu, proveďte následující kroky:
 
 1. Na [stránce Microsoft 365 pro firmy](https://go.microsoft.com/fwlink/?linkid=2109654)vyberte **Zobrazit plány & ceny**. 
-2. Na další stránce zjistíte měsíční náklady a pak posuňte stránku dolů, abyste zjistili další informace o tom, co je součástí Microsoftu 365 Business. V části Microsoft 365 Business vyberte **Koupit .**
-3. Na stránce **Děkujeme, že jste si vybrali Microsoft 365 Business,** zadejte své informace, abyste mohli začít.
+2. Na další stránce zjistíte měsíční náklady a pak posuňte stránku dolů, abyste zjistili další informace o tom, co je součástí Microsoftu 365. V části Microsoft 365 Business Premium vyberte **Koupit .**
+3. Na stránce **Děkujeme, že jste si vybrali Microsoft 365 Business Premium,** zadejte své údaje, abyste mohli začít.
 4. V **kroku 1**zadejte e-mailovou adresu, kterou již používáte. Může se jedná o aktuální pracovní e-mailovou adresu nebo libovolnou adresu, kterou má společnost Microsoft použít ke komunikaci během instalace. Je to také adresa, na které vám budeme zasílat informace o vaší vyúčtování a obnovení. Pak **vyberte, Nastavit účet**.
 5. V **kroku 2**zadejte své jméno, telefonní číslo firmy, název společnosti a umístění. Vaše země nebo oblast určuje přesné služby, které obdržíte od společnosti Microsoft, a po dokončení tohoto kroku je nelze změnit. Vyberte **Další**.
     > [!NOTE]
@@ -96,4 +96,4 @@ Nápovědu k nastavení najdete v [tématu nastavení](set-up.md).
 
 ## <a name="see-also"></a>Viz také
 
-[Školicí videa k Microsoftu 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 pro firemní školicí videa](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
