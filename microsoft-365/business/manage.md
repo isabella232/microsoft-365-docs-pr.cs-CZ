@@ -1,5 +1,5 @@
 ---
-title: Správa Microsoft 365 Business
+title: Správa Microsoftu 365 pro firmy
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -20,82 +20,82 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: Naučte se spravovat úkoly správy související s Microsoft 365 Business, mobilní zařízení, počítače s Windows 10 a mnoho takových úloh.
-ms.openlocfilehash: 41b627b0bb7cbb009832d3e7c45e44ceb8a8fdcd
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Naučte se spravovat úkoly správce microsoftu 365 pro firmy, mobilní zařízení, počítače s Windows 10 a mnoho takových úloh.
+ms.openlocfilehash: 5e6d4633410d4aa38ad1eebcab3405f57f5b2446
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593775"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633257"
 ---
-# <a name="manage-microsoft-365-business"></a><span data-ttu-id="2fc0a-103">Správa Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="2fc0a-103">Manage Microsoft 365 Business</span></span>
+# <a name="manage-microsoft-365-for-business"></a><span data-ttu-id="48bf5-103">Správa Microsoftu 365 pro firmy</span><span class="sxs-lookup"><span data-stu-id="48bf5-103">Manage Microsoft 365 for business</span></span>
 
-## <a name="general-microsoft-365-business-admin-tasks"></a><span data-ttu-id="2fc0a-104">Obecné úkoly správy Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="2fc0a-104">General Microsoft 365 Business admin tasks</span></span>
+## <a name="general-microsoft-365-for-business-admin-tasks"></a><span data-ttu-id="48bf5-104">Obecné úlohy microsoftu 365 pro správce firmy</span><span class="sxs-lookup"><span data-stu-id="48bf5-104">General Microsoft 365 for business admin tasks</span></span>
 
-<span data-ttu-id="2fc0a-105">Většina [obsahu pro správce](https://docs.microsoft.com/office365/admin/admin-home) pro Office 365 pro firmy platí i pro Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="2fc0a-105">Most of the [admin content](https://docs.microsoft.com/office365/admin/admin-home) for Office 365 for business also applies to Microsoft 365 Business.</span></span>
+<span data-ttu-id="48bf5-105">Většina [obsahu správce](https://docs.microsoft.com/office365/admin/admin-home) pro Office 365 platí také pro Microsoft 365 pro firmy.</span><span class="sxs-lookup"><span data-stu-id="48bf5-105">Most of the [admin content](https://docs.microsoft.com/office365/admin/admin-home) for Office 365 also applies to Microsoft 365 for business.</span></span>
 
-- [<span data-ttu-id="2fc0a-106">Přidání dalších uživatelů do Microsoftu 365 Business</span><span class="sxs-lookup"><span data-stu-id="2fc0a-106">Add more users to Microsoft 365 Business</span></span>](add-users-m365b.md)
+- [<span data-ttu-id="48bf5-106">Přidání dalších uživatelů do Microsoftu 365 pro firmy</span><span class="sxs-lookup"><span data-stu-id="48bf5-106">Add more users to Microsoft 365 for business</span></span>](add-users-m365b.md)
     
-- [<span data-ttu-id="2fc0a-107">Zobrazení zásad a zařízení</span><span class="sxs-lookup"><span data-stu-id="2fc0a-107">View policies and devices</span></span>](view-policies-and-devices.md)
+- [<span data-ttu-id="48bf5-107">Zobrazení zásad a zařízení</span><span class="sxs-lookup"><span data-stu-id="48bf5-107">View policies and devices</span></span>](view-policies-and-devices.md)
     
-- [<span data-ttu-id="2fc0a-108">Funkce zabezpečení Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="2fc0a-108">Microsoft 365 Business security features</span></span>](security-features.md)
+- [<span data-ttu-id="48bf5-108">Microsoft 365 pro firemní funkce zabezpečení</span><span class="sxs-lookup"><span data-stu-id="48bf5-108">Microsoft 365 for business security features</span></span>](security-features.md)
     
-- [<span data-ttu-id="2fc0a-109">Mapování funkcí ochrany v Microsoft 365 Business na nastavení Intune</span><span class="sxs-lookup"><span data-stu-id="2fc0a-109">How do protection features in Microsoft 365 Business map to Intune settings</span></span>](map-protection-features-to-intune-settings.md)
+- [<span data-ttu-id="48bf5-109">Jak se funkce ochrany v Microsoft 365 pro obchodní mapu nastavení Intune</span><span class="sxs-lookup"><span data-stu-id="48bf5-109">How do protection features in Microsoft 365 for business map to Intune settings</span></span>](map-protection-features-to-intune-settings.md)
     
-<span data-ttu-id="2fc0a-110">Podívejte se na následující části o tom, jak pomocí Microsoft 365 Business chránit data vaší organizace na počítačích a mobilních zařízeních.</span><span class="sxs-lookup"><span data-stu-id="2fc0a-110">See the following sections on how to use Microsoft 365 Business to protect your organization's data on PCs and mobile devices.</span></span>
+<span data-ttu-id="48bf5-110">V následujících částech se můžete pomocí Microsoftu 365 pro firmy chránit data vaší organizace na počítačích a mobilních zařízeních.</span><span class="sxs-lookup"><span data-stu-id="48bf5-110">See the following sections on how to use Microsoft 365 for business to protect your organization's data on PCs and mobile devices.</span></span>
   
-## <a name="manage-mobile-devices"></a><span data-ttu-id="2fc0a-111">Správa mobilních zařízení</span><span class="sxs-lookup"><span data-stu-id="2fc0a-111">Manage mobile devices</span></span>
+## <a name="manage-mobile-devices"></a><span data-ttu-id="48bf5-111">Správa mobilních zařízení</span><span class="sxs-lookup"><span data-stu-id="48bf5-111">Manage mobile devices</span></span>
 
-- [<span data-ttu-id="2fc0a-112">Nastavení mobilních zařízení pro uživatele služby Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="2fc0a-112">Set up mobile devices for Microsoft 365 Business users</span></span>](set-up-mobile-devices.md)
+- [<span data-ttu-id="48bf5-112">Nastavení mobilních zařízení pro Microsoft 365 pro firemní uživatele</span><span class="sxs-lookup"><span data-stu-id="48bf5-112">Set up mobile devices for Microsoft 365 for business users</span></span>](set-up-mobile-devices.md)
     
-- [<span data-ttu-id="2fc0a-113">Nastavení ochrany aplikací pro zařízení s Androidem nebo iOSem</span><span class="sxs-lookup"><span data-stu-id="2fc0a-113">Set app protection settings for Android or iOS devices</span></span>](app-protection-settings-for-android-and-ios.md)
+- [<span data-ttu-id="48bf5-113">Nastavení ochrany aplikací pro zařízení s Androidem nebo iOSem</span><span class="sxs-lookup"><span data-stu-id="48bf5-113">Set app protection settings for Android or iOS devices</span></span>](app-protection-settings-for-android-and-ios.md)
     
-    <span data-ttu-id="2fc0a-114">Pokud se chcete ujistit, že to funguje, přečtěte si téma [Ověření nastavení ochrany aplikací na zařízení s Androidem nebo iOS](validate-settings-on-android-or-ios.md).</span><span class="sxs-lookup"><span data-stu-id="2fc0a-114">To make sure this worked, see [Validate app protection settings on an Android or iOS device](validate-settings-on-android-or-ios.md).</span></span> 
+    <span data-ttu-id="48bf5-114">Pokud chcete mít jistotu, že to fungovalo, [přečtěte si téma Ověření nastavení ochrany aplikací na zařízení se systémem Android nebo iOS](validate-settings-on-android-or-ios.md).</span><span class="sxs-lookup"><span data-stu-id="48bf5-114">To make sure this worked, see [Validate app protection settings on an Android or iOS device](validate-settings-on-android-or-ios.md).</span></span> 
     
-- [<span data-ttu-id="2fc0a-115">Odebrání dat společnosti ze zařízení</span><span class="sxs-lookup"><span data-stu-id="2fc0a-115">Remove company data from devices</span></span>](remove-company-data.md)
+- [<span data-ttu-id="48bf5-115">Odebrání dat společnosti ze zařízení</span><span class="sxs-lookup"><span data-stu-id="48bf5-115">Remove company data from devices</span></span>](remove-company-data.md)
     
-## <a name="manage-windows-10-pcs"></a><span data-ttu-id="2fc0a-116">Správa počítačů PC s Windows 10</span><span class="sxs-lookup"><span data-stu-id="2fc0a-116">Manage Windows 10 PCs</span></span>
+## <a name="manage-windows-10-pcs"></a><span data-ttu-id="48bf5-116">Správa počítačů PC s Windows 10</span><span class="sxs-lookup"><span data-stu-id="48bf5-116">Manage Windows 10 PCs</span></span>
 
-- [<span data-ttu-id="2fc0a-117">Nastavení zařízení s Windows pro uživatele služby Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="2fc0a-117">Set up Windows devices for Microsoft 365 Business users</span></span>](set-up-windows-devices.md)
+- [<span data-ttu-id="48bf5-117">Nastavení zařízení s Windows pro Microsoft 365 pro firemní uživatele</span><span class="sxs-lookup"><span data-stu-id="48bf5-117">Set up Windows devices for Microsoft 365 for business users</span></span>](set-up-windows-devices.md)
 
-    <span data-ttu-id="2fc0a-118">Před automatickou instalací Office si přečtěte článek [Příprava nasazení klienta Office prostřednictvím plánu Microsoft 365 Business](prepare-for-office-client-deployment.md).</span><span class="sxs-lookup"><span data-stu-id="2fc0a-118">Read [Prepare for Office client deployment by Microsoft 365 Business](prepare-for-office-client-deployment.md) before you auto-install Office.</span></span> 
+    <span data-ttu-id="48bf5-118">Před automatickou instalací Office si přečtěte [článek Příprava na nasazení klienta Office microsoftem 365 pro firmy.](prepare-for-office-client-deployment.md)</span><span class="sxs-lookup"><span data-stu-id="48bf5-118">Read [Prepare for Office client deployment by Microsoft 365 for business](prepare-for-office-client-deployment.md) before you auto-install Office.</span></span> 
     
-- [<span data-ttu-id="2fc0a-119">Nastavení ochrany zařízení pro zařízení s Windows 10</span><span class="sxs-lookup"><span data-stu-id="2fc0a-119">Set device protection settings for Windows 10 devices</span></span>](protection-settings-for-windows-10-pcs.md)
+- [<span data-ttu-id="48bf5-119">Nastavení ochrany zařízení pro zařízení s Windows 10</span><span class="sxs-lookup"><span data-stu-id="48bf5-119">Set device protection settings for Windows 10 devices</span></span>](protection-settings-for-windows-10-pcs.md)
     
-    <span data-ttu-id="2fc0a-120">Pokud se chcete ujistit, že to funguje, přečtěte si téma [Ověření nastavení ochrany zařízení na zařízeních s Windows 10](validate-settings-on-windows-10-pcs.md).</span><span class="sxs-lookup"><span data-stu-id="2fc0a-120">To make sure this worked, see [Validate device protection settings on Windows 10 devices](validate-settings-on-windows-10-pcs.md).</span></span> 
+    <span data-ttu-id="48bf5-120">Informace o tom, že to fungovalo, najdete [v tématu Ověření nastavení ochrany zařízení na zařízeních s Windows 10](validate-settings-on-windows-10-pcs.md).</span><span class="sxs-lookup"><span data-stu-id="48bf5-120">To make sure this worked, see [Validate device protection settings on Windows 10 devices](validate-settings-on-windows-10-pcs.md).</span></span> 
     
-- [<span data-ttu-id="2fc0a-121">Nastavení ochrany aplikací pro zařízení s Windows 10</span><span class="sxs-lookup"><span data-stu-id="2fc0a-121">Set application protection settings for Windows 10 devices</span></span>](protection-settings-for-windows-10-devices.md)
+- [<span data-ttu-id="48bf5-121">Nastavení ochrany aplikací pro zařízení s Windows 10</span><span class="sxs-lookup"><span data-stu-id="48bf5-121">Set application protection settings for Windows 10 devices</span></span>](protection-settings-for-windows-10-devices.md)
     
-    <span data-ttu-id="2fc0a-122">Pokud se chcete ujistit, že to funguje, přečtěte si téma [Ověření nastavení ochrany aplikací v počítačích](validate-protection-settings-on-windows-10-pcs.md)s Windows 10 .</span><span class="sxs-lookup"><span data-stu-id="2fc0a-122">To make sure this worked, see [Validate app protection settings on Windows 10 PCs](validate-protection-settings-on-windows-10-pcs.md).</span></span> 
+    <span data-ttu-id="48bf5-122">Pokud se chcete ujistit, že to fungovalo, [přečtěte si téma Ověření nastavení ochrany aplikací na počítačích s Windows 10](validate-protection-settings-on-windows-10-pcs.md).</span><span class="sxs-lookup"><span data-stu-id="48bf5-122">To make sure this worked, see [Validate app protection settings on Windows 10 PCs](validate-protection-settings-on-windows-10-pcs.md).</span></span> 
     
-- [<span data-ttu-id="2fc0a-123">Odebrání dat společnosti ze zařízení</span><span class="sxs-lookup"><span data-stu-id="2fc0a-123">Remove company data from devices</span></span>](remove-company-data.md)
+- [<span data-ttu-id="48bf5-123">Odebrání dat společnosti ze zařízení</span><span class="sxs-lookup"><span data-stu-id="48bf5-123">Remove company data from devices</span></span>](remove-company-data.md)
     
-- [<span data-ttu-id="2fc0a-124">Obnovení továrního nastavení u zařízení s Windows 10</span><span class="sxs-lookup"><span data-stu-id="2fc0a-124">Reset Windows 10 devices to their factory settings</span></span>](reset-devices-to-factory-settings.md)
+- [<span data-ttu-id="48bf5-124">Obnovení továrního nastavení u zařízení s Windows 10</span><span class="sxs-lookup"><span data-stu-id="48bf5-124">Reset Windows 10 devices to their factory settings</span></span>](reset-devices-to-factory-settings.md)
     
-### <a name="use-autopilot-to-deploy-windows-10-devices"></a><span data-ttu-id="2fc0a-125">Nasazení zařízení s Windows 10 pomocí AutoPilota</span><span class="sxs-lookup"><span data-stu-id="2fc0a-125">Use AutoPilot to deploy Windows 10 devices</span></span>
+### <a name="use-autopilot-to-deploy-windows-10-devices"></a><span data-ttu-id="48bf5-125">Nasazení zařízení s Windows 10 pomocí AutoPilota</span><span class="sxs-lookup"><span data-stu-id="48bf5-125">Use AutoPilot to deploy Windows 10 devices</span></span>
 
-<span data-ttu-id="2fc0a-126">Následující témata popisují, jak pomocí Windows AutoPilota v Microsoft 365 Business předkonfigurovat zařízení s Windows 10.</span><span class="sxs-lookup"><span data-stu-id="2fc0a-126">The following topics describe how you can use Windows AutoPilot in Microsoft 365 Business to pre-configure Windows 10 devices.</span></span>
+<span data-ttu-id="48bf5-126">Následující témata popisují, jak můžete pomocí windows autopilotu v Microsoftu 365 pro firmy předem nakonfigurovat zařízení s Windows 10.</span><span class="sxs-lookup"><span data-stu-id="48bf5-126">The following topics describe how you can use Windows AutoPilot in Microsoft 365 for business to pre-configure Windows 10 devices.</span></span>
   
-- [<span data-ttu-id="2fc0a-127">Podrobné pokyny k přidání zařízení a profilů AutoPilota</span><span class="sxs-lookup"><span data-stu-id="2fc0a-127">Use the step-by-step guide to add Autopilot devices and profile</span></span>](add-autopilot-devices-and-profile.md)
+- [<span data-ttu-id="48bf5-127">Podrobné pokyny k přidání zařízení a profilů AutoPilota</span><span class="sxs-lookup"><span data-stu-id="48bf5-127">Use the step-by-step guide to add Autopilot devices and profile</span></span>](add-autopilot-devices-and-profile.md)
     
-- [<span data-ttu-id="2fc0a-128">Vytvoření a úpravy profilů AutoPilota</span><span class="sxs-lookup"><span data-stu-id="2fc0a-128">Create and edit AutoPilot profiles</span></span>](create-and-edit-autopilot-profiles.md)
+- [<span data-ttu-id="48bf5-128">Vytvoření a úpravy profilů AutoPilota</span><span class="sxs-lookup"><span data-stu-id="48bf5-128">Create and edit AutoPilot profiles</span></span>](create-and-edit-autopilot-profiles.md)
     
-- [<span data-ttu-id="2fc0a-129">Vytvoření a úpravy zařízení pomocí AutoPilota</span><span class="sxs-lookup"><span data-stu-id="2fc0a-129">Create and edit AutoPilot devices</span></span>](create-and-edit-autopilot-devices.md)
+- [<span data-ttu-id="48bf5-129">Vytvoření a úpravy zařízení pomocí AutoPilota</span><span class="sxs-lookup"><span data-stu-id="48bf5-129">Create and edit AutoPilot devices</span></span>](create-and-edit-autopilot-devices.md)
     
-- [<span data-ttu-id="2fc0a-130">Odstraňování chyb zařízení AutoPilota</span><span class="sxs-lookup"><span data-stu-id="2fc0a-130">Troubleshoot AutoPilot device errors</span></span>](troubleshoot-autopilot-errors.md)
+- [<span data-ttu-id="48bf5-130">Odstraňování chyb zařízení AutoPilota</span><span class="sxs-lookup"><span data-stu-id="48bf5-130">Troubleshoot AutoPilot device errors</span></span>](troubleshoot-autopilot-errors.md)
     
-- [<span data-ttu-id="2fc0a-131">Stavy zařízení</span><span class="sxs-lookup"><span data-stu-id="2fc0a-131">Device states</span></span>](device-states.md)
+- [<span data-ttu-id="48bf5-131">Stavy zařízení</span><span class="sxs-lookup"><span data-stu-id="48bf5-131">Device states</span></span>](device-states.md)
     
-- <span data-ttu-id="2fc0a-132">[Informace o nastavení profilu AutoPilota](autopilot-profile-settings.md) .</span><span class="sxs-lookup"><span data-stu-id="2fc0a-132">[About AutoPilot Profile settings](autopilot-profile-settings.md)</span></span>
+- <span data-ttu-id="48bf5-132">[Informace o nastavení profilu AutoPilota](autopilot-profile-settings.md) .</span><span class="sxs-lookup"><span data-stu-id="48bf5-132">[About AutoPilot Profile settings](autopilot-profile-settings.md)</span></span>
     
-## <a name="set-up-and-prerequisite-information"></a><span data-ttu-id="2fc0a-133">Nastavení a požadované informace</span><span class="sxs-lookup"><span data-stu-id="2fc0a-133">Set up and prerequisite information</span></span>
+## <a name="set-up-and-prerequisite-information"></a><span data-ttu-id="48bf5-133">Nastavení a informace o předpokladech</span><span class="sxs-lookup"><span data-stu-id="48bf5-133">Set up and prerequisite information</span></span>
 
-- [<span data-ttu-id="2fc0a-134">Předpoklady pro ochranu dat na zařízeních s Microsoft em 365 Business</span><span class="sxs-lookup"><span data-stu-id="2fc0a-134">Prerequisites for protecting data on devices with Microsoft 365 Business</span></span>](pre-requisites-for-data-protection.md)
+- [<span data-ttu-id="48bf5-134">Požadavky na ochranu dat na zařízeních s Microsoftem 365 pro firmy</span><span class="sxs-lookup"><span data-stu-id="48bf5-134">Prerequisites for protecting data on devices with Microsoft 365 for business</span></span>](pre-requisites-for-data-protection.md)
     
-- [<span data-ttu-id="2fc0a-135">Nastavení Microsoft 365 Business pomocí průvodce nastavením</span><span class="sxs-lookup"><span data-stu-id="2fc0a-135">Set up Microsoft 365 Business by using the setup wizard</span></span>](set-up.md)
+- [<span data-ttu-id="48bf5-135">Nastavení microsoftu 365 pro firmy pomocí průvodce nastavením</span><span class="sxs-lookup"><span data-stu-id="48bf5-135">Set up Microsoft 365 for business by using the setup wizard</span></span>](set-up.md)
     
-- [<span data-ttu-id="2fc0a-136">Migrace na Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="2fc0a-136">Migrate to Microsoft 365 Business</span></span>](migrate-to-microsoft-365-business.md)
+- [<span data-ttu-id="48bf5-136">Migrace na Microsoft 365 pro firmy</span><span class="sxs-lookup"><span data-stu-id="48bf5-136">Migrate to Microsoft 365 for business</span></span>](migrate-to-microsoft-365-business.md)
     
-- [<span data-ttu-id="2fc0a-137">Jak nastavit, aby zařízení s Windows 10 připojená k doméně byla spravovaná prostřednictvím plánu Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="2fc0a-137">Enable domain-joined Windows 10 devices to be managed by Microsoft 365 Business</span></span>](manage-windows-devices.md)
+- [<span data-ttu-id="48bf5-137">Povolení spravovaných zařízení s Windows 10 připojená k doméně, kterou spravuje Microsoft 365 pro firmy</span><span class="sxs-lookup"><span data-stu-id="48bf5-137">Enable domain-joined Windows 10 devices to be managed by Microsoft 365 for business</span></span>](manage-windows-devices.md)
     
-- [<span data-ttu-id="2fc0a-138">Další funkce zabezpečení</span><span class="sxs-lookup"><span data-stu-id="2fc0a-138">Additional security features</span></span>](security-features.md#additional-security-features)
+- [<span data-ttu-id="48bf5-138">Další funkce zabezpečení</span><span class="sxs-lookup"><span data-stu-id="48bf5-138">Additional security features</span></span>](security-features.md#additional-security-features)
