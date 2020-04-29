@@ -12,12 +12,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business Premium, Microsoft 365, SMB, časté otázky, nejčastější dotazy, odpovědi, firmy
 ms.date: 06/08/2018
-ms.openlocfilehash: e456719d393dc911a6f28455e530c90e8ab9ff5a
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 2ace43e0a3bab466d102740434b2a126fb8e099d
+ms.sourcegitcommit: b6c4b514b2cb6739af949780d7e2a5a5c8dcc161
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635078"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43900684"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Časté otázky k Microsoftu 365 Business Premium
 
@@ -85,7 +85,7 @@ Většina stávajících aplikací bude díky silné podpoře kompatibility apli
 ### <a name="what-is-windows-10-business"></a>Co je Windows 10 Business? 
 Windows 10 Business je sada cloudových služeb a funkcí správy zařízení, které doplňují Windows 10 Pro a také zajišťují centralizovanou správu a poskytují zabezpečení Microsoftu 365 Business Premium.
 
-Součástí Windows 10 Business jsou také určité prémiové funkce programu Microsoft Defender, jako je například řízený přístup ke složkám a ochrana sítě pro webová vlákna. Zahrnuje také službu Windows AutoPilot, která zjednodušuje nasazení nových počítačů s Windows 10.
+Součástí Windows 10 Business jsou také určité prémiové funkce programu Microsoft Defender, jako je například řízený přístup ke složkám a ochrana sítě pro webové hrozby. Zahrnuje také službu Windows AutoPilot, která zjednodušuje nasazení nových počítačů s Windows 10.
 
 Pokud máte zařízení, na kterých máte licenci pro Windows 7, 8 a 8.1 Professional, zajišťuje Microsoft 365 Business Premium upgrade na Windows 10 Pro, což je předpokladem pro nasazení Windows 10 Business.
 > [!IMPORTANT]
