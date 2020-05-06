@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Přečtěte si o Microsoftu 365 pro firmy, jak ho nastavit a jak připravit zařízení a počítače uživatelů, abyste zajistili, že jsou chráněni Microsoftem 365 pro firmy.
-ms.openlocfilehash: 17b142fb704d1b0be088a649490e751effb19517
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 8754c470cb6369f0814f953288be130fa49cea86
+ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633197"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44048079"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Začínáme s Microsoftem 365 pro firmy
 
@@ -44,7 +44,7 @@ Podívejte se na toto video, kde najdete rychlý přehled Microsoftu 365 pro fir
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Microsoft 365 pro firmy je určen až pro 300 licencí. Pokud potřebujete další licence, další informace najdete v dokumentaci k [Microsoft 365 Enterprise.](https://go.microsoft.com/fwlink/p/?linkid=860986) 
+Microsoft 365 pro firmy je určen až pro 300 licencí. Pokud potřebujete více licencí, najdete další informace v dokumentaci k [Microsoftu 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986). 
   
 ## <a name="get-microsoft-365-for-business"></a>Získání Microsoftu 365 pro firmy
 
@@ -83,7 +83,7 @@ Přihlaste se k [Centru pro správu Microsoftu 365](https://portal.office.com/ad
     
     - Pomocí průvodce synchronizací adresářů synchronizujte uživatele s cloudem. Tento proces dokončete podle pokynů v části [Nastavení synchronizace adresářů pro Microsoft 365.](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) Po synchronizaci uživatelů s cloudem budete muset [vypnout synchronizaci adresářů pro Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
     
-    Budete také muset dát každému uživateli, který byl přidán tímto způsobem licenci k Microsoft 365 pro firmy. Můžete to provést v [průvodci instalací](set-up.md) nebo můžete [přiřadit licence uživatelům v Microsoftu 365 pro firmy](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
+    Budete také muset dát každému uživateli, který byl přidán tímto způsobem licenci k Microsoft 365 pro firmy. Můžete to provést v [průvodci instalací](set-up.md) nebo můžete [přiřadit licence uživatelům v Microsoftu 365 pro firmy](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
     
 ### <a name="2-prepare-mobile-devices"></a>2: Příprava mobilních zařízení
 
