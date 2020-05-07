@@ -12,12 +12,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business Premium, Microsoft 365, SMB, časté otázky, nejčastější dotazy, odpovědi, firmy
 ms.date: 06/08/2018
-ms.openlocfilehash: 2ace43e0a3bab466d102740434b2a126fb8e099d
-ms.sourcegitcommit: b6c4b514b2cb6739af949780d7e2a5a5c8dcc161
-ms.translationtype: HT
+ms.openlocfilehash: 68e085313b0344f9e48ddfa9124c1d2d7297ae45
+ms.sourcegitcommit: 7f307b4f583b602f11f69adae46d7f3bf6982c65
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43900684"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44065829"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Časté otázky k Microsoftu 365 Business Premium
 
@@ -130,7 +130,7 @@ Zákazníci, kteří chtějí mít možnost využívat všechny funkce Microsoft
 ## <a name="deployment"></a>Nasazení
 
 ### <a name="what-should-customers-consider-when-planning-a-microsoft-365-business-premium-deployment"></a>Co by měli zákazníci zvážit při plánování nasazení Microsoftu 365 Business Premium? 
-Nejpřímější cestou k úspěšnému nasazení Microsoftu 365 Business Premium je spolupráce s partnerem společnosti Microsoft. Partneři byli intenzivně proškoleni, mají rozsáhlé zkušenosti s celou řadou zákaznických scénářů a nejlépe rozumějí vašim potřebám a také vlastnostem vašeho prostředí. Zákazníci se zkušenými zaměstnanci v IT oddělení mohou využít informace v <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">článku s úvodem do Microsoftu 365 Business Premium</a>, který jim může při nasazování Microsoftu 365 Business Premium pomoct. 
+Nejpřímější cestou k úspěšnému nasazení Microsoftu 365 Business Premium je spolupráce s partnerem společnosti Microsoft. Partneři byli intenzivně proškoleni, mají rozsáhlé zkušenosti s celou řadou zákaznických scénářů a nejlépe rozumějí vašim potřebám a také vlastnostem vašeho prostředí. Zákazníci se zkušenými zaměstnanci v IT oddělení mohou využít informace v <a href="https://docs.microsoft.com/microsoft-365/business/microsoft-365-business-overview" target="_blank">článku s úvodem do Microsoftu 365 Business Premium</a>, který jim může při nasazování Microsoftu 365 Business Premium pomoct. 
 
 ### <a name="does-microsoft-365-business-premium-include-the-full-capabilities-of-microsoft-intune"></a>Zahrnuje Microsoft 365 Business Premium všechny funkce Microsoft Intune? 
 Ano, předplatitelé Microsoftu 365 Business Premium mají licenci k využívání všech funkcí Intune pro správu zařízení s iOSem, Androidem, MacOS a dalších zařízení napříč platformami. Funkce, které nejsou k dispozici ve zjednodušené konzole pro správu v Microsoftu 365 Business Premium, jako je správa aplikací třetích stran a konfigurace profilů WiFi, certifikátů VPN, je možné spravovat v plné verzi konzoly Intune. 
