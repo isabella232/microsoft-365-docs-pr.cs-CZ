@@ -21,12 +21,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Nastavte funkce dodržování předpisů, abyste zabránili ztrátě dat a zajistili bezpečnost citlivých informací vašich zákazníků.
-ms.openlocfilehash: 523d020587bcf16e46263b88ee7654b9c786e7a2
-ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
+ms.openlocfilehash: a3405207cd7d2d6565807ef0f3a51acbcb80409a
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44048059"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165731"
 ---
 # <a name="set-up-compliance-features"></a>Nastavení funkcí dodržování předpisů
 
@@ -34,9 +34,9 @@ Microsoft 365 Business Premium je vybaven funkcemi, které chrání vaše data a
 
 ## <a name="set-up-dlp-features"></a>Nastavení funkcí programu DLP
 
-Příklad, jak nastavit zásadu ochrany před únikem informací ze šablony, najdete v tématu [Vytvoření zásady ochrany před únikem](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) informací(PII). 
+Příklad, jak nastavit zásadu ochrany před únikem informací ze šablony, najdete v tématu [Vytvoření zásady ochrany před únikem](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template) informací(PII). 
   
-DLP je dodáván s mnoha připravenými šablonami zásad pro mnoho různých národních prostředí. Například Australia Financial Data, Canada Personal Information Act, U.S. Financial Data a tak dále. Podívejte se [na informace o tom, co šablony zásad ochrany před únikem dat obsahují](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) pro úplný seznam. Všechny tyto šablony lze povolit podobně jako příklad šablony PII. 
+DLP je dodáván s mnoha připravenými šablonami zásad pro mnoho různých národních prostředí. Například Australia Financial Data, Canada Personal Information Act, U.S. Financial Data a tak dále. Podívejte se [na informace o tom, co šablony zásad ochrany před únikem dat obsahují](https://docs.microsoft.com/microsoft-365/compliance/what-the-dlp-policy-templates-include) pro úplný seznam. Všechny tyto šablony lze povolit podobně jako příklad šablony PII. 
   
 ## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Nastavení uchovávání e-mailů pomocí archivace Exchange Online
 

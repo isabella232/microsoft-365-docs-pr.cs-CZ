@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Přečtěte si, jak povolit Microsoft 365 k ochraně místních zařízení se službou Active-Directory se systémem Windows 10 v několika krocích.
-ms.openlocfilehash: 431c1be74723e156befb13ffe1ed98b48b9a23cb
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: adc125c32fe5aa56be8c17c07f28316602a36594
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633277"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165803"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-for-business"></a>Povolení spravovaných zařízení s Windows 10 připojená k doméně, kterou spravuje Microsoft 365 pro firmy
 
@@ -53,7 +53,7 @@ Před synchronizací uživatelů a počítačů s místní doménou služby Acti
 
 ## <a name="2-install-and-configure-azure-ad-connect"></a>2. Instalace a konfigurace služby Azure AD Connect
 
-Chcete-li synchronizovat uživatele, skupiny a kontakty z místní služby Active Directory do služby Azure Active Directory, nainstalujte službu Azure Active Directory Connect a nastavte synchronizaci adresářů. Další informace najdete [v tématu Nastavení synchronizace adresářů pro Office 365.](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846)
+Chcete-li synchronizovat uživatele, skupiny a kontakty z místní služby Active Directory do služby Azure Active Directory, nainstalujte službu Azure Active Directory Connect a nastavte synchronizaci adresářů. Další informace najdete [v tématu Nastavení synchronizace adresářů pro Office 365.](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization)
 
 > [!NOTE]
 > Kroky jsou přesně stejné pro Microsoft 365 pro firmy. 

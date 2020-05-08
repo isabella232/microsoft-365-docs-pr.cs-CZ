@@ -24,12 +24,12 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: Přečtěte si, jak pomocí Windows AutoPilot nastavit nová zařízení s Windows 10 pro vaši firmu, aby byla připravená pro zaměstnance.
-ms.openlocfilehash: 98a2bfc721ce86c81ebd89e8f41603e619b31546
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: de14012ebf9e7cdd22e41505f316ab665773c670
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627488"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165875"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Podrobné pokyny k přidání zařízení a profilů Autopilota
 
@@ -69,7 +69,7 @@ Pokud jste ještě nevytvořili skupiny zařízení nebo profily, nejlepší zp�
     
     Tyto informace můžete získat od dodavatele hardwaru nebo můžete použít [skript Get-WindowsAutoPilotInfo PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) ke generování souboru CSV. 
     
-    Další informace najdete v článku [Soubor CSV se seznamem zařízení](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e). Můžete si také stáhnout ukázkový soubor, který je na stránce **Nahrát soubor .csv obsahující seznam zařízení**. 
+    Další informace najdete v článku [Soubor CSV se seznamem zařízení](https://docs.microsoft.com/microsoft-365/admin/misc/device-list). Můžete si také stáhnout ukázkový soubor, který je na stránce **Nahrát soubor .csv obsahující seznam zařízení**. 
     
 4. Na stránce **Přiřadit profil** můžete buď vybrat existující profil, nebo vytvořit nový. Pokud ho ještě nemáte, budete vyzváni k jeho vytvoření. 
     

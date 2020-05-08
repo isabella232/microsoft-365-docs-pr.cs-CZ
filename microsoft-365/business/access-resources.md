@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Zjistěte, jak získat přístup k místním prostředkům, jako jsou obchodní aplikace, sdílené složky a tiskárny z Azure Active Directory, které se připojilo k zařízení s Windows 10.
-ms.openlocfilehash: c1e04e5ca0d36c32a55a9819140356db5093e3a1
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 980efbf09349cc0203ac50ae5e028c008d5694ca
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627448"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165895"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Přístup k místním prostředkům ze zařízení s azure a d-up v Microsoft 365 Business Premium
 
@@ -41,7 +41,7 @@ Kroky jsou také shrnuty v následujících částech.
 
 Pomocí následujících kroků povolte zařízením Azure AD vaší organizace přístup k místním prostředkům.
   
-1. Chcete-li synchronizovat uživatele, skupiny a kontakty z místní služby Active Directory do služby Azure Active Directory, spusťte Průvodce synchronizací adresářů a Azure AD Connect, jak je popsáno v části [Nastavení synchronizace adresářů pro Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
+1. Chcete-li synchronizovat uživatele, skupiny a kontakty z místní služby Active Directory do služby Azure Active Directory, spusťte Průvodce synchronizací adresářů a Azure AD Connect, jak je popsáno v části [Nastavení synchronizace adresářů pro Office 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization).
     
 2. Po dokončení synchronizace adresářů se ujistěte, že jsou připojená zařízení vaší organizace s Windows 10. Tento krok se provádí individuálně na každém zařízení s Windows 10. Podrobnosti najdete [v tématu Nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium.](set-up-windows-devices.md) 
     
