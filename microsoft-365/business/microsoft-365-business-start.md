@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Přečtěte si o Microsoftu 365 pro firmy, jak ho nastavit a jak připravit zařízení a počítače uživatelů, abyste zajistili, že jsou chráněni Microsoftem 365 pro firmy.
-ms.openlocfilehash: 8754c470cb6369f0814f953288be130fa49cea86
-ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
+ms.openlocfilehash: a470f015857117d3cbbc15255e8d815438222509
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44048079"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165783"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Začínáme s Microsoftem 365 pro firmy
 
@@ -79,9 +79,9 @@ Přihlaste se k [Centru pro správu Microsoftu 365](https://portal.office.com/ad
     
     Pokud trvale **přecházíte z místní služby Active Directory do cloudu**, můžete přejít do Centra pro správu Microsoftu 365 a pomocí průvodce instalací přidat uživatele ručně, nebo můžete provést jednorázovou synchronizaci s Azure AD Connect. Můžete to udělat dvěma způsoby: 
     
-    - Pokud máte taky server Exchange 2010, Exchange 2013 nebo Exchange 2016, můžete [pomocí minimálního hybridu rychle migrovat poštovní schránky Exchange do Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef). Mezi minimální hybridní kroky patří jednorázová synchronizace uživatelů s Azure AD a migrace e-mailu z místního do cloudu. Po dokončení migrace e-mailu je synchronizace adresáře automaticky vypnuta při použití této metody.
+    - Pokud máte taky server Exchange 2010, Exchange 2013 nebo Exchange 2016, můžete [pomocí minimálního hybridu rychle migrovat poštovní schránky Exchange do Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate). Mezi minimální hybridní kroky patří jednorázová synchronizace uživatelů s Azure AD a migrace e-mailu z místního do cloudu. Po dokončení migrace e-mailu je synchronizace adresáře automaticky vypnuta při použití této metody.
     
-    - Pomocí průvodce synchronizací adresářů synchronizujte uživatele s cloudem. Tento proces dokončete podle pokynů v části [Nastavení synchronizace adresářů pro Microsoft 365.](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) Po synchronizaci uživatelů s cloudem budete muset [vypnout synchronizaci adresářů pro Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
+    - Pomocí průvodce synchronizací adresářů synchronizujte uživatele s cloudem. Tento proces dokončete podle pokynů v části [Nastavení synchronizace adresářů pro Microsoft 365.](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) Po synchronizaci uživatelů s cloudem budete muset [vypnout synchronizaci adresářů pro Office 365](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization).
     
     Budete také muset dát každému uživateli, který byl přidán tímto způsobem licenci k Microsoft 365 pro firmy. Můžete to provést v [průvodci instalací](set-up.md) nebo můžete [přiřadit licence uživatelům v Microsoftu 365 pro firmy](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
     
@@ -104,7 +104,7 @@ Pokud si ponecháte místní službu Active Directory, která obsahuje některé
   
 - Obraťte se na partnera.
     
-- Jako správce Microsoftu 365 pro firmy máte přístup k našemu týmu zákaznické podpory: ** [Obraťte se na podporu pro firemní produkty – nápověda pro správce](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
+- Jako správce Microsoftu 365 pro firmy máte přístup k našemu týmu zákaznické podpory: ** [Obraťte se na podporu pro firemní produkty – nápověda pro správce](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)**
     
 ## <a name="see-also"></a>Viz také
 

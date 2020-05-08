@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Seznamte se s funkcemi zabezpečení, které jsou součástí služby Microsoft 365 Business Premium a pomáhají chránit vaše data na počítačích, telefonech a tabletech.
-ms.openlocfilehash: 35eb0ac1dce216ccc557fc629ddb5d2df50e7134
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: f6aef84afc76217161dee6b68d626128e0cc15b2
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635138"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165751"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Funkce zabezpečení a dodržování předpisů microsoft 365 Business Premium
 
@@ -64,7 +64,7 @@ V Centru pro správu můžete spravovat mnoho funkcí zabezpečení Microsoft 36
 
 K dispozici jsou pokročilé funkce v Microsoft 365 Business Premium, které vám pomohou chránit vaši firmu před kybernetickými hrozbami a chránit citlivé informace.
   
-- **[Rozšířená ochrana před hrozbami v Office 365](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
+- **[Rozšířená ochrana před hrozbami v Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
     
     Pokročilá ochrana před internetovými útoky (ATP) pomáhá chránit vaši firmu před sofistikovanými útoky phishingu a ransomware, které jsou navrženy tak, aby ohrozily informace o zaměstnancích nebo zákaznících. Mezi funkce patří:
     
@@ -97,7 +97,7 @@ K dispozici jsou pokročilé funkce v Microsoft 365 Business Premium, které vá
 
 Vaše předplatné Microsoft 365 Business Premium obsahuje funkce, které vám pomohou dodržovat standardy dodržování předpisů a regulační standardy.
 
-- **[Přehled zásad prevence ztráty dat](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
+- **[Přehled zásad prevence ztráty dat](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)** (DLP). 
     
     Program DLP můžete nastavit tak, aby automaticky detekoval citlivé informace, jako jsou čísla kreditních karet, čísla sociálního pojištění a tak dále, abyste zabránili jejich neúmyslnému sdílení mimo vaši společnost.
     
