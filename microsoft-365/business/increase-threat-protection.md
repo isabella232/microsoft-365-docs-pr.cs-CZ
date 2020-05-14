@@ -21,12 +21,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Nastavte pokročilou ochranu před hrozbami Office 365 a chraňte citlivá data před phishingem, malwarem a dalšími hrozbami.
-ms.openlocfilehash: 2dd75b20bf203b9b8f0cdefb2459c45d1d0ccec1
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 748868b07ac8759a66bac3c6b4165509270426a6
+ms.sourcegitcommit: 6007dbe2cf758c683de399f94023122c678bcada
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627120"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44224465"
 ---
 # <a name="increase-threat-protection"></a>Zvýšení ochrany před hrozbami
 
@@ -34,7 +34,7 @@ Tento článek vám pomůže zvýšit ochranu v předplatném Microsoftu 365 a c
 
 Než začnete, zkontrolujte si skóre zabezpečení Office 365. Skóre zabezpečení Office 365 analyzuje zabezpečení vaší organizace na základě vašich běžných aktivit a nastavení zabezpečení a přiřadí skóre. Začněte tím, že vezmete na vědomí své aktuální skóre. Chcete-li zvýšit skóre, proveďte akce doporučené v tomto článku. Cílem není dosáhnout maximálního skóre, ale být si vědom příležitostí k ochraně vašeho prostředí, které nemají negativní vliv na produktivitu pro vaše uživatele. 
 
-Další informace naleznete v tématu [Microsoft Secure Score](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).
+Další informace naleznete v tématu [Microsoft Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score).
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Zvýšení úrovně ochrany proti malwaru v poště
 
@@ -42,7 +42,7 @@ Vaše prostředí Office 365 nebo Microsoft 365 zahrnuje ochranu proti malwaru. 
   
 1. Přejděte [https://protection.office.com](https://protection.office.com) na a přihlaste se pomocí přihlašovacích údajů účtu správce. 
     
-2. V Centru &amp; dodržování předpisů zabezpečení v levém navigačním podokně v části **Správa hrozeb**zvolte **Ochrana** \> **proti malwaru**.
+2. V Centru dodržování předpisů zabezpečení &amp; v levém navigačním podokně v části **Správa hrozeb**zvolte **Ochrana** \> **proti malwaru**.
     
 3. Poklepáním na výchozí zásadu upravte tuto celopodnikovou zásadu.
     
@@ -67,7 +67,7 @@ Kromě souborů, které jste zablokovali v předchozím kroku, je vhodné vytvo�
 
 Vytvoření pravidla přenosu pošty:
   
-1. Přejděte do Centra <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>pro správu na stránce a zvolte **Centra pro správu** \> **Exchange**.
+1. Přejděte do Centra pro správu na stránce <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> a zvolte **Centra pro správu** \> **Exchange**.
     
 2. V kategorii **toku pošty** vyberte **pravidla**.
     
@@ -130,7 +130,7 @@ Chcete-li vytvořit zásady ochrany proti phishingu ATP, podívejte se na [toto 
   
 1. Přejděte na [https://protection.office.com](https://protection.office.com). 
     
-2. V Centru &amp; dodržování předpisů zabezpečení v levém navigačním podokně v části **Správa hrozeb**zvolte **Zásady**.
+2. V Centru dodržování předpisů zabezpečení &amp; v levém navigačním podokně v části **Správa hrozeb**zvolte **Zásady**.
     
 3. Na stránce **Zásady** zvolte **ochrana proti phishingu ATP**.
     
@@ -147,10 +147,10 @@ Chcete-li vytvořit zásady ochrany proti phishingu ATP, podívejte se na [toto 
 |Popis  <br/> |Zajistěte, aby se z nich nevydávali nejdůležitější zaměstnanci a naše doména.  <br/> |
 |Přidání uživatelů k ochraně  <br/> |Vyberte **+ Přidat podmínku, Příjemce je**. Zadejte uživatelská jména nebo e-mailovou adresu kandidáta, manažera kampaně a dalších důležitých zaměstnanců. Můžete přidat až 20 interních a externích adres, které chcete chránit před zosobnění.  <br/> |
 |Přidání domén k ochraně  <br/> |Vyberte **+ Přidat podmínku, Doména příjemce je**. Pokud jste ji definovali, zadejte vlastní doménu přidruženou k předplatnému Microsoft 365. Můžete zadat více než jednu doménu.  <br/> |
-|Výběr akcí  <br/> |Pokud je e-mail odeslán zosobněným uživatelem: Zvolte **Přesměrovat zprávu na jinou e-mailovou adresu**a zadejte e-mailovou adresu správce zabezpečení. například *Alice<span><span>@contoso.com*. Pokud je e-mail odesílán zosobněnou doménou: Zvolte **zprávu karantény**.  <br/> |
+|Výběr akcí  <br/> |Pokud je e-mail odeslán zosobněným uživatelem: Zvolte **Přesměrovat zprávu na jinou e-mailovou adresu**a zadejte e-mailovou adresu správce zabezpečení. například *Alice <span> <span> @contoso.com*. Pokud je e-mail odesílán zosobněnou doménou: Zvolte **zprávu karantény**.  <br/> |
 |Informace o poštovních schránce  <br/> |Ve výchozím nastavení je při vytváření nové zásady ochrany proti phishingu vybrána inteligentní služba poštovní schránky. Toto nastavení ponechte **zapnuté,** aby bylo k onomu nejlepší.  <br/> |
 |Přidání důvěryhodných odesílatelů a domén  <br/> |Zde můžete přidat vlastní doménu nebo jiné důvěryhodné domény.  <br/> |
-|Použito na  <br/> |Vyberte **Možnost Doména příjemce je**. V **části Některá z těchto položek**vyberte **zvolit**. Vyberte **+ Přidat**. Zaškrtněte políčko vedle názvu domény, například *contoso.<span> com <span>*, v seznamu a pak vyberte **Přidat**. Vyberte **Hotovo**.  <br/> |
+|Použito na  <br/> |Vyberte **Možnost Doména příjemce je**. V **části Některá z těchto položek**vyberte **zvolit**. Vyberte **+ Přidat**. Zaškrtněte políčko vedle názvu domény, například *contoso. <span> <span> com*, v seznamu a pak vyberte **Přidat**. Vyberte **Hotovo**.  <br/> |
   
 ## <a name="protect-against-malicious-attachments-and-files-with-atp-safe-attachments"></a>Ochrana před škodlivými přílohami a soubory pomocí bezpečných příloh ATP
 
@@ -158,9 +158,9 @@ Uživatelé pravidelně posílají, přijímají a sdílejí přílohy, jako jso
   
 Chcete-li vytvořit zásady bezpečné přílohy ochrany ATP, podívejte se na [toto krátké video](https://support.office.com/article/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)nebo proveďte následující kroky:
   
-1. Přejděte [https://protection.office.com](https://protection.office.com)na aplikaci a přihlaste se pomocí svého účtu správce. 
+1. Přejděte na [https://protection.office.com](https://protection.office.com) aplikaci a přihlaste se pomocí svého účtu správce. 
     
-2. V Centru &amp; dodržování předpisů zabezpečení v levém navigačním podokně v části **Správa hrozeb**zvolte **Zásady**.
+2. V Centru dodržování předpisů zabezpečení &amp; v levém navigačním podokně v části **Správa hrozeb**zvolte **Zásady**.
     
 3. Na stránce Zásady zvolte **bezpečné přílohy ochrany ATP**.
     
@@ -195,9 +195,9 @@ Doporučujeme provést následující kroky:
     
 Chcete-li nastavit bezpečné odkazy ATP, podívejte se na [toto krátké školicí video](https://support.office.com/article/61492713-53c2-47da-a6e7-fa97479e97fa)nebo proveďte následující kroky:
   
-1. Přejděte [https://protection.office.com](https://protection.office.com)na aplikaci a přihlaste se pomocí svého účtu správce. 
+1. Přejděte na [https://protection.office.com](https://protection.office.com) aplikaci a přihlaste se pomocí svého účtu správce. 
     
-2. V Centru &amp; dodržování předpisů zabezpečení v levém navigačním podokně v části **Správa hrozeb**zvolte **Zásady**.
+2. V Centru dodržování předpisů zabezpečení &amp; v levém navigačním podokně v části **Správa hrozeb**zvolte **Zásady**.
     
 3. Na stránce Zásady zvolte **bezpečné odkazy ATP**.
     
@@ -211,7 +211,7 @@ Chcete-li změnit výchozí zásadu:
     
 Vytvoření nové zásady cílené na všechny příjemce ve vaší doméně:
   
-1. Na stránce Bezpečné odkazy vyberte **+** v části **Zásady, které platí pro celou organizaci**, vytvořit novou zásadu. 
+1. Na stránce Bezpečné odkazy vyberte v části **Zásady, které platí pro celou organizaci**, vytvořit novou **+** zásadu. 
     
 2. Použijte nastavení uvedená v následující tabulce.
     
