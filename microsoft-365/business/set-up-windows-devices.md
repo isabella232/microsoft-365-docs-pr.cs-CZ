@@ -20,17 +20,18 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: Přečtěte si, jak nastavit zařízení s Windows s Windows 10 Pro pro uživatele Microsoft 365 Business Premium, což umožňuje centralizovanou správu a bezpečnostní kontroly.
-ms.openlocfilehash: efe81a5547496f502232e1db2f3f092165475641
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: ecd9f5aa348d29d34e77061657619c015b09c41a
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635446"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402952"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium
 
@@ -104,7 +105,7 @@ Pokud jste nahráli soubory na OneDrive pro firmy, synchronizujte je zpět do po
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>Kontrola připojení zařízení k Azure AD
 
-Pokud si chcete ověřit stav synchronizace, klikněte v **Nastavení** na stránce **Přístup do práce nebo do školy** do oblasti **Připojeno k** _ \<organization name\> _, aby se zobrazila tlačítka **Informace** a **Odpojit**. Kliknutím na možnost **Informace** zjistíte stav synchronizace. 
+Chcete-li ověřit stav synchronizace, klikněte na stránce **Práce nebo škola aplikace Access** v **nastavení**v oblasti **Připojeno k aplikaci** _ a \<organization name\> zpřístupněte tlačítka **Informace** a **Odpojit**. Kliknutím na možnost **Informace** zjistíte stav synchronizace. 
   
 Pokud chcete pro tento počítač získat nejnovější zásady správy mobilních zařízení, klikněte na stránce Stav synchronizace na Synchronizovat.
   

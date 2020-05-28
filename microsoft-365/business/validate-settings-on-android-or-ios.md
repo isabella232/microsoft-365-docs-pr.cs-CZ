@@ -17,17 +17,18 @@ ms.custom:
 - Core_O365Admin_Migration
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: f3433b6b-02f7-447f-9d62-306bf03638b0
 description: Přečtěte si, jak ověřit nastavení ochrany aplikací Pro Business Premium od Microsoft 365 na zařízeních s Androidem nebo iOS.
-ms.openlocfilehash: d25a23bc8eb56e05bd74f7bf4658ee9e18dc41f8
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: d4b8ec3ff3a15c25133b20d437249611530977a5
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635718"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403364"
 ---
 # <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>Ověření nastavení ochrany aplikací na zařízeních se systémem Android nebo iOS
 
@@ -41,7 +42,7 @@ Jakmile [nastavíte konfigurace aplikací pro zařízení s Androidem](app-prote
   
 Nejprve se ujistěte, že se zásady vztahují na aplikaci, ve které ji budete ověřovat.
   
-1. V [Centru pro správu](https://portal.office.com)Microsoft 365 Business Premium přejděte na **zásady úpravy** **zásad** \> .
+1. V [Centru pro správu](https://portal.office.com)Microsoft 365 Business Premium přejděte na **zásady** \> **úpravy**zásad .
     
 2. Zvolte **Zásady aplikace pro Android** pro nastavení, které jste vytvořili v nastavení, nebo jinou zásadu, kterou jste vytvořili, a ověřte, že je vynucená například pro Outlook. 
     
@@ -130,7 +131,7 @@ Jakmile [nastavíte konfigurace aplikací pro zařízení s iOSem](app-protectio
   
 Nejprve se ujistěte, že se zásady vztahují na aplikaci, ve které ji budete ověřovat.
   
-1. V [Centru pro správu](https://portal.office.com)Microsoft 365 Business Premium přejděte na **zásady úpravy** **zásad** \> .
+1. V [Centru pro správu](https://portal.office.com)Microsoft 365 Business Premium přejděte na **zásady** \> **úpravy**zásad .
     
 2. Zvolte **Zásady aplikace pro iOS** pro nastavení, které jste vytvořili v nastavení, nebo pro jinou zásadu, kterou jste vytvořili, a ověřte, že je vynucená například pro Outlook. 
     

@@ -18,17 +18,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Seznamte se s funkcemi zabezpečení, které jsou součástí služby Microsoft 365 Business Premium a pomáhají chránit vaše data na počítačích, telefonech a tabletech.
-ms.openlocfilehash: f6aef84afc76217161dee6b68d626128e0cc15b2
-ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
+ms.openlocfilehash: 839b5481e27591e1762a0d8eb5623f279d6d22dd
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44165751"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402708"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Funkce zabezpečení a dodržování předpisů microsoft 365 Business Premium
 
@@ -109,7 +110,7 @@ Vaše předplatné Microsoft 365 Business Premium obsahuje funkce, které vám p
 
    Microsoft 365 Business Premium obsahuje všechny funkce [Plánu ochrany informací Azure 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Pomocí tohoto plánu můžete vytvořit **popisky citlivosti,** které umožňují řídit přístup k citlivým informacím v e-mailu a dokumentech pomocí ovládacích prvků jako "Nepředávat dál" a "Nekopírovat". Můžete také klasifikovat citlivé informace jako "důvěrné" a určit, jak mohou být utajované informace sdíleny mimo firmu i uvnitř podniku. Šifrování na podnikové úrovni se snadno aplikuje na e-maily a dokumenty, aby vaše informace zůstaly soukromé. Můžete taky nainstalovat doplněk klienta Azure Information Protection pro aplikace Office. Další informace najdete [v tématu Azure Information Protection sjednocené označování klienta](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). Pro popisky citlivosti nainstalujte **program AzInfoProtection_UL.exe**.
 
-Tyto funkce můžete spravovat &amp; v Centru dodržování předpisů zabezpečení a v Centru pro správu Intune. V průběhu času budou zjednodušené ovládací prvky přidány do Centra pro správu Microsoftu 365.
+Tyto funkce můžete spravovat v Centru dodržování předpisů zabezpečení &amp; a v Centru pro správu Intune. V průběhu času budou zjednodušené ovládací prvky přidány do Centra pro správu Microsoftu 365.
   
     
 ## <a name="faq"></a>Časté otázky
@@ -126,4 +127,4 @@ Ano, tyto funkce jsou dostupné na všech trzích, kde se prodává Microsoft 36
     
     ![V levém nánosu v Centru pro správu Microsoftu 365 zvolte Centra pro správu.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. Zvolte Dodržování předpisů &amp; **zabezpečení &amp; ** a přejděte do Centra dodržování předpisů zabezpečení.
+3. Zvolte ** &amp; Dodržování předpisů zabezpečení** a přejděte do Centra dodržování předpisů &amp; zabezpečení.

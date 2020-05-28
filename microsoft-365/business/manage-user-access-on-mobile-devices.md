@@ -20,18 +20,19 @@ ms.custom:
 - MiniMaven
 - MSB365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
 description: Přečtěte si o zásadách ochrany, které umožňují spravovat způsob, jakým uživatelé přistupují k aplikacím Office a pracovním souborům z mobilních zařízení.
-ms.openlocfilehash: 870706103a6c05e2e193c80f7a586eab529bb1e7
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: f613e518c3607010cae55443456be9d3ddc3d689
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561494"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403072"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Správa přístupu uživatelů k dokumentům Office na mobilních zařízeních
 

@@ -20,17 +20,18 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
 description: Přečtěte si, jak funkce ochrany v Microsoft 365 Business Premium mapují na nastavení Intune. Předplatné vám poskytuje licenci k úpravám nastavení Intune.
-ms.openlocfilehash: 572d3364e465067536e8369b49404d3d1de1bb5b
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: ce75073f748f6005a843e31f7c38d06b38a3c706
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633237"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401572"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-premium-map-to-intune-settings"></a>Jak se funkce ochrany v Microsoft 365 Business Premium mapují na nastavení Intune
 
@@ -44,7 +45,7 @@ Pokud chcete najít nastavení Intune, přihlaste se pomocí přihlašovacích �
  > 
  > Předplatné Microsoft 365 Business Premium vám dává licenci k úpravám všech nastavení Intune. Další informace o [úvodu do Intune najdete v tématu Úvod do Intune.](https://docs.microsoft.com/intune/introduction-intune)
   
-Vyberte požadovaný &mdash; název zásady, například &mdash; Zásady použití pro Android a pak zvolte **Nastavení zásad**.
+Vyberte požadovaný název &mdash; zásady, například Zásady použití pro Android &mdash; a pak zvolte Nastavení **zásad**.
   
 Pod **Chránit pracovní soubory při ztrátě nebo odcizení zařízení**
   
@@ -73,7 +74,7 @@ Pod **Spravovat přístup uživatelů k souborům Office na mobilních zařízen
 
 V následující tabulce najdete podrobnosti o tom, jak namapovat nastavení zásad aplikace pro Windows 10 na nastavení Intune.
   
-Pokud chcete najít nastavení Intune, přihlaste se pomocí přihlašovacích údajů pro správce Microsoft 365 Business Premium a přejděte na [portál Azure](https://portal.azure.com). Vyberte **Další služby**a do filtru zadejte **Intune**. Vyberte \> **Zásady ochrany aplikací** **Intune** .
+Pokud chcete najít nastavení Intune, přihlaste se pomocí přihlašovacích údajů pro správce Microsoft 365 Business Premium a přejděte na [portál Azure](https://portal.azure.com). Vyberte **Další služby**a do filtru zadejte **Intune**. Vyberte **Zásady ochrany aplikací Intune** \> **App Policy**.
   
  > [!IMPORTANT]
  >
@@ -95,7 +96,7 @@ Chcete-li prozkoumat dostupná nastavení, vyberte požadovaný název zásady a
 
 V následující tabulce najdete podrobnosti o tom, jak namapovat nastavení konfigurace zařízení s Windows 10 na nastavení Intune.
   
-Pokud chcete najít nastavení Intune, přihlaste se pomocí přihlašovacích údajů správce Microsoft 365 Business Premium a přejděte na [portál Azure](https://portal.azure.com)Portal , pak vyberte **Další služby**a do **filtru**zadejte Intune , vyberte **Profily** **konfigurace** \> zařízení **Intune** \> . Potom vyberte **Zásada zařízení pro Windows 10** \> **Vlastnosti** \> **Nastavení**.
+Pokud chcete najít nastavení Intune, přihlaste se pomocí přihlašovacích údajů správce Microsoft 365 Business Premium a přejděte na [portál Azure](https://portal.azure.com)Portal , pak vyberte **Další služby**a do **filtru**zadejte Intune , vyberte **Intune** \> **Device configuration** \> **Profily**konfigurace zařízení Intune . Potom vyberte **Zásada zařízení pro Windows 10** \> **Vlastnosti** \> **Nastavení**.
   
 |**Nastavení zásad zařízení s Windows 10**|**Nastavení Intune**|
 |:-----|:-----|
@@ -103,7 +104,7 @@ Pokud chcete najít nastavení Intune, přihlaste se pomocí přihlašovacích �
 |Chránit počítače před webovými hrozbami v prohlížeči Microsoft Edge  <br/> |**SmartScreen** v **nastavení prohlížeče Microsoft Edge** se nastaví na **Povinné**.  <br/> |
 |Vypnout obrazovku zařízení po nečinnosti (v minutách)  <br/> |Maximální počet minut nečinnosti, po kterém se zamkne obrazovka (v minutách)  <br/> |
 |Povolit uživatelům stahovat aplikace z webu Microsoft Store  <br/> |Vlastní zásada identifikátoru URI  <br/> |
-|Umožnit uživatelům přístup ke Cortaně  <br/> |**Obecná** \> **Cortana** je nastavená tak, aby blokovala v Intune, když je v Microsoft u 365 Business Premium **block** **vypnutá.**  <br/> |
+|Umožnit uživatelům přístup ke Cortaně  <br/> |**Obecné informace** \> **Cortana** je nastavená **tak,** aby blokovala v Intune, když je v Microsoft u 365 Business Premium **vypnutá.**  <br/> |
 |Povolit uživatelům přijímat tipy pro Windows a reklamy od společnosti Microsoft  <br/> |**Windows spotlight**, vše blokováno, pokud je nastavena na **vypnutí** v Microsoft 365 Business Premium.  <br/> |
 |Automaticky aktualizovat zařízení s Windows 10  <br/> | Toto nastavení je v aktualizacích služby **Microsoft Intune** \> **Service – zazvonění aktualizací windows 10**, zvolte **zásady aktualizace pro zařízení s Windows 10**a potom **nastavení vlastností** \> **Settings**.  <br/>  Pokud je nastavení Microsoft 365 Business Premium nastaveno **na Zapnuto**, jsou nastavena všechna následující nastavení:  <br/> **Pobočka služby** je nastavena na **CB** (CBB, pokud je to vypnuto v Microsoft 365 Business Premium).  <br/> **Aktualizace produktů Microsoft** se nastaví na **Povolit**.  <br/> **Ovladače Windows** se nastaví na **Povolit**.  <br/> **Chování automatické aktualizace** se nastaví na **Automaticky nainstalovat v době údržby** spolu s následujícím:  <br/> **Začátek aktivní doby** se nastaví na **6:00**.  <br/> **Konec aktivní doby** se nastaví na **22:00**.  <br/> **Odložení aktualizace kvality (ve dnech)** se nastaví na **0**.  <br/> **Odložení aktualizace funkcí (ve dnech)** se nastaví na **0**.  <br/> **Režim stahování pro optimalizaci doručení** se nastaví na **HTTP v kombinaci s partnery za stejným překladem NAT**.  <br/> |
 |||

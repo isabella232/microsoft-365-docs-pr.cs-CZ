@@ -19,17 +19,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 description: Přečtěte si, jak nastavit zásady podmíněného přístupu pro kampaně Microsoft 365, abyste přidali podstatné další zabezpečení.
-ms.openlocfilehash: 26fadecc69486d7931dac069d8f53061592f397f
-ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
+ms.openlocfilehash: d7c9cfee2ef00e4ebe231a28ccca185c10f53c6b
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43153760"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403012"
 ---
 # <a name="set-up-conditional-access-policies"></a>Nastavení zásad podmíněného přístupu
 
@@ -38,10 +39,10 @@ ms.locfileid: "43153760"
 Tyto zásady vyžadují, aby správci a uživatelé zadali druhou formu ověřování (tzv. vícefaktorové ověřování nebo vícefaktorové ověřování) při splnění určitých podmínek. Například pokud se uživatel přihlašuje z jiné země, přihlášení může být považováno za rizikové a uživatel musí poskytnout další formu ověřování. 
 
 V současné době zásady směrného plánu zahrnují následující:
-- **Vyžadovat vícefaktorové ověřování pro správce** &ndash; Vyžaduje vícefaktorové ověřování pro nejvíce privilegované role správce, včetně globálního správce.
-- **Ochrana** &ndash; koncových uživatelů Vyžaduje vícefaktorové ověřování pro uživatele pouze v případě, že je přihlášení riskantní. 
-- **Blokovat starší ověřování** &ndash; Starší klientské aplikace a některé nové aplikace nepoužívají novější, bezpečnější ověřovací protokoly. Tyto starší aplikace mohou obejít zásady podmíněného přístupu a získat neoprávněný přístup do vašeho prostředí. Tato zásada blokuje přístup od klientů, kteří nepodporují podmíněný přístup. 
-- **Vyžadovat vícefaktorové ověřování pro správu** &ndash; služeb Vyžaduje vícefaktorové ověřování pro přístup k nástrojům pro správu, včetně portálu Azure (kde nakonfigurujete zásady směrného plánu). 
+- **Vyžadovat vícefaktorové pomocné správou pro správce** &ndash; Vyžaduje vícefaktorové ověřování pro nejvíce privilegované role správce, včetně globálního správce.
+- Ochrana koncových **uživatelů** &ndash; Vyžaduje vícefaktorové ověřování pro uživatele pouze v případě, že přihlášení je riskantní. 
+- **Blokovat starší verze ověřování** &ndash; Starší klientské aplikace a některé nové aplikace nepoužívají novější, bezpečnější ověřovací protokoly. Tyto starší aplikace mohou obejít zásady podmíněného přístupu a získat neoprávněný přístup do vašeho prostředí. Tato zásada blokuje přístup od klientů, kteří nepodporují podmíněný přístup. 
+- **Vyžadovat vícefaktorové řízení pro správu** &ndash; služeb Vyžaduje vícefaktorové ověřování pro přístup k nástrojům pro správu, včetně portálu Azure (kde nakonfigurujete zásady směrného plánu). 
 
 Společnost Microsoft doporučuje povolit všechny tyto zásady směrného plánu. Po povolení těchto zásad budou správci a uživatelé vyzváni k registraci pro ověřování Azure Multii-Factor.
 
@@ -50,7 +51,7 @@ Další informace o těchto zásadách naleznete v tématu [Co jsou zásady smě
 
 ## <a name="set-up-baseline-policies"></a>Nastavení zásad směrného plánu
 
-1. Přejděte na [portál Azure](https://portal.azure.com)a přejděte na **podmíněný přístup** **služby Azure Active Directory** \> .
+1. Přejděte na [portál Azure](https://portal.azure.com)a přejděte na podmíněný přístup **služby Azure Active Directory** \> **Conditional Access**.
     
     Zásady směrného plánu jsou uvedeny na stránce. <br/> <br/>
     ![Stránka se seznamem zásad směrného plánu pro podmíněný přístup.](../media/baslinepolicies.png)

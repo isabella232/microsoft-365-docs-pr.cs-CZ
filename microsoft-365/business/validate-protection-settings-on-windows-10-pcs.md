@@ -17,17 +17,18 @@ ms.custom:
 - Core_O365Admin_Migration
 - MSB365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Ověřte nastavení ochrany aplikací Microsoft 365 Business Premium na zařízeních s Windows 10 a ověřte, zda uživatelé nemohou kopírovat firemní data do osobních souborů nebo do nespravovaných aplikací.
-ms.openlocfilehash: 20b2e43ae53486c046440ff1066d241ec9661888
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 589d2fc25cc1425a775523595881660cc03e152e
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635738"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403384"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>Ověření nastavení ochrany aplikací na počítačích s Windows 10
 
@@ -37,11 +38,11 @@ Jakmile [nastavíte zásady ochrany aplikací](protection-settings-for-windows-1
   
  **Ověření nastavení připojení**
   
-1. Po přihlášení pomocí přihlašovacích údajů k Microsoft 365 Business Premium a připojení k Azure AD, jak je popsáno v [části Nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium](set-up-windows-devices.md), přejděte na pracovní nebo školní téma Windows **Settings** \> **Accounts** \> **Access**. Zvolte **Připojeno k \<název tenanta\> Azure AD** a pak zvolte **Informace**.
+1. Po přihlášení pomocí přihlašovacích údajů k Microsoft 365 Business Premium a připojení k Azure AD, jak je popsáno v [části Nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium](set-up-windows-devices.md), přejděte na pracovní nebo školní téma Windows **Settings** \> **Accounts** \> **Access**. Zvolte **Připojeno k \<tenant name\> Azure AD**a pak zvolte **Informace**.
     
     ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
-2. \> Na stránce Název **klienta** \<Správa podle můžete zobrazit **informace o připojení,** které obsahují adresu serveru pro **správu,** jako je adresa zobrazená na následujícím obrázku. 
+2. Na stránce **Správa podle** \<tenant name\> uvidíte informace o **připojení,** které obsahují **adresu serveru pro správu,** jako je adresa zobrazená na následujícím obrázku. 
     
     ![Managed by page shows connection info of the device manager URL.](../media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
   
@@ -63,11 +64,11 @@ Jakmile [nastavíte zásady ochrany aplikací](protection-settings-for-windows-1
 
  **Ověření nastavení připojení**
   
-1. Na osobním zařízení s Windows 10, kde jste přihlášení jako místní uživatel, přejděte do **Nastavení Windows**a klikněte nebo klepněte na Přístup **k účtům** \> **v práci nebo ve škole**.
+1. Na osobním zařízení s Windows 10, kde jste přihlášení jako místní uživatel, přejděte do **Nastavení Windows**a klikněte nebo klepněte na Přístup **k** \> **účtům v práci nebo ve škole**.
     
 2. V části **Přístup do práce nebo do školy** zvolte **Připojit**.
     
-3. Zadejte své přihlašovací údaje microsoft 365 Business Premium do **dialogového okna** \> Nastavit pracovní nebo školní účet **Přihlášení**.
+3. Zadejte své přihlašovací údaje microsoft 365 Business Premium do **dialogového okna Nastavit pracovní nebo školní účet** \> **Přihlášení**.
     
 4. Na stránce **Přístup do práce nebo do školy** zvolte **Pracovní nebo školní účet** a pak zvolte **Informace**.
     
