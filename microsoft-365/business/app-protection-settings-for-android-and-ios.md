@@ -19,27 +19,28 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Přečtěte si, jak vytvořit, upravit nebo odstranit zásady správy aplikací a jak chránit pracovní soubory na zařízeních s Androidem nebo iOS.
-ms.openlocfilehash: 0d9e901cac94fe7692ffe705c6b0a51df2bc542f
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 01c50e6660d8d8640a2bff2794ee0ea8a69188c8
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627428"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401048"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Nastavení ochrany aplikací pro zařízení s Androidem nebo iOSem
 
-![Banner, který https://aka.ms/aboutM365previewpřejděte na .](../media/m365admincenterchanging.png)
+![Banner, který přejděte na https://aka.ms/aboutM365preview .](../media/m365admincenterchanging.png)
 
 ## <a name="create-an-app-management-policy"></a>Vytvoření zásady správy aplikací
 
-1. Přejděte do Centra <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>pro správu na adrese . 
+1. Přejděte do Centra pro správu na adrese <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
     
-2. V levém nánosu zvolte **Přidat zásady** \> **Add** **zařízení** \> .
+2. V levém nánosu zvolte **Devices** \> **Přidat zásady** zařízení \> **Add**.
   
 3. V podokně **Přidat zásadu** zadejte název, který je jedinečný. 
     
@@ -51,7 +52,7 @@ ms.locfileid: "43627428"
     
     ![Screenshot of Create a policy with Application management for Android selected](../media/eabbe06d-ac0a-4f3a-8630-68c808b1e662.png)
   
-6. V dalším kroku rozhodněte, **pro koho tato nastavení platí**. Pokud nechcete používat výchozí skupinu zabezpečení **Všichni uživatelé,** zvolte **Změnit**, \> zvolte skupiny zabezpečení, které tato nastavení **získají Vyberte**.
+6. V dalším kroku rozhodněte, **pro koho tato nastavení platí**. Pokud nechcete používat výchozí skupinu zabezpečení **Všichni uživatelé,** zvolte **Změnit**, zvolte skupiny zabezpečení, které tato nastavení \> **získají Vyberte**.
     
 7. Nakonec zvolte **Hotovo**, abyste zásadu uložili a přiřadili ji zařízením. 
     

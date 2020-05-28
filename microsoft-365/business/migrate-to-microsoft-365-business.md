@@ -18,17 +18,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Seznamte se s rozdílem mezi Microsoft 365 Business Standard a Microsoft 365 Business Premium a jak můžete upgradovat na Microsoft 365 Business Premium.
-ms.openlocfilehash: 20a4162f74a9cb0e943195a589fd2d964f773f48
-ms.sourcegitcommit: eb3c7f473e8fe62624f52c9bb38dcd6a96fa58a3
+ms.openlocfilehash: bdab8165623170926b17efa4cae9408b78a2f5f5
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045974"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401376"
 ---
 # <a name="upgrade-to-microsoft-365-business-premium-from-microsoft-365-business-standard"></a>Upgrade na Microsoft 365 Business Premium z Microsoft 365 Business Standard
 
@@ -55,9 +56,9 @@ Do [popisu služby Microsoft 365 Business Premium](https://docs.microsoft.com/of
 
 ## <a name="upgrade-to-microsoft-365-business-premium"></a>Upgrade na Microsoft 365 Business Premium
 
-1. Přihlaste se <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>do centra pro správu na adrese .
+1. Přihlaste se do centra pro správu na adrese <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .
 
-2. Přejděte do navigačního podokna a vyberte **Fakturace** \> **produktů**. Najděte aktuální předplatné a vyberte ho, chcete-li zobrazit podrobnosti.
+2. Přejděte do navigačního **Billing** podokna a vyberte \> **Fakturace produktů**. Najděte aktuální předplatné a vyberte ho, chcete-li zobrazit podrobnosti.
 
 3. Na další stránce vyberte **Upgradovat**.
 
@@ -85,7 +86,7 @@ Nastavení nových plánů služeb společnosti Microsoft trvá několik minut. 
 
 Teď, když byly přiřazeny licence Microsoft 365 Business Premium, proveďte kroky k zahájení ochrany zařízení a souborů. Budete používat některé nové možnosti zahrnuté v navigačním podokně Centra pro správu.
   
-1. V Centru pro správu přejděte v navigačním podokně na **zásady** **zařízení** \> .
+1. V Centru pro správu přejděte **Devices** v navigačním podokně na \> **zásady**zařízení .
 
 2. Na stránce **Zásady zařízení** vyberte **Přidat**.
 

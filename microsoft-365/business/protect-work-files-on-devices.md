@@ -21,22 +21,23 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 52089919-9a5e-475f-a49a-f65369487861
-description: 'Přečtěte si o výchozí konfiguraci a přidávání zásad správy aplikací k ochraně firemních dat na osobních mobilních zařízeních uživatelů. '
-ms.openlocfilehash: 838c218114938608c365cd632b5682df770f8308
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: 'Získejte informace o výchozí konfiguraci a přidávání zásad správy aplikací pro ochranu firemních dat na osobních mobilních zařízeních uživatelů. '
+ms.openlocfilehash: 1d76b8fde6db4cf99d29fcfff000c20f0e7c18fe
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593570"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401276"
 ---
 # <a name="protect-work-files-on-devices"></a>Ochrana pracovních souborů na zařízeních
 
-V dnešním světě jsou uživatelé vázáni na svá zařízení a při střetu osobního a pracovního života mohou údaje o vaší společnosti skončit na osobním zařízení zaměstnance. Nastavení, která tady nakonfigurujete, vám můžou pomoct znovu získat kontrolu nad pracovními soubory a poskytnout jim ochranu, aniž byste jakýmkoli způsobem ovlivnili osobní nastavení nebo data uživatelů.
+V dnešním světě jsou uživatelé vázáni na svá zařízení a jak se osobní a pracovní život srazí, vaše firemní data mohou skončit na osobním zařízení zaměstnance. Nastavení, která tady nakonfigurujete, vám můžou pomoct znovu získat kontrolu nad pracovními soubory a poskytnout jim ochranu, aniž byste jakýmkoli způsobem ovlivnili osobní nastavení nebo data uživatelů.
   
 ## <a name="configuring-policies-during-setup"></a>Konfigurace zásad během instalace
 
