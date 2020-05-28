@@ -20,17 +20,18 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: Objevte způsoby, jak můžete upgradovat svá zařízení s Windows na Windows 10 Pro a využívat pokročilejší funkce zabezpečení a firemní sítě.
-ms.openlocfilehash: f0cedda49dbff2a8c2884bb52e240fabfbeb4537
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: c982f59ded0b0d2e1cd321f5856b38bd792eebed
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43632045"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403524"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Upgrade zařízení s Windows na Windows 10 Pro
 
@@ -44,11 +45,11 @@ Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní 
   
 Chcete-li upgradovat na systém Windows 10 Pro, máte několik možností. Můžeš:
     
-- Instalace upgradu z [webu](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; pro stažení softwaru společnosti Microsoft Vyberte tuto možnost, pokud je zařízení, které jste přihlášeni, na stejném zařízení jako zařízení, které chcete aktualizovat. 
+- Instalace upgradu z [webu pro stažení softwaru společnosti Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; Vyberte tuto možnost, pokud je zařízení, které jste přihlášeni, na stejném zařízení jako zařízení, které chcete aktualizovat. 
 
     - Na webu pro stahování softwaru klikněte na **Aktualizovat a** začněte upgradovat zařízení na aktualizaci Windows 10 Pro Creators Update. 
     
-- Vytvoření instalačního média pomocí [nástroje pro](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; vytváření médií: Tuto možnost vyberte, chcete-li vytvořit instalační médium aktualizace Windows 10 Pro Creators Update (jednotka USB Flash nebo soubor ISO) pro instalaci systému Windows 10 do počítače, který se liší od počítače, který používáte.
+- Vytvoření instalačního média pomocí [nástroje pro vytváření médií:](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; Tuto možnost vyberte, chcete-li vytvořit instalační médium aktualizace Windows 10 Pro Creators Update (jednotka USB Flash nebo soubor ISO) pro instalaci systému Windows 10 do počítače, který se liší od počítače, který používáte.
 
     - Přečtěte si pokyny k použití nástroje a vytvoření instalačního média. 
 
