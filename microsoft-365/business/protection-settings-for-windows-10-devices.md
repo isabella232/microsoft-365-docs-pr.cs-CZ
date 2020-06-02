@@ -28,43 +28,45 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
-description: Přečtěte si, jak vytvořit zásady správy aplikací a chránit pracovní soubory na osobních zařízeních uživatelů s Windows 10.
-ms.openlocfilehash: c3e003205da30fa79069946960ef00e4195f0cbc
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Přečtěte si, jak vytvořit zásady správy aplikací a chránit pracovní soubory na osobních zařízeních s Windows 10 uživatelů.
+ms.openlocfilehash: df10470c6bd7aad2f35700a267c4d24d949f569c
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44386531"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470861"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>Nastavení ochrany aplikací pro zařízení s Windows 10
+
+Tento článek se týká Microsoft 365 Business Premium.
 
 ## <a name="create-an-app-management-policy-for-windows-10"></a>Vytvoření zásady správy aplikací pro Windows 10
 
 Pokud mají uživatelé osobní zařízení s Windows 10, na kterých dělají pracovní úkoly, můžete chránit vaše data i na těchto zařízeních.
   
-1. Přejděte do Centra pro správu na adrese <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
+1. Přejděte do centra pro správu na adrese <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
     
-2. Na levém virtuálním **Devices** zařízení zvolte \> **Přidat zásady** zařízení \> **Add**.
+2. V levém navigačním zařízení zvolte **Přidat** \> **zásady zařízení** \> **Add**.
 
 3. V podokně **Přidat zásadu** zadejte název, který je jedinečný. 
     
 4. V části **Typ zásady** zvolte **Správa aplikací pro Windows 10**.
     
-5. V části **Typ zařízení**zvolte **Osobní** nebo **Vlastněná společnost**.
+5. V části **Typ zařízení**zvolte **osobní** nebo **vlastněné společnosti**.
     
 6. Možnost **Šifrovat pracovní soubory** je zapnutá automaticky. 
     
 7. Pokud nechcete, aby uživatelé ukládali pracovní soubory na své počítače, **zapněte** možnost **Brání uživatelům v kopírování dat společnosti do osobních souborů a vynucuje, aby ukládali pracovní soubory na OneDrive pro firmy**. 
     
-9. Rozbalte **obnovit data na zařízeních s Windows**. Doporučujeme ji **zapnout**.
+9. Rozbalte **možnost Obnovit data na zařízeních se systémem Windows**. Doporučujeme jej zapnout **.**
     
-    Než budete moct přejít do umístění certifikátu agenta obnovování dat, musíte nějaký nejprve vytvořit. Pokyny naleznete v [tématu Vytvoření a ověření certifikátu AGENTA PRO OBNOVU DAT (EFS) systému souborů (EFS).](https://go.microsoft.com/fwlink/p/?linkid=853700)
+    Než budete moct přejít do umístění certifikátu agenta obnovování dat, musíte nějaký nejprve vytvořit. Pokyny naleznete v [tématu Vytvoření a ověření certifikátu AGENT OBNOVENÍ DAT (EFS) systému EFS](https://go.microsoft.com/fwlink/p/?linkid=853700).
     
     Ve výchozím nastavení jsou pracovní soubory šifrované pomocí tajného klíče, který je uložený v zařízení a přidružený k profilu uživatele. Soubor může otevřít a dešifrovat jenom uživatel. Pokud ovšem dojde ke ztrátě zařízení nebo odebrání uživatele, soubor může zůstat zašifrovaný. Správce může k dešifrování souboru použít certifikát DRA (Data Recovery Agent).
     
     ![Browse to Data Recovery Agent certificate.](../media/7d7d664f-b72f-4293-a3e7-d0fa7371366c.png)
   
-10. Pokud chcete přidat další domény nebo umístění SharePointu Online, rozbalte **možnost Chránit další umístění v síti a cloudu,** abyste měli jistotu, že jsou chráněny soubory ve všech uvedených aplikacích. Pokud potřebujete zadat do jednoho z polí více než jednu položku, oddělte tyto položky středníkem (;).
+10. Pokud chcete přidat další domény nebo umístění SharePointu Online, rozbalte možnost **Chránit další umístění v síti a cloudu,** abyste měli jistotu, že jsou soubory ve všech uvedených aplikacích chráněné. Pokud potřebujete zadat do jednoho z polí více než jednu položku, oddělte tyto položky středníkem (;).
     
     ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](../media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
   

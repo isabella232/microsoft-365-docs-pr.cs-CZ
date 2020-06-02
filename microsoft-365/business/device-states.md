@@ -25,15 +25,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Seznamte se s různými stavy zařízení v seznamu Akce zařízení v domovské stránce Správce v Microsoftu 365 pro firmy.
-ms.openlocfilehash: 90c11caa03249408ba2916d303bcb4a59fbcca8c
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Další informace o různých stavech zařízení v seznamu Akce zařízení v domově pro správu v Microsoft 365 pro firmy.
+ms.openlocfilehash: 64138e2b6ae73c067709cde1912a96615d08ebf1
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400948"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471173"
 ---
 # <a name="device-states"></a>Stavy zařízení
+
+Tento článek se týká Microsoft 365 Business Premium.
 
 Zařízení v seznamu **Akce zařízení** (domovská stránka správce \> **Akce zařízení**) můžou mít následující stavy.
   
@@ -43,14 +45,14 @@ Zařízení v seznamu **Akce zařízení** (domovská stránka správce \> **Akc
 |:-----|:-----|
 |Spravováno službami Intune  <br/> |Spravuje Microsoft 365 Business Premium.  <br/> |
 |Čeká se na vyřízení  <br/> |Microsoft 365 Business Premium se chystá odebrat firemní data ze zařízení.  <br/> |
-|Probíhá vyřazování  <br/> |Microsoft 365 Business Premium v současné době odebírá firemní data ze zařízení.  <br/> |
+|Probíhá vyřazování  <br/> |Microsoft 365 Business Premium v současné době odebírání firemních dat ze zařízení.  <br/> |
 |Vyřazení selhalo  <br/> | Akce spočívající v odebrání dat společnosti se nezdařila.  <br/> |
-|Vyřazení bylo zrušeno.  <br/> |Akce vyřazení byla zrušena.  <br/> |
+|Vyřazení zrušeno  <br/> |Akce vyřazení byla zrušena.  <br/> |
 |Čeká se na vymazání  <br/> |Čeká se na spuštění obnovení továrního nastavení.  <br/> |
 |Probíhá mazání  <br/> |Byl vydán příkaz k obnovení továrního nastavení.  <br/> |
 |Vymazání selhalo  <br/> |Nelze provést obnovení továrního nastavení.  <br/> |
-|Vymazání zrušeno  <br/> |Tovární vymazání bylo zrušeno.  <br/> |
-|Není v pořádku  <br/> |Akce čeká na vyřízení (nebo probíhá), ale zařízení se nepřihlásilo více než 30 dní.  <br/> |
+|Vymazání zrušeno  <br/> |Factory wipe byl zrušen.  <br/> |
+|Není v pořádku  <br/> |Akce čeká na vyřízení (nebo probíhá), ale zařízení se neověřilo po dobu 30+ dní.  <br/> |
 |Čeká se na odstranění  <br/> |Čeká se na provedení akce odstranění.  <br/> |
 |Zjištěné  <br/> |Microsoft 365 Business Premium zjistil zařízení.  <br/> |
    

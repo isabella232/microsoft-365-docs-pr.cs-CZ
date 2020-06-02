@@ -27,17 +27,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 52089919-9a5e-475f-a49a-f65369487861
-description: 'Získejte informace o výchozí konfiguraci a přidávání zásad správy aplikací pro ochranu firemních dat na osobních mobilních zařízeních uživatelů. '
-ms.openlocfilehash: 1d76b8fde6db4cf99d29fcfff000c20f0e7c18fe
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: 'Seznamte se s výchozí konfigurací a přidáním zásad správy aplikací k ochraně firemních dat na osobních mobilních zařízeních uživatelů. '
+ms.openlocfilehash: 6dd6bc5c16ffbbd6ed62f16ad11e1eeb8e06a193
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401276"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470901"
 ---
 # <a name="protect-work-files-on-devices"></a>Ochrana pracovních souborů na zařízeních
 
-V dnešním světě jsou uživatelé vázáni na svá zařízení a jak se osobní a pracovní život srazí, vaše firemní data mohou skončit na osobním zařízení zaměstnance. Nastavení, která tady nakonfigurujete, vám můžou pomoct znovu získat kontrolu nad pracovními soubory a poskytnout jim ochranu, aniž byste jakýmkoli způsobem ovlivnili osobní nastavení nebo data uživatelů.
+Tento článek se týká Microsoft 365 Business Premium.
+
+V dnešním světě jsou uživatelé svázáni se svými zařízeními a jak se střetávají osobní a pracovní život, mohou data vaší společnosti skončit na osobním zařízení zaměstnance. Nastavení, která tady nakonfigurujete, vám můžou pomoct znovu získat kontrolu nad pracovními soubory a poskytnout jim ochranu, aniž byste jakýmkoli způsobem ovlivnili osobní nastavení nebo data uživatelů.
   
 ## <a name="configuring-policies-during-setup"></a>Konfigurace zásad během instalace
 

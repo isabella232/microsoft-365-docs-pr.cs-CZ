@@ -26,17 +26,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
-description: Přečtěte si o zásadách ochrany, které umožňují spravovat způsob, jakým uživatelé přistupují k aplikacím Office a pracovním souborům z mobilních zařízení.
-ms.openlocfilehash: f613e518c3607010cae55443456be9d3ddc3d689
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Přečtěte si o zásadách ochrany, které vám umožňují spravovat, jak uživatelé přistupují k aplikacím Office a pracovním souborům z mobilních zařízení.
+ms.openlocfilehash: b2b828cf2e201360f12b8fadcb395e72958230f6
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403072"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471061"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Správa přístupu uživatelů k dokumentům Office na mobilních zařízeních
 
- [] Nastavení zásad, které řídí, jakým způsobem uživatelé přistupují k souborům Office ze svých mobilních zařízení, je ve výchozím nastavení **vypnuté**. Doporučujeme přijmout výchozí hodnoty během instalace k vytvoření zásad aplikací pro Android, iOS a Windows 10, které platí pro všechny uživatele. Další zásady můžete vytvořit po dokončení instalace. 
+Tento článek se týká Microsoft 365 Business Premium.
+
+[] Nastavení zásad, které řídí, jakým způsobem uživatelé přistupují k souborům Office ze svých mobilních zařízení, je ve výchozím nastavení **vypnuté**. Doporučujeme přijmout výchozí hodnoty během instalace a vytvořit zásady aplikací pro Android, iOS a Windows 10, které platí pro všechny uživatele. Další zásady můžete vytvořit po dokončení instalace. 
   
 ## <a name="settings-that-control-how-users-access-office-files-on-mobile-devices"></a>Nastavení spravující přístup uživatelů k souborům Office na mobilních zařízeních
 
@@ -45,10 +47,10 @@ Následující nastavení slouží ke správě přístupu uživatelů k pracovn�
 |||
 |:-----|:-----|
 |Nastavení  <br/> |Popis  <br/> |
-|Vyžadovat pro přístup k aplikacím Office PIN nebo otisk prstu  <br/> |Pokud je toto nastavení **zapnuto**, musí uživatelé před použitím aplikací Office na svém mobilním zařízení kromě uživatelského jména a hesla poskytnout i jinou formu ověřování.  <br/> |
+|Vyžadovat pro přístup k aplikacím Office PIN nebo otisk prstu  <br/> |Pokud je toto nastavení **zapnuto**, musí uživatelé před použitím aplikací Office na svém mobilním zařízení poskytnout i jinou formu ověřování.  <br/> |
 |Resetovat PIN po tomto počtu neúspěšných přihlášení  <br/> |Aby se zabránilo náhodnému uhodnutí PINu neoprávněným uživatelem, resetuje se PIN po vámi určeném počtu špatných pokusů.  <br/> |
 |Vyžadovat, aby se uživatelé znovu přihlásili, pokud byly aplikace Office nečinné po dobu  <br/> |Toto nastavení určuje, jak dlouho může být uživatel nečinný, než se zobrazí výzva k opětovnému přihlášení.  <br/> |
-|Odepřít přístup k pracovním souborům ze zařízení s jailbreakem nebo rootem  <br/> |Zruční uživatelé mohou mít zařízení s jailbreakem nebo rootem. To znamená, že uživatel může upravit operační systém, což může způsobit, že zařízení bude náchylnější k malwaru. Když je nastavení **zapnuté**, jsou tato zařízení blokovaná.  <br/> |
-|Nepovolit uživatelům kopírování obsahu z aplikací Office do osobních aplikací  <br/> |Pokud je toto nastavení **zapnuto**, uživatel nemůže kopírovat informace v pracovním souboru do osobního souboru. Pokud je nastavení **vypnuto**, může uživatel zkopírovat informace z pracovního souboru do osobní aplikace nebo osobního účtu.  <br/> |
+|Odepřít přístup k pracovním souborům ze zařízení s jailbreakem nebo rootem  <br/> |Zruční uživatelé mohou mít zařízení s jailbreakem nebo rootem. To znamená, že uživatel může upravit operační systém, což může učinit zařízení náchylnější k malwaru. Když je nastavení **zapnuté**, jsou tato zařízení blokovaná.  <br/> |
+|Nepovolit uživatelům kopírování obsahu z aplikací Office do osobních aplikací  <br/> |Pokud je nastavení **zapnuto**, uživatel nemůže kopírovat informace v pracovním souboru do osobního souboru. Pokud je nastavení **Vypnuto**, může uživatel zkopírovat informace z pracovního souboru do osobní aplikace nebo osobního účtu.  <br/> |
    
 
