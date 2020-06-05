@@ -1,7 +1,7 @@
 ---
 title: Povolení správy zařízení s Windows 10 s doménou microsoftem 365 pro firmy
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -23,14 +23,13 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Přečtěte si, jak v několika krocích povolit microsoftu 365 ochranu místních zařízení se systémem Windows 10 připojenými k adresáři A active Directory.
-ms.openlocfilehash: 7bfe5da8701a17712fa249eac99a22b8d5a1b2d1
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+ms.openlocfilehash: 857651081fb10856d28dd419333ebef655388407
+ms.sourcegitcommit: e6e704cbd9a50fc7db1e6a0cf5d3f8c6cbb94363
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471041"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44564927"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Povolení správy zařízení s Windows 10 s doménou pomocí Microsoft 365 Business Premium
 
@@ -42,48 +41,92 @@ Toto video popisuje postup, jak nastavit tento scénář pro nejběžnější sc
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
 
-## <a name="1-prepare-for-directory-synchronization"></a>1. Příprava na synchronizaci adresářů 
+## <a name="before-you-get-started-make-sure-you-complete-these-steps"></a>Než začnete, ujistěte se, že provedete tyto kroky:
+- Synchronizujte uživatele s Azure AD pomocí služby Azure AD Connect.
+- Dokončete synchronizaci organizační jednotky Azure AD Connect (OU).
+- Ujistěte se, že všichni uživatelé domény, které synchronizujete, mají licence k Microsoft 365 Business Premium.
 
-Před synchronizací uživatelů a počítačů z místní domény služby Active Directory zkontrolujte možnost [Příprava na synchronizaci adresářů s Office 365](https://docs.microsoft.com/office365/enterprise/prepare-for-directory-synchronization). Zejména:
+Postup naleznete v tématu [Synchronizace uživatelů domény](manage-domain-users.md) společnosti Microsoft.
 
-   - Ujistěte se, že v adresáři neexistují žádné duplikáty pro následující atributy: **mail**, **proxyAddresses**a **userPrincipalName**. Tyto hodnoty musí být jedinečné a všechny duplikáty musí být odebrány.
-   
-   - Doporučujeme nakonfigurovat **atribut userPrincipalName** (UPN) pro každý místní uživatelský účet tak, aby odpovídal primární e-mailové adrese, která odpovídá licencovanému uživateli Microsoft 365. Například: *mary.shelley@contoso.com* spíše než *mary@contoso.local*
-   
-   - Pokud doména služby Active Directory končí nesměrovatelnou příponou, jako je *místní* nebo *lan*, namísto přípony směrovatelné serverem Internet, například *.com* nebo *.org*, upravte příponu hlavního názvu uživatele místních uživatelských účtů jako první, jak je popsáno v části [Příprava nesměrovatelné domény pro synchronizaci adresářů](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
+## <a name="1-verify-mdm-authority-in-intune"></a>1. Ověření autority MDM v Intune
 
-## <a name="2-install-and-configure-azure-ad-connect"></a>2. Instalace a konfigurace služby Azure AD Connect
+Přejděte na portal.azure.com a v horní části stránky vyhledejte Intune.
+Na stránce Microsoft Intune vyberte **Registrace zařízení** a na stránce **Přehled** se ujistěte, že **autorita MDM** je **Intune**.
 
-Chcete-li synchronizovat uživatele, skupiny a kontakty z místní služby Active Directory do služby Azure Active Directory, nainstalujte azure active directory connect a nastavte synchronizaci adresářů. Další informace najdete v tématu [Nastavení synchronizace adresářů pro Office 365.](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization)
+- Pokud **autorita MDM** není **žádná**, klepněte na **autoritu MDM a** nastavte ji na **Intune**.
+- Pokud je **autorita MDM** **Microsoft Office 365**, přejděte na **Zařízení**  >  **pro registraci zařízení** a použijte dialogové okno Přidat **autoritu MDM** vpravo k přidání autority **Intune MDM** (dialogové okno **Přidat autoritu MDM je** k dispozici jenom v případě, že je **autorita MDM** nastavená na Microsoft Office 365).
 
-> [!NOTE]
-> Kroky jsou přesně stejné pro Microsoft 365 pro firmy. 
+## <a name="2-verify-azure-ad-is-enabled-for-joining-computers"></a>2. Ověření, že azure ad je povolena pro připojení k počítačům
 
-Při konfiguraci možností pro Azure AD Connect doporučujeme povolit **synchronizaci hesel**, **bezproblémové jednotné přihlašování**a funkci **zpětného zápisu hesla,** která je také podporovaná v Microsoftu 365 pro firmy.
+- Přejděte do Centra pro správu na <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> adrese a vyberte **Azure Active Directory** (v seznamu **Centra pro správu** vyberte Zobrazit vše, pokud azure active directory není viditelná). 
+- V **Centru pro správu Služby Active Directory Azure**přejděte na **Azure Active Directory** , zvolte **Zařízení** a potom **nastavení zařízení**.
+- Ověřit, že**uživatelé mohou připojit zařízení k Azure AD** je povolena 
+    1. Chcete-li povolit všechny uživatele, nastavte hodnotu **Vše**.
+    2. Chcete-li povolit konkrétní uživatele, nastavte na **Hodnotu Vybrané,** která povolí určitou skupinu uživatelů.
+        - Přidejte uživatele požadované domény synchronizované ve službě Azure AD do [skupiny zabezpečení](../admin/create-groups/create-groups.md).
+        - Zvolte **Vybrat skupiny,** chcete-li povolit uživatelský obor MDM pro tuto skupinu zabezpečení.
 
-> [!NOTE]
-> Existují některé další kroky pro zpětný zápis hesla nad rámec zaškrtávacího políčka ve službě Azure AD Connect. Další informace naleznete v [tématu How-to: configure password writeback](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback). 
+## <a name="3-verify-azure-ad-is-enabled-for-mdm"></a>3. Ověření, že azure ad je povolena pro MDM
 
-## <a name="3-configure-hybrid-azure-ad-join"></a>3. Konfigurace hybridního připojení Azure AD
+- Přejděte do Centra pro správu na <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> adrese a vyberte možnost **Endpoint Managemen**t (vyberte **Zobrazit vše,** pokud **endpoint Manager** není viditelný)
+- V **Centru pro správu Správce koncových bodů společnosti Microsoft**přejděte na **Položku**Automatické  >  **Windows**  >  registrace**systému**Windows  >  **Automatic Enrollment**zařízení .
+- Ověřte, zda je povolen obor uživatele MDM.
 
-Než povolíte, aby se zařízení s Windows 10 připojila k hybridnímu Azure AD, ujistěte se, že splňujete následující požadavky:
+    1. Chcete-li zaregistrovat všechny počítače, nastavte na **Vše,** abyste automaticky zaregistrovali všechny uživatelské počítače, které jsou připojeny k Azure AD a novým počítačům, když uživatelé přidají pracovní účet do Windows.
+    2. Chcete-li zaregistrovat počítače určité skupiny uživatelů, nastavte hodnotu **Některé.**
+        -  Přidejte uživatele požadované domény synchronizované ve službě Azure AD do [skupiny zabezpečení](../admin/create-groups/create-groups.md).
+        -  Zvolte **Vybrat skupiny,** chcete-li povolit uživatelský obor MDM pro tuto skupinu zabezpečení.
 
-   - Používáte nejnovější verzi Azure AD Connect.
+## <a name="4-set-up-service-connection-point-scp"></a>4. Nastavení spojovacího bodu služby (SCP)
 
-   - Azure AD connect synchronizoval všechny objekty počítače zařízení, která chcete být hybridní Azure AD připojen. Pokud objekty počítače patří do konkrétní organizační jednotky (OU), ujistěte se, že tyto organizační jednotky jsou nastaveny pro synchronizaci v Azure AD připojení také.
+Tyto kroky jsou zjednodušeny [z konfigurace hybridního spojení Azure AD](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join). Chcete-li provést kroky, které potřebujete k použití Azure AD Connect a vašich globálních administrátorů Microsoft 365 Business Premium a hesel pro správce služby Active Directory.
 
-Chcete-li zaregistrovat stávající zařízení s Windows 10 připojená k doméně jako hybridní Azure AD, postupujte podle pokynů v [kurzu: Konfigurace hybridního připojení Služby Azure Active Directory pro spravované domény](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join). Tento hybrid umožňuje stávající místní službu Active Directory připojit k počítačům s Windows 10 a připravit je na cloud.
-    
-## <a name="4-enable-automatic-enrollment-for-windows-10"></a>4. Povolit automatickou registraci pro Windows 10
+1.  Spusťte Azure AD Connect a pak vyberte **Konfigurovat**.
+2.  Na stránce **Další úkoly** vyberte **Konfigurovat možnosti zařízení**a pak vyberte **Další**.
+3.  Na stránce **Přehled** vyberte **Další**.
+4.  Na stránce **Připojení k Azure AD** zadejte přihlašovací údaje globálního správce pro Microsoft 365 Business Premium.
+5.  Na stránce **Možnosti zařízení** vyberte **Konfigurovat hybridní spojení Azure AD**a pak vyberte **Další**.
+6.  Na stránce **SCP** pro každou doménovou strukturu, ve které chcete azure ad connect nakonfigurovat SCP, proveďte následující kroky a pak vyberte **Další**:
+    - Zaškrtněte políčko vedle názvu doménové struktury. Doménová struktura by měla být název domény služby AD.
+    - Ve sloupci **Ověřovací služba** otevřete rozevírací seznam a vyberte odpovídající název domény (měla by existovat pouze jedna možnost).
+    - Vyberte **Přidat** a zadejte pověření správce domény.  
+7.  Na stránce **Operační systémy Zařízení** vyberte jenom zařízení připojená k Windows 10 nebo novějším doménovým systémům.
+8.  Na stránce **Připraveno ke konfiguraci** vyberte **Konfigurovat**.
+9.  Na stránce **Konfigurace dokončení** vyberte **Exit**.
 
- Pokud se chcete automaticky zaregistrovat zařízení s Windows 10 pro správu mobilních zařízení v Intune, [přečtěte si tématu Automatické registrace zařízení s Windows 10 pomocí zásad skupiny](https://docs.microsoft.com/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy). Zásady skupiny můžete nastavit na úrovni místního počítače nebo pro hromadné operace můžete pomocí Konzoly pro správu zásad skupiny a šablon ADMX vytvořit toto nastavení zásad skupiny v řadiči domény.
 
-## <a name="5-configure-seamless-single-sign-on"></a>5. Konfigurace bezproblémového jednotného přihlašování
+## <a name="5-create-a-gpo-for-intune-enrollment--admx-method"></a>5. Vytvoření objektu zásad skupiny pro registraci Intune – metoda ADMX
 
-  Bezproblémové jednotné přihlašování automaticky přihlašuje uživatele do cloudových prostředků Microsoftu 365, když používají podnikové počítače. Jednoduše nasaďte jednu ze dvou možností zásad skupiny popsaných v [bezproblémovém jednotném přihlašování služby Azure Active Directory: Rychlý start](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start#step-2-enable-the-feature). Možnost **Zásady skupiny** neumožňuje uživatelům měnit nastavení, zatímco možnost **Předvolba zásad skupiny** nastavuje hodnoty, ale také je nechává konfigurovatelné uživatelem.
+Použít. soubor šablony ADMX.
 
-## <a name="6-set-up-windows-hello-for-business"></a>6. Nastavení Windows Hello pro firmy
+1.  Přihlaste se k serveru AD, vyhledejte a otevřete **Server Manager**  >  **Tools**  >  **správu zásad skupiny**Nástroje správce serveru .
+2.  Vyberte název domény v části **Domény** a vyberte položku **Nový**klepnutím pravým tlačítkem myši na **položku Objekty zásad skupiny** .
+3.  Pojmenujte nový objekt zásad skupiny, například "*Cloud_Enrollment*" a pak vyberte **OK**.
+4.  Klepněte pravým tlačítkem myši na nový objekt zásad skupiny v části **Objekty zásad skupiny** a vyberte příkaz **Upravit**.
+5.  V **Editoru správy zásad skupiny** **přejděte**na  >  **položku Šablony správy zásad**konfigurace  >  **Administrative Templates**  >  **počítače, součásti systému Windows**  >  **MDM**.
+6. Klikněte pravým tlačítkem myši na **Povolit automatickou registraci MDM pomocí výchozích přihlašovacích údajů služby Azure AD** a pak vyberte **povoleno**  >  **OK**. Zavřete okno editoru.
 
- Windows Hello pro firmy nahrazuje hesla silným dvoufaktorovým ověřováním (2FA) pro přihlášení do místního počítače. Jedním z faktorů je pár asymetrických klíčů a druhým je KÓD PIN nebo jiné místní gesto, jako je otisk prstu nebo rozpoznávání obličeje, pokud ho vaše zařízení podporuje. Doporučujeme, abyste pokud možno nahradili hesla 2FA a Windows Hello pro firmy.
+> [!IMPORTANT]
+> Pokud zásady **Povolit automatickou registraci MDM pomocí výchozích přihlašovacích údajů služby Azure AD**nevidíte , přečtěte [si přečtěte si přečtěte si přečtěte si přečtěte si přečtěte si přečtěte si přečtěte si nejnovější šablony pro správu](#get-the-latest-administrative-templates).
 
-Chcete-li nakonfigurovat hybridní Windows Hello pro firmy, přečtěte si [hybridní klíč důvěry Windows Hello pro obchodní požadavky](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-trust-prereqs). Pak postupujte podle pokynů v [nastavení důvěryhodnosti hybridního windows hello pro obchodní klíč](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-whfb-settings). 
+## <a name="6-deploy-the-group-policy"></a>6. Nasazení zásad skupiny
+
+1.  Ve Správci serveru v části **Domains** > Group Policy objects vyberte objekt zásad skupiny z výše uvedeného kroku 3, například "Cloud_Enrollment".
+2.  Vyberte kartu **Obor** pro objekt zásad skupiny.
+3.  Na kartě Obor objektu zásad skupiny klikněte pravým tlačítkem myši na odkaz na doménu v části **Odkazy**.
+4.  Chcete-li na obrazovce potvrzení nasadit objekt zásad skupiny, vyberte možnost **Vynuceno** a potom **OK.**
+
+## <a name="get-the-latest-administrative-templates"></a>Získejte nejnovější šablony pro správu
+
+Pokud zásady **Povolit automatickou registraci MDM pomocí výchozích přihlašovacích údajů služby Azure AD**nevidíte , může to být způsobeno tím, že nemáte nainstalované kódY ADMX pro Systém Windows 10 verze 1803, verze 1809 nebo verze 1903. Chcete-li tento problém vyřešit, postupujte takto (Poznámka: nejnovější MDM.admx je zpětně kompatibilní):
+
+1.  Ke stažení: [Šablony pro správu (.admx) pro Windows 10 Květen 2019 Update (1903)](https://www.microsoft.com/download/details.aspx?id=58495&WT.mc_id=rss_alldownloads_all).
+2.  Nainstalujte balíček do primárního řadiče domény (PDC).
+3.  Navigace v závislosti na verzi složky: **C:\Program Files (x86)\Microsoft Group Policy\Windows 10 May 2019 Update (1903) v3**.
+4.  Přejmenujte složku **Definice zásad** ve výše uvedené cestě k **policydefinition .**
+5.  Zkopírujte složku **PolicyDefinitions** do **souboru C:\Windows\SYSVOL\domain\Policies**. 
+    -   Pokud máte v plánu použít centrální úložiště zásad pro celou doménu, přidejte obsah PolicyDefinitions tam.
+6.  Chcete-li, aby byla tato zásada k dispozici, restartujte primární řadič domény. Tento postup bude fungovat i pro všechny budoucí verze.
+
+V tomto okamžiku byste měli vidět zásady **Povolit automatické registrace MDM pomocí výchozích přihlašovacích údajů Azure AD** k dispozici.
+
