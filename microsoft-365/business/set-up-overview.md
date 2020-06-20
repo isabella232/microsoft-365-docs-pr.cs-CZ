@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Seznamte se s kroky nastavení microsoftu 365 Business Premium, od přihlášení k odběru přes přidání domény a uživatelů až po nastavení zásad zabezpečení a další informace.
-ms.openlocfilehash: 4670344263ceb64a32962dfa6eb9c1644e61541d
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+ms.openlocfilehash: a808ae5761c1bc5706966a3f7de95f96f8f7c8c8
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470519"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785806"
 ---
 # <a name="overview-of-setup"></a>Přehled nastavení
 
@@ -40,7 +40,7 @@ Podívejte se na krátké video o nastavení Microsoftu 365 Business Premium.<br
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
-Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Většinu kroků nastavení lze provést v průvodci instalací, ale jsou uvedeny také další možnosti.
 
@@ -95,4 +95,4 @@ Když se připojíte k zařízení s Windows 10 k Azure AD, použijí se na něj
 
 ## <a name="see-also"></a>Viz také
 
-[Školicí videa microsoftu 365 pro firmy](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Školicí videa microsoftu 365 pro firmy](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

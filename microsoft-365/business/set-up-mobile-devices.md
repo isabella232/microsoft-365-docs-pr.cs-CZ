@@ -25,16 +25,16 @@ search.appverid:
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Nainstalujte Office na iPhone nebo telefon s Androidem a vaše pracovní soubory v aplikacích Office budou chráněné Microsoftem 365 pro firmy.
-ms.openlocfilehash: e96e2edc0fc2bc25449d8f50239fa25179b345bd
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: e847a794d34731c22f7a0fca87d246151a6f80a5
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402992"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785866"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Nastavení mobilních zařízení pro Microsoft 365 pro firemní uživatele
 
-Při instalaci Office na iPhone nebo telefon s Androidem dodržujte pokyny na kartách. Po těchto krocích budou vaše pracovní soubory vytvořené v aplikacích Office chráněny Microsoftem 365 pro firmy.
+Při instalaci Office na iPhone nebo telefon s Androidem dodržujte pokyny na kartách. Po těchto krocích budou vaše pracovní soubory vytvořené v aplikacích Office chráněné Microsoftem 365 pro firmy.
 
 Následující příklad se týká Outlooku, ale platí i pro všechny ostatní aplikace Office, které chcete instalovat.
   
@@ -42,11 +42,11 @@ Následující příklad se týká Outlooku, ale platí i pro všechny ostatní 
 
 ## <a name="iphone"></a>[Iphone](#tab/iPhone)
   
-Podívejte se na krátké video o tom, jak nastavit aplikace Office na zařízeních s iOS s Microsoftem 365 pro firmy.<br><br>
+Podívejte se na krátké video o tom, jak nastavit aplikace Office na zařízeních se systémem iOS s Microsoftem 365 pro firmy.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
 
-Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Přejděte do **App Storu** a do vyhledávacího pole zadejte Microsoft Outlook.
   
@@ -60,11 +60,11 @@ Po dokončení instalace klepněte na tlačítko **Otevřít**. Po otevření Ou
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-Na obrazovce **Přidat účet** přidejte účet zadejte svou pracovní e-mailovou adresu a potom \> **Add Account**zadejte přihlašovací údaje microsoft365 pro firmy \> **Přihlaste se**.
+Zadejte svou pracovní e-mailovou adresu na obrazovce **Přidat e-mailový účet** \> **a**pak zadejte přihlašovací údaje k Microsoftu 365 pro firmy \> **Sign in**.
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
-Pokud vaše organizace chrání soubory v aplikacích, zobrazí se dialogové okno s informací, že vaše organizace nyní chrání data v aplikaci a že je potřeba aplikaci restartovat, abyste ji nadále používali. Klepněte na **OK** a zavřete Outlook. 
+Pokud vaše organizace chrání soubory v aplikacích, zobrazí se dialogové okno s informací, že vaše organizace teď chrání data v aplikaci a že ji musíte restartovat, abyste ji dál používali. Klepněte na **OK** a zavřete Outlook. 
   
 ![Snímek obrazovky, který ukazuje, že vaše organizace teď chrání vaši aplikaci Outlook](../media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
   
@@ -78,17 +78,17 @@ Podívejte se na video o instalaci Outlooku a Office na zařízení s Androidem.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
 
-Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-Chcete-li zahájit nastavení v telefonu android, přejděte do Obchodu Play.
+Chcete-li zahájit nastavení v telefonu Android, přejděte do Obchodu Play.
   
 ![On the Android home screen, tap Play Store](../media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
   
-Do vyhledávacího pole Google Play zadejte Aplikaci Microsoft Outlook a klepněte na **Instalovat**. Po dokončení instalace Outlooku klepněte na **Otevřít**.
+Do vyhledávacího pole Google Play zadejte aplikaci Microsoft Outlook a klepněte na **Instalovat**. Po dokončení instalace aplikace Outlook klepněte na **Otevřít**.
   
 ![Tap Open to open Outlook app](../media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-V aplikaci Outlook klepněte na **Začínáme**, přidejte e-mailový účet Microsoft 365 pro firmy \> **Pokračovat**a přihlaste se pomocí přihlašovacích údajů organizace.
+V aplikaci Outlook klepněte na **Začínáme**, přidejte e-mailový účet Microsoft 365 pro firmy \> **Pokračovat**a přihlaste se pomocí přihlašovacích údajů vaší organizace.
   
 ![Sign in to your organizational account in Outlook](../media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   
@@ -100,12 +100,12 @@ V Obchodě Play nainstalujte portál společnosti Intune.
   
 ![Screenshot that shows the install button for Intune Company Portal in Google Play Store](../media/5e0408f2-3f37-44dd-80ed-13ca2ac6df0c.png)
   
-Znovu otevřete Outlook, zadejte PIN a potvrďte ho. Aplikace Outlook je připravená k použití.
+Open Outlook again, and enter and confirm a PIN. Your Outlook app is now ready for use.
   
 ![Set  PIN for Outlook app in Android](../media/edb91afb-f1ed-451a-bc6b-8ccba664e055.png)
 
 ## <a name="see-also"></a>Viz také
 
-[Microsoft 365 pro firemní školicí videa](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Školicí videa microsoftu 365 pro firmy](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
 
 ---
