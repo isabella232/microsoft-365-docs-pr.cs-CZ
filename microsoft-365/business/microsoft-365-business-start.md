@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Přečtěte si o Microsoftu 365 pro firmy, o tom, jak ho nastavit a jak připravit zařízení a počítače uživatelů, abyste zajistili, že jsou chráněni Microsoftem 365 pro firmy.
-ms.openlocfilehash: 48a103333e101d545d562e7f2e9dd7329686f107
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: 08a956cc7e68bbba74d29bafaab77065be1321ce
+ms.sourcegitcommit: 3ddcf08e8deec087df1fe524147313f1cb12a26d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44786148"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45022111"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Začínáme s Microsoftem 365 pro firmy
 
@@ -84,7 +84,7 @@ Přihlaste se do [Centra pro správu Microsoftu 365](https://portal.office.com/a
     
     - Pomocí Průvodce synchronizací adresářů synchronizujte uživatele s cloudem. Tento proces dokončete podle pokynů v části [Nastavení synchronizace adresářů pro Microsoft 365.](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) Po synchronizaci uživatelů s cloudem budete muset [vypnout synchronizaci adresářů pro Office 365](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization).
     
-    Budete také muset dát každému uživateli, který byl přidán tímto způsobem licenci microsoft 365 pro firmy. Můžete to udělat v [průvodci instalací](set-up.md) nebo můžete [přiřadit licence uživatelům v Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+    Budete také muset dát každému uživateli, který byl přidán tímto způsobem licenci microsoft 365 pro firmy. Můžete to udělat v [průvodci instalací](set-up.md) nebo můžete [přiřadit licence uživatelům](../admin/manage/assign-licenses-to-users.md).
     
 ### <a name="2-prepare-mobile-devices"></a>2: Příprava mobilních zařízení
 
