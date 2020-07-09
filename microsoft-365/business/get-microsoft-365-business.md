@@ -1,5 +1,5 @@
 ---
-title: Získání Microsoftu 365 Business z partnerského centra
+title: Získejte Microsoft 365 Business Premium z partnerského centra
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -19,43 +19,44 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
-description: Seznamte se s možnostmi nákupu Microsoft 365 Business a podrobnými pokyny k jeho zakoupení v Centru microsoftu.
-ms.openlocfilehash: ccbdb928c0f1268fb7019793b6246eef386daa45
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Seznamte se s možnostmi zakoupení microsoftu 365 Business Premium a podrobnými pokyny k jeho zakoupení v centru Microsoft Partner Center.
+ms.openlocfilehash: 550ab62b46ffc09f8c4822a2e1741ee51b4579ca
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560737"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "45081793"
 ---
-# <a name="get-microsoft-365-business"></a><span data-ttu-id="671b3-103">Jak získat Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="671b3-103">Get Microsoft 365 Business</span></span>
+# <a name="get-microsoft-365-business-premium"></a><span data-ttu-id="0beac-103">Získat Microsoft 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="0beac-103">Get Microsoft 365 Business Premium</span></span>
 
-## <a name="get-microsoft-365-business-from-microsoft"></a><span data-ttu-id="671b3-104">Získání Microsoft 365 Business od Microsoftu</span><span class="sxs-lookup"><span data-stu-id="671b3-104">Get Microsoft 365 Business from Microsoft</span></span>
+## <a name="get-microsoft-365-business-premium-from-microsoft"></a><span data-ttu-id="0beac-104">Získejte Microsoft 365 Business Premium od Microsoftu</span><span class="sxs-lookup"><span data-stu-id="0beac-104">Get Microsoft 365 Business Premium from Microsoft</span></span>
 
-<span data-ttu-id="671b3-105">Pokud nemáte partnera a chcete získat Microsoft 365 Business, můžete si ho [koupit tady](https://www.microsoft.com/en-US/microsoft-365/business).</span><span class="sxs-lookup"><span data-stu-id="671b3-105">If you don't have a partner and want to get Microsoft 365 Business, you can [buy it here](https://www.microsoft.com/en-US/microsoft-365/business).</span></span>
+<span data-ttu-id="0beac-105">Pokud nemáte partnera a chcete získat Microsoft 365 Business Premium, můžete [si ho koupit tady](https://www.microsoft.com/en-US/microsoft-365/business).</span><span class="sxs-lookup"><span data-stu-id="0beac-105">If you don't have a partner and want to get Microsoft 365 Business Premium, you can [buy it here](https://www.microsoft.com/en-US/microsoft-365/business).</span></span>
 
-<span data-ttu-id="671b3-106">Podrobné pokyny [najdete v tématu Registrace do Microsoftu 365 Business.](sign-up.md)</span><span class="sxs-lookup"><span data-stu-id="671b3-106">See [sign up for Microsoft 365 Business](sign-up.md) for detailed instructions.</span></span>
+<span data-ttu-id="0beac-106">Podrobné pokyny [najdete v tématu Registrace pro Microsoft 365 Business Premium.](sign-up.md)</span><span class="sxs-lookup"><span data-stu-id="0beac-106">See [sign up for Microsoft 365 Business Premium](sign-up.md) for detailed instructions.</span></span>
 
-<span data-ttu-id="671b3-107">Můžete se také vydat do [Obchodu Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) a koupit Microsoft 365 Business a získat nápovědu k nastavení.</span><span class="sxs-lookup"><span data-stu-id="671b3-107">You can also head over to a [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) to buy Microsoft 365 Business and get setup help.</span></span>
+<span data-ttu-id="0beac-107">Můžete také přejít do [Microsoft Storu](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) a koupit si Microsoft 365 Business Premium a získat nápovědu k nastavení.</span><span class="sxs-lookup"><span data-stu-id="0beac-107">You can also head over to a [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) to buy Microsoft 365 Business Premium and get setup help.</span></span>
   
-## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a><span data-ttu-id="671b3-108">Získání Microsoft 365 Business z partnerského centra Microsoftu</span><span class="sxs-lookup"><span data-stu-id="671b3-108">Get Microsoft 365 Business from Microsoft Partner Center</span></span>
+## <a name="get-microsoft-365-business-premium-from-microsoft-partner-center"></a><span data-ttu-id="0beac-108">Získejte Microsoft 365 Business Premium z Microsoft Partner Center</span><span class="sxs-lookup"><span data-stu-id="0beac-108">Get Microsoft 365 Business Premium from Microsoft Partner Center</span></span>
 
-1. <span data-ttu-id="671b3-109">Přihlaste se do [partnerského centra Microsoftu](https://go.microsoft.com/fwlink/p/?linkid=849910). Použijte přihlašovací údaje, které jste vytvořili při registraci do programu poskytovatele cloudových služeb (CSP).</span><span class="sxs-lookup"><span data-stu-id="671b3-109">Sign in at [Microsoft Partner Center](https://go.microsoft.com/fwlink/p/?linkid=849910) by using the credentials you created when you enrolled to the Cloud Service Provider (CSP) program.</span></span> 
+1. <span data-ttu-id="0beac-109">Přihlaste se do [partnerského centra Microsoftu](https://go.microsoft.com/fwlink/p/?linkid=849910). Použijte přihlašovací údaje, které jste vytvořili při registraci do programu poskytovatele cloudových služeb (CSP).</span><span class="sxs-lookup"><span data-stu-id="0beac-109">Sign in at [Microsoft Partner Center](https://go.microsoft.com/fwlink/p/?linkid=849910) by using the credentials you created when you enrolled to the Cloud Service Provider (CSP) program.</span></span> 
     
-2. <span data-ttu-id="671b3-110">Na řídicím panelu partnera zvolte **Zákazníci**, pak před nástupem Microsoftu 365 Business vyberte zákazníka nebo přidejte nového zákazníka.</span><span class="sxs-lookup"><span data-stu-id="671b3-110">On the Partner Dashboard, choose **Customers**, then select your customer or add a new customer before you get Microsoft 365 Business.</span></span>
+2. <span data-ttu-id="0beac-110">Na řídicím panelu partnera zvolte **Zákazníci**, vyberte svého zákazníka nebo přidejte nového zákazníka předtím, než získáte Microsoft 365 Business Premium.</span><span class="sxs-lookup"><span data-stu-id="0beac-110">On the Partner Dashboard, choose **Customers**, then select your customer or add a new customer before you get Microsoft 365 Business Premium.</span></span>
     
-    ![V partnerském centru společnosti Microsoft přidejte zákazníka.](../media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
+    ![V Centru partnerů společnosti Microsoft přidejte zákazníka.](../media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
-3. <span data-ttu-id="671b3-112">Na stránce **Odběr** zákazníka vyberte **Přidat předplatné**, v části Katalog zvolte možnost Malá firma a pak zvolte **Microsoft 365 Business**.</span><span class="sxs-lookup"><span data-stu-id="671b3-112">On the customer's **Subscription** page, select **Add subscription**, choose the Small business option under Catalog, and then choose **Microsoft 365 Business**.</span></span>
+3. <span data-ttu-id="0beac-112">Na stránce **Předplatné** zákazníka vyberte **Přidat předplatné**, v části Katalog zvolte možnost Malá firma a pak zvolte **Microsoft 365 Business Premium**.</span><span class="sxs-lookup"><span data-stu-id="0beac-112">On the customer's **Subscription** page, select **Add subscription**, choose the Small business option under Catalog, and then choose **Microsoft 365 Business Premium**.</span></span>
     
-    <span data-ttu-id="671b3-113">Vyberte požadovaný počet licencí (maximálně 300).</span><span class="sxs-lookup"><span data-stu-id="671b3-113">Select the number of licenses you need (up to 300).</span></span> <span data-ttu-id="671b3-114">Pokud máte více než 300 uživatelů, přejděte k [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316).</span><span class="sxs-lookup"><span data-stu-id="671b3-114">If you have more than 300 users, see [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316) instead.</span></span> 
+    <span data-ttu-id="0beac-113">Vyberte požadovaný počet licencí (maximálně 300).</span><span class="sxs-lookup"><span data-stu-id="0beac-113">Select the number of licenses you need (up to 300).</span></span> <span data-ttu-id="0beac-114">Pokud máte více než 300 uživatelů, přejděte k [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316).</span><span class="sxs-lookup"><span data-stu-id="0beac-114">If you have more than 300 users, see [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316) instead.</span></span> 
     
     ![Na stránce Nové předplatné zvolte malé firmy.](../media/52d99e89-2175-4974-84bb-dd626048541b.png)
   
-    <span data-ttu-id="671b3-116">Proveďte zbývající kroky pro přidání nového zákazníka, včetně názvu firmy.</span><span class="sxs-lookup"><span data-stu-id="671b3-116">Complete the rest of the steps for adding a new customer, including the business name.</span></span>
+    <span data-ttu-id="0beac-116">Dokončete zbývající kroky pro přidání nového zákazníka, včetně názvu firmy.</span><span class="sxs-lookup"><span data-stu-id="0beac-116">Complete the rest of the steps for adding a new customer, including the business name.</span></span>
     
 
 
