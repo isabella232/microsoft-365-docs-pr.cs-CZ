@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Nastavte pokročilou ochranu před hrozbami Office 365 a chraňte citlivá data před phishingem, malwarem a dalšími hrozbami.
-ms.openlocfilehash: d5510cdc082781fd9a1776e86b1bab1d8a2723d6
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: 0e6cb7ed13a0851ef249e1f599d17e03c052414a
+ms.sourcegitcommit: 3951147f74510e2ead6c11ceab92854f0937426b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44786200"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45083596"
 ---
 # <a name="increase-threat-protection"></a>Zvýšení ochrany před hrozbami
 
@@ -137,7 +137,7 @@ Chcete-li vytvořit zásady ochrany proti podvodným zprávám ATP, podívejte s
     
 4. Na stránce **Anti-phishing** vyberte **+ Vytvořit**. Průvodce spustí, který vás provede definováním zásad ochrany proti phishingu.
     
-5. Zadejte název, popis a nastavení zásad, jak je doporučeno v následující tabulce. Další podrobnosti naleznete [v tématu Informace o zásadách ochrany proti podvodným zprávám ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies#learn-about-atp-anti-phishing-policy-options). 
+5. Zadejte název, popis a nastavení zásad, jak je doporučeno v následující tabulce. Další podrobnosti naleznete [v tématu Informace o zásadách ochrany proti podvodným zprávám ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies). 
     
 6. Po kontrole nastavení zvolte **Vytvořit tuto zásadu** nebo **Uložit**podle potřeby.
     
