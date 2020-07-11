@@ -28,12 +28,12 @@ search.appverid:
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
 description: Naučte se odebírat firemní data ze zařízení spravovaných pomocí zásad ochrany a resetovat zařízení s Windows 10 do továrního nastavení.
-ms.openlocfilehash: 1f4b267f5a58429d40c5ece7df42a1bb5727c4e2
-ms.sourcegitcommit: e6e704cbd9a50fc7db1e6a0cf5d3f8c6cbb94363
+ms.openlocfilehash: 88311a2cf08ee0b1ceb4ef3eb599efe5ebccdb05
+ms.sourcegitcommit: a5ed189fa789975f8c3ed39db1d52f2ef7d671aa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44564922"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "45101615"
 ---
 # <a name="manage-protected-devices-with-microsoft-365-business-premium"></a>Správa chráněných zařízení pomocí Microsoftu 365 Business Premium
 
@@ -44,5 +44,7 @@ Další informace o úlohách, které můžete použít ke správě zařízení,
 [Odebrání dat společnosti ze zařízení](remove-company-data.md)
   
 [Obnovení továrního nastavení u zařízení s Windows 10](reset-devices-to-factory-settings.md)
+
+[Přidání spravovaného zařízení](https://docs.microsoft.com/microsoft-365/business/app-protection-settings-for-android-and-ios)
   
 
