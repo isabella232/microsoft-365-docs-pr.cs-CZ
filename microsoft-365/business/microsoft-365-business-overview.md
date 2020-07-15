@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Přečtěte si informace o Microsoftu 365 Business Premium, službě předplatného, která zahrnuje kancelářské aplikace Office a rozšířenou ochranu vaší firmy před kybernetickými hrozbami.
-ms.openlocfilehash: 6cff2fe62111e0d3ee99f406d0be83db0a119b09
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: 50b1fec21593bd22577e07e000cedb89dfd90f66
+ms.sourcegitcommit: f7566dd6010744c72684efdc37f4471672330b61
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44786168"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138222"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Přehled předplatného Microsoftu 365 Business Premium
 
@@ -110,11 +110,6 @@ Vaše **zařízení jsou zabezpečena** těmito způsoby:
 - Pokud máte partnera, získá partner Microsoft 365 Business Premium: [Získat Microsoft 365 Business Premium z partnerského centra Microsoftu](get-microsoft-365-business.md).
 
 - Pokud partnera nemáte a chcete získat Microsoft 365 Business Premium, můžete si ho [koupit tady](https://www.microsoft.com/microsoft-365/business) a postupovat podle pokynů k [registraci](sign-up.md).
-
-- Můžete také přejít do [Microsoft Storu](https://www.microsoft.com/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer), kde si můžete Microsoft 365 Business Premium koupit a kde také můžete získat nápovědu pro nastavení.
-
-    > [!NOTE]
-    > Tento odkaz je určený jenom pro obchody v USA.
 
 ## <a name="see-also"></a>Viz také
 
