@@ -67,7 +67,7 @@ U zcela nového zařízení, na kterém běží Windows 10 Pro Creators Update, 
     
 3. Dokončete nastavení zařízení s Windows 10.
     
-   Once you're done, the user will be connected to your organization's Azure AD. See [Verify the device is connected to Azure AD](#verify-the-device-is-connected-to-azure-ad) to make sure. 
+   Po dokončení nastavení bude uživatel připojen k Azure AD organizace. Pokud chcete nastavení zkontrolovat, přečtěte si část [Kontrola připojení zařízení k Azure AD](#verify-the-device-is-connected-to-azure-ad). 
   
 ### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a>Nastavené zařízení se spuštěným systémem Windows 10 Pro
 
@@ -97,7 +97,7 @@ U zcela nového zařízení, na kterém běží Windows 10 Pro Creators Update, 
   
 6. Na stránce **Ujistěte se, že se jedná** o vaši organizaci, ověřte, zda jsou informace správné, a klepněte na tlačítko **Připojit**.
   
-   On the **You're all set!** page, click **Done**.
+   Na stránce **Máte všechno nastavené** klikněte na **Hotovo**.
   
    ![On the Make sure this is your organization screen, click Join](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   

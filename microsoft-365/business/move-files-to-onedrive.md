@@ -50,7 +50,7 @@ Pokud má uživatel na počítači velký počet osobních souborů, měli byste
     
 3. V řádku nabídek zvolte **Nahrát**![Upload](../media/d9b963b8-10af-42e2-953d-360301b83d3c.png) a přejděte k souborům, které chcete uložit. 
     
-To transfer the user profile and important files, you can also use a third-party tool, such as ForensiT. You should upload the resulting files in OneDrive for Business also.
+K přesunu uživatelského profilu a dalších důležitých souborů také můžete použít externí nástroj, třeba ForensiT. Výsledné soubory byste také měli nahrát na OneDrive pro firmy.
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>Další informace o nastavení a používání Microsoftu 365 pro firmy
 
