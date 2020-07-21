@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business Premium, Microsoft 365, SMB, časté otázky, nejčastější dotazy, odpovědi, firmy
 ms.date: 06/08/2018
-ms.openlocfilehash: a2feb91ddcd2d95da28c3363d983b382cf2aa6dc
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 30437825a896acb470b23cb8f68ea36235ee80c8
+ms.sourcegitcommit: 5f980a9eb5aca61cf3662ef0bc65dec215e21656
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403444"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "45185970"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Časté otázky k Microsoftu 365 Business Premium
 
@@ -137,9 +137,9 @@ Nejpřímější cestou k úspěšnému nasazení Microsoftu 365 Business Premiu
 Ano, předplatitelé Microsoftu 365 Business Premium mají licenci k využívání všech funkcí Intune pro správu zařízení s iOSem, Androidem, MacOS a dalších zařízení napříč platformami. Funkce, které nejsou k dispozici ve zjednodušené konzole pro správu v Microsoftu 365 Business Premium, jako je správa aplikací třetích stran a konfigurace profilů WiFi, certifikátů VPN, je možné spravovat v plné verzi konzoly Intune. 
   
 
-### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business"></a>Je Microsoft 365 Business součástí Azure Active Directory (Azure AD) Premium P1? 
+### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>Je Azure Active Directory (Azure AD) Premium P1 dodáván s Microsoft 365 Business Premium? 
 
-Microsoft 365 Business dříve obsahoval některé z funkcí zahrnutých v plánu Azure AD Premium Plan 1, včetně podmíněného přístupu, samoobslužného resetování hesla a vícefaktorového ověřování. Aktuálně předplatitelům Microsoftu 365 Business nasazujeme plnou licenci na Azure AD Premium P1 – nejdříve novým zákazníkům a pak stávajícím předplatitelům. Další informace najdete v [popisu služeb Microsoft 365 Business](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) a na tomto [blogu](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/azure-active-directory-premium-p1-is-coming-to-microsoft-365/ba-p/1275496).
+Ano, Azure AD Premium P1 je součástí Microsoft Business Premium.
  
  
 ### <a name="does-microsoft-365-business-premium-allow-customers-to-manage-macs"></a>Umožňuje Microsoft 365 Business Premium zákazníkům spravovat počítače Mac? 
