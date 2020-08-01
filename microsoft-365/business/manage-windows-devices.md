@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Přečtěte si, jak v několika krocích povolit microsoftu 365 ochranu místních zařízení se systémem Windows 10 připojenými k adresáři A active Directory.
-ms.openlocfilehash: 857651081fb10856d28dd419333ebef655388407
-ms.sourcegitcommit: e6e704cbd9a50fc7db1e6a0cf5d3f8c6cbb94363
+ms.openlocfilehash: 2eaf5aa76cae1680b93af008af615ae872e4fb20
+ms.sourcegitcommit: fab425ea4580d1924fb421e6db233d135f5b7d19
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44564927"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46533779"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Povolení správy zařízení s Windows 10 s doménou pomocí Microsoft 365 Business Premium
 
@@ -77,44 +77,32 @@ Na stránce Microsoft Intune vyberte **Registrace zařízení** a na stránce **
         -  Přidejte uživatele požadované domény synchronizované ve službě Azure AD do [skupiny zabezpečení](../admin/create-groups/create-groups.md).
         -  Zvolte **Vybrat skupiny,** chcete-li povolit uživatelský obor MDM pro tuto skupinu zabezpečení.
 
-## <a name="4-set-up-service-connection-point-scp"></a>4. Nastavení spojovacího bodu služby (SCP)
+## <a name="4-create-the-required-resources"></a>4. Vytvořte požadované zdroje 
 
-Tyto kroky jsou zjednodušeny [z konfigurace hybridního spojení Azure AD](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join). Chcete-li provést kroky, které potřebujete k použití Azure AD Connect a vašich globálních administrátorů Microsoft 365 Business Premium a hesel pro správce služby Active Directory.
+Provádění požadovaných úloh pro [konfiguraci hybridního spojení Azure AD](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join) bylo zjednodušeno použitím rutiny [Initialize-SecMgmtHybirdDeviceEnrollment,](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) která se nachází v modulu [SecMgmt](https://www.powershellgallery.com/packages/SecMgmt) PowerShell. Při vyvolání této rutiny vytvoří a nakonfiguruje požadovaný bod připojení služby a zásady skupiny.
 
-1.  Spusťte Azure AD Connect a pak vyberte **Konfigurovat**.
-2.  Na stránce **Další úkoly** vyberte **Konfigurovat možnosti zařízení**a pak vyberte **Další**.
-3.  Na stránce **Přehled** vyberte **Další**.
-4.  Na stránce **Připojení k Azure AD** zadejte přihlašovací údaje globálního správce pro Microsoft 365 Business Premium.
-5.  Na stránce **Možnosti zařízení** vyberte **Konfigurovat hybridní spojení Azure AD**a pak vyberte **Další**.
-6.  Na stránce **SCP** pro každou doménovou strukturu, ve které chcete azure ad connect nakonfigurovat SCP, proveďte následující kroky a pak vyberte **Další**:
-    - Zaškrtněte políčko vedle názvu doménové struktury. Doménová struktura by měla být název domény služby AD.
-    - Ve sloupci **Ověřovací služba** otevřete rozevírací seznam a vyberte odpovídající název domény (měla by existovat pouze jedna možnost).
-    - Vyberte **Přidat** a zadejte pověření správce domény.  
-7.  Na stránce **Operační systémy Zařízení** vyberte jenom zařízení připojená k Windows 10 nebo novějším doménovým systémům.
-8.  Na stránce **Připraveno ke konfiguraci** vyberte **Konfigurovat**.
-9.  Na stránce **Konfigurace dokončení** vyberte **Exit**.
+Tento modul můžete nainstalovat vyvoláním následující z instance prostředí PowerShell:
 
-
-## <a name="5-create-a-gpo-for-intune-enrollment--admx-method"></a>5. Vytvoření objektu zásad skupiny pro registraci Intune – metoda ADMX
-
-Použít. soubor šablony ADMX.
-
-1.  Přihlaste se k serveru AD, vyhledejte a otevřete **Server Manager**  >  **Tools**  >  **správu zásad skupiny**Nástroje správce serveru .
-2.  Vyberte název domény v části **Domény** a vyberte položku **Nový**klepnutím pravým tlačítkem myši na **položku Objekty zásad skupiny** .
-3.  Pojmenujte nový objekt zásad skupiny, například "*Cloud_Enrollment*" a pak vyberte **OK**.
-4.  Klepněte pravým tlačítkem myši na nový objekt zásad skupiny v části **Objekty zásad skupiny** a vyberte příkaz **Upravit**.
-5.  V **Editoru správy zásad skupiny** **přejděte**na  >  **položku Šablony správy zásad**konfigurace  >  **Administrative Templates**  >  **počítače, součásti systému Windows**  >  **MDM**.
-6. Klikněte pravým tlačítkem myši na **Povolit automatickou registraci MDM pomocí výchozích přihlašovacích údajů služby Azure AD** a pak vyberte **povoleno**  >  **OK**. Zavřete okno editoru.
+```powershell
+Install-Module SecMgmt
+```
 
 > [!IMPORTANT]
-> Pokud zásady **Povolit automatickou registraci MDM pomocí výchozích přihlašovacích údajů služby Azure AD**nevidíte , přečtěte [si přečtěte si přečtěte si přečtěte si přečtěte si přečtěte si přečtěte si přečtěte si nejnovější šablony pro správu](#get-the-latest-administrative-templates).
+> Doporučujeme nainstalovat tento modul na Windows Server se systémem Azure AD Connect.
 
-## <a name="6-deploy-the-group-policy"></a>6. Nasazení zásad skupiny
+Chcete-li vytvořit požadovaný bod připojení služby a zásady skupiny, vyvoláte rutinu [Initialize-SecMgmtHybirdDeviceEnrollment.](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) Při provádění tohoto úkolu budete potřebovat pověření globálního správce Microsoft 365 Business Premium. Až budete připraveni k vytvoření prostředků, vyvolat následující:
 
-1.  Ve Správci serveru v části **Domains** > Group Policy objects vyberte objekt zásad skupiny z výše uvedeného kroku 3, například "Cloud_Enrollment".
-2.  Vyberte kartu **Obor** pro objekt zásad skupiny.
-3.  Na kartě Obor objektu zásad skupiny klikněte pravým tlačítkem myši na odkaz na doménu v části **Odkazy**.
-4.  Chcete-li na obrazovce potvrzení nasadit objekt zásad skupiny, vyberte možnost **Vynuceno** a potom **OK.**
+```powershell
+PS C:\> Connect-SecMgmtAccount
+PS C:\> Initialize-SecMgmtHybirdDeviceEnrollment -GroupPolicyDisplayName 'Device Management'
+```
+
+První příkaz naváže spojení s cloudem Microsoftu a po zobrazení výzvy zadejte přihlašovací údaje globálního správce Microsoft 365 Business Premium.
+
+## <a name="5-link-the-group-policy"></a>5. Propojení zásad skupiny
+
+1. V Konzole GPMC (Group Policy Management Console) klikněte pravým tlačítkem myši na místo, kde chcete zásadu propojit, a v místní nabídce vyberte Propojit existující objekt *zásad skupiny.*
+2. Vyberte zásadu vytvořenou ve výše uvedeném kroku a klepněte na tlačítko **OK**.
 
 ## <a name="get-the-latest-administrative-templates"></a>Získejte nejnovější šablony pro správu
 
@@ -129,4 +117,3 @@ Pokud zásady **Povolit automatickou registraci MDM pomocí výchozích přihla�
 6.  Chcete-li, aby byla tato zásada k dispozici, restartujte primární řadič domény. Tento postup bude fungovat i pro všechny budoucí verze.
 
 V tomto okamžiku byste měli vidět zásady **Povolit automatické registrace MDM pomocí výchozích přihlašovacích údajů Azure AD** k dispozici.
-
