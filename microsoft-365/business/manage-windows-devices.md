@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Přečtěte si, jak v několika krocích povolit microsoftu 365 ochranu místních zařízení se systémem Windows 10 připojenými k adresáři A active Directory.
-ms.openlocfilehash: 2eaf5aa76cae1680b93af008af615ae872e4fb20
-ms.sourcegitcommit: fab425ea4580d1924fb421e6db233d135f5b7d19
+ms.openlocfilehash: 6275c6c4be9cd9631ab095f8b0e1b39683022bb2
+ms.sourcegitcommit: d988faa292c2661ffea43c7161aef92b2b4b99bc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46533779"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560837"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Povolení správy zařízení s Windows 10 s doménou pomocí Microsoft 365 Business Premium
 
@@ -50,8 +50,7 @@ Postup naleznete v tématu [Synchronizace uživatelů domény](manage-domain-use
 
 ## <a name="1-verify-mdm-authority-in-intune"></a>1. Ověření autority MDM v Intune
 
-Přejděte na portal.azure.com a v horní části stránky vyhledejte Intune.
-Na stránce Microsoft Intune vyberte **Registrace zařízení** a na stránce **Přehled** se ujistěte, že **autorita MDM** je **Intune**.
+Přejděte na [Endpoint Manager](https://endpoint.microsoft.com/#blade/Microsoft_Intune_Enrollment/EnrollmentMenu/overview) a na stránce Microsoft Intune vyberte **Registrace zařízení**a pak na stránce **Přehled** zkontrolujte, jestli je **autorita MDM** **Intune**.
 
 - Pokud **autorita MDM** není **žádná**, klepněte na **autoritu MDM a** nastavte ji na **Intune**.
 - Pokud je **autorita MDM** **Microsoft Office 365**, přejděte na **Zařízení**  >  **pro registraci zařízení** a použijte dialogové okno Přidat **autoritu MDM** vpravo k přidání autority **Intune MDM** (dialogové okno **Přidat autoritu MDM je** k dispozici jenom v případě, že je **autorita MDM** nastavená na Microsoft Office 365).

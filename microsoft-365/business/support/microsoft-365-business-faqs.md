@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business Premium, Microsoft 365, SMB, časté otázky, nejčastější dotazy, odpovědi, firmy
 ms.date: 07/21/2020
-ms.openlocfilehash: 520009d26d0133a2c53c6149fe4938bea9db5a32
-ms.sourcegitcommit: 1b83b6bcacb997324bc4be355deba6daf319591d
+ms.openlocfilehash: 614da177df9250045ca3cc18c0b071e0aa43b7ec
+ms.sourcegitcommit: d988faa292c2661ffea43c7161aef92b2b4b99bc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46502993"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560793"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Časté otázky k Microsoftu 365 Business Premium
 
@@ -154,7 +154,7 @@ Windows AutoPilot je služba, která zjednodušuje nasazení nových počítač�
 Do Microsoftu 365 Business Premium můžete přidat všechny doplňky, které je možné přidat do Microsoftu 365 Business Standard. To znamená, že si můžete zakoupit Office 365 Cloud App Security, Pokročilé dodržování předpisů, Threat Intelligence, MyAnalytics, Power BI Pro a AudioKonference. 
  
 ### <a name="can-i-add-phone-system-and-calling-plans-to-microsoft-365-business-premium"></a>Můžu do Microsoftu 365 Business Premium přidat telefonní systém a volací plány? 
-Ne, funkce telefonního systému a volacích plánů jsou vyhrazeny zákazníkům s komplexnějšími potřebami. Zákazníkům, kteří vyžadují tyto funkce, se doporučuje podívat se na nabídky Microsoft 365 Enterprise. 
+Ano, můžete si zakoupit předplatné Business Voice. [Business Voice](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) je telefonní řešení určené pro malé a střední firmy až 300 uživatelů, které sdružuje telefonní systém, audiokonference, domácí telefonní plán a další. Funkce telefonního systému, které získáte, zahrnují hlasovou schránku, ID volajícího, park hovorů, přesměrování hovorů, automatické telefonické systémy a fronty hovorů. <br> Informace o tom, zda je business voice k dispozici ve vaší zemi nebo oblasti, najdete v [tématu Dostupnost země a oblasti pro Business Voice](https://docs.microsoft.com/microsoftteams/business-voice/country-region-availability). Informace o cenách najdete [v tématu Cena za Business Voice](https://go.microsoft.com/fwlink/?linkid=2127221).
  
 ### <a name="can-microsoft-365-business-premium-customers-use--microsoft-defender-advanced-threat-protection"></a>Mohou zákazníci Microsoftu 365 Business Premium používat pokročilou ochranu před hrozbami microsoft defenderu? 
 Ano, microsoft defender advanced threat protection je k dispozici jako doplněk pro zákazníky Microsoft 365 Business Premium.
