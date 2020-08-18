@@ -22,33 +22,32 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Přečtěte si, jak zabezpečit počítače s Windows 10 po nastavení Microsoft 365 Business Premium.
-ms.openlocfilehash: f18447db445bf051a44b99053d41e10f3ed34fc3
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+description: Naučte se zabezpečit počítače s Windows 10 po nastavení Microsoft 365 Business Premium.
+ms.openlocfilehash: a70fcd330fe6ef330fac08512aded4d8913313d5
+ms.sourcegitcommit: 1780359234abdf081097c8064438d415da92fb85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "45081797"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46778378"
 ---
-# <a name="secure-windows-10-computers"></a><span data-ttu-id="edd7b-103">Zabezpečení počítačů s Windows 10</span><span class="sxs-lookup"><span data-stu-id="edd7b-103">Secure Windows 10 computers</span></span>
+# <a name="secure-windows-10-computers"></a><span data-ttu-id="7cc69-103">Zabezpečení počítačů s Windows 10</span><span class="sxs-lookup"><span data-stu-id="7cc69-103">Secure Windows 10 computers</span></span>
 
-<span data-ttu-id="edd7b-104">Tento článek se týká Microsoft 365 Business Premium.</span><span class="sxs-lookup"><span data-stu-id="edd7b-104">This article applies to Microsoft 365 Business Premium.</span></span>
+<span data-ttu-id="7cc69-104">Tento článek se týká Microsoft 365 Business Premium.</span><span class="sxs-lookup"><span data-stu-id="7cc69-104">This article applies to Microsoft 365 Business Premium.</span></span>
 
-<span data-ttu-id="edd7b-105">Po [nastavení](set-up.md) microsoftu 365 Business Premium je čas chránit počítače s Windows 10 ve vaší organizaci před krádežemi a škodlivými hrozbami, jako jsou viry a malware.</span><span class="sxs-lookup"><span data-stu-id="edd7b-105">After you have [set up](set-up.md) Microsoft 365 Business Premium, it is time to protect the Windows 10 computers in your org from theft, and malicious threats like viruses and malware.</span></span>
-<span data-ttu-id="edd7b-106">Podívejte se na toto video, kde najdete přehled nastavení zásad pro zabezpečení počítačů s Windows 10.</span><span class="sxs-lookup"><span data-stu-id="edd7b-106">Watch this video for an overview of how to set up policies to secure your Windows 10 computers.</span></span><br><br>
+<span data-ttu-id="7cc69-105">Po [Nastavení](set-up.md) Microsoft 365 Business Premium je čas chránit počítače s Windows 10 v organizaci před krádeží a škodlivými hrozbami, jako jsou viry a malware.</span><span class="sxs-lookup"><span data-stu-id="7cc69-105">After you have [set up](set-up.md) Microsoft 365 Business Premium, it is time to protect the Windows 10 computers in your org from theft, and malicious threats like viruses and malware.</span></span>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4kcAF] 
+## <a name="to-secure-your-windows-10-pcs"></a><span data-ttu-id="7cc69-106">Zabezpečení počítačů s Windows 10</span><span class="sxs-lookup"><span data-stu-id="7cc69-106">To secure your Windows 10 PCs</span></span>
 
-<span data-ttu-id="edd7b-107">Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span><span class="sxs-lookup"><span data-stu-id="edd7b-107">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
+1. <span data-ttu-id="7cc69-107">Přihlaste se do [centra pro správu Microsoft 365](https://admin.microsoft.com) pomocí přihlašovacích údajů globálního správce.</span><span class="sxs-lookup"><span data-stu-id="7cc69-107">Sign in to [Microsoft 365 admin center](https://admin.microsoft.com) by using your global admin credentials.</span></span> 
+2. <span data-ttu-id="7cc69-108">Na levém navigačním panelu vyberte **Nastavení** a pak v části **přihlášení a zabezpečení**zvolte **zabezpečit počítače s Windows 10**.</span><span class="sxs-lookup"><span data-stu-id="7cc69-108">On the left nav, select **Setup** and then, under **Sign-in and security**, choose **Secure your Windows 10 computers**.</span></span> <span data-ttu-id="7cc69-109">Začněte tím, že zvolíte **zobrazení** .</span><span class="sxs-lookup"><span data-stu-id="7cc69-109">Choose **View** to get started.</span></span>
+3. <span data-ttu-id="7cc69-110">Na stránce **zabezpečení počítačů s Windows 10** si přečtěte všechny informace, které pochopíte, co jste zapnuli, a o čem se uživatel stává.</span><span class="sxs-lookup"><span data-stu-id="7cc69-110">On the **Secure your Windows 10 computers** page, read all the information to understand what you are turning on, and what the user impact is.</span></span>
 
-## <a name="to-secure-your-windows-10-pcs"></a><span data-ttu-id="edd7b-108">Zabezpečení počítačů s Windows 10</span><span class="sxs-lookup"><span data-stu-id="edd7b-108">To secure your Windows 10 PCs</span></span>
+    <span data-ttu-id="7cc69-111">V horní části **stránky zvolte Začínáme**.</span><span class="sxs-lookup"><span data-stu-id="7cc69-111">On the top of the page, choose **Get started**.</span></span>
 
-1. <span data-ttu-id="edd7b-109">Přihlaste se do [Centra pro správu Microsoftu 365](https://admin.microsoft.com) pomocí svých globálních přihlašovacích údajů správce.</span><span class="sxs-lookup"><span data-stu-id="edd7b-109">Sign in to [Microsoft 365 admin center](https://admin.microsoft.com) by using your global admin credentials.</span></span> 
-2. <span data-ttu-id="edd7b-110">V levém navigačním panelu vyberte **Instalační program** a potom v části Přihlášení **a zabezpečení**zvolte **Zabezpečit počítače s Windows 10**.</span><span class="sxs-lookup"><span data-stu-id="edd7b-110">On the left nav, select **Setup** and then, under **Sign-in and security**, choose **Secure your Windows 10 computers**.</span></span> <span data-ttu-id="edd7b-111">Chcete-li začít, zvolte **Zobrazení.**</span><span class="sxs-lookup"><span data-stu-id="edd7b-111">Choose **View** to get started.</span></span>
-3. <span data-ttu-id="edd7b-112">Na stránce **Zabezpečte počítače se systémem Windows 10** si přečtěte všechny informace, abyste pochopili, co zapínáte a jaký je dopad na uživatele.</span><span class="sxs-lookup"><span data-stu-id="edd7b-112">On the **Secure your Windows 10 computers** page, read all the information to understand what you are turning on, and what the user impact is.</span></span>
+4. <span data-ttu-id="7cc69-112">V podokně **zabezpečení počítače s Windows 10** vyberte možnosti, které chcete zapnout.</span><span class="sxs-lookup"><span data-stu-id="7cc69-112">On the **Secure your Windows 10 computers** pane, select the options you want to turn on.</span></span> <span data-ttu-id="7cc69-113">Další informace o nastavení najdete v tématu [zabezpečení zařízení s Windows 10](secure-windows-10-devices.md).</span><span class="sxs-lookup"><span data-stu-id="7cc69-113">For more information about the settings, see [Secure Windows 10 devices](secure-windows-10-devices.md).</span></span> 
+    
+    <span data-ttu-id="7cc69-114">Pro většinu organizací nabízí tyto možnosti dobrou úroveň zabezpečení, ale pokud má vaše organizace složitější zabezpečení, můžete použít předdefinované standardní hodnoty zabezpečení a zabezpečit vaše zařízení s Windows 10.</span><span class="sxs-lookup"><span data-stu-id="7cc69-114">For most organizations, the options here offer a good level of security, however, if your organization has more complex security needs, you can also use pre-defined security baselines to secure  your Windows 10 devices.</span></span> <span data-ttu-id="7cc69-115">Další informace najdete v tématu [standardní hodnoty zabezpečení pro zařízení s Windows 10](https://docs.microsoft.com/mem/intune/protect/security-baselines).</span><span class="sxs-lookup"><span data-stu-id="7cc69-115">For more information, see [security baselines for Windows 10 devices](https://docs.microsoft.com/mem/intune/protect/security-baselines).</span></span>   
 
-    <span data-ttu-id="edd7b-113">V horní části stránky zvolte **Začínáme**.</span><span class="sxs-lookup"><span data-stu-id="edd7b-113">On the top of the page, choose **Get started**.</span></span>
+1. <span data-ttu-id="7cc69-116">Zvolte **použít nastavení**.</span><span class="sxs-lookup"><span data-stu-id="7cc69-116">Choose **Apply settings**.</span></span>
 
-4. <span data-ttu-id="edd7b-114">V nastavení Windows 10 vyberte možnosti, které chcete zapnout.</span><span class="sxs-lookup"><span data-stu-id="edd7b-114">On the Windows 10 setting, select the options you want to turn on.</span></span> <span data-ttu-id="edd7b-115">Další informace o nastavení najdete v tématu [Zabezpečení zařízení s Windows 10](secure-windows-10-devices.md).</span><span class="sxs-lookup"><span data-stu-id="edd7b-115">For more information about the settings, see [Secure Windows 10 devices](secure-windows-10-devices.md).</span></span> 
-5. <span data-ttu-id="edd7b-116">Zvolte, na koho ve vaší organizaci chcete zásadu použít, a pak zvolte **Uložit změny**.</span><span class="sxs-lookup"><span data-stu-id="edd7b-116">Choose to who in your organization to apply the policy to, and then choose **Save changes**.</span></span>
-
+    <span data-ttu-id="7cc69-117">Tato nastavení se budou vztahovat na všechny uživatele ve vaší organizaci.</span><span class="sxs-lookup"><span data-stu-id="7cc69-117">These settings will apply to all users in your organization.</span></span> <span data-ttu-id="7cc69-118">Pokud chcete nastavit různé zásady pro různé skupiny zabezpečení, přečtěte si článek [nastavení nastavení ochrany zařízení pro počítače s Windows 10](protection-settings-for-windows-10-pcs.md).</span><span class="sxs-lookup"><span data-stu-id="7cc69-118">To set up different policies for different security groups, see [Set device protection settings for Windows 10 PCs](protection-settings-for-windows-10-pcs.md).</span></span>
