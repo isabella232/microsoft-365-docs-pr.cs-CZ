@@ -1,5 +1,5 @@
 ---
-title: Migrace z Microsoftu 365 Business do Microsoftu 365 E3
+title: Migrace z Microsoft 365 Business na Microsoft 365 E3
 f1.keywords:
 - NOCSH
 ms.author: josephd
@@ -21,92 +21,92 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
-description: Přečtěte si, jak přesunout svou firmu z Microsoft 365 Business Premium do Microsoftu 365 E3.
-ms.openlocfilehash: 6a795d96ccae7e054e7e52d4fd60a4e73b3c71dd
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Přečtěte si, jak přesunout firmu z Microsoft 365 Business Premium na Microsoft 365 E3.
+ms.openlocfilehash: fbd5c0710bffa92cfc17447094bb9b2683641d5f
+ms.sourcegitcommit: c083602dda3cdcb5b58cb8aa070d77019075f765
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "45081795"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48195513"
 ---
-# <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Migrace z Microsoftu 365 Business Premium do Microsoftu 365 E3
+# <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Migrace z aplikace Microsoft 365 Business Premium na Microsoft 365 E3
 
-Microsoft 365 Business Premium má vše, co potřebujete pro vaši malou firmu, a kombinuje nejlepší cloudové aplikace ve své třídě s jednoduchou správou zařízení a zabezpečením, které vašim zaměstnancům umožní odváděli nejlepší práci. V některých případech však může být nutné migrovat předplatné Microsoft 365 Business Premium do Microsoft 365 E3. 
+Microsoft 365 Business Premium obsahuje vše potřebné pro vaši malou firmu a spojuje aplikace pro práci založené na cloudu co nejlépe ve třídě s jednoduchou správou a zabezpečením zařízení, které umožní zaměstnancům co nejvýhodnější práci. V některých případech ale možná budete muset migrovat předplatné Microsoft 365 Business Premium na Microsoft 365 E3. 
 
-Vaše firma se například rozrostla a potřebuje více než 300 licencí (mimochodem blahopřejeme).
+Váš podnik například vyrostl a potřebuje více než 300 licencí (blahopřejení).
 
-Nebo vaše firma potřebuje podnikové funkce, jako jsou aplikace Microsoft 365 pro podniky, Windows 10 Enterprise E3 nebo licence enterprise client access (CAL).
+Nebo potřebuje vaše firma funkce Enterprise, jako jsou aplikace Microsoft 365 pro podnik, Windows 10 Enterprise E3 nebo licence Enterprise Client Access (CAL).
 
-Upgrade je snadný: upgrade můžete spustit [z Centra pro správu](../commerce/subscriptions/upgrade-to-different-plan.md). Všechna vaše data a konfigurace v aktuálním předplatném jsou zachována. Není nic, co byste měli udělat, abyste se připravili na migraci, a nic dělat později, kromě využití nových funkcí.
+Snadná inovace: můžete zahájit upgrade [z centra pro správu](../commerce/subscriptions/upgrade-to-different-plan.md). Všechna vaše data a konfigurace ve vašem aktuálním předplatném jsou zachována. Není nic, co byste chtěli připravit na migraci a nic nedělat, dokud nebudete moci provádět nové funkce.
 
 >[!Note]
->Můžete také použít předplatné Microsoft 365 Business Premium až pro 300 licencí a získat předplatné Microsoft 365 E3 pro více než 300 licencí. Však Office 365 ATP není součástí Microsoft 365 E3. Chcete-li pokračovat v ochraně před hrozbami, měli byste přidat další licence office 365 ATP, aby měli licenci všichni uživatelé v rozsahu vašich policistů ochrany ATP Office 365.
+>Můžete také použít předplatné Microsoft 365 Business Premium pro až 300 sedadel a získat předplatné Microsoft 365 E3 pro více než 300 sedadel. ATP Office 365 však není součástí Microsoft 365 E3. Za účelem zachování ochrany proti hrozbám byste měli přidat další licence ATP Office 365, aby všichni uživatelé, kteří jsou v dosahu zásad Office 365 ATP, měli licenci.
 >
 
-## <a name="differences-between-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>Rozdíly mezi Microsoftem 365 Business Premium a Microsoft 365 Enterprise
+## <a name="differences-between-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>Rozdíly mezi Microsoft 365 Business Premium a Microsoft 365 Enterprise
 
 Tato tabulka ukazuje rozdíly mezi Microsoft 365 Business Premium a Microsoft 365 E3.
 
-| Funkce    | Podpora v Microsoftu 365 Business Premium    | Podpora v Microsoftu 365 E3 | 
+| Funkce    | Podpora v Microsoft 365 Business Premium    | Podpora v Microsoft 365 E3 | 
 |:-------|:-----|:-----|
 | **Místní**        | | | 
 | Windows 10    | Windows 10 Business  |     Windows 10 Enterprise E3| 
-| Aplikace Office*    | [Aplikace Microsoft 365 pro firmy](#office-365-business)    | Aplikace Microsoft 365 pro podniky | 
-| **Cloudové aplikace pro zvýšení produktivity**        | | | 
-| Exchange Online a Outlook    | Limit úložiště 50 GB na poštovní schránku a neomezená archivace Exchange Online    | Limit úložiště 100 GB na poštovní schránku a neomezená archivace Exchange Online | 
-| Týmy    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-| OneDrive pro firmy    | Limit úložiště 1 TB na uživatele    | Neomezené | 
-| Yammer, SharePoint Online, Plánovač, Stream    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-| Outlook Customer Manager, MileIQ    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | | 
+| Aplikace Office *    | [Aplikace Microsoft 365 pro firmy](#office-365-business)    | Microsoft 365 Apps for enterprise | 
+| **Kancelářské aplikace**        | | | 
+| Exchange Online a Outlook    | 50 GB limit úložiště pro každou poštovní schránku a neomezené archivaci Exchange Online    | 100 GB limit úložiště pro každou poštovní schránku a neomezené archivaci Exchange Online | 
+| Teams    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| OneDrive pro firmy    | 1 TB limit úložiště na uživatele    | Neomezené | 
+| Yammer, SharePoint Online, Planner, Stream    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| Outlook Customer Manager, MileIQ    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **Ochrana před hrozbami**        | | | 
-| Možnosti redukce povrchu útoku    | [Podívejte se na tento seznam](#threat-protection) | Podniková správa hardwarové izolace pro Microsoft Edge | 
-| Plán 1 pokročilé ochrany před hrozbami Office 365 | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | Není zahrnuto, ale může být přidáno na | 
+| Možnosti pro redukci pro omezení plochy    | [Podívejte se na tento seznam](#threat-protection) | Podniková správa izolace hardwaru pro Microsoft Edge | 
+| Office 365 – Rozšířená ochrana před internetovými útoky (ATP) – plán 1 | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | Není zahrnuto, ale můžete ho přidat | 
 | **Správa identit**        | | | 
-| Samoobslužné resetování hesla pro hybridní účty Azure Active Directory (Azure AD), vícefaktorové ověřování Azure (MFA), podmíněný přístup, zpětný zápis hesel pro místní identity|     ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-| Zjišťování cloudových aplikací, azure ad connect stav    |     | ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-| Jednotné přihlašení aplikací Azure AD Office 365 (jednotné přihlašení): 10 aplikací na uživatele (aplikace Galerie SaaS, jako je Salesforce)* | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-| Azure AD Premium 1 SSO: bez omezení (místní aplikace prostřednictvím azure ad application proxy a non-galerie aplikace pomocí samoobslužné šablony integrace aplikací)    |     | ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
+| Samoobslužné resetování hesla pro hybridní účty Azure Active Directory (Azure AD), Azure Multi-Factor Authentication (MFA), podmíněný přístup, zápis hesel pro místní identity|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| Zjišťování Cloud App, Azure AD Connect    |     | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| Aplikace Azure AD 365 – jednotné přihlašování (SSO): 10 aplikací na uživatele (Galerie SaaS aplikací, například Salesforce) * | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| Jednotné přihlašování k Azure AD Premium 1: bez limitu (místní aplikace prostřednictvím proxy aplikace Azure AD a aplikací mimo galerii s použitím šablon pro samoobslužné integrace aplikací)    |     | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
 | **Správa zařízení a aplikací**        | | | 
-| Microsoft Intune, Windows Autopilot|     ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-|Přístup k virtuální ploše (VDA)    |  |     ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-|Virtuální plocha systému Windows (WVD)    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png) |     ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-|Aktivace sdíleného počítače (SCA)    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png) |     ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-| Balíček optimalizace pro stolní počítače společnosti Microsoft    | |     ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
+| Microsoft Intune, Windows autopilot|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+|Přístup k virtuální ploše (VDA)    |  |     ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+|Virtuální plocha systému Windows (WVD)    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png) |     ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+|Aktivace sdíleného počítače (SCA)    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png) |     ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| Balíček Microsoft Desktop Optimization    | |     ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
 | **Ochrana informací**        | | | 
-| Office 365 Ochrana před ztrátou dat, Plán ochrany informací Azure 1    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-| Ochrana informací o okně pro dlp koncového bodu    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-| **Licence klientského přístupu (práva CAL)**    | | |     
-| Sada Enterprise CAL Suite (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Správa práv systému Windows)| |         ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-| **Dodržování**        | | | 
-| Neomezená archivace e-mailů    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-| Skóre dodržování předpisů/Správce dodržování předpisů    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-| Ediscovery    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-| Blokování na místě a blokování ze soudních sporů    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
-| Retenční značky a zásady uchovávání informací pro správu záznamů zasílání zpráv (MRM) a zásady uchovávání informací    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí balení je Microsoft 365 E3](../media/check-mark.png) | 
+| Ochrana před únikem dat v Office 365, plán Azure Information Protection 1    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| Ochrana informací v okně pro službu DLP koncového bodu    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| **Licence klientského přístupu (licence CAL)**    | | |     
+| Enterprise CAL Suite (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management)| |         ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| **Požadavků**        | | | 
+| Časově neomezené archivace e-mailů    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| Správce dodržování předpisů    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| Sad    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| Blokování pro archivaci a držení soudní pře    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| Značky uchování záznamů zpráv a zásady uchovávání informací    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
 ||||
 
-\*Uživatelé, kterým byl přiřazen přístup k aplikacím SaaS, mohou získat přístup k návěsům až pro 10 aplikací. Správci můžou konfigurovat jednosadové služby a měnit přístup uživatelů k různým aplikacím SaaS, ale přístup k jednoodvolům je povolen jenom pro 10 aplikací na uživatele najednou. Všechny aplikace Office 365 se počítají jako jedna aplikace.
+\* Uživatelé, kterým byl přiřazen přístup k aplikacím SaaS, můžou získat přístup k jednotnému přihlašování k až 10 aplikacím. Správci můžou nakonfigurovat jednotné přihlašování a měnit přístup uživatelů na různé aplikace SaaS, ale přístup pomocí jednotného přihlašování je povolený jenom u 10 aplikací na jednoho uživatele najednou. Všechny aplikace Office 365 se počítají jako jediná aplikace.
 
 ## <a name="migration"></a>Migrace
 
-Chcete-li migrovat, spolupracujte se svým partnerem na přesunutí předplatného a licencí Microsoft 365 Business Premium do vhodného předplatného Microsoft 365 E3 s jeho licencemi.
+Pokud chcete migrovat, spolupracujte se svým partnerem a přesuňte předplatné Microsoft 365 Business Premium a licence na vhodný tarif Microsoft 365 E3 s jeho licencemi.
 
-Následující části popisují, jaké změny je třeba provést, pokud existuje, a co můžete udělat po migraci.
+V následujících částech jsou popsány změny, které je třeba udělat, pokud existují, a co můžete udělat po migraci.
 
-### <a name="microsoft-365-subscription-configuration-and-data"></a>Konfigurace předplatného Microsoftu 365 a data
+### <a name="microsoft-365-subscription-configuration-and-data"></a>Konfigurace a data předplatného Microsoft 365
 
-Před migrací nemusíte provádět žádné změny aktuálního předplatného nebo dat, což zahrnuje:
+Před migrací nemusíte provádět žádné změny aktuálního předplatného ani dat, což zahrnuje:
 
-- Konfigurace předplatného, například názvy domén DNS.
-- Uživatelské a skupinové účty a nastavení ověřování, jako je například vícefaktorové ověřování nebo zásady podmíněného přístupu.
-- Konfigurace služeb produktivity a jejich data, jako jsou Teams, poštovní schránky Exchange Online, weby SharePointu Online, složky OneDrivu pro firmy a poznámkové bloky OneNotu.
+- Konfigurace předplatného, třeba názvy domén DNS.
+- Účty uživatelů a skupin a nastavení ověřování, například vícefaktorové ověřování nebo zásady podmíněného přístupu.
+- Konfigurace produktivity služeb a jejich data, například týmy, poštovní schránky Exchange Online, weby SharePointu Online, složky OneDrivu pro firmy a poznámkové bloky OneNotu.
 
-Vaši uživatelé teď můžou využívat neomezené úložiště v poštovních schránkách Exchange Online a ve složkách OneDrivu pro firmy.
+Uživatelé teď můžou využívat neomezené úložiště v poštovních schránkách Exchange Online a složkách OneDrivu pro firmy.
 
-Můžete začít používat Cloud App Discovery, Azure AD Connect Health a SSO pro více než 10 aplikací.
+Můžete začít používat vyhledávání Cloud App Appu, stav Azure AD Connect a jednotné přihlašování pro více než 10 aplikací.
 
 >[!Note]
->Uživatelé migrovaní na Microsoft 365 E3 již nemohou používat Správce zákazníků aplikace Outlook a MileIQ.
+>Uživatelé migrace do Microsoft 365 E3 už nemůžou používat Outlook Customer Manager a MileIQ.
 >
 
 <a name="threat-protection"></a>
@@ -114,40 +114,40 @@ Můžete začít používat Cloud App Discovery, Azure AD Connect Health a SSO p
 
 Windows 10 Business zahrnuje tyto ochrany:
 
-- Vynucení integrity procesu spouštění operačního systému
-- Prosazování integrity citlivých provozních součástí
-- Pokročilá chyba zabezpečení a skutečnosti snižující závažnost rizika zneužití nultého dne
-- Ochrana sítě založená na reputaci pro Microsoft Edge, Internet Explorer a Chrome
-- Brána firewall založená na hostiteli
-- Skutečnosti snižující závažnost rizika ransomwaru
-- Hardwarová izolace pro Microsoft Edge
+- Vynucení integrity procesu spuštění operačního systému
+- Vynucení integrity citlivých provozních součástí
+- Zdokonalená řešení chyb a zneužití nulového počtu dnů
+- Ochrana sítě založená na pověsti pro Microsoft Edge, Internet Explorer a Chrome
+- Hostitelská brána firewall
+- Ransomwaru Zklidňující fakta
+- Hardwarově izolovaná izolace pro Microsoft Edge
 - Řízení aplikací poháněné grafem inteligentního zabezpečení
 - Ovládání zařízení (USB)
-- Ochrana sítě před webovými hrozbami
-- Pravidla prevence narušení hostitele
+- Ochrana sítě pro webové hrozby
+- Pravidla prevence vniknutí hostitele
 
-Windows 10 Enterprise E3 také zahrnuje podnikovou správu hardwarové izolace pro Microsoft Edge.
+Windows 10 Enterprise E3 zahrnuje také podnikovou správu izolace hardwaru pro Microsoft Edge.
 
 >[!Note]
->Uživatelé migrované na Microsoft 365 E3 budou potřebovat licenci Office 365 ATP pro trvalou ochranu před hrozbami. Nezapomeňte zakoupit další licence Office 365 ATP, aby všichni uživatelé v rozsahu vašich policistů office 365 ATP získali licenci. 
+>Uživatelé, kteří jsou migrováni do Microsoft 365 E3, budou mít licenci ATP Office 365 pro pokračování ochrany před hrozbami. Nezapomeňte si koupit další licence pro Office 365 ATP, aby všichni uživatelé, kteří jsou v dosahu zásad Office 365 ATP, měli licenci. 
 >
 
 ### <a name="device-management-with-intune"></a>Správa zařízení s Intune
 
-Před migrací nemusíte provádět žádné změny v aktuální konfiguraci Intune, což zahrnuje zaregistrovaná zařízení a nastavení zařízení a aplikací.
+Před migrací nemusíte dělat žádné změny v aktuální konfiguraci Intune, včetně zaregistrovaných zařízení a nastavení zařízení a aplikací.
 
 ### <a name="windows-10"></a>Windows 10
 
-Microsoft 365 Business Premium obsahuje Windows 10 Business, který můžete nainstalovat pomocí Windows AutoPilot. Při migraci na Microsoft 365 E3 obsahuje každá uživatelská licence Windows 10 Enterprise E3, který můžete nainstalovat také pomocí programu Windows Autopilot.
+Microsoft 365 Business Premium zahrnuje Windows 10 Business, který se dá nainstalovat s autopilotem Windows. Když migrujete na Microsoft 365 E3, každá uživatelská licence obsahuje Windows 10 Enterprise E3, který se dá taky nainstalovat s autopilotem Windows.
 
 <a name="office-365-business"></a>
 ###  <a name="microsoft-365-apps-for-business"></a>Aplikace Microsoft 365 pro firmy
 
-Váš klient Microsoft 365 Apps pro firmy nainstalovaný na vašich zařízeních začne automaticky používat funkce Aplikací Microsoft 365 pro podniky. Po migraci můžete nyní použít:
+Váš klient Microsoft 365 Apps pro firmy nainstalovaný na vašich zařízeních bude automaticky používat funkce aplikací Microsoft 365 pro podnik. Po migraci můžete použít:
 
- - Aktivace svazku prostřednictvím zásad skupiny
+ - Aktivace multilicence prostřednictvím zásad skupiny
  - Telemetrie aplikací
- - Aktualizovat ovládací prvky
- - Porovnání a dotazování v tabulkovém procesoru
- - Business intelligence
+ - Aktualizace ovládacích prvků
+ - Porovnání tabulky a dotazy
+ - Business Intelligence
 
