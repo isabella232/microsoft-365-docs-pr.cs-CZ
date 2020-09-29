@@ -22,86 +22,86 @@ search.appverid:
 - BCS160
 - MET150
 description: Přečtěte si, jak přesunout firmu na Microsoft 365 Business Premium z Office 365 E3.
-ms.openlocfilehash: d72f0c52a745ff973868b6fdaa95efa1a37a3dbd
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: f3f3894a2a5cb69f9f91825d89db4f4b857fac5c
+ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "45081798"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295284"
 ---
-# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Přechod z Office 365 E3 na Microsoft 365 Business Premium 
+# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrace z Office 365 E3 na Microsoft 365 Business Premium 
 
-Microsoft 365 Business Premium má vše, co potřebujete pro vaši malou firmu, a kombinuje nejlepší cloudové aplikace na úrovni produktivity ve své třídě s jednoduchou správou a zabezpečením zařízení. Pokud máte v současné době předplatné Office 365 E3, ale nemáte víc než 300 zaměstnanců, zvažte přechod na Microsoft 365 Business Premium pro přidané funkce zabezpečení.
+Microsoft 365 Business Premium obsahuje vše potřebné pro vaši malou firmu a spojuje aplikace pro optimální práci založené na cloudu s jednoduchou správou a zabezpečením zařízení. Pokud aktuálně máte předplatné Office 365 E3, ale nepoužíváte více než 300 zaměstnanců, zvažte přechod na Microsoft 365 Business Premium pro přidané funkce zabezpečení.
 
-Migrace je snadná: Nejprve přepnete licence a všechny vaše data a informace o uživateli v aktuálním předplatném budou zachovány. Po migraci budete muset nastavit funkce přidané v Microsoft 365 Business Premium.
+Snadná migrace: Nejdřív si přepínáte licence a všechny vaše data a uživatelské informace jsou zachovány. Po migraci budete muset nastavit funkce, které se přidají v Microsoft 365 Business Premium.
 
 ## <a name="differences-between-office-365-e3-and-microsoft-365-business-premium"></a>Rozdíly mezi Office 365 E3 a Microsoft 365 Business Premium
 
 Tato tabulka ukazuje rozdíly mezi Microsoft 365 Business Premium a Office 365 E3.
 
-| Funkce    | Podpora v Microsoftu 365 Business Premium    | Podpora v Office 365 E3 | 
+| Funkce    | Podpora v Microsoft 365 Business Premium    | Podpora v Office 365 E3 | 
 |:-------|:-----|:-----|
 | **Místní**        | | | 
-| Aplikace Office<sup>1</sup>    | Aplikace Microsoft 365 pro firmy    | Aplikace Microsoft 365 pro podniky | 
-| **Cloudové aplikace pro zvýšení produktivity**        | | | 
-| Exchange Online a Outlook    | Limit úložiště 50 GB na poštovní schránku a neomezená archivace Exchange Online    | Limit úložiště 100 GB na poštovní schránku a neomezený archivaci Exchange Online | 
-| Týmy    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png) | 
-| OneDrive pro firmy    | Limit úložiště 1 TB na uživatele    | Neomezené | 
-| Yammer, SharePoint Online, Plánovač, Stream    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png) | 
-| StaffHub    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png) | 
-| Outlook Customer Manager, MileIQ    | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | | 
+| Aplikace Office<sup>1</sup>    | Aplikace Microsoft 365 pro firmy    | Microsoft 365 Apps for enterprise | 
+| **Kancelářské aplikace**        | | | 
+| Exchange Online a Outlook    | 50 GB limit úložiště pro každou poštovní schránku a neomezené archivaci Exchange Online    | 100 GB limit úložiště pro každou poštovní schránku a neomezené archivaci Exchange Online | 
+| Teams    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png) | 
+| OneDrive pro firmy    | 1 TB limit úložiště na uživatele    | Neomezené | 
+| Yammer, SharePoint Online, Planner, Stream    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png) | 
+| StaffHub    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png) | 
+| Outlook Customer Manager, MileIQ    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **Ochrana před hrozbami**        | | | 
-| Plán 1 pokročilé ochrany před hrozbami Office 365 | ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | Není zahrnuto, ale může být přidáno na | 
+| Office 365 – Rozšířená ochrana před internetovými útoky (ATP) – plán 1 | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | Není zahrnuto, ale můžete ho přidat | 
 | **Správa identit**        | | | 
-| Samoobslužné resetování hesla pro hybridní účty Azure Active Directory (Azure AD), vícefaktorové ověřování Azure (MFA), podmíněný přístup, zpětný zápis hesel pro místní identity|     ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
+| Samoobslužné resetování hesla pro hybridní účty Azure Active Directory (Azure AD), Azure Multi-Factor Authentication (MFA), podmíněný přístup, zápis hesel pro místní identity|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
 | **Správa zařízení a aplikací**        | | |
-| Microsoft Intune, Automaticképilot systému Windows|     ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    |  |
-| Aktivace sdíleného počítače|     ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png)| 
-| Práva na upgrade na Windows 10 Pro z licencí Win 7/8.1 Pro|     ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)    || 
+| Microsoft Intune, Windows autopilot|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    |  |
+| Aktivace sdíleného počítače|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png)| 
+| Upgrade práv na Windows 10 pro na licence Win 7/8.1 pro|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    || 
 | **Ochrana informací**        | | |
-|Ochrana před ztrátou dat v Office 365|    ![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)|![Součástí Office 365 E3](../media/check-mark.png)|
-|Azure Information Protection Plan 1, Vynucení nástroje Bitlocker|![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)||
-|Azure Information Protection Plan 1, popisky citlivosti|![Součástí služby Microsoft 365 Business Premium](../media/check-mark.png)||
-|**Licence klientského přístupu (práva CAL)**|||
+|Ochrana před únikem dat v Office 365|    ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)|![Součástí Office 365 E3](../media/check-mark.png)|
+|Plán služby Azure Information Protection 1, vynucení nástroje BitLocker|![Součástí Microsoft 365 Business Premium](../media/check-mark.png)||
+|Plán služby Azure Information Protection 1, popisky citlivosti|![Součástí Microsoft 365 Business Premium](../media/check-mark.png)||
+|**Licence klientského přístupu (licence CAL)**|||
 |Enterprise CAL Suite (Exchange, SharePoint, Skype)||![Součástí Office 365 E3](../media/check-mark.png)|
 
-<sup>1</sup> Verze aplikací Office pro Microsoft 365 Business Premium nezahrnuje aktivaci svazku prostřednictvím zásad skupiny, telemetrie aplikací, ovládacích prvků aktualizací, porovnání tabulek a dotazování nebo business intelligence.
+<sup>1</sup> verze Microsoft 365 Business Premium aplikací Office nezahrnují aktivaci multilicence prostřednictvím zásad skupiny, telemetrie aplikací, ovládacích prvků aktualizace, porovnání tabulek a dotazů nebo Business Intelligence.
 
 ## <a name="migration"></a>Migrace
 
-Pokud chcete migrovat předplatné, přečtěte si pokyny v [tématu Ruční změna plánů,](../commerce/subscriptions/change-plans-manually.md) pokud chcete do Microsoft 365 Business Premium přesunout jemnou lidi. Můžete také [upgradovat všechny uživatele automaticky](../commerce/subscriptions/upgrade-to-different-plan.md)nebo spolupracovat s partnerem a přesunout předplatné e3 a licence na předplatné Microsoft 365 Business Premium.
-Následující části popisují změny, které je třeba provést, pokud existuje, a co můžete udělat po migraci.
+Pokud chcete migrovat předplatné, přečtěte si článek [Ruční změna plánů](../commerce/subscriptions/change-plans-manually.md) , jestli chcete přesunout jenom pár lidí na Microsoft 365 Business Premium. Můžete taky [automaticky upgradovat všechny uživatele](../commerce/subscriptions/upgrade-to-different-plan.md)nebo spolupracovat s partnerem, abyste mohli přesunout předplatné E3 a licence na předplatné Microsoft 365 Business Premium.
+V následujících částech jsou popsány změny, které je třeba udělat, pokud existují, a co můžete udělat po migraci.
 
-### <a name="office-365-e3-subscription-configuration-and-data"></a>Konfigurace předplatného Office 365 E3 a data
-Před migrací nemusíte provádět žádné změny aktuálního předplatného nebo dat, což zahrnuje:
+### <a name="office-365-e3-subscription-configuration-and-data"></a>Konfigurace a data předplatného Office 365 E3
+Před migrací nemusíte provádět žádné změny aktuálního předplatného ani dat, což zahrnuje:
 
-- Konfigurace předplatného, například záznamy DNS a názvy domén.
-- Uživatelské a skupinové účty a nastavení ověřování, jako je například vícefaktorové ověřování nebo zásady podmíněného přístupu.
-- Konfigurace služeb produktivity a jejich data, jako jsou Teams, poštovní schránky Exchange Online, weby SharePointu Online, složky OneDrivu pro firmy a poznámkové bloky OneNotu.
-- Aplikace Office se automaticky škáluje. Moderní licencování Office 365 bude každých 72 hodin kontrolovat přiřazení licencí uživatele a převádí aplikace Office na verzi, která odpovídá uživatelskému předplatnému.
+- Konfigurace předplatného, například záznamy DNS a názvy domén
+- Účty uživatelů a skupin a nastavení ověřování, například vícefaktorové ověřování nebo zásady podmíněného přístupu.
+- Konfigurace produktivity služeb a jejich data, například týmy, poštovní schránky Exchange Online, weby SharePointu Online, složky OneDrivu pro firmy a poznámkové bloky OneNotu.
+- Aplikace Office se přizpůsobí automaticky. Office 365 moderní licencování zkontroluje přiřazení licencí uživatele každých 72 hodin a převede aplikace Office na verzi, která odpovídá předplatnému uživatele.
 
 ### <a name="windows-10"></a>Windows 10
 
-Pokud váš Windows ještě není v aktualizaci Windows Pro Creator, upgradujte je na [aktualizaci Windows Pro Creators Update](upgrade-to-windows-pro-creators-update.md).
+Pokud vaše okna ještě nejsou ve Windows pro Creator Update, [Upgradujte si je na Windows pro Creators Update](upgrade-to-windows-pro-creators-update.md).
 
-### <a name="set-up-policies-to-protect-user-devices-and-files"></a>Nastavení zásad ochrany uživatelských zařízení a souborů
+### <a name="set-up-policies-to-protect-user-devices-and-files"></a>Nastavení zásad pro ochranu uživatelských zařízení a souborů
 
 > [!NOTE]
-> Pokud nastavíte zásady a zařízení Office 365 MDM, budou tato zařízení uvedena na stránce **Zařízení** v Centru pro správu Microsoftu 365. Všechny zásady, které nastavíte, se zobrazí v seznamu klasických zásad na [portálu Intune](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview).
+> Pokud nastavíte zásady a zařízení Office 365 MDM, budou tato zařízení uvedená na stránce **zařízení** v centru pro správu systému Microsoft 365. Všechny vámi nastavené zásady se zobrazí v seznamu klasických zásad na [portálu Intune](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview).
 
-Po přiřazení licencí k aplikaci Microsoft 365 Business Premium můžete začít chránit zařízení a soubory uživatelů.
+Po přiřazení licencí k Microsoft 365 Business Premium můžete začít chránit zařízení a soubory uživatelů.
 
-Pokud jste všechny uživatele ve vaší organizaci upgradovali na Microsoft 365 Business Premium, zobrazí se na domovské stránce Průvodce instalací a můžete postupovat podle [nastavení Microsoft 365 Business Premium v krocích průvodce nastavením](set-up.md) za účelem ochrany souborů a mobilních zařízení.
+Pokud jste všichni v organizaci upgradovali na Microsoft 365 Business Premium, uvidíte Průvodce nastavením na domovské stránce a může se řídit [nastavením Microsoft 365 Business Premium v Průvodci nastavením](set-up.md) , abyste chránili soubory a mobilní zařízení.
 
-Můžete také provést tyto kroky na stránce Zařízení:
+Tyto kroky můžete provést taky na stránce zařízení:
   
-1. V Centru pro správu v levém **Devices** navigačním panelu přejděte na \> **položku Zásady zařízení**.
+1. V centru pro správu přejděte v levém navigačním podokně na **Devices** \> **zásady**zařízení.
     
-2. Na stránce **Zásady zařízení** zvolte **Přidat**.
+2. Na stránce **zásady zařízení** zvolte **Přidat**.
     
-3. V podokně **Přidat zásady** pojmenujte zásadu a zvolte **typ zásady** z rozevíracího panelu. 
+3. V podokně **Přidat zásady** udělte dané zásadě název a v rozevíracím seznamu vyberte **Typ zásady** . 
     
-     Můžete nastavit zásady aplikací pro ochranu souborů na zařízeních s Androidem a iPhonem a také na Windows 10 a nastavit zásady konfigurace zařízení pro zařízení s Windows 10 vlastněná společností. Podrobnosti naleznete v následujících odkazech:
+     Můžete nastavit zásady aplikací pro ochranu souborů na zařízeních s Androidem a iPhone a Windows 10 a nastavit zásady konfigurace zařízení pro zařízení s Windows 10 vlastněná společností. Podrobnosti najdete v následujících odkazech:
     
   - [Nastavení ochrany aplikací pro zařízení s Androidem nebo iOSem](app-protection-settings-for-android-and-ios.md)
     
@@ -111,14 +111,19 @@ Můžete také provést tyto kroky na stránce Zařízení:
   
 4. Po nastavení zásad můžete vy i vaši zaměstnanci nastavit zařízení:
     
-  - Postup pro zařízení s Windows najdete v tématu [Nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium.](set-up-windows-devices.md) 
+  - Postupy pro zařízení s Windows najdete v tématu [nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium](set-up-windows-devices.md) . 
     
-  - Postup pro telefony a iPhony s Androidem najdete v článku [Nastavení mobilních zařízení pro uživatele Microsoft 365 Business Premium.](set-up-mobile-devices.md) 
+  - Postup [nastavení mobilních zařízení pro uživatele Microsoft 365 Business Premium](set-up-mobile-devices.md) pro telefony s Androidem a iPhone. 
+  
+### <a name="mailbox-size"></a>Velikost poštovní schránky
+
+Microsoft 365 Business Premium má limit úložiště 50 GB, protože používá Exchange Online (plán 1). Pokud některý z uživatelů přesáhne 50 GB úložiště poštovních schránek, doporučuje se při přechodu na Microsoft 365 Business Premium přiřadit tomuto uživateli tento uživatel: Exchange Online (plán 2) a odebrat plán 1 služby Exchange Online.
+
 
 ### <a name="threat-protection"></a>Ochrana před hrozbami
 
-Po migraci na Microsoft 365 Business Premium máte office 365 ATP. Přehled najdete v [článku Office 365 ATP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) Nastavení naleznete v [tématu nastavení bezpečných odkazů ATP](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [nastavení bezpečných příloh ATP](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)a [nastavení ochrany proti phishingu .](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)
+Po migraci na Microsoft 365 Business Premium máte Office 365 ATP. Přehled najdete v tématu [Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) . Nastavení najdete v tématu [Nastavení zabezpečených odkazů ATP](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [Nastavení zabezpečených příloh ATP](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)a [Nastavení ATP anti-phishing](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
 
 ### <a name="sensitivity-labels"></a>Štítky utajení
 
-Chcete-li začít používat popisky citlivosti, přečtěte si téma [Přehled popisků citlivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels) a vytvoření a správa videa [s popisky citlivosti.](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9)
+Pokud chcete začít používat popisky citlivosti, přečtěte si článek Přehled popisů [citlivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels) a [vytváření a Správa popisků](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) pro video.

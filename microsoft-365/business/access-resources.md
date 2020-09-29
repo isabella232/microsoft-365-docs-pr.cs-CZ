@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Přečtěte si, jak získat přístup k místním prostředkům, jako je podnikový podnik, sdílení souborů a tiskárny ze zařízení Azure Active Directory spojené s Windows 10.
-ms.openlocfilehash: 9b83781afee746b06bbdf90962de0f55ffbcb118
-ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
+ms.openlocfilehash: 2144268f5cbab67c39d5902622c61c0c35e6481c
+ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2020
-ms.locfileid: "47307487"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295304"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Přístup k místním prostředkům ze zařízení Azure AD-JOIN v Microsoft 365 Business Premium
 
@@ -36,9 +36,6 @@ Všechna zařízení s Windows 10, která jsou spojená se službou Azure Active
 
 Další informace najdete v tématu [Úvod do správy zařízení v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/device-management-introduction).
 Tento postup je také shrnut v následujících částech.
-
-> [!IMPORTANT]
-> Tento postup se týká jenom protokolu OAuth a NTLM. Protokol Kerberos není podporován.
  
 ## <a name="run-azure-ad-connect"></a>Spuštění služby Azure AD Connect
 
