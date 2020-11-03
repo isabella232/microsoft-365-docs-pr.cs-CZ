@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Přečtěte si informace o funkcích zabezpečení, které jsou součástí Microsoft 365 Business Premium, a chrání vaše data na počítačích, telefonech a tabletech.
-ms.openlocfilehash: 5e16d4bf297d363b6f9b44ce854c857e7e5464ed
-ms.sourcegitcommit: 9ce9001aa41172152458da27c1c52825355f426d
+ms.openlocfilehash: 587d80c27f867a387c901d23f4ec05f3c5905bf6
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47357312"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48843482"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Funkce zabezpečení a dodržování předpisů v Microsoft 365 Business Premium
 
@@ -63,9 +63,9 @@ V centru pro správu můžete spravovat řadu funkcí zabezpečení Microsoft 36
 
 Rozšířené funkce v Microsoft 365 Business Premium jsou k dispozici, které vám pomůžou chránit vaše podnikání před internetovými-hrozbami a chránit citlivé informace.
   
-- **[Rozšířená ochrana před internetovými útoky v Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
+- **[Microsoft Defender pro Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
     
-    Rozšířená ochrana před internetovými útoky (ATP) pomáhá chránit vaše podnikání před sofistikovanými útoky typu phishing a ransomwaru, které jsou určené k nazrazení informací o zaměstnancích Funkce zahrnují:
+    Microsoft Defender pro Office 365 chrání vaši firmu před sofistikovanými útoky phishing a ransomwaru, které jsou určené k nazrazení informací o zaměstnancích nebo zákaznících. Funkce zahrnují:
     
   - Sofistikovaná analýza příloh a analýza souborů AI pro zjišťování a zahození nebezpečných zpráv.
     
@@ -125,4 +125,4 @@ Ano, tyto funkce jsou k dispozici na všech trzích, kde se prodává Microsoft 
     
     ![V levém navigačním panelu centra pro správu Microsoftu 365 zvolte centra pro správu.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. Zvolte ** &amp; dodržování předpisů zabezpečení** a přejděte do &amp; centra dodržování předpisů zabezpečení.
+3. Zvolte **&amp; dodržování předpisů zabezpečení** a přejděte do &amp; centra dodržování předpisů zabezpečení.

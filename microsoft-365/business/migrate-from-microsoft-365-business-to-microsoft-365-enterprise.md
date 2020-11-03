@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Přečtěte si, jak přesunout firmu z Microsoft 365 Business Premium na Microsoft 365 E3.
-ms.openlocfilehash: fbd5c0710bffa92cfc17447094bb9b2683641d5f
-ms.sourcegitcommit: c083602dda3cdcb5b58cb8aa070d77019075f765
+ms.openlocfilehash: 874da0d35759c8af4c3ee2ca4a1bdfa90a91627c
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48195513"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842194"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Migrace z aplikace Microsoft 365 Business Premium na Microsoft 365 E3
 
@@ -40,7 +40,7 @@ Nebo potřebuje vaše firma funkce Enterprise, jako jsou aplikace Microsoft 365 
 Snadná inovace: můžete zahájit upgrade [z centra pro správu](../commerce/subscriptions/upgrade-to-different-plan.md). Všechna vaše data a konfigurace ve vašem aktuálním předplatném jsou zachována. Není nic, co byste chtěli připravit na migraci a nic nedělat, dokud nebudete moci provádět nové funkce.
 
 >[!Note]
->Můžete také použít předplatné Microsoft 365 Business Premium pro až 300 sedadel a získat předplatné Microsoft 365 E3 pro více než 300 sedadel. ATP Office 365 však není součástí Microsoft 365 E3. Za účelem zachování ochrany proti hrozbám byste měli přidat další licence ATP Office 365, aby všichni uživatelé, kteří jsou v dosahu zásad Office 365 ATP, měli licenci.
+>Můžete také použít předplatné Microsoft 365 Business Premium pro až 300 sedadel a získat předplatné Microsoft 365 E3 pro více než 300 sedadel. Microsoft Defender pro Office 365 se ale netýká Microsoft 365 E3. Za účelem zachování ochrany před hrozbami byste měli přidat další program Defender for Office 365 licenses, aby všichni uživatelé, kteří jsou v dosahu svého programu Defender pro Office 365, měli licenci.
 >
 
 ## <a name="differences-between-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>Rozdíly mezi Microsoft 365 Business Premium a Microsoft 365 Enterprise
@@ -51,7 +51,7 @@ Tato tabulka ukazuje rozdíly mezi Microsoft 365 Business Premium a Microsoft 36
 |:-------|:-----|:-----|
 | **Místní**        | | | 
 | Windows 10    | Windows 10 Business  |     Windows 10 Enterprise E3| 
-| Aplikace Office *    | [Aplikace Microsoft 365 pro firmy](#office-365-business)    | Microsoft 365 Apps for enterprise | 
+| Aplikace Office *    | [Aplikace Microsoft 365 pro firmy](#office-365-business)    | Aplikace Microsoft 365 pro podniky | 
 | **Kancelářské aplikace**        | | | 
 | Exchange Online a Outlook    | 50 GB limit úložiště pro každou poštovní schránku a neomezené archivaci Exchange Online    | 100 GB limit úložiště pro každou poštovní schránku a neomezené archivaci Exchange Online | 
 | Teams    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
@@ -60,12 +60,12 @@ Tato tabulka ukazuje rozdíly mezi Microsoft 365 Business Premium a Microsoft 36
 | Outlook Customer Manager, MileIQ    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **Ochrana před hrozbami**        | | | 
 | Možnosti pro redukci pro omezení plochy    | [Podívejte se na tento seznam](#threat-protection) | Podniková správa izolace hardwaru pro Microsoft Edge | 
-| Office 365 – Rozšířená ochrana před internetovými útoky (ATP) – plán 1 | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | Není zahrnuto, ale můžete ho přidat | 
+| Defender pro Office 365 plán 1 | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | Není zahrnuto, ale můžete ho přidat | 
 | **Správa identit**        | | | 
 | Samoobslužné resetování hesla pro hybridní účty Azure Active Directory (Azure AD), Azure Multi-Factor Authentication (MFA), podmíněný přístup, zápis hesel pro místní identity|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
 | Zjišťování Cloud App, Azure AD Connect    |     | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
-| Aplikace Azure AD 365 – jednotné přihlašování (SSO): 10 aplikací na uživatele (Galerie SaaS aplikací, například Salesforce) * | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
-| Jednotné přihlašování k Azure AD Premium 1: bez limitu (místní aplikace prostřednictvím proxy aplikace Azure AD a aplikací mimo galerii s použitím šablon pro samoobslužné integrace aplikací)    |     | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| Aplikace Azure AD 365 Single Sign-On (SSO): 10 aplikací na uživatele (Galerie SaaS aplikací, například Salesforce) * | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| Jednotné přihlašování k Azure AD Premium 1: bez limitu (místní aplikace prostřednictvím proxy aplikace Azure AD a aplikací mimo galerii s použitím Self-Service šablon pro integraci aplikací)    |     | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
 | **Správa zařízení a aplikací**        | | | 
 | Microsoft Intune, Windows autopilot|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
 |Přístup k virtuální ploše (VDA)    |  |     ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
@@ -129,7 +129,7 @@ Windows 10 Business zahrnuje tyto ochrany:
 Windows 10 Enterprise E3 zahrnuje také podnikovou správu izolace hardwaru pro Microsoft Edge.
 
 >[!Note]
->Uživatelé, kteří jsou migrováni do Microsoft 365 E3, budou mít licenci ATP Office 365 pro pokračování ochrany před hrozbami. Nezapomeňte si koupit další licence pro Office 365 ATP, aby všichni uživatelé, kteří jsou v dosahu zásad Office 365 ATP, měli licenci. 
+>Uživatelé, kteří jsou migrováni do Microsoft 365 E3, budou muset mít licenci programu Microsoft Defender pro Office 365 pro pokračování ochrany proti ohrožení. Nezapomeňte si zakoupit další program Defender for Office 365 licenses, aby všichni uživatelé, kteří jsou v dosahu svého programu Defender pro Office 365, měli licenci. 
 >
 
 ### <a name="device-management-with-intune"></a>Správa zařízení s Intune

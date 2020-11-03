@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Přečtěte si informace o krocích nastavení Microsoft 365 Business Premium, o přihlašování, přidání domény a uživatelů, o nastavení zásad zabezpečení a dalších.
-ms.openlocfilehash: fa9c02fa9546437c83b9cc6c1f1e6e0d723ec868
-ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
+ms.openlocfilehash: 46370166a9d5e8c9308b8947513e631c159f0b86
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2020
-ms.locfileid: "47306463"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842124"
 ---
 # <a name="overview-of-setup"></a>Základní informace o nastavení
 
@@ -42,36 +42,36 @@ Podívejte se na krátké video o nastavení Microsoft 365 Business Premium.<br>
 
 Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-Většinu kroků nastavení je možné provést v Průvodci nastavením, jsou však uvedené i další možnosti.
+Většinu kroků nastavení lze provést v nastavení s průvodcem, jsou však uvedené taky další možnosti.
 
 ## <a name="step-1-add-your-domain-and-users"></a>Krok 1: Přidání domény a uživatelů
 
    - **[Přidání domény](set-up.md#add-your-domain-to-personalize-sign-in)** (Pokud jste si svoji doménu koupili při [registraci](sign-up.md), je tento krok již proveden.)
 
    - **Přidejte uživatele**. Uživatele můžete přidat některým ze tří způsobů:
-        - V [Průvodci](set-up.md#add-users-in-the-wizard).
+        - V [řízeném nastavení](set-up.md#add-users-in-the-wizard).
         - Pokud máte místní službu Active Directory, můžete pomocí synchronizace adresářů [Přidat uživatele pomocí služby Azure AD Connect](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization) .
         - [Uživatele můžete přidat taky později](add-users-m365b.md) v centru pro správu.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Krok 2: nastavení zásad zabezpečení a konfigurace zařízení 
 
-  - K nastavení zásad zařízení použijte [Průvodce nastavením](set-up.md#protect-your-organization) . 
+  - Pomocí [nastavení Průvodce](set-up.md#protect-your-organization) nakonfigurujte zásady zařízení. 
   - Můžete taky přidat další nebo upravit později v [centru pro správu](view-policies-and-devices.md) a na [portálu Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
   - Průvodce nastavením také nastaví základní nastavení ochrany před útoky na ohrožení a ztrátu dat.
   
   Kromě nastavení zabezpečení v Průvodci nastavením můžete zvýšit zabezpečení přidáním následujících nastavení:
 
 - **Ochrana proti malwaru e-mailu**
-- **ATP anti-phishing**
+- **Ochrana proti podvodným zprávám v programu Defender pro Office 365**
 - **Exchange Online - archiv**
-- **Azure Information Protection (Plan1**)
+- **Azure Information Protection (Plan1** )
 
 Chcete-li začít, přečtěte si téma [zvýšení ochrany před hrozbami](increase-threat-protection.md) a [Nastavení funkcí dodržování předpisů](set-up-compliance.md).
 
-Další informace najdete v článku o [10 způsobech zabezpečení služby Microsoft 365 Business Premium](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) pro účely přehledu nejlepších postupů zabezpečení.
+Další informace najdete v článku o [10 způsobech zabezpečení služby Microsoft 365 Business Premium](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) na silnici – mapa osvědčených postupů zabezpečení.
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Krok 3: nastavení a Správa zařízení s Windows 10
 
-Po spuštění Průvodce nastavením si budete chtít proctect všechny počítače Windwos 10 ve vaší organizaci.
+Po dokončení nastavení průvodce budete chtít chránit všechny počítače s Windows 10 ve vaší organizaci.
   
 - Windows 10 pro je [předpokladem](pre-requisites-for-data-protection.md) pro Microsoft 365 Business Premium, ale pokud máte Windows 7 pro, Windows 8 pro nebo Windows 8,1 pro, vaše předplatné vás opravňuje k [upgradu na Windows 10 pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
 - Pokud chcete nastavit zásady pro zařízení s Windows 10, postupujte podle kroků v části [zabezpečení počítačů s Windows 10](secure-win-10-pcs.md) .
@@ -82,7 +82,7 @@ Když se připojíte k zařízení s Windows 10 ke službě Azure AD, uplatní s
 - Office můžete automaticky nainstalovat na zařízení s Windows pomocí [Průvodce nastavením](set-up.md#deploy-office-365-client-apps).
 - Umožněte uživatelům [nainstalovat aplikace Office](https://docs.microsoft.com/office365/admin/setup/install-applications) pro Windows a zařízení.
      
-## <a name="advanced"></a>Moderní
+## <a name="advanced"></a>Upřesnit
 - **Nastavení nových zařízení pomocí autopilotního nasazení**
             
      Pomocí automatického [pilotního nasazení systému Windows](add-autopilot-devices-and-profile.md) můžete automaticky předkonfigurovat **Nová** zařízení s Windows 10 pro uživatele, ale může být jednodušší získat [partnera](https://www.microsoft.com/solution-providers/search) , který to může udělat za vás. Můžete také přejít na [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598)a požádat odborníka na cloudovou technologii o nastavení nově zakoupených zařízení.

@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Přečtěte si, jak přesunout firmu na Microsoft 365 Business Premium z Office 365 E3.
-ms.openlocfilehash: f3f3894a2a5cb69f9f91825d89db4f4b857fac5c
-ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
+ms.openlocfilehash: b8aa58f1f050ec6247479ed02e142507a2df45fc
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295284"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842154"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrace z Office 365 E3 na Microsoft 365 Business Premium 
 
@@ -42,7 +42,7 @@ Tato tabulka ukazuje rozdíly mezi Microsoft 365 Business Premium a Office 365 E
 | Funkce    | Podpora v Microsoft 365 Business Premium    | Podpora v Office 365 E3 | 
 |:-------|:-----|:-----|
 | **Místní**        | | | 
-| Aplikace Office<sup>1</sup>    | Aplikace Microsoft 365 pro firmy    | Microsoft 365 Apps for enterprise | 
+| Aplikace Office<sup>1</sup>    | Aplikace Microsoft 365 pro firmy    | Aplikace Microsoft 365 pro podniky | 
 | **Kancelářské aplikace**        | | | 
 | Exchange Online a Outlook    | 50 GB limit úložiště pro každou poštovní schránku a neomezené archivaci Exchange Online    | 100 GB limit úložiště pro každou poštovní schránku a neomezené archivaci Exchange Online | 
 | Teams    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png) | 
@@ -51,7 +51,7 @@ Tato tabulka ukazuje rozdíly mezi Microsoft 365 Business Premium a Office 365 E
 | StaffHub    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png) | 
 | Outlook Customer Manager, MileIQ    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **Ochrana před hrozbami**        | | | 
-| Office 365 – Rozšířená ochrana před internetovými útoky (ATP) – plán 1 | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | Není zahrnuto, ale můžete ho přidat | 
+| Defender pro Office 365 plán 1 | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | Není zahrnuto, ale můžete ho přidat | 
 | **Správa identit**        | | | 
 | Samoobslužné resetování hesla pro hybridní účty Azure Active Directory (Azure AD), Azure Multi-Factor Authentication (MFA), podmíněný přístup, zápis hesel pro místní identity|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
 | **Správa zařízení a aplikací**        | | |
@@ -95,7 +95,7 @@ Pokud jste všichni v organizaci upgradovali na Microsoft 365 Business Premium, 
 
 Tyto kroky můžete provést taky na stránce zařízení:
   
-1. V centru pro správu přejděte v levém navigačním podokně na **Devices** \> **zásady**zařízení.
+1. V centru pro správu přejděte v levém navigačním podokně na **Devices** \> **zásady** zařízení.
     
 2. Na stránce **zásady zařízení** zvolte **Přidat**.
     
@@ -122,7 +122,7 @@ Microsoft 365 Business Premium má limit úložiště 50 GB, protože používá
 
 ### <a name="threat-protection"></a>Ochrana před hrozbami
 
-Po migraci na Microsoft 365 Business Premium máte Office 365 ATP. Přehled najdete v tématu [Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) . Nastavení najdete v tématu [Nastavení zabezpečených odkazů ATP](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [Nastavení zabezpečených příloh ATP](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)a [Nastavení ATP anti-phishing](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
+Po migraci na Microsoft 365 Business Premium máte k dispozici program Defender pro Office 365. Další informace najdete v článku [Microsoft Defender pro Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) . Nastavení, viz [Nastavení bezpečných odkazů](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [Nastavení bezpečných příloh](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)a [nastavení ochrany proti podvodným zprávám v programu Defender pro Office 365](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
 
 ### <a name="sensitivity-labels"></a>Štítky utajení
 

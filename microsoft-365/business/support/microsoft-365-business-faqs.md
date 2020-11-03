@@ -1,6 +1,6 @@
 ---
-title: Časté otázky k Microsoftu 365 Business Premium 
-description: Tady najdete odpovědi na časté otázky týkající se Microsoftu 365 Business, nového řešení navrženého pro malé a středně velké firmy. 
+title: Časté otázky k Microsoftu 365 Business Premium
+description: Tady najdete odpovědi na časté otázky týkající se Microsoftu 365 Business, nového řešení navrženého pro malé a středně velké firmy.
 author: Sirkkuw
 f1.keywords:
 - NOCSH
@@ -10,15 +10,15 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 ms.custom: AdminSurgePortfolio
 localization_priority: Normal
-audience: microsoft-business 
+audience: microsoft-business
 keywords: Microsoft 365 Business Premium, Microsoft 365, SMB, časté otázky, nejčastější dotazy, odpovědi, firmy
 ms.date: 07/21/2020
-ms.openlocfilehash: a8547240a2733a10730d0f8fb62fe8e8c7ef971c
-ms.sourcegitcommit: dffb9b72acd2e0bd286ff7e79c251e7ec6e8ecae
+ms.openlocfilehash: b117f0aecb76dc3b30a30e067c37328865eb0fdf
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "47948562"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842104"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Časté otázky k Microsoftu 365 Business Premium
 
@@ -27,15 +27,15 @@ ms.locfileid: "47948562"
 ### <a name="what-is-microsoft-365-business-premium"></a>Co je Microsoft 365 Business Premium?
 Microsoft 365 je integrované řešení, které v sobě spojuje špičkové nástroje pro podporu produktivity a také funkce zabezpečení a správy zařízení pro malé a středně velké firmy. Zahrnuje:
 
-**Sada nástrojů pro produktivitu a spolupráci pro firmy**:
+**Sada nástrojů pro produktivitu a spolupráci pro firmy** :
 
 - Word, Excel, PowerPoint, Outlook, OneNote, Publisher a Access
 - Exchange, OneDrive, Skype pro firmy, Microsoft Teams a SharePoint
 - Firemní aplikace z Office (Bookings, MileIQ<sup>[1](#footnote1)</sup>)
 
-**Funkce pro správu a zabezpečení rozlehlých sítí**:
+**Funkce pro správu a zabezpečení rozlehlých sítí** :
 
-- Pomáhá poskytovat ochranu externích hrozeb jako phishing a sofistikovaného malwaru s Office 365 rozšířeným plánem ochrany před hrozbami 1 a Microsoft Defender zneužití Guard.
+- Pomáhá poskytovat ochranu externích hrozeb, jako jsou phishing a sofistikovaná malwarová aplikace s programem Microsoft Defender pro Office 365 plán 1 a Microsoft Defender zneužití Guard.
 - Pomáhá řídit a spravovat přístup k citlivým informacím a jejich přenos pomocí zásad ochrany před únikem informací a služby Azure Information Protection (plán 1).
 - Pomáhá chránit, uchovávat a zálohovat vaše data pomocí Exchange Online – archiv.
 - Ochrana aplikací pro Office a další mobilní aplikace s ochranou Intune App Protection
@@ -43,14 +43,14 @@ Microsoft 365 je integrované řešení, které v sobě spojuje špičkové nás
 - Ochrana identity s vícefaktorovým ověřováním, samoobslužným resetováním hesla a podmíněným přístupem
 - Konzistentní konfigurace zabezpečení v zařízeních &mdash; : ochrana firemních dat napříč zařízeními Antivirová ochrana Microsoft Defenderu, která je vždy zapnutá a aktuální
 
-**Zjednodušené nasazení zařízení a nastavení uživatelů**:
+**Zjednodušené nasazení zařízení a nastavení uživatelů** :
 
 - Jedna centrální konzola pro nastavení a správu uživatelů a zařízení
 - Automatická instalace aplikací Office na počítačích s Windows 10
 - Vždy aktuální Office a Windows 10
 - Efektivnější nasazování počítačů pomocí služby Windows AutoPilot
 
-**Další nároky**:
+**Další nároky** :
 
 - Zákazníci, kteří používají Microsoft 365 Business Premium, mají také přístup ke službě Windows Virtual Desktop a funkcím aktivace Office pro sdílené počítače. Pokud chcete získat další informace, přečtěte si [blog věnovaný Microsoftu 365 Business Premium](https://techcommunity.microsoft.com/t5/Microsoft-365-Business-Blog/bg-p/Microsoft365BusinessBlog). Podívejte se také na [popis služby Microsoft 365 pro firmy](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description).
 
@@ -156,7 +156,7 @@ Nejpřímější cestou k úspěšnému nasazení Microsoftu 365 Business Premiu
 
 ### <a name="does-microsoft-365-business-premium-include-the-full-capabilities-of-microsoft-intune"></a>Zahrnuje Microsoft 365 Business Premium všechny funkce Microsoft Intune?
 
-Ano, předplatitelé Microsoft 365 Business Premium mají licenci na používání úplných funkcí Intune pro iOS, Android, macOS a další správu zařízení pro jiné platformy. Funkce, které nejsou k dispozici ve zjednodušené konzoli pro správu v Microsoft 365 Business Premium, jako je Správa aplikací třetích stran, konfigurace profilů Wi-Fi a certifikátů VPN, se dají spravovat v plné konzoli v Intune.
+Ano, předplatitelé Microsoft 365 Business Premium mají licenci na používání úplných funkcí Intune pro iOS, Android, macOS a další správu zařízení pro jiné platformy. Funkce, které nejsou k dispozici ve zjednodušené konzoli pro správu v Microsoft 365 Business Premium, jako je Správa aplikací třetích stran, konfigurace Wi-Fi profilů a certifikátů VPN, se dají spravovat v plné konzoli v Intune.
 
 ### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>Přichází služba Azure Active Directory (Azure AD) Premium P1 s Microsoft 365 Business Premium?
 
@@ -180,9 +180,9 @@ Do Microsoftu 365 Business Premium můžete přidat všechny doplňky, které je
 
 Ano, můžete si koupit předplatné obchodního hlasu. [Business Voice](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) je telefonní řešení určené pro malé a střední firmy až pro 300 uživatelů, kteří vystavují telefonní systém, zvukové konference, vnitrostátní plán pro volání a další. Možnosti telefonního systému: zobrazí se hlasová schránka, ID volajícího, parkování hovorů, přesměrování hovorů, automatické konference a fronty volání. <br> Pokud chcete zjistit, jestli je firemní hlas dostupný ve vaší zemi nebo oblasti, přečtěte si téma [dostupnost země a oblasti pro firemní telefony](https://docs.microsoft.com/microsoftteams/business-voice/country-region-availability). Informace o cenách najdete v článku [cena za firemní hlas](https://go.microsoft.com/fwlink/?linkid=2127221).
 
-### <a name="can-microsoft-365-business-premium-customers-use--microsoft-defender-advanced-threat-protection"></a>Mohou zákazníci společnosti Microsoft 365 Business Premium používat rozšířené ochranu před internetovými útoky programu Microsoft Defender?
+### <a name="can-microsoft-365-business-premium-customers-use-microsoft-defender-for-endpoint"></a>Mohou zákazníci společnosti Microsoft 365 Business Premium používat aplikaci Microsoft Defender pro koncový bod?
 
-Ano, program Microsoft Defender – Rozšířená ochrana před internetovými útoky je k dispozici jako doplněk k Microsoft 365 Business Premium, který je zakoupený od [poskytovatele Microsoft Cloud Solution Provider](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider).
+Ano, Microsoft Defender pro koncový bod je k dispozici jako doplněk k Microsoft 365 Business Premium, když je zakoupený od [poskytovatele cloudového řešení Microsoftu](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider).
 
 ## <a name="partner-opportunity"></a>Příležitosti pro partnery
 
@@ -224,7 +224,7 @@ Microsoft 365 Business Premium neudělá z nepravé verze Windows pravou. Micros
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-premium-help-customers-with-their-compliance-obligations"></a>Co je GDPR a jak Microsoft 365 Business Premium pomáhá zákazníkům plnit si povinnosti v oblasti dodržování předpisů?
 
-Obecné nařízení o ochraně osobních údajů (GDPR) je komplexní nový zákon o ochraně osobních údajů, který poskytuje obyvatelům Evropské unie (EU) větší kontrolu nad jejich „osobními údaji“ a vyžaduje, aby organizace udržovaly integritu těchto osobních údajů. GDPR vyžaduje, aby organizace, které kontrolují nebo zpracovávají osobní údaje týkající se obyvatel EU, používaly ke zpracování osobních údajů pouze zpracovatele osobních údajů z řad třetích stran, kteří splňují požadavky vyplývající ze zákona GDPR. V březnu 2017 společnost Microsoft poskytla následující smluvní záruky. Zákazníci, kteří mají dotazy ohledně toho, jak jim může Microsoft pomoci splnit další závazky vyplývající ze zákona GDPR, by se měli seznámit s rozšířenými funkcemi dodržování předpisů a zabezpečení dostupnými v Microsoftu 365 Business Premium (například Azure Information Protection, ochrana před únikem informací, Rozšířená ochrana před internetovými útoky atd.) a v dalších sadách produktů (například Microsoft 365 Enterprise E5). Další informace najdete tady: [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
+Obecné nařízení o ochraně osobních údajů (GDPR) je komplexní nový zákon o ochraně osobních údajů, který poskytuje obyvatelům Evropské unie (EU) větší kontrolu nad jejich „osobními údaji“ a vyžaduje, aby organizace udržovaly integritu těchto osobních údajů. GDPR vyžaduje, aby organizace, které kontrolují nebo zpracovávají osobní údaje týkající se obyvatel EU, používaly ke zpracování osobních údajů pouze zpracovatele osobních údajů z řad třetích stran, kteří splňují požadavky vyplývající ze zákona GDPR. V březnu 2017 společnost Microsoft poskytla následující smluvní záruky. Zákazníci, kteří mají k dispozici dotazy týkající se vaší společnosti Microsoft, by měli získat informace o rozšířených možnostech dodržování předpisů a zabezpečení, které jsou dostupné v Microsoft 365 Business Premium (například Azure Information Protection, zabránění ztrátám dat, Defender pro Office 365, atd.) a v dalších systémech (například Microsoft 365 Enterprise E5). Další informace najdete tady: [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
 
 ## <a name="footnotes"></a>Poznámky pod čarou
 
