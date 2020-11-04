@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Přečtěte si informace o Microsoftu 365 Business Premium, službě předplatného, která zahrnuje kancelářské aplikace Office a rozšířenou ochranu vaší firmy před kybernetickými hrozbami.
-ms.openlocfilehash: 50b1fec21593bd22577e07e000cedb89dfd90f66
-ms.sourcegitcommit: f7566dd6010744c72684efdc37f4471672330b61
+ms.openlocfilehash: e67ae036bf3ce7811f19c8745838bb51dde073ea
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138222"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842174"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Přehled předplatného Microsoftu 365 Business Premium
 
@@ -71,11 +71,11 @@ Microsoft 365 Business Premium pomáhá chránit vaše data v každém z těchto
 
 Microsoft 365 Business Premium pomáhá **chránit před hrozbami** těmito způsoby:
 
-- Kontrolování odkazů v e-mailech a dokumentech v reálném čase za účelem blokování nebezpečných webů (Bezpečné odkazy ATP)
+- Kontrolování odkazů v e-mailech a dokumentech v reálném čase za účelem blokování nebezpečných webů (Bezpečné odkazy)
 
-- Provádění pokročilé analýzy e-mailových příloh v sandboxovaném prostředí za účelem detekování nově vyvíjeného malwaru (Bezpečné přílohy ATP) 
+- Provádění pokročilé analýzy e-mailových příloh v prostředí sandboxu za účelem detekování nově vyvíjeného malwaru (Bezpečné přílohy) 
 
-- Povolení zásad ochrany před phishingem, které umožňují zajišťovat ochranu před sofistikovanými útoky (inteligentní ochrana před phishingem) pomocí modelů strojového učení a detekce zosobnění 
+- Povolení zásad ochrany před phishingem, které umožňují zajišťovat ochranu před sofistikovanými útoky (inteligentní ochrana před phishingem ve službě Microsoft Defender pro Office 365) pomocí modelů strojového učení a detekce zosobnění 
 
 - Nakonfigurování pokročilých zásad, které blokují přístup z nedůvěryhodných umístění nebo obcházení multifaktorové ověřování z důvěryhodných umístění, jako je například firemní síť (Azure MFA včetně důvěryhodných IP adres a podmíněný přístup) 
 
@@ -87,7 +87,7 @@ Vaše **firemní data jsou chráněna** těmito způsoby:
 
 - Šifrování citlivých e-mailů, abyste mohli bezpečně komunikovat se zákazníky nebo jinými lidmi mimo vaši organizaci. Tím je zajištěno, že si zprávu bude moct přečíst pouze určený příjemce (Rozšířené šifrování zpráv Office 365).
 
-- Řízení, kdo má přístup k informacím společnosti, a to aplikováním různých omezení, například **Nekopírovat** a **Nepřeposílat**, na e-maily a dokumenty (Azure Information Protection, plán 1)
+- Řízení, kdo má přístup k informacím společnosti, a to aplikováním různých omezení, například **Nekopírovat** a **Nepřeposílat** , na e-maily a dokumenty (Azure Information Protection, plán 1)
 
 - Povolení neomezené archivace v cloudu, abyste mohli uchovávat všechny e-maily vaší organizace, včetně poštovních schránek bývalých zaměstnanců (Exchange Online – archiv)
 
