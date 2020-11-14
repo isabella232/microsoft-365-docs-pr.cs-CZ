@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Přečtěte si, jak přesunout firmu z Microsoft 365 Business Premium na Microsoft 365 E3.
-ms.openlocfilehash: 874da0d35759c8af4c3ee2ca4a1bdfa90a91627c
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: 2b15d20e3ae1ad0bef871b139e61abf3ba260729
+ms.sourcegitcommit: 34ebec8e2bd54ba3d4ccfd9724797665c965c17f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842194"
+ms.lasthandoff: 11/13/2020
+ms.locfileid: "49071421"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Migrace z aplikace Microsoft 365 Business Premium na Microsoft 365 E3
 
@@ -57,7 +57,7 @@ Tato tabulka ukazuje rozdíly mezi Microsoft 365 Business Premium a Microsoft 36
 | Teams    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
 | OneDrive pro firmy    | 1 TB limit úložiště na uživatele    | Neomezené | 
 | Yammer, SharePoint Online, Planner, Stream    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
-| Outlook Customer Manager, MileIQ    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | | 
+| MileIQ    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **Ochrana před hrozbami**        | | | 
 | Možnosti pro redukci pro omezení plochy    | [Podívejte se na tento seznam](#threat-protection) | Podniková správa izolace hardwaru pro Microsoft Edge | 
 | Defender pro Office 365 plán 1 | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | Není zahrnuto, ale můžete ho přidat | 
@@ -106,7 +106,7 @@ Uživatelé teď můžou využívat neomezené úložiště v poštovních schr�
 Můžete začít používat vyhledávání Cloud App Appu, stav Azure AD Connect a jednotné přihlašování pro více než 10 aplikací.
 
 >[!Note]
->Uživatelé migrace do Microsoft 365 E3 už nemůžou používat Outlook Customer Manager a MileIQ.
+>Uživatelé migrace do Microsoft 365 E3 už nemůžou používat MileIQ.
 >
 
 <a name="threat-protection"></a>
