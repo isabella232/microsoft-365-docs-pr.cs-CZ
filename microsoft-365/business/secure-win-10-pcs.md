@@ -23,12 +23,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Naučte se zabezpečit počítače s Windows 10 po nastavení Microsoft 365 Business Premium.
-ms.openlocfilehash: a70fcd330fe6ef330fac08512aded4d8913313d5
-ms.sourcegitcommit: 1780359234abdf081097c8064438d415da92fb85
+ms.openlocfilehash: 286393779eaa92d33432ff9ad4b21c0a1fb8612c
+ms.sourcegitcommit: 20d1158c54a5058093eb8aac23d7e4dc68054688
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46778378"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "49376271"
 ---
 # <a name="secure-windows-10-computers"></a>Zabezpečení počítačů s Windows 10
 
@@ -36,10 +36,10 @@ Tento článek se týká Microsoft 365 Business Premium.
 
 Po [Nastavení](set-up.md) Microsoft 365 Business Premium je čas chránit počítače s Windows 10 v organizaci před krádeží a škodlivými hrozbami, jako jsou viry a malware.
 
-## <a name="to-secure-your-windows-10-pcs"></a>Zabezpečení počítačů s Windows 10
+## <a name="to-secure-your-windows-10-computers"></a>Zabezpečení počítačů s Windows 10
 
 1. Přihlaste se do [centra pro správu Microsoft 365](https://admin.microsoft.com) pomocí přihlašovacích údajů globálního správce. 
-2. Na levém navigačním panelu vyberte **Nastavení** a pak v části **přihlášení a zabezpečení**zvolte **zabezpečit počítače s Windows 10**. Začněte tím, že zvolíte **zobrazení** .
+2. Na levém navigačním panelu vyberte **Nastavení** a pak v části **přihlášení a zabezpečení** zvolte **zabezpečit počítače s Windows 10**. Začněte tím, že zvolíte **zobrazení** .
 3. Na stránce **zabezpečení počítačů s Windows 10** si přečtěte všechny informace, které pochopíte, co jste zapnuli, a o čem se uživatel stává.
 
     V horní části **stránky zvolte Začínáme**.
