@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Přečtěte si, jak přesunout firmu na Microsoft 365 Business Premium z Office 365 E3.
-ms.openlocfilehash: b8aa58f1f050ec6247479ed02e142507a2df45fc
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: eebf78c24ed4bfd1a4fc2d843f37aebbe3d35e31
+ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842154"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49558246"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrace z Office 365 E3 na Microsoft 365 Business Premium 
 
@@ -42,7 +42,7 @@ Tato tabulka ukazuje rozdíly mezi Microsoft 365 Business Premium a Office 365 E
 | Funkce    | Podpora v Microsoft 365 Business Premium    | Podpora v Office 365 E3 | 
 |:-------|:-----|:-----|
 | **Místní**        | | | 
-| Aplikace Office<sup>1</sup>    | Aplikace Microsoft 365 pro firmy    | Aplikace Microsoft 365 pro podniky | 
+| Aplikace Office<sup>1</sup>    | Aplikace Microsoft 365 pro firmy    | Microsoft 365 Apps for enterprise | 
 | **Kancelářské aplikace**        | | | 
 | Exchange Online a Outlook    | 50 GB limit úložiště pro každou poštovní schránku a neomezené archivaci Exchange Online    | 100 GB limit úložiště pro každou poštovní schránku a neomezené archivaci Exchange Online | 
 | Teams    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png) | 
@@ -53,7 +53,7 @@ Tato tabulka ukazuje rozdíly mezi Microsoft 365 Business Premium a Office 365 E
 | **Ochrana před hrozbami**        | | | 
 | Defender pro Office 365 plán 1 | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | Není zahrnuto, ale můžete ho přidat | 
 | **Správa identit**        | | | 
-| Samoobslužné resetování hesla pro hybridní účty Azure Active Directory (Azure AD), Azure Multi-Factor Authentication (MFA), podmíněný přístup, zápis hesel pro místní identity|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
+| Samoobslužné resetování hesla pro hybridní účty Azure Active Directory (Azure AD), Azure AD Multi-Factor Authentication (MFA), podmíněný přístup, zápis hesel pro místní identity|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
 | **Správa zařízení a aplikací**        | | |
 | Microsoft Intune, Windows autopilot|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    |  |
 | Aktivace sdíleného počítače|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png)| 

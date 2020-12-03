@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Přečtěte si, jak přesunout firmu z Microsoft 365 Business Premium na Microsoft 365 E3.
-ms.openlocfilehash: 3f840a27cdcf50bba7710681135f6c2e241ad14b
-ms.sourcegitcommit: 001e64f89f9c3cd6bbd4a25459f5bee3b966820c
+ms.openlocfilehash: 3f1bb9591e1bd2bac49326325ce6c8c2d6778497
+ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49367049"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49558232"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Migrace z aplikace Microsoft 365 Business Premium na Microsoft 365 E3
 
@@ -51,7 +51,7 @@ Tato tabulka ukazuje rozdíly mezi Microsoft 365 Business Premium a Microsoft 36
 |:-------|:-----|:-----|
 | **Místní**        | | | 
 | Windows 10    | Windows 10 Business  |     Windows 10 Enterprise E3| 
-| Aplikace Office *    | [Aplikace Microsoft 365 pro firmy](#office-365-business)    | Aplikace Microsoft 365 pro podniky | 
+| Aplikace Office *    | [Aplikace Microsoft 365 pro firmy](#office-365-business)    | Microsoft 365 Apps for enterprise | 
 | **Kancelářské aplikace**        | | | 
 | Exchange Online a Outlook    | 50 GB limit úložiště pro každou poštovní schránku a neomezené archivaci Exchange Online    | 100 GB limit úložiště pro každou poštovní schránku a neomezené archivaci Exchange Online | 
 | Teams    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
@@ -62,7 +62,7 @@ Tato tabulka ukazuje rozdíly mezi Microsoft 365 Business Premium a Microsoft 36
 | Možnosti pro redukci pro omezení plochy    | [Podívejte se na tento seznam](#threat-protection) | Podniková správa izolace hardwaru pro Microsoft Edge | 
 | Defender pro Office 365 plán 1 | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | Není zahrnuto, ale můžete ho přidat | 
 | **Správa identit**        | | | 
-| Samoobslužné resetování hesla pro hybridní účty Azure Active Directory (Azure AD), Azure Multi-Factor Authentication (MFA), podmíněný přístup, zápis hesel pro místní identity|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
+| Samoobslužné resetování hesla pro hybridní účty Azure Active Directory (Azure AD), Azure AD Multi-Factor Authentication (MFA), podmíněný přístup, zápis hesel pro místní identity|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
 | Zjišťování Cloud App, Azure AD Connect    |     | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
 | Aplikace Azure AD 365 Single Sign-On (SSO): 10 aplikací na uživatele (Galerie SaaS aplikací, například Salesforce) * | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
 | Jednotné přihlašování k Azure AD Premium 1: bez limitu (místní aplikace prostřednictvím proxy aplikace Azure AD a aplikací mimo galerii s použitím Self-Service šablon pro integraci aplikací)    |     | ![Součástí Microsoft 365 E3](../media/check-mark.png) | 
