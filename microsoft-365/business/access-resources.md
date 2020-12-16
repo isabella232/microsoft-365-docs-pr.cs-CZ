@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Přečtěte si, jak získat přístup k místním prostředkům, jako je podnikový podnik, sdílení souborů a tiskárny ze zařízení Azure Active Directory spojené s Windows 10.
-ms.openlocfilehash: 2144268f5cbab67c39d5902622c61c0c35e6481c
-ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
+ms.openlocfilehash: 22edf0c23d6318e1f70bcb21b2cd697ea0a75da4
+ms.sourcegitcommit: 849b365bd3eaa9f3c3a9ef9f5973ef81af9156fa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295304"
+ms.lasthandoff: 12/16/2020
+ms.locfileid: "49688227"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Přístup k místním prostředkům ze zařízení Azure AD-JOIN v Microsoft 365 Business Premium
 
@@ -63,4 +63,4 @@ Pokud bylo zařízení se systémem Windows, které jste připojili prostřednic
 
 - Uživatelé nebudou moct ověřovat v aplikaci, která závisí na ověřování služby Active Directory. Vyhodnoťte starší verzi aplikace a zvažte aktualizaci aplikace používající moderní ověřování, pokud je to možné.
 
-- Vyhledávání tiskáren Active Directory nefunguje. Můžete poskytnout přímé tiskové cesty pro všechny uživatele nebo použít [hybridní cloudový tisk](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
+- Vyhledávání tiskáren Active Directory nefunguje. Můžete poskytnout přímé tiskové cesty pro všechny uživatele nebo použít [univerzální tisk](https://aka.ms/UPDocs).
