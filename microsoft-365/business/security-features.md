@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Přečtěte si informace o funkcích zabezpečení, které jsou součástí Microsoft 365 Business Premium, a chrání vaše data na počítačích, telefonech a tabletech.
-ms.openlocfilehash: 587d80c27f867a387c901d23f4ec05f3c5905bf6
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: b7fdd3d7fa25c23ee49ae82aa037588d8fba61a1
+ms.sourcegitcommit: 83a40facd66e14343ad3ab72591cab9c41ce6ac0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48843482"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49840383"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Funkce zabezpečení a dodržování předpisů v Microsoft 365 Business Premium
 
@@ -86,7 +86,7 @@ Rozšířené funkce v Microsoft 365 Business Premium jsou k dispozici, které v
     - [Přístup na základě umístění](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  Povolit přístup jenom z IP adres nebo konkrétních zemí 
     - Vyžadovat MFA pro Access
     - Blokování přístupu k aplikacím, které používají [starší ověřování](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
-    - Vyžadovat, aby aplikace TP používaly [ochranu aplikací Intune](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
+    - Vyžadovat, aby aplikace používaly [ochranu aplikací Intune](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
     - Vlastní ověřování, například MFA s poskytovateli třetích stran, například DUO
    
     Další funkce:
