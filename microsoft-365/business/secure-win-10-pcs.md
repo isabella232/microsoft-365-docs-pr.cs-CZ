@@ -22,32 +22,32 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Naučte se zabezpečit počítače s Windows 10 po nastavení Microsoft 365 Business Premium.
-ms.openlocfilehash: 286393779eaa92d33432ff9ad4b21c0a1fb8612c
-ms.sourcegitcommit: 20d1158c54a5058093eb8aac23d7e4dc68054688
+description: Zjistěte, jak zabezpečit počítače s Windows 10 po nastavení Microsoft 365 Business Premium.
+ms.openlocfilehash: 1b843e9ae3fcdb78eb128549f8f3c18badd8eb4e
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "49376271"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912624"
 ---
 # <a name="secure-windows-10-computers"></a>Zabezpečení počítačů s Windows 10
 
 Tento článek se týká Microsoft 365 Business Premium.
 
-Po [Nastavení](set-up.md) Microsoft 365 Business Premium je čas chránit počítače s Windows 10 v organizaci před krádeží a škodlivými hrozbami, jako jsou viry a malware.
+Po nastavení [Microsoftu](set-up.md) 365 Business Premium je čas chránit počítače s Windows 10 ve vaší organizace před krádeží a škodlivými hrozbami, jako jsou viry a malware.
 
 ## <a name="to-secure-your-windows-10-computers"></a>Zabezpečení počítačů s Windows 10
 
-1. Přihlaste se do [centra pro správu Microsoft 365](https://admin.microsoft.com) pomocí přihlašovacích údajů globálního správce. 
-2. Na levém navigačním panelu vyberte **Nastavení** a pak v části **přihlášení a zabezpečení** zvolte **zabezpečit počítače s Windows 10**. Začněte tím, že zvolíte **zobrazení** .
-3. Na stránce **zabezpečení počítačů s Windows 10** si přečtěte všechny informace, které pochopíte, co jste zapnuli, a o čem se uživatel stává.
+1. Přihlaste se [do Centra pro správu Microsoftu 365](https://admin.microsoft.com) pomocí přihlašovacích údajů globálního správce. 
+2. V levém navigačním panelu **vyberte** Nastavení a potom v části Přihlášení a **zabezpečení** zvolte Zabezpečit počítače s **Windows 10**. Pokud **chcete začít,** zvolte Zobrazení.
+3. Na stránce **Zabezpečení počítačů s Windows 10** si přečtěte všechny informace, abyste pochopili, co zapínáte a jaký má dopad na uživatele.
 
-    V horní části **stránky zvolte Začínáme**.
+    V horní části stránky zvolte **Začínáme.**
 
-4. V podokně **zabezpečení počítače s Windows 10** vyberte možnosti, které chcete zapnout. Další informace o nastavení najdete v tématu [zabezpečení zařízení s Windows 10](secure-windows-10-devices.md). 
+4. V podokně **Zabezpečení počítačů s Windows 10** vyberte možnosti, které chcete zapnout. Další informace o nastavení najdete v tématu [Zabezpečení zařízení s Windows 10](secure-windows-10-devices.md). 
     
-    Pro většinu organizací nabízí tyto možnosti dobrou úroveň zabezpečení, ale pokud má vaše organizace složitější zabezpečení, můžete použít předdefinované standardní hodnoty zabezpečení a zabezpečit vaše zařízení s Windows 10. Další informace najdete v tématu [standardní hodnoty zabezpečení pro zařízení s Windows 10](https://docs.microsoft.com/mem/intune/protect/security-baselines).   
+    Ve většině organizací nabízí tyto možnosti dobrou úroveň zabezpečení, ale pokud má vaše organizace složitější potřeby zabezpečení, můžete k zabezpečení zařízení s Windows 10 použít také předdefinované směrné plány zabezpečení. Další informace najdete v článku [Standardní hodnoty zabezpečení pro zařízení s Windows 10](/mem/intune/protect/security-baselines).   
 
-1. Zvolte **použít nastavení**.
+1. Zvolte **Použít nastavení**.
 
-    Tato nastavení se budou vztahovat na všechny uživatele ve vaší organizaci. Pokud chcete nastavit různé zásady pro různé skupiny zabezpečení, přečtěte si článek [nastavení nastavení ochrany zařízení pro počítače s Windows 10](protection-settings-for-windows-10-pcs.md).
+    Tato nastavení platí pro všechny uživatele ve vaší organizaci. Pokud chcete nastavit různé zásady pro různé skupiny zabezpečení, podívejte se na nastavení ochrany [zařízení pro počítače s Windows 10](protection-settings-for-windows-10-pcs.md).

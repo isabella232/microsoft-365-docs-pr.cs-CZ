@@ -1,5 +1,5 @@
 ---
-title: Pomozte uživatelům nainstalovat Office na zařízeních s Windows 10
+title: Pomozte uživatelům nainstalovat Office na zařízení s Windows 10
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -26,19 +26,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
-description: Pomozte uživatelům nainstalovat aplikace Office na zařízeních s Windows 10 a snadno nainstalovat Office na počítače s Windows 10 z centra pro správu Microsoft 365.
-ms.openlocfilehash: 680c1c4e43a037c6afd109220090f387b207f8b1
-ms.sourcegitcommit: d39694d7b2c98350b0d568dfd03fa0ef44ed4c1d
+description: Pomozte uživatelům nainstalovat aplikace Office na zařízení s Windows 10 a snadno nainstalovat Office na počítače s Windows 10 z Centra pro správu Microsoftu 365.
+ms.openlocfilehash: 5337c8ef008c1af79490eb6b6705d450055d24fb
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/10/2020
-ms.locfileid: "46601977"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913340"
 ---
-# <a name="help-your-users-install-office-on-windows-10-devices"></a>Pomozte uživatelům nainstalovat Office na zařízeních s Windows 10
+# <a name="help-your-users-install-office-on-windows-10-devices"></a>Pomozte uživatelům nainstalovat Office na zařízení s Windows 10
 
-[![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
 
-Office na počítačích s Windows 10 můžete rychle a snadno nainstalovat z centra pro správu Microsoft 365.
+Office můžete rychle a snadno nainstalovat na počítače s Windows 10 z Centra pro správu Microsoftu 365.
   
 Pokud se chcete dozvědět, jak to funguje s dříve nainstalovanými aplikacemi Office, napřed si přečtěte článek [Příprava instalace klienta Office](prepare-for-office-client-deployment.md).
 
@@ -50,18 +50,18 @@ Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní 
 
 ## <a name="manage-office-deployments"></a>Správa nasazení Office
 
-1. Přejděte do centra pro správu at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> a přihlaste se pomocí přihlašovacích údajů globálního správce. 
+1. Přejděte do Centra pro správu na <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> stránce a přihlaste se pomocí přihlašovacích údajů globálního správce. 
 
-2. V levém navigačním podokně přejděte na **Nastavení** a na stránce **Nastavení** přejděte na **aplikace a aktualizace**.
+2. V levém **navigačním** podokně přejděte na Nastavení a na stránce **Nastavení** přejděte na **Aplikace a aktualizace.**
     > [!NOTE]
-    > Tato karta se nemusí zobrazit, pokud všichni uživatelé nainstalovali aplikace Office.
+    > Tato karta se nemusí zobrazit, pokud všichni vaši uživatelé nainstalovali aplikace Office.
   
-3. Na stránce **pomoci uživatelů, kteří instalují svoji kartu aplikací Office** , zvolte **zobrazení**a **pak začněte**.
+3. Na kartě **Nápověda k instalaci aplikací Office** zvolte **Zobrazení** a pak **Začínáme.**
     
-4. Na panelu **e-mail – uživatelé** : Vyberte uživatele, kterým chcete poslat e-mail, a potom **odešlete e-mail vybraným uživatelům**.
+4. Na panelu **Poslat e-mailem** uživatelům odkaz ke stažení Office vyberte uživatele, které chcete poslat e-mailem, a pak **pošlete e-mail vybraným uživatelům.**
 
-   ![Vyberte uživatele, kteří mají poslat e-mail s odkazem pro stažení Office.](../media/sendemailtousers.png)
+   ![Vyberte uživatele, kteří mají posílat e-maily pomocí odkazu ke stažení Office.](../media/sendemailtousers.png)
 
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>Další informace o nastavení a používání Microsoft 365 Business Premium
 
-[Školicí kurzy pro Microsoft 365 for Business](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Školicí videa k Microsoftu 365 pro firmy](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

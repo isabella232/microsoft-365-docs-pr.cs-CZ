@@ -28,46 +28,46 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
-description: Naučte se vytvářet nebo upravovat zásady správy aplikací a chránit pracovní soubory na osobních zařízeních s Windows 10.
-ms.openlocfilehash: f85a59649e43c141b62091337b842a490d411833
-ms.sourcegitcommit: abf63669daf12993ad3353e4b578f41c8910b20f
+description: Zjistěte, jak vytvářet nebo upravovat zásady správy aplikací a chránit pracovní soubory na osobních zařízeních s Windows 10 vašich uživatelů.
+ms.openlocfilehash: 64c6aa620171a373cd7564c7de3abbf4a4546c4e
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "47289193"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912816"
 ---
-# <a name="set-or-edit-application-protection-settings-for-windows-10-devices"></a>Nastavení nebo úprava nastavení ochrany aplikací pro zařízení s Windows 10
+# <a name="set-or-edit-application-protection-settings-for-windows-10-devices"></a>Nastavení nebo úpravy nastavení ochrany aplikací pro zařízení s Windows 10
 
 Tento článek se týká Microsoft 365 Business Premium.
 
 ## <a name="edit-an-app-management-policy-for-windows-10"></a>Úprava zásad správy aplikací pro Windows 10
 
-1. Přejděte do centra pro správu <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .     
-2. Na levém navigačním panelu zvolte zásady **zařízení** \> **Policies** .
-1. Zvolte existující zásadu aplikací pro Windows a pak **Úpravy**.
-1. Zvolte **Upravit** vedle nastavení, které chcete změnit, a pak ho **uložte**.
+1. Přejděte do Centra pro správu na adrese <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .     
+2. V levém navigačním panelu zvolte **Zásady** \> **zařízení** .
+1. Zvolte existující zásady aplikace pro Windows a pak **Upravit**.
+1. Vedle **nastavení,** které chcete změnit, zvolte Upravit a pak **Uložit**.
 
 ## <a name="create-an-app-management-policy-for-windows-10"></a>Vytvoření zásady správy aplikací pro Windows 10
 
 Pokud mají uživatelé osobní zařízení s Windows 10, na kterých dělají pracovní úkoly, můžete chránit vaše data i na těchto zařízeních.
   
-1. Přejděte do centra pro správu <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
-2. Na levém navigačním panelu zvolte zásady **zařízení** \> **Policies** \> **Add**.
+1. Přejděte do Centra pro správu na adrese <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
+2. V levém navigačním panelu zvolte **Přidat** \> **zásady** \> **zařízení.**
 3. V podokně **Přidat zásadu** zadejte název, který je jedinečný. 
 4. V části **Typ zásady** zvolte **Správa aplikací pro Windows 10**.
-5. V části **typ zařízení**zvolte **osobní** nebo **vlastně vlastněno společností**.
+5. V **části Typ zařízení** zvolte Osobní nebo **Vlastněné společností**. 
 6. Možnost **Šifrovat pracovní soubory** je zapnutá automaticky. 
 7. Pokud nechcete, aby uživatelé ukládali pracovní soubory na své počítače, **zapněte** možnost **Brání uživatelům v kopírování dat společnosti do osobních souborů a vynucuje, aby ukládali pracovní soubory na OneDrive pro firmy**. 
-9. Rozbalte položku **obnovit data na zařízeních s Windows**. Doporučujeme to **zapnout.**
-    Než budete moct přejít do umístění certifikátu agenta obnovování dat, musíte nějaký nejprve vytvořit. Pokyny najdete v článku [Vytvoření a ověření certifikátu agenta obnovení dat (EFS) (Encrypting File System)](https://go.microsoft.com/fwlink/p/?linkid=853700).
+9. Rozbalte **obnovit data na zařízeních s Windows.** Doporučujeme ho **zapnout.**
+    Než budete moct přejít do umístění certifikátu agenta obnovování dat, musíte nějaký nejprve vytvořit. Pokyny najdete v tématu Vytvoření a ověření certifikátu Agenta obnovení dat [systému souborů EFS (Encrypting File System) (DRA).](/windows/security/information-protection/windows-information-protection/create-and-verify-an-efs-dra-certificate)
     
-    Ve výchozím nastavení jsou pracovní soubory šifrované pomocí tajného klíče, který je uložený v zařízení a přidružený k profilu uživatele. Soubor může otevřít a dešifrovat jenom uživatel. Pokud ovšem dojde ke ztrátě zařízení nebo odebrání uživatele, soubor může zůstat zašifrovaný. Správce může k dešifrování souboru použít certifikát agenta obnovení dat (DRA).
+    Ve výchozím nastavení jsou pracovní soubory šifrované pomocí tajného klíče, který je uložený v zařízení a přidružený k profilu uživatele. Soubor může otevřít a dešifrovat jenom uživatel. Pokud ovšem dojde ke ztrátě zařízení nebo odebrání uživatele, soubor může zůstat zašifrovaný. Správce může k dešifrování souboru použít certifikát Agenta obnovení dat (DRA).
     
     ![Browse to Data Recovery Agent certificate.](../media/7d7d664f-b72f-4293-a3e7-d0fa7371366c.png)
   
-10. Rozšiřte **Další umístění v síti a cloudu** , pokud chcete přidat další domény nebo umístění SharePointu Online, abyste měli jistotu, že jsou chráněné soubory ve všech uvedených aplikacích. Pokud potřebujete zadat do jednoho z polí více než jednu položku, oddělte tyto položky středníkem (;).
+10. Pokud **chcete přidat** další domény nebo umístění SharePointu Online, abyste měli jistotu, že jsou soubory ve všech uvedených aplikacích chráněné, rozbalte Zamknout další síťová a cloudová umístění. Pokud potřebujete zadat do jednoho z polí více než jednu položku, oddělte tyto položky středníkem (;).
     
     ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](../media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
   
 11. V dalším kroku rozhodněte, **pro koho tato nastavení platí**. Pokud nechcete použít výchozí skupinu zabezpečení **Všichni uživatelé**, zvolte **Změnit** a vyberte skupinu zabezpečení, pro kterou se tato nastavení použijí \> **Vybrat**.
-12. Volbou **Přidat** nakonec zásadu uložíte a přiřadíte ji zařízením. 
+12. Volbou **Přidat** nakonec zásadu uložíte a přiřadíte ji zařízením.

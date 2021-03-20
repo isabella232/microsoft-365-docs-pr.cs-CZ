@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Přečtěte si informace o Microsoftu 365 Business Premium, službě předplatného, která zahrnuje kancelářské aplikace Office a rozšířenou ochranu vaší firmy před kybernetickými hrozbami.
-ms.openlocfilehash: e67ae036bf3ce7811f19c8745838bb51dde073ea
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: aa6e313f0f3db1c3401836c3e1737c219fcf6c3a
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842174"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912996"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Přehled předplatného Microsoftu 365 Business Premium
 
@@ -48,9 +48,9 @@ Podívejte se na toto video se stručným přehledem Microsoftu 365 Business Pre
   
 Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
 
-Microsoft 365 Business Premium je určen až pro 300 licencí. Pokud potřebujete více licencí, najdete další informace v dokumentaci k [Microsoftu 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986).
+Microsoft 365 Business Premium je určen až pro 300 licencí. Pokud potřebujete více licencí, najdete další informace v dokumentaci k [Microsoftu 365 Enterprise](../enterprise/index.yml).
 
-Úplný seznam funkcí najdete [v popisu služby Microsoft 365 Business Premium](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description).
+Úplný seznam funkcí najdete [v popisu služby Microsoft 365 Business Premium](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description).
   
 ## <a name="small-business-security-needs"></a>Potřeby zabezpečení malých firem
 
@@ -87,7 +87,7 @@ Vaše **firemní data jsou chráněna** těmito způsoby:
 
 - Šifrování citlivých e-mailů, abyste mohli bezpečně komunikovat se zákazníky nebo jinými lidmi mimo vaši organizaci. Tím je zajištěno, že si zprávu bude moct přečíst pouze určený příjemce (Rozšířené šifrování zpráv Office 365).
 
-- Řízení, kdo má přístup k informacím společnosti, a to aplikováním různých omezení, například **Nekopírovat** a **Nepřeposílat** , na e-maily a dokumenty (Azure Information Protection, plán 1)
+- Řízení, kdo má přístup k informacím společnosti, a to aplikováním různých omezení, například **Nekopírovat** a **Nepřeposílat**, na e-maily a dokumenty (Azure Information Protection, plán 1)
 
 - Povolení neomezené archivace v cloudu, abyste mohli uchovávat všechny e-maily vaší organizace, včetně poštovních schránek bývalých zaměstnanců (Exchange Online – archiv)
 
@@ -103,7 +103,7 @@ Vaše **zařízení jsou zabezpečena** těmito způsoby:
 
 - Používání zjednodušených kontrolních mechanismů ke správě zásad pro všechny počítače se systémem Windows 10 ve vaší společnosti, vynucení šifrování BitLocker a automatická instalace důležitých aktualizací systému Windows (vynucování zásad aktualizací systému Windows)
 
-Úplný seznam funkcí zabezpečení najdete v článku věnovaném [funkcím zabezpečení Microsoftu 365 Business Premium](security-features.md). Po části týkající se [nastavení Microsoftu 365 Business Premium](set-up.md) si přečtěte část věnovanou [zvýšení ochrany před hrozbami](increase-threat-protection.md) a [nastavení funkcí dodržování předpisů](set-up-compliance.md), abyste zjistili, jak začít využívat funkce zabezpečení, které nejsou součástí nastavení pomocí průvodce. Přečtěte si také článek věnovaný [10 hlavním způsobům zabezpečení plánů Office 365 a Microsoft 365 Business Premium](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data), kde získáte dobrý přehled o tom, jak nastavit ochranu před kyberzločinci a hackery.
+Úplný seznam funkcí zabezpečení najdete v článku věnovaném [funkcím zabezpečení Microsoftu 365 Business Premium](security-features.md). Po části týkající se [nastavení Microsoftu 365 Business Premium](set-up.md) si přečtěte část věnovanou [zvýšení ochrany před hrozbami](increase-threat-protection.md) a [nastavení funkcí dodržování předpisů](set-up-compliance.md), abyste zjistili, jak začít využívat funkce zabezpečení, které nejsou součástí nastavení pomocí průvodce. Přečtěte si také článek věnovaný [10 hlavním způsobům zabezpečení plánů Office 365 a Microsoft 365 Business Premium](/office365/admin/security-and-compliance/secure-your-business-data), kde získáte dobrý přehled o tom, jak nastavit ochranu před kyberzločinci a hackery.
 
 ## <a name="get-microsoft-365-business-premium"></a>Získat Microsoft 365 Business Premium
 

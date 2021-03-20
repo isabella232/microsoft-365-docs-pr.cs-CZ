@@ -25,41 +25,40 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
-description: Přečtěte si, jak nahrávat zařízení pomocí autopilota v Microsoft u 365 Business Premium. Profil můžete přiřadit k zařízení nebo skupině zařízení.
-ms.openlocfilehash: 8c3d029d682ae30444bdc7d30a4790a8f982e0e0
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Zjistěte, jak nahrávat zařízení pomocí AutoPilota v Microsoft 365 Business Premium. Profil můžete přiřadit zařízení nebo skupině zařízení.
+ms.openlocfilehash: 910abb98b94b749177b04cd12c766f82d348e379
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400988"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913392"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>Vytvoření a úpravy zařízení pomocí AutoPilota
 
 ## <a name="upload-a-list-of-devices"></a>Nahrání seznamu zařízení
 
-Pomocí [podrobného průvodce](add-autopilot-devices-and-profile.md) můžete nahrávat zařízení, ale zařízení můžete nahrát také na kartě **Zařízení.** 
+K [nahrání](add-autopilot-devices-and-profile.md) zařízení můžete použít podrobný průvodce, ale zařízení můžete nahrát taky na **kartě** Zařízení. 
   
 Zařízení musí splňovat tyto požadavky:
   
 - Windows 10, verze 1703 nebo novější
     
-- Nová zařízení, která ještě neprošla systémem Windows, jsou po vybalení
+- Nová zařízení, která ještě nevyužíla prostředí Windows
 
-1. V Centru pro správu Microsoftu 365 zvolte **Zařízení** \> **AutoPilot**.
+1. V Centru pro správu Microsoftu 365 zvolte **Zařízení** \> **AutoPilota**.
   
-2. Na stránce **AutoPilot** zvolte kartu **Zařízení** \> **Přidat zařízení**.
+2. Na stránce **AutoPilot** zvolte kartu **Zařízení –** \> **přidat zařízení**.
     
     ![In the Devices tab, choose Add devices.](../media/6ba81e22-c873-40ad-8a72-ce64d15ea6ba.png)
   
-3. Na panelu **Přidat zařízení** přejděte do [souboru CSV seznamu zařízení,](https://docs.microsoft.com/microsoft-365/admin/misc/device-list) který jste připravili \> **Uložit** \> **zavřít**.
+3. Na panelu **Přidat zařízení** přejděte na soubor CSV [se seznamem](../admin/misc/device-list.md) zařízení, který jste připravili \> **Pro uložení** \> **zavřít.**
     
-    Tyto informace můžete získat od dodavatele hardwaru nebo můžete použít [skript Get-WindowsAutoPilotInfo PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) ke generování souboru CSV. 
+    Tyto informace můžete získat od dodavatele hardwaru nebo můžete ke generování souboru CSV použít skript [Get-WindowsAutoPilotInfo PowerShellu.](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) 
     
 ## <a name="assign-a-profile-to-a-device-or-a-group-of-devices"></a>Přiřazení profilu zařízení nebo skupině zařízení
 
-1. Na stránce **Příprava Windows** zvolte kartu **Zařízení** a zaškrtněte políčko vedle jednoho nebo více zařízení. 
+1. Na stránce **Příprava Windows**  zvolte kartu Zařízení a zaškrtněte políčko vedle jednoho nebo více zařízení. 
     
 2. Na panelu **Zařízení** vyberte v rozevíracím seznamu **Přiřazený profil** některý profil. 
     
     Pokud jste profily ještě nevytvořili, přečtěte si článek [Vytvoření a úpravy profilů AutoPilota](create-and-edit-autopilot-profiles.md). 
-    

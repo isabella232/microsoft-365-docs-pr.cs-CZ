@@ -22,48 +22,48 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
-description: Synchronizace uživatelů se správou domény s Microsoft 365 pro firmy.
-ms.openlocfilehash: b40a995a1723808d2fd171c534e9131a891840ba
-ms.sourcegitcommit: e56894917d2aae05705c3b9447388d10e2156183
+description: Synchronizujte uživatele řízené doménou s Microsoftem 365 pro firmy.
+ms.openlocfilehash: 1c939dec7229f02991b15f08c48f184efecaddb0
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48841353"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913248"
 ---
 # <a name="synchronize-domain-users-to-microsoft-365"></a>Synchronizace uživatelů domény s Microsoft 365
 
 ## <a name="1-prepare-for-directory-synchronization"></a>1. Příprava na synchronizaci adresářů 
 
-Než synchronizujete uživatele a počítače z místní domény Active Directory, přečtěte si téma [Příprava synchronizace adresářů do Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/prepare-for-directory-synchronization). Zejména:
+Před synchronizací uživatelů a počítačů z místní domény služby Active Directory si prohlédněte článek Příprava synchronizace [adresářů s Microsoft 365.](../enterprise/prepare-for-directory-synchronization.md) Konkrétně:
 
-   - Zkontrolujte, že v adresáři neexistují žádné duplicity pro následující atributy: **mail** , **proxyAddresses** a **userPrincipalName**. Tyto hodnoty musí být jedinečné a všechny duplicitní položky musí být odebrány.
+   - Ujistěte se, že v adresáři nejsou žádné duplicitní položky pro následující atributy: **pošta**, **proxyAddresses** a **userPrincipalName**. Tyto hodnoty musí být jedinečné a všechny duplicitní položky musí být odebrány.
    
-   - Doporučujeme nakonfigurovat atribut **userPrincipalName** (UPN) pro každý místní uživatelský účet tak, aby odpovídal primární e-mailové adrese, která odpovídá Licencovanému uživateli aplikace Microsoft 365. Třeba: *Mary.Shelley@contoso.com* místo *Mary@contoso. Local*
+   - Doporučujeme nakonfigurovat atribut **userPrincipalName** (UPN) pro každý místní uživatelský účet tak, aby odpovídal primární e-mailové adrese, která odpovídá licencovanému uživateli Microsoftu 365. Příklad: *mary.shelley@contoso.com* místo *mary@contoso.local*
    
-   - Pokud doména služby Active Directory končí v Nesměrovatelné příponě, *jako je třeba. com nebo.* org, místo internetové přihlášené *přípony, jako* je třeba *. com* nebo *. org* , upravte příponu UPN místních uživatelských účtů, jak je popsáno v části [Příprava domény, která není směrovatelný](https://docs.microsoft.com/microsoft-365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
+   - Pokud doména služby Active Directory končí nesmyšitelnou příponou, jako je *.local* nebo *.lan*, místo internetové směrovatelné přípony, jako je *.com* nebo *.org,* upravte nejprve příponu UPN místních uživatelských účtů, jak je popsáno v článku Příprava nesmyšitelné domény pro synchronizaci adresářů [.](../enterprise/prepare-a-non-routable-domain-for-directory-synchronization.md) 
 
-**Spuštěním IdFix** v kroku čtyři (4) níže se také ujistěte, že je místní služba Active Directory připravená pro synchronizaci adresářů.
+Nástroj **Run IdFix** v kroku čtyři (4) dole také bude mít jistotu, že je místní adresář Active Directory připravený k synchronizaci adresářů.
 
-## <a name="2-install-and-configure-azure-ad-connect"></a>2. instalace a konfigurace Azure AD Connect
+## <a name="2-install-and-configure-azure-ad-connect"></a>2. Instalace a konfigurace Služby Azure AD Connect
 
-Pokud chcete synchronizovat uživatele, skupiny a kontakty z místní služby Active Directory do služby Azure Active Directory, nainstalujte Azure Active Directory Connect a nastavte synchronizaci adresářů. 
+Pokud chcete synchronizovat uživatele, skupiny a kontakty z místní služby Active Directory do Azure Active Directory, nainstalujte Azure Active Directory Connect a nastavte synchronizaci adresářů. 
 
- 1. V [centru pro správu](https://go.microsoft.com/fwlink/p/?linkid=2024339)vyberte v levém navigačním podokně **Nastavení** .
+ 1. V Centru [pro správu](https://go.microsoft.com/fwlink/p/?linkid=2024339)vyberte **Nastavení** v levém navigačním panelu.
 
- 2. V části **přihlášení a zabezpečení** zvolte **Zobrazit**  v části **synchronizace uživatelů z adresáře vaší organizace**.
+ 2. V **části Přihlášení a zabezpečení** zvolte **Zobrazení** v části Synchronizovat uživatele z adresáře **vaší organizace.**
 
- 3. Na stránce **synchronizovat uživatele z adresáře organizace** zvolte **Začínáme**.
+ 3. Na stránce **Synchronizovat uživatele z adresáře** vaší organizace zvolte **Začínáme**.
 
- 4. V prvním kroku spusťte nástroj IdFix (příprava synchronizace adresářů).
+ 4. V prvním kroku spusťte nástroj IdFix a připravte se na synchronizaci adresáře.
 
- 5. Postupujte podle pokynů průvodce a Stáhněte si Azure AD Connect a použijte ho k synchronizaci uživatelů, kteří řídí vaši doménu, na Microsoft 365.
+ 5. Postupujte podle pokynů průvodce a stáhněte si Azure AD Connect a použijte ho k synchronizaci uživatelů řízených doménou s Microsoftem 365.
 
 
-Další informace najdete v tématu [Nastavení synchronizace adresářů pro Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization) .
+Další informace najdete v tématu Nastavení synchronizace adresářů [pro Microsoft 365.](../enterprise/set-up-directory-synchronization.md)
 
-Když nakonfigurujete možnosti pro Azure AD Connect, doporučujeme povolit **synchronizaci hesel** , **bezproblémové jednotné přihlašování** a funkci **zpětného zápisu hesel** , která je taky podporovaná v Microsoft 365 pro firmy.
+Při konfiguraci možností pro Azure AD Connect doporučujeme povolit synchronizaci hesel **,** bezproblémové jednotné přihlašování a funkci zpětného zápisu hesel, která je podporovaná také v Microsoftu 365 pro firmy. 
 
 > [!NOTE]
-> Za zaškrtávacím políčkem služby Azure AD Connect je k dispozici několik dalších kroků. Další informace najdete v tématu [Postupy: Konfigurace zpětného zápisu hesel](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback). 
+> Existuje několik dalších kroků pro zpětný zápis hesel za zaškrtávací políčko v Azure AD Connect. Další informace najdete v tématu [Postupy: Konfigurace zpětného zápisu hesla](/azure/active-directory/authentication/howto-sspr-writeback). 
 
-Pokud chcete taky spravovat zařízení s Windows 10 připojená k doméně, přečtěte si článek Povolení hybridního připojení Azure AD [pro správu zařízení s Windows 10 připojenými k doméně v Microsoft 365 Business Premium](manage-windows-devices.md) . 
+Pokud chcete taky spravovat zařízení s Windows 10 připojená k doméně, podívejte se na článek Povolení správy zařízení s Windows 10 připojených k doméně [microsoftem 365 Business Premium](manage-windows-devices.md) a nastavení hybridního připojení k Azure AD.
