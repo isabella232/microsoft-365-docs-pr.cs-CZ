@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Nastavte si Microsoft Defender pro Office 365 a chraňte citlivá data před útoky phishing, malwarem a dalšími hrozbami.
-ms.openlocfilehash: 0424fd56e30477f4e8d9e84b7ac78ba6255781fa
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 80ad3767b277e4808b6df4bdd977688794649e11
+ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913280"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51050840"
 ---
 # <a name="increase-threat-protection"></a>Zvýšení ochrany před hrozbou
 
@@ -35,7 +35,7 @@ Tento článek vám pomůže zvýšit ochranu v předplatném Microsoftu 365, ab
 
 Než začnete, podívejte se na zabezpečené skóre Office 365. Zabezpečené skóre Office 365 analyzuje zabezpečení vaší organizace na základě vašich pravidelných aktivit a nastavení zabezpečení a přiřadí skóre. Začněte tím, že si poznamenejte aktuální skóre. Pokud chcete zvýšit skóre, proveďte akce doporučené v tomto článku. Cílem není dosáhnout maximálního skóre, ale vědět o možnostech ochrany vašeho prostředí, které negativně neovlivňuje produktivitu vašich uživatelů.
 
-Další informace najdete v tématu [Microsoft Secure Score](../security/mtp/microsoft-secure-score.md).
+Další informace najdete v tématu [Microsoft Secure Score](../security/defender/microsoft-secure-score.md).
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Zvýšení úrovně ochrany před malwarem v poště
 
@@ -57,7 +57,7 @@ Vaše prostředí Office 365 nebo Microsoft 365 zahrnuje ochranu před malwarem.
 
 6. Vyberte **Uložit.**
 
-Další informace najdete v tématu [Ochrana proti malwaru v EOP](../security/office-365-security/anti-malware-protection.md).
+Další informace najdete v tématu [Ochrana proti malwaru v EOP](../security/defender-365-security/anti-malware-protection.md).
 
 ## <a name="protect-against-ransomware"></a>Ochrana před ransomwarem
 
@@ -138,7 +138,7 @@ Pokud chcete v Microsoft Defenderu pro Office 365 vytvořit anti-phishingovou z�
 
 4. Na stránce **Anti-phishing** vyberte **+ Vytvořit**. Spustí se průvodce, který vás provede definováním zásad ochrany proti útokům phishing.
 
-5. Podle doporučení v následující tabulce zadejte název, popis a nastavení zásad. Další informace najdete v tématu [Informace o zásadách ochrany před útoky phishing v aplikaci Microsoft Defender pro možnosti Office 365.](../security/office-365-security/set-up-anti-phishing-policies.md)
+5. Podle doporučení v následující tabulce zadejte název, popis a nastavení zásad. Další informace najdete v tématu [Informace o zásadách ochrany před útoky phishing v aplikaci Microsoft Defender pro možnosti Office 365.](../security/defender-365-security/set-up-anti-phishing-policies.md)
 
 6. Po prošetřování nastavení zvolte Podle potřeby **možnost** Vytvořit tuto zásadu nebo Uložit.
 
@@ -181,7 +181,7 @@ Pokud chcete vytvořit zásadu bezpečné přílohy, podívejte se na toto [krá
 |Přesměrování přílohy při zjišťování|Povolte přesměrování (zaškrtněte toto políčko) Zadejte účet správce nebo nastavení poštovní schránky pro karanténu.          Použijte výše uvedený výběr v případě, že dojde k malwarové kontrole příloh nebo dojde k chybě (zaškrtněte toto políčko).|
 |Platí pro|Doména příjemce je . . . vyberte doménu.|
 
-Další informace najdete v tématu [Nastavení zásad ochrany před útoky phishing v programu Microsoft Defender pro Office 365](../security/office-365-security/set-up-anti-phishing-policies.md).
+Další informace najdete v tématu [Nastavení zásad ochrany před útoky phishing v programu Microsoft Defender pro Office 365](../security/defender-365-security/set-up-anti-phishing-policies.md).
 
 ## <a name="protect-against-phishing-attacks-with-safe-links"></a>Ochrana před útoky phishing pomocí bezpečných odkazů
 
@@ -224,7 +224,7 @@ Vytvoření nové zásady zaměřené na všechny příjemce ve vaší doméně:
 |Použití bezpečných příloh ke skenování obsahu ke stažení|Toto pole vyberte.|
 |Platí pro|Doména příjemce je . . . vyberte doménu.|
 
-Další informace najdete v tématu [Bezpečné odkazy](../security/office-365-security/atp-safe-links.md).
+Další informace najdete v tématu [Bezpečné odkazy](../security/defender-365-security/safe-links.md).
 
 ## <a name="go-to-intune-admin-center"></a>Přejděte do Centra pro správu Intune.
 

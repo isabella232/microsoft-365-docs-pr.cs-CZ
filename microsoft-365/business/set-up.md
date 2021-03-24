@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Zjistěte, jak nastavit Microsoft 365 Business Premium, včetně přidání domény a uživatelů, nastavení zásad zabezpečení a dalších možností.
-ms.openlocfilehash: 5b082e78f3dc4067dcce4a96a8088b2347bc3af4
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 4d49ba7ccdb65691756aaa505d0856deb115595b
+ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912564"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51052228"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Nastavení Microsoft 365 Business Premium v průvodci nastavením
 
@@ -107,7 +107,7 @@ Abyste mohli nastavit služby, musíte aktualizovat některé záznamy u svého 
 
 Zásady, které nastavíte v průvodci, se automaticky použijí ve skupině [Zabezpečení](/office365/admin/create-groups/compare-groups#security-groups) s *názvem Všichni uživatelé*. V Centru pro správu můžete taky vytvořit další skupiny, ke které chcete přiřadit zásady.
 
-1. V části Zvýšení ochrany **před** pokročilými kybernetickými hrozbami doporučujeme přijmout výchozí nastavení, aby [Office 365 Advance Threat Protection](../security/office-365-security/office-365-atp.md) prohledl soubory a odkazy v aplikacích Office.
+1. V části Zvýšení ochrany **před** pokročilými kybernetickými hrozbami doporučujeme přijmout výchozí nastavení, aby [Office 365 Advance Threat Protection](../security/defender-365-security/defender-for-office-365.md) prohledl soubory a odkazy v aplikacích Office.
 
     ![Snímek obrazovky se stránkou Zvýšit ochranu](../media/increasetreatprotection.png)
 
