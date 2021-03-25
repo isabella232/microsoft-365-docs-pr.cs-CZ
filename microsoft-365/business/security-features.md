@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Přečtěte si o funkcích zabezpečení, které jsou součástí Microsoft 365 Business Premium, které pomáhají chránit vaše data na počítačích, telefonech a tabletech.
-ms.openlocfilehash: d641fc66e27f3c5e0a7c8609e4fa25fac93d8561
-ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
+ms.openlocfilehash: f04a998c74128edac306167617e073c412fce2ea
+ms.sourcegitcommit: dcb97fbfdae52960ae62b6faa707a05358193ed5
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51052248"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51198405"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Microsoft 365 Business Premium – funkce zabezpečení a dodržování předpisů
 
@@ -63,7 +63,7 @@ V Centru pro správu můžete spravovat mnoho funkcí zabezpečení Microsoft 36
 
 K dispozici jsou pokročilé funkce Microsoft 365 Business Premium, které vám pomůžou chránit vaši firmu před kybernetickými hrozbami a chránit citlivé informace.
   
-- **[Microsoft Defender pro Office 365](../security/defender-365-security/defender-for-office-365.md)**
+- **[Microsoft Defender pro Office 365](../security/office-365-security/defender-for-office-365.md)**
     
     Microsoft Defender pro Office 365 pomáhá chránit vaši firmu před propracovanými útoky phishing a ransomwaru navrženými tak, aby ohrozil informace o zaměstnancích nebo zákaznících. Mezi funkce patří:
     
