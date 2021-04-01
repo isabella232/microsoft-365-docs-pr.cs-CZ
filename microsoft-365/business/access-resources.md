@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Zjistěte, jak získat přístup k místním prostředkům, jako jsou obchodní aplikace, sdílené složky a tiskárny z zařízení s Windows 10 připojeného k Azure Active Directory.
-ms.openlocfilehash: b78509d72cbd9b3c121039c4965625bf5c21c7e0
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 1bca0beb3ccc78e670ad33ce446b9b3f7c372ba7
+ms.sourcegitcommit: 39609c4d8c432c8e7d7a31cb35c8020e5207385b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913516"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51445342"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Přístup k místním prostředkům ze zařízení připojeného k Azure AD v Microsoft 365 Business Premium
 
@@ -64,3 +64,7 @@ Pokud zařízení s Windows, ke které jste připojili Azure-AD, bylo dříve p�
 - Uživatelé nemusí být schopni ověřit aplikace, které jsou závislé na ověřování služby Active Directory. Vyhodnoťte starší aplikaci a zvažte aktualizaci na aplikaci, která používá moderní ověřování, pokud je to možné.
 
 - Zjišťování tiskárny ve službě Active Directory nebude fungovat. Můžete zadat přímé cesty tiskárny pro všechny uživatele nebo použít [Univerzální tisk](/universal-print/).
+
+### <a name="related-articles"></a>Související články
+
+[Předpoklady pro Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
