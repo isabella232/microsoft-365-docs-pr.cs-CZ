@@ -2,8 +2,8 @@
 title: Nastavení mobilních zařízení pro uživatele Microsoftu 365 pro firmy
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -25,88 +25,88 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
-description: Nainstalujte Office na iPhone nebo telefon s Androidem a pracovní soubory v aplikacích Office budou chráněny službou Microsoft 365 pro firmy.
-ms.openlocfilehash: ef18fcce851b8fa1573fd5134bd25fb7d4a3d8f9
-ms.sourcegitcommit: 855719ee21017cf87dfa98cbe62806763bcb78ac
+description: Nainstalujte Office na iPhone nebo telefon s Androidem a vaše pracovní soubory v aplikacích Office budou chráněny Microsoftem 365 pro firmy.
+ms.openlocfilehash: fefec17344d199ced230907fbaa85d98198cfb94
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49928738"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578161"
 ---
-# <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a><span data-ttu-id="1e3da-103">Nastavení mobilních zařízení pro uživatele Microsoftu 365 pro firmy</span><span class="sxs-lookup"><span data-stu-id="1e3da-103">Set up mobile devices for Microsoft 365 for business users</span></span>
+# <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a><span data-ttu-id="b36a6-103">Nastavení mobilních zařízení pro uživatele Microsoftu 365 pro firmy</span><span class="sxs-lookup"><span data-stu-id="b36a6-103">Set up mobile devices for Microsoft 365 for business users</span></span>
 
-<span data-ttu-id="1e3da-104">Při instalaci Office na iPhone nebo telefon s Androidem dodržujte pokyny na kartách.</span><span class="sxs-lookup"><span data-stu-id="1e3da-104">Follow the instructions in the tabs to install Office on an iPhone or an Android phone.</span></span> <span data-ttu-id="1e3da-105">Po dokončení tohoto postupu budou pracovní soubory vytvořené v aplikacích Office chráněny službou Microsoft 365 pro firmy.</span><span class="sxs-lookup"><span data-stu-id="1e3da-105">After you follow these steps, your work files created in Office apps will be protected by Microsoft 365 for business.</span></span>
+<span data-ttu-id="b36a6-104">Při instalaci Office na iPhone nebo telefon s Androidem dodržujte pokyny na kartách.</span><span class="sxs-lookup"><span data-stu-id="b36a6-104">Follow the instructions in the tabs to install Office on an iPhone or an Android phone.</span></span> <span data-ttu-id="b36a6-105">Po provedení těchto kroků budou vaše pracovní soubory vytvořené v aplikacích Office chráněny Microsoftem 365 pro firmy.</span><span class="sxs-lookup"><span data-stu-id="b36a6-105">After you follow these steps, your work files created in Office apps will be protected by Microsoft 365 for business.</span></span>
 
-<span data-ttu-id="1e3da-106">Následující příklad se týká Outlooku, ale platí i pro všechny ostatní aplikace Office, které chcete instalovat.</span><span class="sxs-lookup"><span data-stu-id="1e3da-106">The example is for Outlook, but applies for any other Office apps you want to install also.</span></span>
+<span data-ttu-id="b36a6-106">Následující příklad se týká Outlooku, ale platí i pro všechny ostatní aplikace Office, které chcete instalovat.</span><span class="sxs-lookup"><span data-stu-id="b36a6-106">The example is for Outlook, but applies for any other Office apps you want to install also.</span></span>
   
-## <a name="set-up-mobile-devices"></a><span data-ttu-id="1e3da-107">Nastavení mobilních zařízení</span><span class="sxs-lookup"><span data-stu-id="1e3da-107">Set up mobile devices</span></span>
+## <a name="set-up-mobile-devices"></a><span data-ttu-id="b36a6-107">Nastavení mobilních zařízení</span><span class="sxs-lookup"><span data-stu-id="b36a6-107">Set up mobile devices</span></span>
 
-## <a name="iphone"></a>[<span data-ttu-id="1e3da-108">iPhone</span><span class="sxs-lookup"><span data-stu-id="1e3da-108">iPhone</span></span>](#tab/iPhone)
+## <a name="iphone"></a>[<span data-ttu-id="b36a6-108">iPhone</span><span class="sxs-lookup"><span data-stu-id="b36a6-108">iPhone</span></span>](#tab/iPhone)
   
-<span data-ttu-id="1e3da-109">Podívejte se na krátké video o tom, jak nastavit aplikace Office na zařízeních s iOSem s Microsoft 365 pro firmy.</span><span class="sxs-lookup"><span data-stu-id="1e3da-109">Watch a short video on how to set up Office apps on iOS devices with Microsoft 365 for business.</span></span><br><br>
+<span data-ttu-id="b36a6-109">Podívejte se na krátké video o tom, jak nastavit aplikace Office na zařízeních s iOS s Microsoftem 365 pro firmy.</span><span class="sxs-lookup"><span data-stu-id="b36a6-109">Watch a short video on how to set up Office apps on iOS devices with Microsoft 365 for business.</span></span><br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
 
-<span data-ttu-id="1e3da-110">Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span><span class="sxs-lookup"><span data-stu-id="1e3da-110">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
+<span data-ttu-id="b36a6-110">Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span><span class="sxs-lookup"><span data-stu-id="b36a6-110">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
 
-<span data-ttu-id="1e3da-111">Přejděte do **App Storu** a do vyhledávacího pole zadejte Microsoft Outlook.</span><span class="sxs-lookup"><span data-stu-id="1e3da-111">Go to **App store**, and in the search field type in Microsoft Outlook.</span></span>
+<span data-ttu-id="b36a6-111">Přejděte do **App Storu** a do vyhledávacího pole zadejte Microsoft Outlook.</span><span class="sxs-lookup"><span data-stu-id="b36a6-111">Go to **App store**, and in the search field type in Microsoft Outlook.</span></span>
   
 ![Go to the iPhone App Store](../media/886913de-76e5-4883-8ed0-4eb3ec06188f.png)
   
-<span data-ttu-id="1e3da-113">Klepnutím na ikonu cloudu nainstalujte Outlook.</span><span class="sxs-lookup"><span data-stu-id="1e3da-113">Tap the cloud icon to install Outlook.</span></span>
+<span data-ttu-id="b36a6-113">Klepnutím na ikonu cloudu nainstalujte Outlook.</span><span class="sxs-lookup"><span data-stu-id="b36a6-113">Tap the cloud icon to install Outlook.</span></span>
   
 ![Tap the cloud icon to install Outlook](../media/665e1620-948a-4ab8-b914-dca49530142c.png)
   
-<span data-ttu-id="1e3da-115">Po dokončení instalace klepněte na tlačítko **Otevřít**. Po otevření Outlooku klepněte na **Začínáme**.</span><span class="sxs-lookup"><span data-stu-id="1e3da-115">When the installation is done, tap the **Open** button to open Outlook and then tap **Get Started**.</span></span>
+<span data-ttu-id="b36a6-115">Po dokončení instalace klepněte na tlačítko **Otevřít**. Po otevření Outlooku klepněte na **Začínáme**.</span><span class="sxs-lookup"><span data-stu-id="b36a6-115">When the installation is done, tap the **Open** button to open Outlook and then tap **Get Started**.</span></span>
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-<span data-ttu-id="1e3da-117">Na obrazovce Přidat  e-mailový účet zadejte svou pracovní e-mailovou adresu a zadejte své přihlašovací údaje \> Pro Microsoft 365 \> **pro firmy.**</span><span class="sxs-lookup"><span data-stu-id="1e3da-117">Enter your work email address on the **Add Email Account** screen \> **Add Account**, and then enter your Microsoft 365 for business credentials \> **Sign in**.</span></span>
+<span data-ttu-id="b36a6-117">Zadejte svou pracovní e-mailovou adresu na **obrazovce** Přidat e-mailový účet Přidat účet a zadejte přihlašovací \> údaje Microsoftu 365 pro \> **firmy Přihlásit se**.</span><span class="sxs-lookup"><span data-stu-id="b36a6-117">Enter your work email address on the **Add Email Account** screen \> **Add Account**, and then enter your Microsoft 365 for business credentials \> **Sign in**.</span></span>
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
-<span data-ttu-id="1e3da-119">Pokud organizace chrání soubory v aplikacích, zobrazí se dialogové okno s informací, že organizace chrání data v aplikaci. Pokud chcete aplikaci dál používat, musíte ji restartovat.</span><span class="sxs-lookup"><span data-stu-id="1e3da-119">If your organization is protecting files in apps, you'll see a dialog stating that your organization is now protecting the data in the app and you need to restart the app to continue to use it.</span></span> <span data-ttu-id="1e3da-120">Klepněte **na OK** a zavřete Outlook.</span><span class="sxs-lookup"><span data-stu-id="1e3da-120">Tap **OK** and close Outlook.</span></span> 
+<span data-ttu-id="b36a6-119">Pokud vaše organizace chrání soubory v aplikacích, zobrazí se dialogové okno s informacemi o tom, že vaše organizace teď chrání data v aplikaci, a budete muset aplikaci restartovat, abyste je mohli dál používat.</span><span class="sxs-lookup"><span data-stu-id="b36a6-119">If your organization is protecting files in apps, you'll see a dialog stating that your organization is now protecting the data in the app and you need to restart the app to continue to use it.</span></span> <span data-ttu-id="b36a6-120">Klepněte **na OK** a zavřete Outlook.</span><span class="sxs-lookup"><span data-stu-id="b36a6-120">Tap **OK** and close Outlook.</span></span> 
   
-![Snímek obrazovky, který ukazuje, že vaše organizace chrání vaši aplikaci Outlook](../media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
+![Snímek obrazovky, ve které je vidět, že vaše organizace teď chrání vaši aplikaci Outlook](../media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
   
-<span data-ttu-id="1e3da-122">Najděte na iPhonu Outlook a restartujte ho.</span><span class="sxs-lookup"><span data-stu-id="1e3da-122">Locate Outlook on the iPhone, and restart it.</span></span> <span data-ttu-id="1e3da-123">Po zobrazení výzvy zadejte PIN a ověřte ho.</span><span class="sxs-lookup"><span data-stu-id="1e3da-123">When prompted, enter a PIN and verify it.</span></span> <span data-ttu-id="1e3da-124">Outlook v iPhonu je připravený k použití.</span><span class="sxs-lookup"><span data-stu-id="1e3da-124">Outlook on your iPhone is now ready to be used.</span></span>
+<span data-ttu-id="b36a6-122">Najděte na iPhonu Outlook a restartujte ho.</span><span class="sxs-lookup"><span data-stu-id="b36a6-122">Locate Outlook on the iPhone, and restart it.</span></span> <span data-ttu-id="b36a6-123">Po zobrazení výzvy zadejte PIN kód a ověřte ho.</span><span class="sxs-lookup"><span data-stu-id="b36a6-123">When prompted, enter a PIN and verify it.</span></span> <span data-ttu-id="b36a6-124">Outlook v iPhonu je připravený k použití.</span><span class="sxs-lookup"><span data-stu-id="b36a6-124">Outlook on your iPhone is now ready to be used.</span></span>
   
 ![Set a PIN to access your organization's data](../media/64f2630b-3164-47a4-9dd6-ca0c29ed5fb3.png)
   
-## <a name="android"></a>[<span data-ttu-id="1e3da-126">Android</span><span class="sxs-lookup"><span data-stu-id="1e3da-126">Android</span></span>](#tab/Android)
+## <a name="android"></a>[<span data-ttu-id="b36a6-126">Android</span><span class="sxs-lookup"><span data-stu-id="b36a6-126">Android</span></span>](#tab/Android)
   
-<span data-ttu-id="1e3da-127">Podívejte se na video o instalaci Outlooku a Office na zařízeních s Androidem.</span><span class="sxs-lookup"><span data-stu-id="1e3da-127">Watch a video about installing Outlook and Office on Android devices.</span></span><br><br>
+<span data-ttu-id="b36a6-127">Podívejte se na video o instalaci Outlooku a Office na zařízeních s Androidem.</span><span class="sxs-lookup"><span data-stu-id="b36a6-127">Watch a video about installing Outlook and Office on Android devices.</span></span><br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
 
-<span data-ttu-id="1e3da-128">Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span><span class="sxs-lookup"><span data-stu-id="1e3da-128">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
+<span data-ttu-id="b36a6-128">Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span><span class="sxs-lookup"><span data-stu-id="b36a6-128">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
 
-<span data-ttu-id="1e3da-129">Pokud chcete začít s instalací na telefonu s Androidem, přejděte do Play Storu.</span><span class="sxs-lookup"><span data-stu-id="1e3da-129">To begin setup on your Android phone, go to the Play Store.</span></span>
+<span data-ttu-id="b36a6-129">Pokud chcete začít s nastavením na telefonu s Androidem, přejděte do Play Storu.</span><span class="sxs-lookup"><span data-stu-id="b36a6-129">To begin setup on your Android phone, go to the Play Store.</span></span>
   
 ![On the Android home screen, tap Play Store](../media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
   
-<span data-ttu-id="1e3da-131">Do vyhledávacího pole Google Play zadejte Microsoft Outlook a klepněte na **Instalovat.**</span><span class="sxs-lookup"><span data-stu-id="1e3da-131">Enter Microsoft Outlook in the Google Play search box and tap **Install**.</span></span> <span data-ttu-id="1e3da-132">Po instalaci Outlooku klepněte na **Otevřít.**</span><span class="sxs-lookup"><span data-stu-id="1e3da-132">Once Outlook is done installing, tap **Open**.</span></span>
+<span data-ttu-id="b36a6-131">Do vyhledávacího pole Google Play zadejte Microsoft Outlook a klepněte na **Nainstalovat.**</span><span class="sxs-lookup"><span data-stu-id="b36a6-131">Enter Microsoft Outlook in the Google Play search box and tap **Install**.</span></span> <span data-ttu-id="b36a6-132">Po instalaci Outlooku klepněte na **Otevřít.**</span><span class="sxs-lookup"><span data-stu-id="b36a6-132">Once Outlook is done installing, tap **Open**.</span></span>
   
 ![Tap Open to open Outlook app](../media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-<span data-ttu-id="1e3da-134">V aplikaci Outlook klepněte na **Začínáme,** přidejte e-mailový účet Microsoft 365 pro firmy – pokračovat a přihlaste se pomocí přihlašovacích \> údajů organizace.</span><span class="sxs-lookup"><span data-stu-id="1e3da-134">In the Outlook app, tap **Get Started**, then add your Microsoft 365 for business email account \> **Continue**, and sign in with your organization credentials.</span></span>
+<span data-ttu-id="b36a6-134">V aplikaci Outlook klepněte **na Začínáme,** přidejte e-mailový účet Microsoft 365 pro firmy Pokračovat a přihlaste se pomocí \> přihlašovacích údajů vaší organizace.</span><span class="sxs-lookup"><span data-stu-id="b36a6-134">In the Outlook app, tap **Get Started**, then add your Microsoft 365 for business email account \> **Continue**, and sign in with your organization credentials.</span></span>
   
 ![Sign in to your organizational account in Outlook](../media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   
-<span data-ttu-id="1e3da-136">V dialogovém okně s informací o nutnosti instalace aplikace Portál společnosti Intune klepněte na **Přejít do Storu**.</span><span class="sxs-lookup"><span data-stu-id="1e3da-136">In the dialog that states you must install the Intune Company Portal app, tap **Go to store**.</span></span>
+<span data-ttu-id="b36a6-136">V dialogovém okně s informací o nutnosti instalace aplikace Portál společnosti Intune klepněte na **Přejít do Storu**.</span><span class="sxs-lookup"><span data-stu-id="b36a6-136">In the dialog that states you must install the Intune Company Portal app, tap **Go to store**.</span></span>
   
 ![Tap on Go to store to get Intune Company Portal app](../media/a702d712-5622-45dd-a511-b1adaee63071.png)
   
-<span data-ttu-id="1e3da-138">V Play Storu nainstalujte portál společnosti Intune.</span><span class="sxs-lookup"><span data-stu-id="1e3da-138">In Play Store, install Intune Company Portal.</span></span>
+<span data-ttu-id="b36a6-138">V Play Storu nainstalujte Portál společnosti Intune.</span><span class="sxs-lookup"><span data-stu-id="b36a6-138">In Play Store, install Intune Company Portal.</span></span>
   
 ![Screenshot that shows the install button for Intune Company Portal in Google Play Store](../media/5e0408f2-3f37-44dd-80ed-13ca2ac6df0c.png)
   
-<span data-ttu-id="1e3da-p105">Znovu otevřete Outlook, zadejte PIN a potvrďte ho. Aplikace Outlook je připravená k použití.</span><span class="sxs-lookup"><span data-stu-id="1e3da-p105">Open Outlook again, and enter and confirm a PIN. Your Outlook app is now ready for use.</span></span>
+<span data-ttu-id="b36a6-p105">Znovu otevřete Outlook, zadejte PIN a potvrďte ho. Aplikace Outlook je připravená k použití.</span><span class="sxs-lookup"><span data-stu-id="b36a6-p105">Open Outlook again, and enter and confirm a PIN. Your Outlook app is now ready for use.</span></span>
   
 ![Set  PIN for Outlook app in Android](../media/edb91afb-f1ed-451a-bc6b-8ccba664e055.png)
 
-## <a name="see-also"></a><span data-ttu-id="1e3da-143">Viz také</span><span class="sxs-lookup"><span data-stu-id="1e3da-143">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="b36a6-143">Viz také</span><span class="sxs-lookup"><span data-stu-id="b36a6-143">See also</span></span>
 
-[<span data-ttu-id="1e3da-144">Školicí videa pro Microsoft 365 pro firmy</span><span class="sxs-lookup"><span data-stu-id="1e3da-144">Microsoft 365 for business training videos</span></span>](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[<span data-ttu-id="b36a6-144">Školicí videa k Microsoftu 365 pro firmy</span><span class="sxs-lookup"><span data-stu-id="b36a6-144">Microsoft 365 for business training videos</span></span>](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
 
 ---

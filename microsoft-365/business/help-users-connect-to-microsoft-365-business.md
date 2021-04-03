@@ -2,8 +2,8 @@
 title: Pomozte uživatelům připojit se k Microsoft 365 Business Premium
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -27,22 +27,22 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
-description: Přečtěte si, co můžete očekávat po dokončení instalace sady Business Cloud Suite a po zavedení výchozích zásad zařízení, které jsou připraveny k použití.
-ms.openlocfilehash: d3aad182f7e233f239b35e35c032e8ca09c57769
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Zjistěte, co můžete očekávat po dokončení instalace Sady Business Cloud Suite a výchozí zásady zařízení jsou připravené a připravené k použití.
+ms.openlocfilehash: d3e47247197f2688388ed50057b16fde53e7e830
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400916"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578441"
 ---
-# <a name="help-users-connect-to-microsoft-365-business-premium"></a><span data-ttu-id="052ce-103">Pomozte uživatelům připojit se k Microsoft 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="052ce-103">Help users connect to Microsoft 365 Business Premium</span></span>
+# <a name="help-users-connect-to-microsoft-365-business-premium"></a><span data-ttu-id="c449f-103">Pomozte uživatelům připojit se k Microsoft 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="c449f-103">Help users connect to Microsoft 365 Business Premium</span></span>
 
-<span data-ttu-id="052ce-104">Po dokončení instalace jsou výchozí zásady zařízení na místě a připraveny k použití.</span><span class="sxs-lookup"><span data-stu-id="052ce-104">After you complete setup, your default device policies are in place and ready to apply.</span></span> <span data-ttu-id="052ce-105">Na mobilních zařízeních si uživatelé stahují aplikace Office.</span><span class="sxs-lookup"><span data-stu-id="052ce-105">On mobile devices, users download Office apps.</span></span> <span data-ttu-id="052ce-106">Zásady se pak použijí, když se uživatel přihlásí pomocí svého pracovního nebo školního účtu.</span><span class="sxs-lookup"><span data-stu-id="052ce-106">Policies are then applied when the user signs in with their work or school account.</span></span> <span data-ttu-id="052ce-107">Na počítačích s Windows to zabere víc práce, než se zásady použijí, například je potřeba provést místní upgrade.</span><span class="sxs-lookup"><span data-stu-id="052ce-107">There's a bit more work to do before policies apply to Windows PCs, such as an in-place upgrade.</span></span> <span data-ttu-id="052ce-108">Zobrazení a sdílení následujících témat, která uživatelům pomohou nastavit a připojit:</span><span class="sxs-lookup"><span data-stu-id="052ce-108">See and share the following topics to help users get set up and connected:</span></span>
+<span data-ttu-id="c449f-104">Po dokončení instalace jsou výchozí zásady zařízení připravené k použití.</span><span class="sxs-lookup"><span data-stu-id="c449f-104">After you complete setup, your default device policies are in place and ready to apply.</span></span> <span data-ttu-id="c449f-105">Na mobilních zařízeních si uživatelé stahují aplikace Office.</span><span class="sxs-lookup"><span data-stu-id="c449f-105">On mobile devices, users download Office apps.</span></span> <span data-ttu-id="c449f-106">Zásady se pak použijí, když se uživatel přihlásí pomocí svého pracovního nebo školního účtu.</span><span class="sxs-lookup"><span data-stu-id="c449f-106">Policies are then applied when the user signs in with their work or school account.</span></span> <span data-ttu-id="c449f-107">Na počítačích s Windows to zabere víc práce, než se zásady použijí, například je potřeba provést místní upgrade.</span><span class="sxs-lookup"><span data-stu-id="c449f-107">There's a bit more work to do before policies apply to Windows PCs, such as an in-place upgrade.</span></span> <span data-ttu-id="c449f-108">Podívejte se na následující témata a sdílejte je, abyste uživatelům pomohli s jejich nastavením a propojením:</span><span class="sxs-lookup"><span data-stu-id="c449f-108">See and share the following topics to help users get set up and connected:</span></span>
   
-[<span data-ttu-id="052ce-109">Nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="052ce-109">Set up Windows devices for Microsoft 365 Business Premium users</span></span>](set-up-windows-devices.md)
+[<span data-ttu-id="c449f-109">Nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="c449f-109">Set up Windows devices for Microsoft 365 Business Premium users</span></span>](set-up-windows-devices.md)
   
-[<span data-ttu-id="052ce-110">Podrobné pokyny k přidání zařízení a profilů AutoPilota</span><span class="sxs-lookup"><span data-stu-id="052ce-110">Use the step-by-step guide to add Autopilot devices and profile</span></span>](add-autopilot-devices-and-profile.md)
+[<span data-ttu-id="c449f-110">Podrobné pokyny k přidání zařízení a profilů AutoPilota</span><span class="sxs-lookup"><span data-stu-id="c449f-110">Use the step-by-step guide to add Autopilot devices and profile</span></span>](add-autopilot-devices-and-profile.md)
   
-[<span data-ttu-id="052ce-111">Nastavení mobilních zařízení pro uživatele Microsoft 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="052ce-111">Set up mobile devices for Microsoft 365 Business Premium users</span></span>](set-up-mobile-devices.md)
+[<span data-ttu-id="c449f-111">Nastavení mobilních zařízení pro uživatele Microsoft 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="c449f-111">Set up mobile devices for Microsoft 365 Business Premium users</span></span>](set-up-mobile-devices.md)
   
 
