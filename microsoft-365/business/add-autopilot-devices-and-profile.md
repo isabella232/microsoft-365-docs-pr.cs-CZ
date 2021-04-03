@@ -2,8 +2,8 @@
 title: Podrobné pokyny k přidání zařízení a profilů Autopilota
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -25,12 +25,12 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: Zjistěte, jak pomocí Windows AutoPilota nastavit nová zařízení s Windows 10 pro vaši firmu, aby byla připravená k použití pro zaměstnance.
-ms.openlocfilehash: 75cc51b889f8673de8dba2357c777de47fd0d296
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: cd8777e6ae2e395506d2bf308c99309de1e24805
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913496"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578521"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Podrobné pokyny k přidání zařízení a profilů Autopilota
 

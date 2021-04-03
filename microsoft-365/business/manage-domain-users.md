@@ -2,8 +2,8 @@
 title: Synchronizace uživatelů domény s Microsoft 365
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Synchronizujte uživatele řízené doménou s Microsoftem 365 pro firmy.
-ms.openlocfilehash: 1c939dec7229f02991b15f08c48f184efecaddb0
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: b477b8a1f35a790d6c49937c973c141ad9f90ad4
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913248"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578401"
 ---
 # <a name="synchronize-domain-users-to-microsoft-365"></a>Synchronizace uživatelů domény s Microsoft 365
 

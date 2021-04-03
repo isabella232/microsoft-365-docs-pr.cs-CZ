@@ -2,8 +2,8 @@
 title: Nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium
 f1.keywords:
 - CSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -26,25 +26,25 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: Přečtěte si, jak nastavit zařízení s Windows a uživateli s Windows 10 Pro for Microsoft 365 Business Premium, aby bylo umožněno centralizované řízení a ovládací prvky zabezpečení.
-ms.openlocfilehash: b1877d83f113a2ba23d0db374967e0afcd7fe067
-ms.sourcegitcommit: 855719ee21017cf87dfa98cbe62806763bcb78ac
+description: Zjistěte, jak nastavit zařízení s Windows s Windows 10 Pro pro uživatele Microsoftu 365 Business Premium, které umožňují centralizovanou správu a ovládací prvky zabezpečení.
+ms.openlocfilehash: 9c9ffe5bd74d9e9877a87309757c481576ee89d2
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49928718"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578121"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium
 
-## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>Požadavky na nastavení zařízení s Windows pro uživatele služby Microsoft 365 Business Premium
+## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>Předpoklady pro nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium
 
-Než budete moci nastavit zařízení s Windows pro uživatele služby Microsoft 365 Business Premium, zkontrolujte, že na všech zařízeních běží Windows 10 Pro verze 1703 (Creators Update). Windows 10 Pro je předpokladem nasazení Windows 10 Business, což je sada cloudových služeb a funkcí pro správu zařízení, které doplňují Windows 10 Pro a umožňují centralizované řízení a ovládací prvky zabezpečení služby Microsoft 365 Business Premium.
+Než budete moci nastavit zařízení s Windows pro uživatele Microsoftu 365 Business Premium, zkontrolujte, že všechna zařízení s Windows mají Windows 10 Pro, verze 1703 (Creators Update). Windows 10 Pro je předpokladem pro nasazení Windows 10 Business, což je sada cloudových služeb a možností správy zařízení, které doplňují Windows 10 Pro a umožňují centralizovanou správu a řízení zabezpečení Microsoftu 365 Business Premium.
   
-Pokud máte zařízení s Windows 7 Pro, Windows 8 Pro nebo Windows 8.1 Pro, máte v rámci předplatného Microsoft 365 Business Premium nárok na upgrade na Windows 10.
+Pokud máte zařízení s Windows 7 Pro, Windows 8 Pro nebo Windows 8.1 Pro, vaše předplatné Microsoft 365 Business Premium vás opravňuje k upgradu na Windows 10.
   
 Další informace o upgradu zařízení s Windows na Windows 10 Pro Creators Update najdete v krocích popsaných v tomto tématu: [Upgrade zařízení s Windows na Windows Pro Creators Update](upgrade-to-windows-pro-creators-update.md).
   
-Podívejte [se, jestli je zařízení připojené k Azure AD,](#verify-the-device-is-connected-to-azure-ad) abyste ověřili, že máte upgrade, nebo abyste měli jistotu, že upgrade funguje.
+Informace [o tom, jestli](#verify-the-device-is-connected-to-azure-ad) máte upgrade, najdete v článku Ověření připojení zařízení k Azure AD nebo ověření, jestli upgrade fungoval.
 
 Podívejte se na krátké video o připojení Windows k Microsoftu 365.<br><br>
 
@@ -54,7 +54,7 @@ Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní 
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Připojení zařízení s Windows 10 ke službě Azure AD organizace
 
-Pokud jsou všechna zařízení s Windows ve vaší organizaci upgradovaná na Windows 10 Pro Creators Update (nebo na nich už běží Windows 10 Pro Creators Update), můžete je připojit k Azure Active Directory vaší organizace. Jakmile jsou zařízení připojená, budou automaticky upgradována na Windows 10 Business, který je součástí vašeho předplatného Microsoft 365 Business Premium.
+Když jsou všechna zařízení s Windows ve vaší organizaci upgradovaná na Windows 10 Pro Creators Update nebo už běží Windows 10 Pro Creators Update, můžete se k azure active directory vaší organizace připojit. Po přihlášení se zařízení automaticky upgradují na Windows 10 Business, který je součástí vašeho předplatného Microsoft 365 Business Premium.
   
 ### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a>Zcela nové nebo nově upgradované zařízení s Windows 10 Pro
 
@@ -64,7 +64,7 @@ U zcela nového zařízení, na kterém běží Windows 10 Pro Creators Update, 
     
     ![On the How would you like to set up page, choose Set up for an organization](../media/1b0b2dba-00bb-4a99-a729-441479220cb7.png)
   
-2. Tady zvolte **Nastavit pro organizaci a** potom zadejte svoje uživatelské jméno a heslo pro Microsoft 365 Business Premium. 
+2. Tady zvolte **Nastavit pro organizaci a** zadejte svoje uživatelské jméno a heslo pro Microsoft 365 Business Premium. 
     
 3. Dokončete nastavení zařízení s Windows 10.
     
@@ -96,27 +96,27 @@ U zcela nového zařízení, na kterém běží Windows 10 Pro Creators Update, 
   
    ![Enter your work or school email on the Let's get you signed in page](../media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. Na stránce **Zkontrolujte, jestli se jedná o** vaši organizaci, ověřte, jestli jsou informace správné, a zvolte Připojit **se.**
+6. Na stránce **Zkontrolujte, jestli je to vaše** organizace, ověřte, jestli jsou informace správné, a zvolte Připojit **se.**
   
-   A je **to všechno!** , chosse **Done**.
+   Na **sadě Jste všichni!** stránka, chosse Done ( **Hotovo).**
   
-   ![Na obrazovce Zkontrolujte, že se jedná o vaši organizaci, zvolte Připojit se.](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
+   ![Na obrazovce Ujistěte se, že je to vaše organizace, zvolte Připojit se.](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
-Pokud jste nahráli soubory na OneDrive pro firmy, synchronizujte je zpět do počítače. Pokud jste k migraci profilu a souborů použili nástroj třetí strany, synchronizujte také profil s novým profilem.
+Pokud jste nahráli soubory na OneDrive pro firmy, synchronizujte je zpět do počítače. Pokud jste k migraci profilu a souborů použili nástroj jiného výrobce, synchronizujte je taky s novým profilem.
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>Kontrola připojení zařízení k Azure AD
 
-Stav synchronizace ověříte tak, že na pracovní nebo  školní stránce **Accessu** v Nastavení vyberete oblast Připojeno k_ – zobrazí se informace o tlačítkách a \<organization name\> **odpojit.**  Zvolte **Informace a** získejte informace o stavu synchronizace. 
+Pokud chcete ověřit stav synchronizace, vyberte na pracovní nebo školní stránce **Accessu** v Nastavení oblast Připojeno **k** _ _ a zobrazí se tlačítka Informace a \<organization name\>  **Odpojit.** Pokud **chcete získat** stav synchronizace, zvolte Informace. 
   
-Na stránce **Stavu** synchronizace  zvolte Synchronizovat, abyste do počítače dostali nejnovější zásady správy mobilních zařízení.
+Na stránce **Stav** synchronizace  zvolte Synchronizovat a získejte nejnovější zásady správy mobilních zařízení do počítače.
   
-Pokud chcete začít používat účet Microsoft 365 Business Premium, přejděte na tlačítko **Start** ve Windows, klikněte pravým tlačítkem myši na obrázek aktuálního účtu a **pak přejděte na Přepnout účet.** Přihlaste se e-mailem a heslem vaší organizace.
+Pokud chcete začít používat účet Microsoft 365 Business Premium, přejděte na tlačítko **Start** ve Windows, klikněte pravým tlačítkem myši na obrázek aktuálního účtu a pak **na Přepnout účet.** Přihlaste se e-mailem a heslem vaší organizace.
   
 ![Click Info button to view synchronization status](../media/818f7043-adbf-402a-844a-59d50034911d.png)
   
 ## <a name="verify-the-pc-is-upgraded-to-windows-10-business"></a>Ověření upgradu počítače na Windows 10 Business
 
-Zkontrolujte, jestli jsou zařízení s Windows 10 připojená k Azure AD upgradována na Windows 10 Business v rámci předplatného Microsoft 365 Business Premium.
+Ověřte, jestli jsou vaše zařízení s Windows 10 připojená k Azure AD upgradovaná na Windows 10 Business jako součást předplatného Microsoft 365 Business Premium.
   
 1. Přejděte na **Nastavení** \> **Systém** \> **O systému**.
     
@@ -126,8 +126,8 @@ Zkontrolujte, jestli jsou zařízení s Windows 10 připojená k Azure AD upgrad
   
 ## <a name="next-steps"></a>Další kroky
 
-Informace o nastavení mobilních zařízení najdete v tématu Nastavení mobilních zařízení pro uživatele [služby Microsoft 365 Business Premium.](set-up-mobile-devices.md)Informace o nastavení zásad ochrany zařízení nebo aplikací najdete v tématu Správa [Microsoftu 365 pro firmy.](manage.md)
+Pokud chcete nastavit mobilní zařízení, podívejte se na článek Nastavení mobilních zařízení pro [uživatele Microsoft 365 Business Premium](set-up-mobile-devices.md), Pokud chcete nastavit zásady ochrany zařízení nebo ochrany aplikací, podívejte se na článek Správa [Microsoftu 365 pro firmy](manage.md).
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>Další informace o nastavení a používání Microsoft 365 Business Premium
 
-[Školicí videa pro Microsoft 365 pro firmy](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Školicí videa k Microsoftu 365 pro firmy](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -2,8 +2,8 @@
 title: Pomozte uživatelům připojit se k Microsoft 365 Business Premium
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -27,17 +27,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
-description: Přečtěte si, co můžete očekávat po dokončení instalace sady Business Cloud Suite a po zavedení výchozích zásad zařízení, které jsou připraveny k použití.
-ms.openlocfilehash: d3aad182f7e233f239b35e35c032e8ca09c57769
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Zjistěte, co můžete očekávat po dokončení instalace Sady Business Cloud Suite a výchozí zásady zařízení jsou připravené a připravené k použití.
+ms.openlocfilehash: d3e47247197f2688388ed50057b16fde53e7e830
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400916"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578441"
 ---
 # <a name="help-users-connect-to-microsoft-365-business-premium"></a>Pomozte uživatelům připojit se k Microsoft 365 Business Premium
 
-Po dokončení instalace jsou výchozí zásady zařízení na místě a připraveny k použití. Na mobilních zařízeních si uživatelé stahují aplikace Office. Zásady se pak použijí, když se uživatel přihlásí pomocí svého pracovního nebo školního účtu. Na počítačích s Windows to zabere víc práce, než se zásady použijí, například je potřeba provést místní upgrade. Zobrazení a sdílení následujících témat, která uživatelům pomohou nastavit a připojit:
+Po dokončení instalace jsou výchozí zásady zařízení připravené k použití. Na mobilních zařízeních si uživatelé stahují aplikace Office. Zásady se pak použijí, když se uživatel přihlásí pomocí svého pracovního nebo školního účtu. Na počítačích s Windows to zabere víc práce, než se zásady použijí, například je potřeba provést místní upgrade. Podívejte se na následující témata a sdílejte je, abyste uživatelům pomohli s jejich nastavením a propojením:
   
 [Nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium](set-up-windows-devices.md)
   

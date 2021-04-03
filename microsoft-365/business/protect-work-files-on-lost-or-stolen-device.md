@@ -2,8 +2,8 @@
 title: Ochrana pracovních souborů při ztrátě nebo odcizení mobilního zařízení
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -25,17 +25,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c12164c7-6190-4294-b88a-590580c9869a
-description: Přečtěte si o nastaveních dostupných v Microsoftu 365 pro firmy, které chrání pracovní soubory v případě ztráty nebo odcizení zařízení uživatele.
-ms.openlocfilehash: 89f9041a39ef0167d5b918622b68c9566e65d5b3
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Přečtěte si o nastaveních dostupných v Microsoftu 365 pro firmy, která chrání pracovní soubory v případě ztráty nebo odcizení zařízení uživatele.
+ms.openlocfilehash: 6b10ce73d3ebe936d3878724783d6076455a3552
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401256"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578241"
 ---
 # <a name="protect-work-files-when-a-mobile-device-is-lost-or-stolen"></a>Ochrana pracovních souborů při ztrátě nebo odcizení mobilního zařízení
 
-[] Nastavení zásady určují, co se automaticky stane, aby bylo zařízení v případě ztráty nebo odcizení chráněné. Doporučujeme přijmout výchozí hodnoty během instalace k vytvoření zásad aplikací pro Android, iOS a Windows 10, které platí pro všechny uživatele. Další zásady můžete vytvořit po dokončení instalace.
+[] Nastavení zásady určují, co se automaticky stane, aby bylo zařízení v případě ztráty nebo odcizení chráněné. Doporučujeme, abyste při nastavování přijali výchozí hodnoty a vytvořili zásady aplikací pro Android, iOS a Windows 10, které platí pro všechny uživatele. Další zásady můžete vytvořit po dokončení instalace.
   
 ## <a name="settings-that-protect-work-files"></a>Nastavení chránící pracovní soubory
 
@@ -44,8 +44,8 @@ Pokud se zařízení uživatele ztratí nebo je odcizeno, jsou k dispozici pro o
 |||
 |:-----|:-----|
 |Nastavení  <br/> |Popis  <br/> |
-|Odstranit pracovní soubory z neaktivního zařízení za  <br/> |Pokud se zařízení nepoužívá po dobu, kterou zde zadáte, všechny pracovní soubory uložené v zařízení se automaticky odstraní.  <br/> |
-|Vynucovat, aby uživatelé ukládali všechny pracovní soubory na OneDrive pro firmy  <br/> |Pokud je toto nastavení **Zapnuto**, je jediným dostupným umístěním pro uložení pracovních souborů OneDrive pro firmy.  <br/> |
-|Šifrovat pracovní soubory  <br/> |Toto nastavení nechejte **zapnuté**, aby byly pracovní soubory chráněné šifrováním. I v případě ztráty nebo odcizení zařízení nikdo nemůže číst údaje vaší společnosti.  <br/> |
+|Odstranit pracovní soubory z neaktivního zařízení za  <br/> |Pokud se zařízení po dobu, po kterou tady zadáte, nepoužít, odstraní se automaticky všechny pracovní soubory uložené na zařízení.  <br/> |
+|Vynucovat, aby uživatelé ukládali všechny pracovní soubory na OneDrive pro firmy  <br/> |Pokud je toto nastavení **na ,** je jediným dostupným umístěním pro ukládání pracovních souborů OneDrive pro firmy.  <br/> |
+|Šifrovat pracovní soubory  <br/> |Toto nastavení nechejte **zapnuté**, aby byly pracovní soubory chráněné šifrováním. I když dojde ke ztrátě nebo odcizení zařízení, nikdo nemůže číst data vaší společnosti.  <br/> |
    
 
