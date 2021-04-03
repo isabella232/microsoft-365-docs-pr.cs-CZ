@@ -2,8 +2,8 @@
 title: Ochrana pracovních souborů na zařízeních
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -27,23 +27,23 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 52089919-9a5e-475f-a49a-f65369487861
-description: 'Seznamte se s výchozí konfigurací a přidáním zásad správy aplikací k ochraně firemních dat na osobních mobilních zařízeních uživatelů. '
-ms.openlocfilehash: 6dd6bc5c16ffbbd6ed62f16ad11e1eeb8e06a193
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+description: 'Přečtěte si o výchozí konfiguraci a přidávání zásad správy aplikací, které chrání firemní data na osobních mobilních zařízeních uživatelů. '
+ms.openlocfilehash: 7e3967dad47508e938b760d0eb96ba8685d886a1
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470901"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580028"
 ---
 # <a name="protect-work-files-on-devices"></a>Ochrana pracovních souborů na zařízeních
 
 Tento článek se týká Microsoft 365 Business Premium.
 
-V dnešním světě jsou uživatelé svázáni se svými zařízeními a jak se střetávají osobní a pracovní život, mohou data vaší společnosti skončit na osobním zařízení zaměstnance. Nastavení, která tady nakonfigurujete, vám můžou pomoct znovu získat kontrolu nad pracovními soubory a poskytnout jim ochranu, aniž byste jakýmkoli způsobem ovlivnili osobní nastavení nebo data uživatelů.
+V dnešním světě jsou uživatelé svázaní se svými zařízeními, a protože se osobní a pracovní život srazí, data vaší společnosti mohou skončit na osobním zařízení zaměstnance. Nastavení, která tady nakonfigurujete, vám můžou pomoct znovu získat kontrolu nad pracovními soubory a poskytnout jim ochranu, aniž byste jakýmkoli způsobem ovlivnili osobní nastavení nebo data uživatelů.
   
 ## <a name="configuring-policies-during-setup"></a>Konfigurace zásad během instalace
 
-Během instalace se přidají tři zásady správy aplikací - jedna pro Android, jedna pro iOS a jedna pro Windows 10. Každá zásada má stejné nastavení a platí pro všechny uživatele. Zásady se aktivují, když uživatel připojí pracovní účet ke svému mobilnímu telefonu.
+Během instalace se přidají tři zásady správy aplikací - jedna pro Android, jedna pro iOS a jedna pro Windows 10. Každá zásada má stejná nastavení a platí pro všechny uživatele. Zásady se aktivují, když uživatel připojí pracovní účet ke svému mobilnímu telefonu.
   
 Doporučujeme vám během instalace přijmout výchozí konfiguraci. Po dokončení instalace můžete přidat další zásady, pomocí kterých můžete výchozí konfiguraci optimalizovat a použít různé úrovně řízení pro konkrétní uživatelské skupiny.
   

@@ -2,8 +2,8 @@
 title: Nasazení Office na zařízení s Windows 10 během instalace
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -25,18 +25,18 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
-description: Zjistěte, jak můžete pomocí Microsoft u 365 Business Premium automaticky zajistit, aby uživatelé měli na všech svých zařízeních s Windows 10 nejnovější verzi Office.
-ms.openlocfilehash: 1ca386f75743178aebaf0bfabbabcb74f4813685
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Zjistěte, jak s Microsoft 365 Business Premium můžete automaticky zajistit, aby uživatelé měli na všech svých zařízeních s Windows 10 nejnovější verzi Office.
+ms.openlocfilehash: d3c62eb42ea73c7af6df6012dbc9488828cd1ba8
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400832"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580168"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Nasazení Office na zařízení s Windows 10 během instalace
 
-![Banner, který přejděte na https://aka.ms/aboutM365preview .](../media/m365admincenterchanging.png)
+![Banner, který odkazovat na https://aka.ms/aboutM365preview .](../media/m365admincenterchanging.png)
 
-Toto nastavení je ve výchozím nastavení vypnuto. Můžete ji zapnout, abyste měli jistotu, že uživatelé mají nejnovější verzi Office na všech svých zařízeních s Windows 10, ale nejprve ověřte, zda jsou splněny všechny požadavky. Uživatelé musí mít pro toto nastavení licenci pro microsoft 365 Business Premium, aby mohl software do zařízení zatlačit, a to kromě dalších požadavků popsaných v části [Příprava nasazení klienta Office společností Microsoft 365 Business Premium](prepare-for-office-client-deployment.md).
+Toto nastavení je ve výchozím nastavení vypnuté. Můžete ho zapnout, abyste měli jistotu, že uživatelé mají na všech svých zařízeních s Windows 10 nejnovější verzi Office, ale nejdřív ověřte, jestli jsou splněny všechny předpoklady. Uživatelé musí mít licenci pro Microsoft 365 Business Premium, aby se software do zařízení nasazoval, a to kromě dalších požadavků popsaných v článku Příprava na nasazení klienta Office od [Microsoftu 365 Business Premium](prepare-for-office-client-deployment.md).
   
-Doporučujeme přijmout výchozí nastavení během instalace.
+Doporučujeme, abyste při nastavování přijali výchozí nastavení.
