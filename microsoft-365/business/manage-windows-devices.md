@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Zjistěte, jak povolit Microsoft 365 k ochraně místních zařízení s Windows 10 připojených ke službě Active Directory v několika krocích.
-ms.openlocfilehash: 8a45c6959bee368491c5c6424e3713300c443779
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: c9f5a21d993200abcf9ecf1fa236879245e1c153
+ms.sourcegitcommit: 4076b43a4b661de029f6307ddc1a989ab3108edb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580128"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51939496"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Povolení spravování zařízení s Windows 10 připojených k doméně pomocí Microsoft 365 Business Premium
 
@@ -116,3 +116,7 @@ Pokud nevidíte zásadu Povolit automatickou registraci **MDM** pomocí výchoz�
 6.  V případě, že máte několik řadičů domény, počkejte, až se funkce SYSVOL replikuje, aby byly zásady dostupné. Tento postup bude fungovat i pro všechny budoucí verze šablon pro správu.
 
 V tomto okamžiku byste měli mít možnost zobrazit zásadu Povolit automatickou registraci **MDM pomocí výchozích přihlašovacích údajů Azure AD.**
+
+## <a name="related-content"></a>Související obsah
+
+[Synchronizace uživatelů domény s Microsoft 365](manage-domain-users.md) (článek) Vytvoření skupiny v Centru pro správu (článek) Kurz: Konfigurace hybridního připojení [ke službě Azure Active Directory pro](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) spravované domény (článek) [](../admin/create-groups/create-groups.md)
