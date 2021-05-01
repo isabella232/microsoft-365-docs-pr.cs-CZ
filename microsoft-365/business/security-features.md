@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business Premium – funkce zabezpečení a dodržování předpisů
+title: Microsoft 365 Business Premium zabezpečení a dodržování předpisů
 f1.keywords:
 - NOCSH
 ms.author: sharik
@@ -24,44 +24,44 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Přečtěte si o funkcích zabezpečení, které jsou součástí Microsoft 365 Business Premium, které pomáhají chránit vaše data na počítačích, telefonech a tabletech.
-ms.openlocfilehash: bca20a7a03a93f7ac2bf8752476046f0db43cc70
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: 974204e100d3228f78406aca4acce67a889b08c3
+ms.sourcegitcommit: 05f40904f8278f53643efa76a907968b5c662d9a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578141"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52113460"
 ---
-# <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Microsoft 365 Business Premium – funkce zabezpečení a dodržování předpisů
+# <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Microsoft 365 Business Premium zabezpečení a dodržování předpisů
 
 Microsoft 365 Business Premium nabízí zjednodušené funkce zabezpečení, které pomáhají chránit vaše data na počítačích, telefonech a tabletech.
     
-## <a name="microsoft-365-admin-center-security-features"></a>Funkce zabezpečení Centra pro správu Microsoft 365
+## <a name="microsoft-365-admin-center-security-features"></a>Microsoft 365 zabezpečení Centra pro správu
 
-V Centru pro správu můžete spravovat mnoho funkcí zabezpečení Microsoft 365 Business Premium, které vám umožní tyto funkce zjednodušeně zapnout nebo vypnout. V Centru pro správu můžete udělat toto:
+V Centru pro správu můžete spravovat Microsoft 365 Business Premium funkcí zabezpečení, které vám umožní tyto funkce zjednodušeně zapnout nebo vypnout. V Centru pro správu můžete udělat toto:
   
 - [Nastavení správy aplikací pro zařízení s Androidem nebo iOS](app-protection-settings-for-android-and-ios.md) 
     
     Tato nastavení zahrnují odstranění souborů z neaktivního zařízení po nastaveném období, šifrování pracovních souborů, které vyžadují, aby uživatelé nastavili PIN kód a tak dále.
     
-- [Nastavení ochrany aplikací pro zařízení s Windows 10](protection-settings-for-windows-10-devices.md) 
+- [Nastavení ochrany aplikací pro Windows 10 zařízení](protection-settings-for-windows-10-devices.md) . 
     
     Tato nastavení můžete použít na firemní data na zařízeních vlastněných společností nebo v osobním vlastnictví.
     
-- [Nastavení ochrany zařízení pro zařízení s Windows 10](protection-settings-for-windows-10-pcs.md) 
+- [Nastavení ochrany zařízení pro Windows 10 zařízení](protection-settings-for-windows-10-pcs.md) . 
     
-    Šifrování nástrojem [BitLocker můžete](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions) povolit, aby pomohlo chránit data v případě ztráty nebo odcizení zařízení, a povolit [Windows Exploit Guardu](/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) poskytovat pokročilou ochranu před ransomwarem. 
+    Můžete povolit šifrování [nástroj BitLocker,](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions) které pomáhá chránit data v případě ztráty nebo odcizení zařízení, a povolit Windows [Exploit Guard](/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) poskytovat pokročilou ochranu před ransomwarem. 
     
 - [Odebrání dat společnosti ze zařízení](remove-company-data.md)
     
     Data společnosti můžete vzdáleně vymazat, pokud dojde ke ztrátě, odcizení zařízení nebo pokud zaměstnanec opustí vaši společnost.
     
-- [Resetujte zařízení s Windows 10 do továrního nastavení](reset-devices-to-factory-settings.md) . 
+- [Resetujte Windows 10 zařízení do továrního nastavení](reset-devices-to-factory-settings.md) . 
     
-    Můžete resetovat všechna zařízení s Windows 10, u které je použito nastavení ochrany zařízení.
+    Můžete resetovat všechna Windows 10 zařízení, u které je použito nastavení ochrany zařízení.
     
 ## <a name="additional-security-features"></a>Další funkce zabezpečení 
 
-K dispozici jsou pokročilé funkce Microsoft 365 Business Premium, které vám pomůžou chránit vaši firmu před kybernetickými hrozbami a chránit citlivé informace.
+Pokročilé funkce v Microsoft 365 Business Premium jsou dostupné, aby vám pomohly chránit vaši firmu před kybernetickými hrozbami a chránit citlivé informace.
   
 - **[Microsoft Defender pro Office 365](../security/office-365-security/defender-for-office-365.md)**
     
@@ -73,7 +73,7 @@ K dispozici jsou pokročilé funkce Microsoft 365 Business Premium, které vám 
 
 - **[Úplné možnosti Intune na portálu Azure Portal](/mem/intune/fundamentals/what-is-intune)**
     
-    Přístup k Centru pro správu Intune na portálu Azure Portal umožňuje nastavit další funkce zabezpečení, jako je správa zařízení s MacOS, zařízení s iPhonem a Androidem a pokročilá správa zařízení pro Windows, které nejsou dostupné prostřednictvím Centra pro správu Microsoftu 365.
+    Přístup k Centru pro správu Intune na portálu Azure Portal umožňuje nastavit další funkce zabezpečení, jako je správa zařízení s MacOS, iPhone Microsoft 365 zařízení s Androidem a pokročilá správa zařízení pro Windows, které nejsou dostupné prostřednictvím Centra pro správu Microsoft 365.
 - **Stejný [podmíněný přístup jako](/azure/active-directory/conditional-access/overview) plán Azure AD Premium P1**
 
 
@@ -94,28 +94,28 @@ K dispozici jsou pokročilé funkce Microsoft 365 Business Premium, které vám 
     
 ## <a name="compliance-features"></a>Funkce dodržování předpisů
 
-Vaše předplatné Microsoft 365 Business Premium obsahuje funkce, které vám pomůžou udržovat dodržování předpisů a regulační standardy.
+Vaše Microsoft 365 Business Premium zahrnuje funkce, které vám pomůžou udržovat dodržování předpisů a regulační standardy.
 
-- **[Přehled zásad prevence ztráty dat](../compliance/data-loss-prevention-policies.md)** (DLP). 
+- **[Další informace o prevenci ztráty dat](../compliance/dlp-learn-about-dlp.md))** (DLP). 
     
     Pomocí funkce DLP můžete nastavit automatické zjišťování citlivých informací, jako jsou čísla osobních karet, čísla sociálního zabezpečení atd., aby se zabránilo jejich neúmyslnému sdílení mimo vaši společnost.
     
 - **[Exchange Online - archiv](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)**
     
-    Licence pro archivaci Exchange Online umožňuje snadnou archivaci zpráv pomocí nepřetržitého zálohování dat. Ukládá všechny e-maily uživatele, včetně odstraněných položek, pro případ, že je budete později potřebovat pro zjišťování nebo obnovení. Kromě toho můžete k zachování e-mailových dat pro blokování soudních sporů, eDiscovery nebo splnění požadavků na dodržování předpisů použít různé zásady uchovávání informací.
+    Exchange Online – archiv umožňuje snadno archivovat zprávy pomocí nepřetržitého zálohování dat. Ukládá všechny e-maily uživatele, včetně odstraněných položek, pro případ, že je budete později potřebovat pro zjišťování nebo obnovení. Kromě toho můžete k zachování e-mailových dat pro blokování soudních sporů, eDiscovery nebo splnění požadavků na dodržování předpisů použít různé zásady uchovávání informací.
     
 - **[Štítky utajení](../compliance/sensitivity-labels.md)**
 
-   Microsoft 365 Business Premium obsahuje všechny funkce Plánu ochrany informací [v Azure 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Pomocí tohoto plánu můžete  vytvořit popisky citlivosti, které vám umožní řídit přístup k citlivým informacím v e-mailu a dokumentech s ovládacími prvky, jako je "Neposílání" a "Nekopírovat". Můžete také klasifikovat citlivé informace jako důvěrné a určit, jak se budou utajované informace sdílet mimo firmu i uvnitř firmy. Šifrování podnikové úrovně se snadno používá u e-mailů a dokumentů, aby vaše informace byly soukromé. Můžete si taky nainstalovat doplněk klienta Azure Information Protection pro aplikace Office. Další informace najdete v článku sjednocený klient [štítků Azure Information Protection](/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). U štítků citlivosti nainstalujte **AzInfoProtection_UL.exe**.
+   Microsoft 365 Business Premium obsahuje všechny funkce [plánu Azure Information Protection 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Pomocí tohoto plánu můžete  vytvořit popisky citlivosti, které vám umožní řídit přístup k citlivým informacím v e-mailu a dokumentech s ovládacími prvky, jako je "Neposílání" a "Nekopírovat". Můžete také klasifikovat citlivé informace jako důvěrné a určit, jak se budou utajované informace sdílet mimo firmu i uvnitř firmy. Enterprise šifrování se snadno používá u e-mailů a dokumentů, aby vaše informace byly soukromé. Můžete si taky nainstalovat doplněk klienta Azure Information Protection pro Office aplikace. Další informace najdete v článku sjednocený klient [štítků Azure Information Protection](/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). U štítků citlivosti nainstalujte **AzInfoProtection_UL.exe**.
 
-Tyto funkce můžete spravovat v Centru dodržování předpisů zabezpečení a &amp; v Centru pro správu Intune. Zjednodušené ovládací prvky se časem přidávají do Centra pro správu Microsoftu 365.
+Tyto funkce můžete spravovat v Centru dodržování předpisů zabezpečení a &amp; v Centru pro správu Intune. V průběhu času se zjednodušené ovládací prvky přidávají do centra Microsoft 365 správy.
   
     
 ## <a name="faq"></a>Časté otázky
 
  ### <a name="are-these-security-features-available-in-all-markets"></a>Jsou tyto funkce zabezpečení dostupné na všech trzích?
   
-Ano, tyto funkce jsou dostupné na všech trzích, kde se microsoft 365 Business Premium prodává.
+Ano, tyto funkce jsou dostupné na všech trzích, kde se Microsoft 365 Business Premium prodává.
   
 ### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Jak najdu Centrum dodržování &amp; předpisů zabezpečení?
   
@@ -123,6 +123,6 @@ Ano, tyto funkce jsou dostupné na všech trzích, kde se microsoft 365 Business
     
 2. V levém navigačním panelu najděte **Centra pro správu** a rozbalte ji. 
     
-    ![V levém navigačním panelu v Centru pro správu Microsoftu 365 zvolte Centra pro správu.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
+    ![V levém navigačním panelu v Centru Microsoft 365 správy zvolte Centra pro správu.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
 3. Zvolte **Dodržování &amp; předpisů zabezpečení** a přejděte do Centra dodržování předpisů &amp; zabezpečení.
