@@ -1,5 +1,5 @@
 ---
-title: Nastavení mobilních zařízení pro uživatele Microsoftu 365 pro firmy
+title: Nastavení mobilních zařízení pro Microsoft 365 pro firemní uživatele
 f1.keywords:
 - NOCSH
 ms.author: sharik
@@ -25,17 +25,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
-description: Nainstalujte Office na iPhone nebo telefon s Androidem a vaše pracovní soubory v aplikacích Office budou chráněny Microsoftem 365 pro firmy.
-ms.openlocfilehash: fefec17344d199ced230907fbaa85d98198cfb94
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Nainstalujte Office na iPhone nebo telefon s Androidem a vaše pracovní soubory v Office aplikacích budou chráněné Microsoft 365 pro firmy.
+ms.openlocfilehash: 7b411b6ae1223963b8583e1e3cd0ee00e13ff958
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578161"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52244790"
 ---
-# <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Nastavení mobilních zařízení pro uživatele Microsoftu 365 pro firmy
+# <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Nastavení mobilních zařízení pro Microsoft 365 pro firemní uživatele
 
-Při instalaci Office na iPhone nebo telefon s Androidem dodržujte pokyny na kartách. Po provedení těchto kroků budou vaše pracovní soubory vytvořené v aplikacích Office chráněny Microsoftem 365 pro firmy.
+Při instalaci Office na iPhone nebo telefon s Androidem dodržujte pokyny na kartách. Po provedení těchto kroků budou vaše pracovní soubory vytvořené v Office aplikacích chráněny Microsoft 365 pro firmy.
 
 Následující příklad se týká Outlooku, ale platí i pro všechny ostatní aplikace Office, které chcete instalovat.
   
@@ -43,11 +43,11 @@ Následující příklad se týká Outlooku, ale platí i pro všechny ostatní 
 
 ## <a name="iphone"></a>[iPhone](#tab/iPhone)
   
-Podívejte se na krátké video o tom, jak nastavit aplikace Office na zařízeních s iOS s Microsoftem 365 pro firmy.<br><br>
+Podívejte se na krátké video o tom, jak nastavit Office na zařízeních s iOSem s Microsoft 365 pro firmy.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
 
-Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](../business-video/index.yml).
 
 Přejděte do **App Storu** a do vyhledávacího pole zadejte Microsoft Outlook.
   
@@ -61,13 +61,13 @@ Po dokončení instalace klepněte na tlačítko **Otevřít**. Po otevření Ou
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-Zadejte svou pracovní e-mailovou adresu na **obrazovce** Přidat e-mailový účet Přidat účet a zadejte přihlašovací \> údaje Microsoftu 365 pro \> **firmy Přihlásit se**.
+Zadejte svou pracovní e-mailovou adresu na **obrazovce** Přidat e-mailový účet Přidat účet a potom zadejte přihlašovací údaje Microsoft 365 pro firmy \>  \> **Přihlásit se**.
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
 Pokud vaše organizace chrání soubory v aplikacích, zobrazí se dialogové okno s informacemi o tom, že vaše organizace teď chrání data v aplikaci, a budete muset aplikaci restartovat, abyste je mohli dál používat. Klepněte **na OK** a zavřete Outlook. 
   
-![Snímek obrazovky, ve které je vidět, že vaše organizace teď chrání vaši aplikaci Outlook](../media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
+![Snímek obrazovky s vaší organizací teď chrání vaši Outlook aplikaci](../media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
   
 Najděte na iPhonu Outlook a restartujte ho. Po zobrazení výzvy zadejte PIN kód a ověřte ho. Outlook v iPhonu je připravený k použití.
   
@@ -75,21 +75,21 @@ Najděte na iPhonu Outlook a restartujte ho. Po zobrazení výzvy zadejte PIN k�
   
 ## <a name="android"></a>[Android](#tab/Android)
   
-Podívejte se na video o instalaci Outlooku a Office na zařízeních s Androidem.<br><br>
+Podívejte se na video o instalaci Outlook a Office na zařízeních s Androidem.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
 
-Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](../business-video/index.yml).
 
 Pokud chcete začít s nastavením na telefonu s Androidem, přejděte do Play Storu.
   
 ![On the Android home screen, tap Play Store](../media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
   
-Do vyhledávacího pole Google Play zadejte Microsoft Outlook a klepněte na **Nainstalovat.** Po instalaci Outlooku klepněte na **Otevřít.**
+Do vyhledávacího Outlook Google Play zadejte Microsoft Outlook a klepněte na **Nainstalovat.** Po Outlook instalace klepněte na **Otevřít.**
   
 ![Tap Open to open Outlook app](../media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-V aplikaci Outlook klepněte **na Začínáme,** přidejte e-mailový účet Microsoft 365 pro firmy Pokračovat a přihlaste se pomocí \> přihlašovacích údajů vaší organizace.
+V aplikaci Outlook klepněte na **Začínáme,** přidejte svůj e-mailový účet Microsoft 365 pro firmy Pokračovat a přihlaste se pomocí přihlašovacích \> údajů vaší organizace.
   
 ![Sign in to your organizational account in Outlook](../media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   
@@ -97,7 +97,7 @@ V dialogovém okně s informací o nutnosti instalace aplikace Portál společno
   
 ![Tap on Go to store to get Intune Company Portal app](../media/a702d712-5622-45dd-a511-b1adaee63071.png)
   
-V Play Storu nainstalujte Portál společnosti Intune.
+V Obchodě Play nainstalujte Portál společnosti Intune.
   
 ![Screenshot that shows the install button for Intune Company Portal in Google Play Store](../media/5e0408f2-3f37-44dd-80ed-13ca2ac6df0c.png)
   
@@ -107,6 +107,6 @@ Znovu otevřete Outlook, zadejte PIN a potvrďte ho. Aplikace Outlook je připra
 
 ## <a name="see-also"></a>Viz také
 
-[Školicí videa k Microsoftu 365 pro firmy](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 pro firemní školicí videa](../business-video/index.yml)
 
 ---

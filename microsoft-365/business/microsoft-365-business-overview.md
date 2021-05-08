@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Přečtěte si informace o Microsoftu 365 Business Premium, službě předplatného, která zahrnuje kancelářské aplikace Office a rozšířenou ochranu vaší firmy před kybernetickými hrozbami.
-ms.openlocfilehash: d6b0ded25e0478f85e73b807789463e4d55b1bb0
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: a355c9856ead4a66f6876cc7cb5aa8eb469d7f12
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578341"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52244850"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Přehled předplatného Microsoftu 365 Business Premium
 
@@ -46,7 +46,7 @@ Podívejte se na toto video se stručným přehledem Microsoftu 365 Business Pre
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](../business-video/index.yml). 
 
 Microsoft 365 Business Premium je určen až pro 300 licencí. Pokud potřebujete více licencí, najdete další informace v dokumentaci k [Microsoftu 365 Enterprise](../enterprise/index.yml).
 
@@ -95,7 +95,7 @@ Vaše **zařízení jsou zabezpečena** těmito způsoby:
 
 - Řízení toho, která zařízení a kteří uživatelé mají přístup k vašim datům společnosti Microsoft, s možností zabránit uživatelům v přihlášení z domácích počítačů, neschválených aplikací nebo mimo pracovní dobu (podmíněný přístup)
 
-- Ochrana firemních dat na zařízeních s iOSem a Androidem pomocí zásad zabezpečení. Můžete například požadovat, aby uživatelé, kteří chtějí získat přístup k firemním datům, zadali PIN kód nebo otisk prstu a aby se šifrovala data na mobilních zařízeních (App Protection pro mobilní aplikace Office)
+- Používání zásad zabezpečení k ochraně firemních dat na zařízeních s iOS a Androidem. Můžete například požadovat, aby uživatelé, kteří chtějí získat přístup k firemním datům, zadali PIN kód nebo otisk prstu a aby se šifrovala data na mobilních zařízeních (App Protection pro mobilní aplikace Office)
 
 - Uchovávání firemních dokumentů, e-mailů a dalších dat v rámci schválených mobilních aplikacích Office a zabránění zaměstnancům v jejich ukládání do neautorizovaných aplikací a umístění (App Protection pro mobilní aplikace Office)
 
@@ -111,6 +111,6 @@ Vaše **zařízení jsou zabezpečena** těmito způsoby:
 
 - Pokud partnera nemáte a chcete získat Microsoft 365 Business Premium, můžete si ho [koupit tady](https://www.microsoft.com/microsoft-365/business) a postupovat podle pokynů k [registraci](sign-up.md).
 
-## <a name="see-also"></a>Viz také
+## <a name="related-content"></a>Související obsah
 
-[Školicí videa k Microsoftu 365 Business Premium](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Školicí videa k Microsoftu 365 Business Premium](../business-video/index.yml) (stránka odkazu)
