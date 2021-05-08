@@ -23,28 +23,28 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
-description: V několika jednoduchých krocích se dozvíte, jak můžete přesunout osobní pracovní soubory a citlivé firemní soubory na OneDrive pro firmy.
-ms.openlocfilehash: d6bcf2b41f1052c521fda50557aac4bf6a3800fa
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: V několika jednoduchých krocích se dozvíte, jak můžete přesunout své osobní pracovní soubory a citlivé firemní OneDrive pro firmy do aplikace.
+ms.openlocfilehash: 4dadc87c0168a9fcdcc795a94df8ee5b7fc7fd91
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580068"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52245098"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Přesun souborů na OneDrive pro firmy
 
-Podívejte se na krátké video o přesouvání souborů na OneDrive pro firmy.<br><br>
+Podívejte se na krátké video o přesouvání souborů do OneDrive pro firmy.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/d74b083c-1f44-43ea-8a14-2e1fc600b341] 
 
-Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](../business-video/index.yml).
 
 
 ## <a name="move-files-to-onedrive-for-business"></a>Přesun souborů na OneDrive pro firmy
 
 Pokud má uživatel na počítači velký počet osobních souborů, měli byste nejprve tyto soubory přesunout na OneDrive pro firmy:
   
-1. Přejděte na portal.office.com a přihlaste se pomocí přihlašovacích údajů uživatele Microsoft 365 pro firmy.
+1. Přejděte na portal.office.com a přihlaste se pomocí přihlašovacích údajů Microsoft 365 pro firmy.
 
 2. Klikněte na spouštěč aplikací ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) a přejděte na OneDrive. 
     
@@ -52,6 +52,6 @@ Pokud má uživatel na počítači velký počet osobních souborů, měli byste
     
 K přesunu uživatelského profilu a dalších důležitých souborů také můžete použít externí nástroj, třeba ForensiT. Výsledné soubory byste také měli nahrát na OneDrive pro firmy.
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>Další informace o nastavení a používání Microsoftu 365 pro firmy
+## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>Další informace o nastavení a používání Microsoft 365 pro firmy
 
-[Školicí videa k Microsoftu 365 pro firmy](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 pro firemní školicí videa](../business-video/index.yml)

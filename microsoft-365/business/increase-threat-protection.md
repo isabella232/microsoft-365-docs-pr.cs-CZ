@@ -21,25 +21,25 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Nastavte si Microsoft Defender pro Office 365 a chraňte citlivá data před útoky phishing, malwarem a dalšími hrozbami.
-ms.openlocfilehash: 8fb2c3881876cabea6d8907a85bc9397212126dc
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Nastavte microsoft defender pro Office 365 a chraňte citlivá data před útoky phishing, malwarem a dalšími hrozbami.
+ms.openlocfilehash: 4b5142efbf4392f017cd9b96f6a9c36ef2000bb7
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580188"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52245138"
 ---
 # <a name="increase-threat-protection"></a>Zvýšení ochrany před hrozbou
 
-Tento článek vám pomůže zvýšit ochranu v předplatném Microsoftu 365, abyste chránili před útoky phishing, malwarem a dalšími hrozbami. Tato doporučení jsou vhodná pro organizace se zvýšenou potřebami zabezpečení, jako jsou právní kanceláře a zdravotní péče.
+Tento článek vám pomůže zvýšit ochranu vašeho předplatného Microsoft 365, aby se chránila před útoky phishing, malwarem a dalšími hrozbami. Tato doporučení jsou vhodná pro organizace se zvýšenou potřebami zabezpečení, jako jsou právní kanceláře a zdravotní péče.
 
-Než začnete, podívejte se na zabezpečené skóre Office 365. Zabezpečené skóre Office 365 analyzuje zabezpečení vaší organizace na základě vašich pravidelných aktivit a nastavení zabezpečení a přiřadí skóre. Začněte tím, že si poznamenejte aktuální skóre. Pokud chcete zvýšit skóre, proveďte akce doporučené v tomto článku. Cílem není dosáhnout maximálního skóre, ale vědět o možnostech ochrany vašeho prostředí, které negativně neovlivňuje produktivitu vašich uživatelů.
+Než začnete, podívejte se na Office 365 zabezpečené skóre. Office 365 Funkce Zabezpečené skóre analyzuje zabezpečení vaší organizace na základě vašich pravidelných aktivit a nastavení zabezpečení a přiřadí skóre. Začněte tím, že si poznamenejte aktuální skóre. Pokud chcete zvýšit skóre, proveďte akce doporučené v tomto článku. Cílem není dosáhnout maximálního skóre, ale vědět o možnostech ochrany vašeho prostředí, které negativně neovlivňuje produktivitu vašich uživatelů.
 
 Další informace najdete v tématu [Microsoft Secure Score](../security/defender/microsoft-secure-score.md).
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Zvýšení úrovně ochrany před malwarem v poště
 
-Vaše prostředí Office 365 nebo Microsoft 365 zahrnuje ochranu před malwarem. Tuto ochranu můžete zvýšit blokováním příloh s typy souborů, které se běžně používají pro malware. Zvýšení ochrany proti malwaru v e-mailu:
+Vaše Office 365 nebo Microsoft 365 zahrnuje ochranu před malwarem. Tuto ochranu můžete zvýšit blokováním příloh s typy souborů, které se běžně používají pro malware. Zvýšení ochrany proti malwaru v e-mailu:
 
 1. Přejděte na [https://protection.office.com](https://protection.office.com) stránku a přihlaste se pomocí přihlašovacích údajů účtu správce.
 
@@ -65,11 +65,11 @@ Ransomware omezuje přístup k datům šifrováním souborů nebo uzamknutím ob
 
 Pokud chcete chránit před ransomwarem, vytvořte jedno nebo více pravidel toku pošty, která blokují přípony souborů, které se běžně používají pro ransomwar. (Tato pravidla jste přidali v kroku zvýšit úroveň ochrany před [malwarem](#raise-the-level-of-protection-against-malware-in-mail) v kroku pošty.) Uživatele, kteří tyto přílohy dostanou, můžete taky upozornit v e-mailu.
 
-Kromě souborů, které jste zablokovali v předchozím kroku, je vhodné vytvořit pravidlo, které uživatele upozorní před otevřením příloh souborů Office, které obsahují makra. Ransomware může být skrytý uvnitř maker, takže uživatele upozorňte, aby tyto soubory neotevřeli od lidí, které neznají.
+Kromě souborů, které jste zablokovali v předchozím kroku, je vhodné vytvořit pravidlo, které uživatele upozorní před otevřením Office souborů, které obsahují makra. Ransomware může být skrytý uvnitř maker, takže uživatele upozorňte, aby tyto soubory neotevřeli od lidí, které neznají.
 
 Vytvoření pravidla přenosu pošty:
 
-1. Přejděte do Centra pro správu na <https://admin.microsoft.com> stránce a zvolte Centra pro **správu** \> **Exchange**.
+1. Přejděte do Centra pro správu na stránce a zvolte Centra <https://admin.microsoft.com> **pro** \> **správu Exchange**.
 
 2. V **kategorii tok** pošty vyberte **pravidla**.
 
@@ -81,7 +81,7 @@ Vytvoření pravidla přenosu pošty:
 
 6. Vyberte **Uložit**.
 
-|Nastavení|Upozornění uživatelů před otevřením příloh souborů Office||
+|Nastavení|Upozornit uživatele před otevřením příloh Office souborů||
 |---|---|---|
 |Name (Název)|Anti-ransomware rule: warn users|
 |Toto pravidlo použijte, pokud . . .|Jakákoli příloha . . . příponu souboru odpovídá . . .|
@@ -93,15 +93,15 @@ Další informace najdete tady:
 
 - [Ransomware: Jak snížit riziko](https://www.microsoft.com/security/blog/2020/04/28/ransomware-groups-continue-to-target-healthcare-critical-services-heres-how-to-reduce-risk/)
 
-- [Obnovení OneDrivu](https://support.microsoft.com/office/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
+- [Obnovení OneDrive](https://support.microsoft.com/office/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
 
 ## <a name="stop-auto-forwarding-for-email"></a>Zastavení automatického přeposílání e-mailů
 
 Hackeři, kteří získají přístup k poštovní schránce uživatele, získají přístup k e-mailu tak, že nastaví poštovní schránku tak, aby automaticky přeposlala e-maily. Může k tomu dojít i bez vědomí uživatele. Pokud tomu chcete zabránit, nakonfigurujte pravidlo toku pošty.
 
-Pokud chcete vytvořit pravidlo přenosu pošty, podívejte se na [toto krátké video](https://support.microsoft.com/office/f9d693ba-5c78-47c0-b156-8e461e062aa7) nebo postupujte takto:
+Pokud chcete vytvořit pravidlo přenosu pošty, podívejte se na [toto krátké video](../business-video/stop-email-auto-forward.md) nebo postupujte takto:
 
-1. V Centru pro správu Microsoftu 365 vyberte **Centra pro správu** \> **Exchange**.
+1. V Centru Microsoft 365 správy vyberte **Centra pro** správu \> **Exchange**.
 
 2. V **kategorii tok** pošty vyberte **pravidla**.
 
@@ -113,7 +113,7 @@ Pokud chcete vytvořit pravidlo přenosu pošty, podívejte se na [toto krátké
 
 6. Vyberte **Uložit**.
 
-|Nastavení|Upozornění uživatelů před otevřením příloh souborů Office|
+|Nastavení|Upozornit uživatele před otevřením příloh Office souborů|
 |---|---|
 |Name (Název)|Zabránění automatickému přeposílání e-mailů do externích domén|
 |Toto pravidlo použijte, pokud ...|Odesílatel . . . je externí/interní . . . Uvnitř organizace|
@@ -124,11 +124,11 @@ Pokud chcete vytvořit pravidlo přenosu pošty, podívejte se na [toto krátké
 
 ## <a name="protect-your-email-from-phishing-attacks"></a>Ochrana e-mailu před útoky phishing
 
-Pokud jste nakonfigurovali jednu nebo více vlastních domén pro prostředí Office 365 nebo Microsoft 365, můžete nakonfigurovat cílenou anti-phishingovou ochranu. Ochrana proti phishingu, která je součástí programu Microsoft Defender pro Office 365, pomáhá chránit vaši organizaci před útoky phishing založenými na zosobnění a dalšími útoky phishing. Pokud jste nenakonfigurovali vlastní doménu, nemusíte to dělat.
+Pokud jste nakonfigurovali jednu nebo více vlastních domén pro Office 365 nebo Microsoft 365, můžete nakonfigurovat cílenou ochranu proti phishingu. Ochrana proti útokům phishing, která je součástí programu Microsoft Defender pro Office 365, pomáhá chránit vaši organizaci před útoky phishing založenými na zosobnění a dalšími útoky phishing. Pokud jste nenakonfigurovali vlastní doménu, nemusíte to dělat.
 
 Doporučujeme začít s touto ochranou vytvořením zásady, která bude chránit nejdůležitější uživatele a vaši vlastní doménu.
 
-Pokud chcete v Microsoft Defenderu pro Office 365 vytvořit anti-phishingovou zásadu, podívejte se na toto krátké školicí  [video](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)nebo proveďte následující kroky:
+Pokud chcete v programu Microsoft Defender for Office 365 vytvořit anti-phishingovou zásadu, podívejte se na toto krátké školicí [video](../business-video/setup-anti-phishing.md)nebo proveďte následující kroky:
 
 1. Přejděte na [https://protection.office.com](https://protection.office.com).
 
@@ -138,7 +138,7 @@ Pokud chcete v Microsoft Defenderu pro Office 365 vytvořit anti-phishingovou z�
 
 4. Na stránce **Anti-phishing** vyberte **+ Vytvořit**. Spustí se průvodce, který vás provede definováním zásad ochrany proti útokům phishing.
 
-5. Podle doporučení v následující tabulce zadejte název, popis a nastavení zásad. Další informace najdete v tématu [Informace o zásadách ochrany před útoky phishing v aplikaci Microsoft Defender pro možnosti Office 365.](../security/office-365-security/set-up-anti-phishing-policies.md)
+5. Podle doporučení v následující tabulce zadejte název, popis a nastavení zásad. Další podrobnosti najdete v tématu [Informace o zásadách ochrany před útoky phishing](../security/office-365-security/set-up-anti-phishing-policies.md)v programu Microsoft Defender Office 365 možnosti.
 
 6. Po prošetřování nastavení zvolte Podle potřeby **možnost** Vytvořit tuto zásadu nebo Uložit.
 
@@ -147,7 +147,7 @@ Pokud chcete v Microsoft Defenderu pro Office 365 vytvořit anti-phishingovou z�
 |Name (Název)|Domain and most valuable campaign staff|
 |Popis|Ujistěte se, že nejdůležitější zaměstnanci a naše doména se nezosobní.|
 |Přidání uživatelů k ochraně|Vyberte **+ Přidat podmínku, příjemce je**. Zadejte uživatelská jména nebo zadejte e-mailovou adresu kandidáta, manažera kampaně a dalších důležitých zaměstnanců. Můžete přidat až 20 interních a externích adres, které chcete chránit před zosobněním.|
-|Přidání domén k ochraně|Vyberte **+ Přidat podmínku, doména příjemce je**. Pokud jste si jednu definovali, zadejte vlastní doménu přidruženou k vašemu předplatnému Microsoft 365. Můžete zadat víc než jednu doménu.|
+|Přidání domén k ochraně|Vyberte **+ Přidat podmínku, doména příjemce je**. Zadejte vlastní doménu přidruženou k předplatnému Microsoft 365, pokud jste si jednu definovali. Můžete zadat víc než jednu doménu.|
 |Volba akcí|Pokud e-mail posílá zosobněný uživatel: Zvolte **Přesměrovat** zprávu na jinou e-mailovou adresu a zadejte e-mailovou adresu správce zabezpečení. například *Alice <span> <span> @contoso.com*. Pokud e-mail odesílá zosobněná doména: Zvolte **Karanténní zpráva**.|
 |Inteligentní funkce poštovní schránky|Ve výchozím nastavení je při vytváření nové anti-phishingové zásady vybraná inteligentní funkce poštovní schránky. Nejlepších výsledků **dosáhnete, když** toto nastavení necháte na.|
 |Přidání důvěryhodných odesílatelů a domén|Tady můžete přidat vlastní doménu nebo jiné důvěryhodné domény.|
@@ -155,9 +155,9 @@ Pokud chcete v Microsoft Defenderu pro Office 365 vytvořit anti-phishingovou z�
 
 ## <a name="protect-against-malicious-attachments-and-files-with-safe-attachments"></a>Ochrana před škodlivými přílohami a soubory pomocí bezpečných příloh
 
-Lidé pravidelně posílají, přijímají a sdílejí přílohy, jako jsou dokumenty, prezentace, tabulky a další. Není vždycky snadné zjistit, jestli je příloha bezpečná nebo škodlivá, jenom když se podíváme na e-mailovou zprávu. Program Microsoft Defender pro Office 365 obsahuje ochranu bezpečných příloh, ale tato ochrana není ve výchozím nastavení zapnutá. Doporučujeme vytvořit nové pravidlo, abyste mohli tuto ochranu začít používat. Tato ochrana se vztahuje na soubory v SharePointu, OneDrivu a Microsoft Teams.
+Lidé pravidelně posílají, přijímají a sdílejí přílohy, jako jsou dokumenty, prezentace, tabulky a další. Není vždycky snadné zjistit, jestli je příloha bezpečná nebo škodlivá, jenom když se podíváme na e-mailovou zprávu. Program Microsoft Defender pro Office 365 obsahuje ochranu bezpečných příloh, ale tato ochrana není ve výchozím nastavení zapnutá. Doporučujeme vytvořit nové pravidlo, abyste mohli tuto ochranu začít používat. Tato ochrana se vztahuje na soubory v SharePoint, OneDrive a Microsoft Teams.
 
-Pokud chcete vytvořit zásadu bezpečné přílohy, podívejte se na toto [krátké video](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)nebo proveďte následující kroky:
+Pokud chcete vytvořit zásadu bezpečné přílohy, podívejte se na toto [krátké video](../business-video/safe-attachments.md)nebo proveďte následující kroky:
 
 1. Přejděte na [https://protection.office.com](https://protection.office.com) a přihlaste se pomocí svého účtu správce.
 
@@ -181,11 +181,11 @@ Pokud chcete vytvořit zásadu bezpečné přílohy, podívejte se na toto [krá
 |Přesměrování přílohy při zjišťování|Povolte přesměrování (zaškrtněte toto políčko) Zadejte účet správce nebo nastavení poštovní schránky pro karanténu.          Použijte výše uvedený výběr v případě, že dojde k malwarové kontrole příloh nebo dojde k chybě (zaškrtněte toto políčko).|
 |Platí pro|Doména příjemce je . . . vyberte doménu.|
 
-Další informace najdete v tématu [Nastavení zásad ochrany před útoky phishing v programu Microsoft Defender pro Office 365](../security/office-365-security/set-up-anti-phishing-policies.md).
+Další informace najdete v tématu [Nastavení anti-phishingových zásad v programu Microsoft Defender pro Office 365](../security/office-365-security/set-up-anti-phishing-policies.md).
 
 ## <a name="protect-against-phishing-attacks-with-safe-links"></a>Ochrana před útoky phishing pomocí bezpečných odkazů
 
-Hackeři někdy skryj škodlivé weby v odkazech v e-mailu nebo jiných souborech. Bezpečné odkazy, které jsou součástí programu Microsoft Defender pro Office 365, pomáhají chránit vaši organizaci tím, že v e-mailových zprávách a dokumentech Office poskytují ověření webových adres (URL) po kliknutí. Ochrana je definovaná prostřednictvím zásad bezpečných odkazů.
+Hackeři někdy skryj škodlivé weby v odkazech v e-mailu nebo jiných souborech. Bezpečné odkazy, které jsou součástí programu Microsoft Defender pro Office 365, pomáhají chránit vaši organizaci tím, že vám v e-mailových zprávách a Office dokumentech pomůžou ověření webových adres (URL). Ochrana je definovaná prostřednictvím zásad bezpečných odkazů.
 
 Doporučujeme provést následující akce:
 
@@ -193,7 +193,7 @@ Doporučujeme provést následující akce:
 
 - Přidejte novou zásadu, která je zaměřená na všechny příjemce ve vaší doméně.
 
-Pokud chcete nastavit bezpečné odkazy, podívejte se na [toto krátké](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)školicí video nebo proveďte následující kroky:
+Pokud chcete nastavit bezpečné odkazy, podívejte se na [toto krátké](../business-video/safe-links.md)školicí video nebo proveďte následující kroky:
 
 1. Přejděte na [https://protection.office.com](https://protection.office.com) a přihlaste se pomocí svého účtu správce.
 
@@ -205,7 +205,7 @@ Změna výchozí zásady:
 
 1. Na stránce Bezpečné odkazy vyberte v části **Zásady,** které platí pro celou organizaci, **výchozí** zásadu.
 
-2. V **části Nastavení, která se vztahují** na obsah kromě e-mailu, vyberte **Microsoft 365 Apps pro podniky, Office pro iOS a Android.**
+2. V **Nastavení, které se vztahují na obsah kromě** **e-mailu, vyberte Microsoft 365 Apps pro velké organizace, Office pro iOS** a Android.
 
 3. Vyberte **Uložit**.
 
@@ -232,6 +232,6 @@ Další informace najdete v tématu [Bezpečné odkazy](../security/office-365-s
 
 2. Vyberte **Všechny služby** a do vyhledávacího pole *zadejte Intune.*
 
-3. Jakmile se zobrazí výsledky, vyberte začátek vedle **Microsoft Intune,** aby byl oblíbený a později ho snadno najdete.
+3. Jakmile se zobrazí výsledky, vyberte  začátek vedle Microsoft Intune, aby byl oblíbený a později se snadno našel.
 
-Kromě Centra pro správu můžete pomocí Intune zaregistrovat a spravovat zařízení vaší organizace. Další informace najdete v tématu [Možnosti podle způsobu](/intune/enrollment/enrollment-method-capab) registrace zařízení s Windows a Možnosti registrace zařízení [spravovaných Intune](/intune/enrollment-options).
+Kromě Centra pro správu můžete pomocí Intune zaregistrovat a spravovat zařízení vaší organizace. Další informace najdete v tématu [Možnosti podle](/intune/enrollment/enrollment-method-capab) způsobu registrace Windows zařízení a Možnosti registrace pro zařízení [spravovaná Přes Intune](/intune/enrollment-options).

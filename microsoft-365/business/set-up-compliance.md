@@ -22,16 +22,16 @@ search.appverid:
 - BCS160
 - MET150
 description: Nastavte funkce dodržování předpisů, abyste zabránili ztrátě dat a zajistili zabezpečení citlivých informací vašich zákazníků.
-ms.openlocfilehash: c0accc37d3dcda9ba75813f01a98a3233c5a8369
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: 945f8a283b90b89da2fbe67a073e0807b80d198f
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579948"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52245078"
 ---
 # <a name="set-up-compliance-features"></a>Nastavení funkcí dodržování předpisů
 
-Microsoft 365 Business Premium obsahuje funkce, které chrání vaše data a zařízení a pomáhají vám udržet citlivé informace vašich zákazníků v bezpečí.
+Váš Microsoft 365 Business Premium obsahuje funkce, které chrání vaše data a zařízení a pomáhají vám udržet citlivé informace vašich zákazníků v bezpečí.
 
 ## <a name="set-up-dlp-features"></a>Nastavení funkcí DLP
 
@@ -39,9 +39,9 @@ Příklad [nastavení zásad](../compliance/create-a-dlp-policy-from-a-template.
   
 Funkce DLP obsahuje mnoho šablon zásad připravených k použití pro mnoho různých národní prostředí. Například Australia Financial Data, Canada Personal Information Act, US Financial Data a tak dále. Úplný [seznam najdete v tématu Co](../compliance/what-the-dlp-policy-templates-include.md) šablony zásad ochrany před únikem informací obsahují. Všechny tyto šablony můžete povolit podobně jako v příkladu šablony PII. 
   
-## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Nastavení uchovávání e-mailů pomocí archivace Exchange Online
+## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Nastavení uchovávání e-mailů pomocí Exchange Online – archiv
 
- **Funkce licencí pro archivaci Exchange Online** pomáhají udržovat dodržování předpisů a regulační normy zachováním e-mailového obsahu pro eDiscovery. Pomáhá také snížit riziko v případě, že dojde k soudnímu sporu, a umožňuje obnovit data po porušení zabezpečení nebo v případě, že potřebujete obnovit odstraněné položky. Blokování soudních sporů můžete použít k zachování veškerého obsahu uživatele nebo pomocí zásad uchovávání informací můžete přizpůsobit to, co chcete zachovat.
+ **Exchange Online – archiv** licenční funkce pomáhají udržovat dodržování předpisů a regulační standardy zachováním e-mailového obsahu pro eDiscovery. Pomáhá také snížit riziko v případě, že dojde k soudnímu sporu, a umožňuje obnovit data po porušení zabezpečení nebo v případě, že potřebujete obnovit odstraněné položky. Blokování soudních sporů můžete použít k zachování veškerého obsahu uživatele nebo pomocí zásad uchovávání informací můžete přizpůsobit to, co chcete zachovat.
   
 **Blokování z důvodu soudního sporu:** Veškerý obsah poštovní schránky včetně odstraněných položek můžete zachovat tak, že celou poštovní schránku uživatele zadržíte. 
     
@@ -49,7 +49,7 @@ Pokud chcete poštovní schránku umístit do blokování soudních sporů, v Ce
     
 1. V levém navigačním panelu přejděte na **Uživatelé** \> **aktivních uživatelů**.
     
-2. Vyberte uživatele, jehož poštovní schránku chcete umístit do blokování soudních sporů. V podokně uživatelů rozbalte Nastavení **pošty** a vedle další **nastavení** zvolte **Upravit vlastnosti Exchange.**
+2. Vyberte uživatele, jehož poštovní schránku chcete umístit do blokování soudních sporů. V podokně uživatelů rozbalte Nastavení **pošty** a vedle další nastavení **zvolte** Upravit Exchange **vlastností**.
     
 3. Na stránce poštovní schránky pro uživatele zvolte ** Funkce poštovní schránky ** v levém navigačním panelu a pak zvolte **odkaz** Povolit v části **Blokování soudních sporů**.
     
@@ -61,7 +61,7 @@ Pokud chcete poštovní schránku umístit do blokování soudních sporů, v Ce
 
 Popisky citlivosti jsou vybaveny plánem 1 azure information protection (AIP) a pomáhají klasifikovat a volitelně chránit dokumenty a e-maily použitím štítků. Popisky můžou automaticky používat správci, kteří definují pravidla a podmínky, ručně uživateli nebo pomocí kombinace, ve které jsou uživatelům dána doporučení.
 
-Pokud chcete nastavit popisky citlivosti, podívejte se na video o vytváření [a správě popisků](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) citlivosti.
+Pokud chcete nastavit popisky citlivosti, podívejte se na video o vytváření [a správě popisků](../business-video/create-sensitivity-labels.md) citlivosti.
 
 
 
