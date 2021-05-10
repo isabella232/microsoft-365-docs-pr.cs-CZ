@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Přečtěte si Microsoft 365 pro firmy, jak ho nastavit a jak připravit zařízení a počítače uživatelů, aby se zajistilo, že jsou chráněná Microsoft 365 pro firmy.
-ms.openlocfilehash: cc54147e75a27fbb93255d6f706b4f9044c75858
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: ddf6f8d12587c6fb562a599a41c190ffef32c147
+ms.sourcegitcommit: de5fce90de22ba588e75e1a1d2e87e03b9e25ec7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245118"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "52293701"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Začínáme s Microsoft 365 pro firmy
 
@@ -105,7 +105,7 @@ Pokud si zachováte místní službu Active Directory, která obsahuje některé
   
 - Obraťte se na partnera.
     
-- Jako Microsoft 365 pro firemní správce máte přístup k našemu týmu zákaznické podpory: Kontaktování podpory pro **[firemní produkty - Nápověda pro správce](../admin/contact-support-for-business-products.md)**
+- Jako Microsoft 365 pro firemní správce máte přístup k našemu týmu zákaznické podpory: Kontaktování podpory pro **[firemní produkty - Nápověda pro správce](../business-video/get-help-support.md)**
     
 ## <a name="related-content"></a>Související obsah
 
