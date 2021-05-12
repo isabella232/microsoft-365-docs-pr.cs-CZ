@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Zjistěte, jak přesunout firmu do Microsoft 365 Business Premium z Office 365 E3.
-ms.openlocfilehash: f08b054473fdd63ec2372e81c776a1b64f89fe9d
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 990ca8bdae979f1efb8a60a3460add2953a51892
+ms.sourcegitcommit: 68383240ef7a673d5f28e2ecfab9f105bf1d8c8f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244830"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52327164"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrace z Office 365 E3 na Microsoft 365 Business Premium
 
@@ -39,25 +39,24 @@ Migrace je snadná: Nejdřív přepnete licence a všechna data a informace o u�
 
 Tato tabulka zobrazuje rozdíly mezi Microsoft 365 Business Premium a Office 365 E3.
 
-| Funkce    | Podpora v Microsoft 365 Business Premium    | Podpora v Office 365 E3 | 
+| Funkce    | Podpora v Microsoft 365 Business Premium    | Podpora v Office 365 E3 |
 |:-------|:-----|:-----|
-| **Místní**        | | | 
-| Office aplikace<sup>1</sup>    | Microsoft 365 Apps pro firmy    | Aplikace Microsoft 365 pro podniky | 
-| **Cloudové aplikace pro zvýšení produktivity**        | | | 
-| Exchange Online a Outlook    | Limit úložiště 50 GB na poštovní schránku a neomezený počet Exchange Online – archiv    | Limit úložiště 100 GB na poštovní schránku a neomezený počet Exchange Online – archiv | 
+| **Místní**        | | |
+| Office aplikace<sup>1</sup>    | Microsoft 365 Apps pro firmy    | Aplikace Microsoft 365 pro podniky |
+| **Cloudové aplikace pro zvýšení produktivity**        | | |
+| Exchange Online a Outlook    | Limit úložiště 50 GB na poštovní schránku a neomezený počet Exchange Online – archiv    | Limit úložiště 100 GB na poštovní schránku a neomezený počet Exchange Online – archiv |
 | Teams    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png) | 
 | OneDrive pro firmy    | Limit úložiště 1 TB na uživatele    | Neomezená | 
 | Yammer, SharePoint Online, Planner, Stream    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png) | 
-| StaffHub    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png) | 
-| MileIQ    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | | 
-| **Ochrana před hrozbou**        | | | 
-| Defender pro Office 365 Plán 1 | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | Není zahrnuto, ale může být přidáno dne | 
-| **Správa identit**        | | | 
-| Samoobslužné resetování hesla pro hybridní účty Azure Active Directory (Azure AD), vícefaktorové ověřování Azure AD (MFA), Podmíněný přístup, zpětný zápis hesel pro místní identity|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
+| StaffHub    | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png) |
+| **Ochrana před hrozbou**        | | |
+| Defender pro Office 365 Plán 1 | ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | Není zahrnuto, ale může být přidáno dne |
+| **Správa identit**        | | |
+| Samoobslužné resetování hesla pro hybridní účty Azure Active Directory (Azure AD), vícefaktorové ověřování Azure AD (MFA), Podmíněný přístup, zpětný zápis hesel pro místní identity|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    |  |
 | **Správa zařízení a aplikací**        | | |
 | Microsoft Intune, Windows AutoPilot|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    |  |
 | Aktivace sdíleného počítače|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    | ![Součástí Office 365 E3](../media/check-mark.png)| 
-| Upgradujte práva na Windows 10 Pro z win 7/8.1 Pro licencí|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    || 
+| Upgradujte práva na Windows 10 Pro z win 7/8.1 Pro licencí|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    ||
 | **Ochrana informací**        | | |
 |Office 365 Ochrana před únikem dat|    ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)|![Součástí Office 365 E3](../media/check-mark.png)|
 |Azure Information Protection Plan 1, nástroj BitLocker vynucení|![Součástí Microsoft 365 Business Premium](../media/check-mark.png)||
@@ -96,29 +95,28 @@ Pokud jste upgradovali všechny uživatele ve vaší organizaci na Microsoft 365
 Tento postup můžete provést taky na stránce Zařízení:
   
 1. V Centru pro správu v levém navigačním panelu přejděte na **Zásady** \> **zařízení**.
-    
+
 2. Na stránce **Zásady zařízení** zvolte **Přidat**.
-    
-3. V podokně **Přidat zásadu** pojmete zásadu **a** v rozevíracím seznamu zvolte typ zásady. 
-    
+
+3. V podokně **Přidat zásadu** pojmete zásadu **a** v rozevíracím seznamu zvolte typ zásady.
+
      Můžete nastavit zásady aplikace pro ochranu souborů na zařízeních s Androidem a iPhone a Windows 10 a můžete nastavit zásady konfigurace zařízení pro zařízení vlastněná Windows 10 zařízeními. Podrobnosti najdete v následujících odkazech:
-    
+
   - [Nastavení ochrany aplikací pro zařízení s Androidem nebo iOSem](app-protection-settings-for-android-and-ios.md)
-    
+
   - [Nastavení ochrany aplikací pro zařízení s Windows 10](protection-settings-for-windows-10-devices.md)
-    
+
   - [Nastavení ochrany zařízení pro Windows 10 počítače](protection-settings-for-windows-10-pcs.md)
   
 4. Po nastavení zásad můžete vy i vaši zaměstnanci nastavit zařízení:
-    
+
   - Postup [pro Windows najdete v Windows](set-up-windows-devices.md) Windows zařízení pro Microsoft 365 Business Premium uživatele. 
-    
+
   - Postup pro telefony s [Androidem a iPhony najdete v tématu](set-up-mobile-devices.md) Microsoft 365 Business Premium mobilních zařízení pro uživatele. 
   
 ### <a name="mailbox-size"></a>Velikost poštovní schránky
 
 Microsoft 365 Business Premium má limit úložiště 50 GB, protože používá Exchange Online Plán 1. Při migraci na Microsoft 365 Business Premium, pokud některý z vašich uživatelů překročí 50 GB úložiště poštovních schránek, doporučujeme tomuto uživateli přiřadit plán Exchange Online Plán 2 a odebrat plán Exchange Online 1, protože není možné přiřadit obojí.
-
 
 ### <a name="threat-protection"></a>Ochrana před hrozbou
 
