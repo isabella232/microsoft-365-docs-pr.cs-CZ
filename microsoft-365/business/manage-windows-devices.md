@@ -1,5 +1,5 @@
 ---
-title: Povolení spravování zařízení s Windows 10 připojených k doméně microsoftem 365 pro firmy
+title: Povolte, aby Windows 10 zařízení připojená k doméně spravovaná Microsoft 365 pro firmy
 f1.keywords:
 - CSH
 ms.author: efrene
@@ -23,18 +23,18 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Zjistěte, jak povolit Microsoft 365 k ochraně místních zařízení s Windows 10 připojených ke službě Active Directory v několika krocích.
-ms.openlocfilehash: c9f5a21d993200abcf9ecf1fa236879245e1c153
-ms.sourcegitcommit: 4076b43a4b661de029f6307ddc1a989ab3108edb
+description: Zjistěte, jak Microsoft 365 v několika krocích chránit místní Windows 10 připojených ke službě Active Directory.
+ms.openlocfilehash: f16962dd3c33c3c228da507bc5c4a902d76a8a08
+ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51939496"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52593887"
 ---
-# <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Povolení spravování zařízení s Windows 10 připojených k doméně pomocí Microsoft 365 Business Premium
+# <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Povolte, aby Windows 10 zařízení připojená k doméně spravovaná Microsoft 365 Business Premium
 
-Pokud vaše organizace používá místní službu Windows Server Active Directory, můžete nastavit Microsoft 365 Business Premium tak, aby chránil vaše zařízení s Windows 10, a přitom zachovat přístup k místním prostředkům, které vyžadují místní ověřování.
-Pokud chcete nastavit tuto ochranu, můžete implementovat hybridní **zařízení připojená ke službě Azure AD.** Tato zařízení jsou připojená k místní službě Active Directory i k azure active directory.
+Pokud vaše organizace používá místní službu Windows Server Active Directory, můžete nastavit Microsoft 365 Business Premium tak, aby chránil vaše zařízení Windows 10, a přitom zachovat přístup k místním prostředkům, které vyžadují místní ověřování.
+Pokud chcete nastavit tuto ochranu, můžete implementovat hybridní **zařízení připojená ke službě Azure AD.** Tato zařízení jsou připojená k místní službě Active Directory i k Azure Active Directory.
 
 Toto video popisuje postup, jak to nastavit pro nejběžnější scénář, který je také podrobně popsaný v následujících krocích.
 
@@ -42,23 +42,23 @@ Toto video popisuje postup, jak to nastavit pro nejběžnější scénář, kter
   
 
 ## <a name="before-you-get-started-make-sure-you-complete-these-steps"></a>Než začnete, proveďte následující kroky:
-- Synchronizujte uživatele s Azure AD s Azure AD Connect.
-- Dokončete synchronizaci organizační jednotky Azure AD Connect.
-- Ujistěte se, že všichni uživatelé domény, které synchronizujete, mají licence na Microsoft 365 Business Premium.
+- Synchronizujte uživatele s Azure AD s Azure AD Připojení.
+- Dokončete synchronizaci azure AD Připojení organizační jednotky (OU).
+- Ujistěte se, že všichni uživatelé domény, které synchronizujete, mají licence Microsoft 365 Business Premium.
 
 Postup [najdete v tématu Synchronizace uživatelů](manage-domain-users.md) domény s Microsoftem.
 
 ## <a name="1-verify-mdm-authority-in-intune"></a>1. Ověření autority MDM v Intune
 
-Přejděte na [Endpoint Manager a](https://endpoint.microsoft.com/#blade/Microsoft_Intune_Enrollment/EnrollmentMenu/overview) na stránce Microsoft Intune vyberte Registrace zařízení a potom na stránce **Přehled** zkontrolujte, že autorita **MDM** je **Intune**.
+Přejděte na [Endpoint Manager](https://endpoint.microsoft.com/#blade/Microsoft_Intune_Enrollment/EnrollmentMenu/overview) a na Microsoft Intune vyberte Registrace zařízení a potom na stránce **Přehled** zkontrolujte, že autoritou **MDM** je **Intune**.
 
 - Pokud **má autorita MDM** **hodnotu Žádná,** klikněte na autoritu **MDM a** nastavte ji na **Intune.**
-- Pokud je autoritou **MDM** Microsoft Office  **365,** přejděte na Zařízení zaregistrovaná zařízení a pomocí dialogového okna Přidat autoritu MDM vpravo přidejte autoritu Intune MDM (dialogové okno Přidat autoritu MDM je dostupné jenom v případě, že je autorita MDM nastavená na Microsoft Office  >   365).    
+- Pokud je autorita **MDM** **Microsoft Office 365,** přejděte na Zařízení zaregistrovaná zařízení a pomocí dialogového okna Přidat autoritu MDM vpravo přidejte autoritu Intune  >   **MDM** (dialogové okno Přidat autoritu **MDM** je dostupné jenom v případě, že je autorita  **MDM** nastavená na Microsoft Office 365).
 
 ## <a name="2-verify-azure-ad-is-enabled-for-joining-computers"></a>2. Ověřte, jestli je azure AD povolená pro připojení k počítačům
 
-- Přejděte do Centra pro správu a v seznamu Centra pro správu vyberte Azure Active Directory (vyberte Zobrazit vše, pokud <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> Azure Active Directory  **není** viditelný). 
-- V **Centru pro správu Azure Active Directory** přejděte na Azure Active **Directory** , zvolte **Zařízení a** pak Nastavení **zařízení**.
+- Přejděte do Centra pro správu a <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> v seznamu Centra pro správu vyberte **Azure Active Directory** (v seznamu Centra pro správu vyberte Zobrazit vše, Azure Active Directory není **vidět).** 
+- V Centru **Azure Active Directory pro správu** přejděte na **Azure Active Directory** , zvolte **Zařízení a** pak Nastavení **zařízení**.
 - Ověření,**že se uživatelé smí připojit k azure AD, je** povolené 
     1. Pokud chcete povolit všechny uživatele, nastavte na **Vše**.
     2. Pokud chcete povolit konkrétní uživatele, nastavte **vybranou** možnost tak, aby povolte určitou skupinu uživatelů.
@@ -67,8 +67,8 @@ Přejděte na [Endpoint Manager a](https://endpoint.microsoft.com/#blade/Microso
 
 ## <a name="3-verify-azure-ad-is-enabled-for-mdm"></a>3. Ověřte, jestli je pro MDM povolené Azure AD.
 
-- Přejděte do Centra pro správu a vyberte Správa koncových bodů t (vyberte Zobrazit vše, <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> pokud Endpoint **Manager** není viditelný)  
-- V Centru **pro správu Microsoft Endpoint Manageru** přejděte na Zařízení **s**  >    >  **Windows – automatická**  >  **registrace**.
+- Přejděte do Centra pro správu a vyberte Správa koncových bodů t (vyberte Zobrazit vše, <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> **Endpoint Manager** není vidět)  
+- V Centru **Microsoft Endpoint Manager pro správu** přejděte na **Zařízení,**  >  **Windows**  >  **Windows registrace automatické**  >  **registrace.**
 - Ověřte, jestli je povolený obor uživatele MDM.
 
     1. Pokud chcete zaregistrovat všechny  počítače, nastavte na Vše tak, aby se automaticky zaregistrovaly všechny uživatelské počítače, které jsou připojené k Azure AD, a nové počítače, když uživatelé přidávají pracovní účet do Windows.
@@ -87,16 +87,16 @@ Install-Module SecMgmt
 ```
 
 > [!IMPORTANT]
-> Doporučujeme nainstalovat tento modul na Windows Server se službou Azure AD Connect.
+> Doporučujeme nainstalovat tento modul na server Windows Azure AD Připojení.
 
-Pokud chcete vytvořit požadovaný spojovací bod služby a zásady skupiny, vyvoláte rutinu [Initialize-SecMgmtHybirdDeviceEnrollment.](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) Při provádění tohoto úkolu budete potřebovat přihlašovací údaje globálního správce Microsoftu 365 Business Premium. Až budete připravení vytvořit zdroje, vyvolat následující:
+Pokud chcete vytvořit požadovaný spojovací bod služby a zásady skupiny, vyvoláte rutinu [Initialize-SecMgmtHybirdDeviceEnrollment.](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) Při provádění tohoto úkolu budete Microsoft 365 Business Premium přihlašovací údaje globálního správce. Až budete připravení vytvořit zdroje, vyvolat následující:
 
 ```powershell
 PS C:\> Connect-SecMgmtAccount
 PS C:\> Initialize-SecMgmtHybirdDeviceEnrollment -GroupPolicyDisplayName 'Device Management'
 ```
 
-První příkaz vytvoří spojení s cloudem Microsoftu a po zobrazení výzvy zadejte přihlašovací údaje globálního správce Microsoftu 365 Business Premium.
+První příkaz vytvoří spojení s cloudem Microsoftu a po zobrazení výzvy zadejte přihlašovací údaje Microsoft 365 Business Premium globálního správce.
 
 ## <a name="5-link-the-group-policy"></a>5. Propojení Zásady skupiny
 
@@ -107,11 +107,11 @@ První příkaz vytvoří spojení s cloudem Microsoftu a po zobrazení výzvy z
 
 Pokud nevidíte zásadu Povolit automatickou registraci **MDM** pomocí výchozích přihlašovacích údajů Azure AD , může to být proto, že nemáte admx nainstalovaný pro Windows 10, verzi 1803 nebo novější. Pokud chcete tento problém vyřešit, postupujte takto (Poznámka: nejnovější mdm.admx je zpětně kompatibilní):
 
-1.  Stáhnout: [Šablony pro správu (.admx) pro Windows 10 – aktualizace z října 2020 (20H2).](https://www.microsoft.com/download/102157)
+1.  Stáhnout: [Šablony pro správu (.admx) Windows 10 aktualizace z října 2020 (20H2).](https://www.microsoft.com/download/102157)
 2.  Nainstalujte balíček na řadič domény.
-3.  Přejděte do složky **C:\Program Files (x86)\Microsoft Zásady skupiny\Windows 10. října 2020 Update (20H2)** v závislosti na verzi Šablony pro správu.
+3.  V závislosti na verzi Šablon pro správu přejděte do **složky: C:\Program Files (x86)\Microsoft Zásady skupiny\Windows 10 Aktualizace z října 2020 (20H2).**
 4.  **Přejmenujte složku Definice** zásad ve výše uvedené cestě na **PolicyDefinitions**.
-5.  Zkopírujte **složku PolicyDefinitions** do sdílené složky SYSVOL ve výchozím nastavení umístěnou ve složce **C:\Windows\SYSVOL\domain\Policies**. 
+5.  Zkopírujte **složku PolicyDefinitions** do sdílené složky SYSVOL ve výchozím nastavení umístěnou ve **složce C:\Windows\SYSVOL\domain\Policies**. 
     -   Pokud máte v plánu používat centrální úložiště zásad pro celou doménu, přidejte tam obsah PolicyDefinitions.
 6.  V případě, že máte několik řadičů domény, počkejte, až se funkce SYSVOL replikuje, aby byly zásady dostupné. Tento postup bude fungovat i pro všechny budoucí verze šablon pro správu.
 
@@ -119,4 +119,8 @@ V tomto okamžiku byste měli mít možnost zobrazit zásadu Povolit automaticko
 
 ## <a name="related-content"></a>Související obsah
 
-[Synchronizace uživatelů domény s Microsoft 365](manage-domain-users.md) (článek) Vytvoření skupiny v Centru pro správu (článek) Kurz: Konfigurace hybridního připojení [ke službě Azure Active Directory pro](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) spravované domény (článek) [](../admin/create-groups/create-groups.md)
+[Synchronizace uživatelů domény s Microsoft 365](manage-domain-users.md) (článek)
+
+[Vytvoření skupiny v Centru pro správu](../admin/create-groups/create-groups.md) (článek)
+
+[Kurz: Konfigurace hybridního Azure Active Directory připojení ke spravovaným doménám](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) (článek)

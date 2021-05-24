@@ -26,17 +26,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: Zjistěte, jak nastavit Windows zařízení s Windows 10 Pro pro Microsoft 365 Business Premium, které umožňují centralizovanou správu a ovládací prvky zabezpečení.
-ms.openlocfilehash: 3e268d81ff6fb7113b7e0b0fe5d0545ff5c72b1e
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+description: Nastavte Windows zařízení s Windows 10 Pro pro Microsoft 365 Business Premium a povolte centralizovanou správu a ovládací prvky zabezpečení.
+ms.openlocfilehash: 3d32a033a1a1c89d7d4d557cea6a28e24543ab2c
+ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244770"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52594015"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Nastavení Windows pro Microsoft 365 Business Premium uživatele
 
-## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>Předpoklady pro nastavení Windows pro Microsoft 365 Business Premium uživatele
+## <a name="before-you-begin"></a>Než začnete
 
 Než budete moci nastavit Windows pro Microsoft 365 Business Premium, zkontrolujte, jestli jsou všechna Windows zařízení Windows 10 Pro, verze 1703 (Creators Update). Windows 10 Pro je předpokladem pro nasazení Windows 10 Business, což je sada cloudových služeb a možností správy zařízení, které doplňují Windows 10 Pro a umožňují centralizovanou správu a řízení zabezpečení Microsoft 365 Business Premium.
   
@@ -128,6 +128,6 @@ Ověřte, jestli jsou vaše zařízení připojená Windows 10 Azure AD upgradov
 
 Informace o nastavení mobilních zařízení najdete v tématu Nastavení mobilních zařízení pro [Microsoft 365 Business Premium](set-up-mobile-devices.md)uživatelů , Nastavení ochrany zařízení nebo zásad ochrany aplikací v tématu Správa [Microsoft 365 pro firmy](manage.md).
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>Další informace o nastavení a používání Microsoft 365 Business Premium
+## <a name="related-content"></a>Související obsah
 
-[Microsoft 365 pro firemní školicí videa](../business-video/index.yml)
+[Microsoft 365 pro firemní školicí videa](../business-video/index.yml) (stránka odkazu)
