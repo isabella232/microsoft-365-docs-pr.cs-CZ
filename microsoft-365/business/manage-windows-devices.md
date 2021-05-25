@@ -24,24 +24,26 @@ search.appverid:
 - BCS160
 - MET150
 description: Zjistěte, jak Microsoft 365 v několika krocích chránit místní Windows 10 připojených ke službě Active Directory.
-ms.openlocfilehash: f16962dd3c33c3c228da507bc5c4a902d76a8a08
-ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
+ms.openlocfilehash: ec80159bdceffd8a13d09a297a2acc1b78c9b1b3
+ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52593887"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636080"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Povolte, aby Windows 10 zařízení připojená k doméně spravovaná Microsoft 365 Business Premium
 
 Pokud vaše organizace používá místní službu Windows Server Active Directory, můžete nastavit Microsoft 365 Business Premium tak, aby chránil vaše zařízení Windows 10, a přitom zachovat přístup k místním prostředkům, které vyžadují místní ověřování.
 Pokud chcete nastavit tuto ochranu, můžete implementovat hybridní **zařízení připojená ke službě Azure AD.** Tato zařízení jsou připojená k místní službě Active Directory i k Azure Active Directory.
 
+## <a name="watch-configure-hybrid-azure-active-directory-join"></a>Přehrát: Konfigurace hybridního Azure Active Directory připojení
+
 Toto video popisuje postup, jak to nastavit pro nejběžnější scénář, který je také podrobně popsaný v následujících krocích.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
+## <a name="before-you-begin"></a>Než začnete
 
-## <a name="before-you-get-started-make-sure-you-complete-these-steps"></a>Než začnete, proveďte následující kroky:
 - Synchronizujte uživatele s Azure AD s Azure AD Připojení.
 - Dokončete synchronizaci azure AD Připojení organizační jednotky (OU).
 - Ujistěte se, že všichni uživatelé domény, které synchronizujete, mají licence Microsoft 365 Business Premium.
@@ -119,8 +121,6 @@ V tomto okamžiku byste měli mít možnost zobrazit zásadu Povolit automaticko
 
 ## <a name="related-content"></a>Související obsah
 
-[Synchronizace uživatelů domény s Microsoft 365](manage-domain-users.md) (článek)
-
-[Vytvoření skupiny v Centru pro správu](../admin/create-groups/create-groups.md) (článek)
-
+[Synchronizace uživatelů domény s Microsoft 365](manage-domain-users.md) (článek)\
+[Vytvoření skupiny v Centru pro správu](../admin/create-groups/create-groups.md) (článek)\
 [Kurz: Konfigurace hybridního Azure Active Directory připojení ke spravovaným doménám](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) (článek)

@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: Nastavte Windows zařízení s Windows 10 Pro pro Microsoft 365 Business Premium a povolte centralizovanou správu a ovládací prvky zabezpečení.
-ms.openlocfilehash: 3d32a033a1a1c89d7d4d557cea6a28e24543ab2c
-ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
+ms.openlocfilehash: 7a9c75f6ec14605225d40c103c18e62937e773bf
+ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52594015"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52635868"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Nastavení Windows pro Microsoft 365 Business Premium uživatele
 
@@ -46,7 +46,7 @@ Další informace o upgradu zařízení s Windows na Windows 10 Pro Creators Upd
   
 Informace [o tom, jestli](#verify-the-device-is-connected-to-azure-ad) máte upgrade, najdete v článku Ověření připojení zařízení k Azure AD nebo ověření, jestli upgrade fungoval.
 
-Podívejte se na krátké video o připojení Windows k Microsoft 365.<br><br>
+## <a name="watch-connect-your-pc-to-microsoft-365-business"></a>Přehrát: Připojení počítač k Microsoft 365 Business
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
 

@@ -21,13 +21,13 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Zjistěte, jak přesunout firmu do Microsoft 365 Business Premium z Office 365 E3.
-ms.openlocfilehash: 990ca8bdae979f1efb8a60a3460add2953a51892
-ms.sourcegitcommit: 68383240ef7a673d5f28e2ecfab9f105bf1d8c8f
+description: Pokud máte předplatné Office 365 E3, ale nemáte víc než 300 zaměstnanců, zvažte přechod na Microsoft 365 Business Premium.
+ms.openlocfilehash: d139d07c946ff3efed3db3a73eb5e1a4ae66c190
+ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52327164"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52623599"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrace z Office 365 E3 na Microsoft 365 Business Premium
 
@@ -125,3 +125,12 @@ Po migraci na Microsoft 365 Business Premium máte Defender pro Office 365. Pře
 ### <a name="sensitivity-labels"></a>Štítky utajení
 
 Pokud chcete začít používat [](../compliance/sensitivity-labels.md) popisky citlivosti, podívejte se na téma Přehled popisků citlivosti a vytváření a správa popisků [citlivosti](../business-video/create-sensitivity-labels.md) videa.
+
+## <a name="related-content"></a>Související obsah
+
+[Ruční změna plánů](../commerce/subscriptions/change-plans-manually.md) (článek)\
+[Upgrade Windows zařízení na Windows 10 Pro](upgrade-to-windows-pro-creators-update.md) (video)\
+[Nastavení ochrany aplikací pro zařízení s Androidem nebo iOS](app-protection-settings-for-android-and-ios.md) (článek)\
+[Nastavení nebo úprava nastavení ochrany aplikací pro Windows 10 zařízení](protection-settings-for-windows-10-devices.md) (článek)\
+[]
+

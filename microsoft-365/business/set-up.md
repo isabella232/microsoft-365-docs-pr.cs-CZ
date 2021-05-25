@@ -30,14 +30,16 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Podívejte se na postup nastavení Microsoft 365 Business Premium, včetně přidání domény a uživatelů, nastavení zásad zabezpečení a dalších možností.
-ms.openlocfilehash: 37607b483686fc12ac6253ae9f693ec86c073c4e
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 3e15f16db2a233d2e11d444600398102b075932d
+ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245038"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52624383"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Nastavení Microsoft 365 Business Premium v průvodci nastavením
+
+## <a name="watch-overview-of-microsoft-365-setup"></a>Přehrát: Přehled Microsoft 365 nastavení
 
 V tomto videu najdete přehled Microsoft 365 Business Premium nastavení.<br><br>
 
@@ -131,6 +133,6 @@ Informace o Office na mobilních zařízeních s iOSem nebo Androidem najdete v 
 
 Můžete také nainstalovat Office jednotlivě. Pokyny [najdete v Office instalace na PC nebo Mac.](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658)
 
-## <a name="see-also"></a>Viz také
+## <a name="related-content"></a>Související obsah
 
-[Microsoft 365 pro firemní školicí videa](../business-video/index.yml)
+[Microsoft 365 pro firemní školicí videa](../business-video/index.yml) (stránka odkazu)

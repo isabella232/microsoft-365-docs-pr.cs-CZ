@@ -24,29 +24,27 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
-description: Zjistěte, jak pomocí Windows AutoPilota nastavit nová zařízení s Windows 10 pro vaši firmu, aby byla připravená k použití pro zaměstnance.
-ms.openlocfilehash: cd8777e6ae2e395506d2bf308c99309de1e24805
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Zjistěte, jak Windows autopilota k nastavení nových Windows 10 zařízení pro vaši firmu, aby byla připravená k použití pro zaměstnance.
+ms.openlocfilehash: e178e7df220e89605502d9ed400265bcd963e57e
+ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578521"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636100"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Podrobné pokyny k přidání zařízení a profilů Autopilota
 
-Pomocí Windows AutoPilota můžete nastavit nová zařízení **s** Windows 10 pro vaši firmu, aby byla připravená k použití, když je dáte svým zaměstnancům.
+Pomocí Windows AutoPilot můžete nastavit nová **Windows 10** zařízení pro vaši firmu, aby byla připravená k použití, když je dáte svým zaměstnancům.
   
 ## <a name="device-requirements"></a>Požadavky na zařízení
 
 Zařízení musí splňovat tyto požadavky:
   
-- Windows 10, verze 1703 nebo novější
+- Windows 10 verze 1703 nebo novější
     
-- Nová zařízení, která ještě nevyužíla prostředí Windows
+- Nová zařízení, která ještě Windows prostředí
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Vytvoření zařízení a profilů pomocí průvodce instalací
-
-[![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
 
 Pokud jste skupiny zařízení nebo profily ještě nevytáčili, nejlepší způsob, jak začít, je použití podrobného průvodce. Můžete také [přidávat zařízení a](create-and-edit-autopilot-devices.md) [přiřazovat jim](create-and-edit-autopilot-profiles.md) profily bez použití průvodce. 
   
@@ -60,7 +58,7 @@ Pokud jste skupiny zařízení nebo profily ještě nevytáčili, nejlepší zp�
     
     ![Click Start guide for step-by-step instructions for Autopilot.](../media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   
-3. Na stránce **Upload .csv file with list of devices** (Nahrát soubor .csv se seznamem zařízení) přejděte do umístění, kde máte připravené soubory . Soubor CSV a pak **Otevřít** \> **další**. Soubor musí mít tři záhlaví:
+3. Na Upload .csv **souboru se seznamem** zařízení přejděte do umístění, kde máte připravený soubor .CSV a pak **otevřít** \> **další.** Soubor musí mít tři záhlaví:
     
     - Sloupec A: Sériové číslo zařízení
     
@@ -73,7 +71,7 @@ Pokud jste skupiny zařízení nebo profily ještě nevytáčili, nejlepší zp�
     Další informace najdete v článku [Soubor CSV se seznamem zařízení](../admin/misc/device-list.md). Můžete si také stáhnout ukázkový soubor, který je na stránce **Nahrát soubor .csv obsahující seznam zařízení**. 
     
 > [!NOTE]
-> Tento skript používá službu WMI k načtení vlastností potřebných k registraci zařízení u Windows Autopilota. Všimněte si, že je normální, že výsledný soubor CSV neshromažďuje hodnotu ID produktu Windows (PKID), protože to není nutné k registraci zařízení a PKID je NULL ve výstupním souboru CSV je úplně v pořádku. Vyplní se jenom sériové číslo a hardwarová hodnota hash.
+> Tento skript používá službu WMI k načtení vlastností potřebných k registraci zařízení u Windows Autopilota. Všimněte si, že je normální, že výsledný soubor CSV neshromažďuje hodnotu ID produktu Windows (PKID), protože to není nutné k registraci zařízení a PKID je NULL ve výstupním souboru CSV je zcela v pořádku. Vyplní se jenom sériové číslo a hardwarová hodnota hash.
     
 4. Na **stránce Přiřadit profil** můžete buď vybrat existující profil, nebo vytvořit nový. Pokud ho ještě nemáte, zobrazí se výzva k jeho vytvoření. 
     
@@ -81,11 +79,11 @@ Pokud jste skupiny zařízení nebo profily ještě nevytáčili, nejlepší zp�
     
     Výchozí funkce jsou povinné a automaticky se nastavují. Výchozí funkce:
     
-    - Přeskočte registraci Cortany, OneDrivu a OEM.
+    - Přeskočte cortanu, OneDrive a registraci OEM.
     
     - Vytvoření postupu přihlášení doplněného o značku společnosti.
     
-    - Připojte zařízení k účtům Azure Active Directory a automaticky je zaregistrujte, aby je spravoval Microsoft 365 Business Premium.
+    - Připojení na zařízeních Azure Active Directory účty a automaticky je zaregistrujte, aby je Microsoft 365 Business Premium.
     
     Další informace najdete v tématu [O nastavení profilu AutoPilota](autopilot-profile-settings.md). 
     
@@ -94,3 +92,8 @@ Pokud jste skupiny zařízení nebo profily ještě nevytáčili, nejlepší zp�
     Zvolte **Další**.
     
 6. **Hotovo znamená,** že profil, který jste vytvořili (nebo zvolili) se použije u skupiny zařízení, kterou jste vytvořili tak, že nahrajete seznam zařízení. Nastavení se projeví, když se uživatelé zařízení přihlásí příště. Zvolte **Zavřít**.
+
+## <a name="related-content"></a>Související obsah
+
+[Nastavení profilu AutoPilota](autopilot-profile-settings.md) (článek)\
+[Možnosti ochrany vašich zařízení a dat aplikací](../admin/devices/choose-device-security.md) (článek)
