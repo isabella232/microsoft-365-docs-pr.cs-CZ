@@ -1,5 +1,5 @@
 ---
-title: Upgrade na Microsoft 365 Business Premium z Microsoftu 365 Business Standard
+title: Upgrade na Microsoft 365 Business Premium z Microsoft 365 Business Standard
 f1.keywords:
 - NOCSH
 ms.author: cmcatee
@@ -23,36 +23,36 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
-description: Zjistěte rozdíl mezi Microsoft 365 Business Standardem a Microsoft 365 Business Premium a tím, jak můžete upgradovat na Microsoft 365 Business Premium.
-ms.openlocfilehash: 1f38270c9acb6b803d16bb842140cc6df9cee768
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Zjistěte rozdíl mezi Microsoft 365 Business Standard a Microsoft 365 Business Premium a tím, jak můžete upgradovat na Microsoft 365 Business Premium.
+ms.openlocfilehash: 0968b877820590987f6f3ceca3efbd106b62cbd1
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578301"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52705484"
 ---
-# <a name="upgrade-to-microsoft-365-business-premium-from-microsoft-365-business-standard"></a>Upgrade na Microsoft 365 Business Premium z Microsoftu 365 Business Standard
+# <a name="upgrade-to-microsoft-365-business-premium-from-microsoft-365-business-standard"></a>Upgrade na Microsoft 365 Business Premium z Microsoft 365 Business Standard
 
-Pokud máte předplatné [Microsoft 365 pro](https://products.office.com/compare-all-microsoft-office-products-4-column?activetab=tab:primaryr2)firmy , například Microsoft 365 Business Standard, můžete snadno upgradovat na Microsoft 365 Business Premium. Upgradujte na Microsoft 365 Business Premium, pokud chcete přidat:
+Pokud máte předplatné [Microsoft 365 pro firmy](https://products.office.com/compare-all-microsoft-office-products-4-column?activetab=tab:primaryr2), například Microsoft 365 Business Standard, můžete snadno upgradovat na Microsoft 365 Business Premium. Upgradujte na Microsoft 365 Business Premium, pokud chcete přidat:
 
 - Windows 10 Pro (pro počítače s Windows 8 nebo novějším)
 
 - Jednoduché ovládací prvky, které spravují obchodní data na zařízeních
 
 - Rozšířené možnosti zabezpečení
-Další informace o Microsoft 365 Business Premium najdete na [Microsoft.com](https://www.microsoft.com/microsoft-365/business)
+Další informace o Microsoft 365 Business Premium najdete [na Microsoft.com](https://www.microsoft.com/microsoft-365/business)
 
-## <a name="whats-the-difference-between-microsoft-365-business-standard-and-microsoft-365-business-premium"></a>Jaký je rozdíl mezi Microsoft 365 Business Standardem a Microsoft 365 Business Premium?
+## <a name="whats-the-difference-between-microsoft-365-business-standard-and-microsoft-365-business-premium"></a>Jaký je rozdíl mezi Microsoft 365 Business Standard a Microsoft 365 Business Premium?
 
-Přidali jsme vedle sebe porovnání těchto dvou plánů s popisem služby [Microsoft 365 Business Premium](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description). 
+Přidali jsme vedle sebe porovnání těchto dvou plánů s popisem Microsoft 365 Business Premium [služby.](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) 
 
-## <a name="before-you-get-started"></a>Než začnete
+## <a name="before-you-begin"></a>Než začnete
 
-- **Kdy se mám rozhodnout upgradovat?** Upgrade je správná volba, když chcete upgradovat **všechny uživatele přiřazené** k jednomu plánu. Když zvolíte upgrade, přechádí se všichni uživatelé plánu na jiný plán najednou. Pokud nechcete upgradovat všechny přiřazené k jednomu plánu, kupte si licence pro nový plán (v [](../admin/manage/assign-licenses-to-users.md) tomto případě Microsoft 365 Business Premium) a přiřaďte tyto licence jednotlivým uživatelům, které chcete upgradovat.
+- **Kdy se mám rozhodnout upgradovat?** Upgrade je správná volba, když chcete upgradovat **všechny uživatele přiřazené** k jednomu plánu. Když zvolíte upgrade, přechádí se všichni uživatelé plánu na jiný plán najednou. Pokud nechcete upgradovat všechny přiřazené k jednomu plánu, kupte si licence pro nový plán [](../admin/manage/assign-licenses-to-users.md) (v tomto případě Microsoft 365 Business Premium) a přiřaďte tyto licence jednotlivě každému uživateli, kterého chcete upgradovat.
 
 - **Některé doplňky můžou upgradu zabránit.** Pokud se pokusíte spustit upgrade a máte doplněk, který vám brání v pokračování, můžete ho nejdřív odebrat a později ho přidat zpátky, pokud ho budete dál potřebovat.
 
-- **Pokud jste si předplatili svůj plán** Neexistuje přímočará cesta upgradu pro předplacené plány. Budete vědět, jestli máte předplacený plán, protože jste plán nastavili pomocí ID produktu, které jste si koupili v obchodě. Kontaktujte partnera, přejděte do Microsoft Storu nebo počkejte, až vyprší platnost předplaceného plánu, a přejděte na nový plán.
+- **Pokud jste si předplatili svůj plán** Neexistuje přímočará cesta upgradu pro předplacené plány. Budete vědět, jestli máte předplacený plán, protože jste plán nastavili pomocí ID produktu, které jste si koupili v obchodě. Kontaktujte partnera, přejděte na Microsoft Store nebo počkejte, až vyprší platnost předplaceného plánu, a přejděte na nový plán.
 
 ## <a name="upgrade-to-microsoft-365-business-premium"></a>Upgrade na Microsoft 365 Business Premium
 
@@ -63,9 +63,9 @@ Přidali jsme vedle sebe porovnání těchto dvou plánů s popisem služby [Mic
 3. Na další stránce vyberte **Upgradovat**.
 
   > [!NOTE]
-  > Pokud se zobrazí zpráva s oznámením, že upgrade předplatného není podporován pomocí licencování založených na skupině v **Azure Active Directory,** můžete to bez obav ignorovat, pokud nemáte velkou organizaci. Organizace, které tuto možnost vybraly, budou vědět, že používají licencování založené na skupině.
+  > Pokud se v aplikaci **Azure Active Directory** zobrazí zpráva s oznámením, že upgrade předplatného není podporován licencí založenými na skupině, můžete tuto možnost bez obav ignorovat, pokud nemáte velkou organizaci. Organizace, které tuto možnost vybraly, budou vědět, že používají licencování založené na skupině.
 
-4. Dále můžete zobrazit seznam plánů, na které můžete upgradovat. V takovém případě najděte plán Microsoft 365 Business Premium. Pokud chcete zobrazit všechny aplikace a služby, které jsou součástí tohoto plánu, můžete se posunout dolů. V **části Microsoft 365 Business Premium** vyberte **Upgradovat** a přidejte do košíku Microsoft 365 Business Premium.
+4. Dále můžete zobrazit seznam plánů, na které můžete upgradovat. V takovém případě najděte Microsoft 365 Business Premium plán. Pokud chcete zobrazit všechny aplikace a služby, které jsou součástí tohoto plánu, můžete se posunout dolů. V **Microsoft 365 Business Premium** vyberte **Upgradovat** a přidejte Microsoft 365 Business Premium do košíku.
 
 5. V košíku:
 
@@ -80,11 +80,11 @@ Nastavení nových plánů služeb microsoftu trvá několik minut. Pokud chcete
 8. Až bude plán hotový, budete možná muset v Centru pro správu provést některé další kroky nastavení. V navigačním podokně vyberte **Domů** a dokončete všechny další kroky nastavení.
 
 > [!NOTE]
-> Za licence Microsoft 365, které už nepotřebujete, dostanete hodnověrnou refundaci. Bankovní účet nebo platební karta se vám naúčtuje zhruba dva dny po nastavení nového plánu.
+> Za licence, které už nepotřebujete, dostanete Microsoft 365 refundaci. Bankovní účet nebo platební karta se vám naúčtuje zhruba dva dny po nastavení nového plánu.
   
 ## <a name="protect-user-devices-and-files"></a>Ochrana uživatelských zařízení a souborů
 
-Teď, když máte přiřazené licence Microsoftu 365 Business Premium, proveďte kroky, jak začít chránit zařízení a soubory. Budete používat některé nové možnosti, které jsou součástí navigačního podokna Centra pro správu.
+Teď, Microsoft 365 Business Premium licence byly přiřazeny, proveďte kroky, jak začít chránit zařízení a soubory. Budete používat některé nové možnosti, které jsou součástí navigačního podokna Centra pro správu.
   
 1. V Centru pro správu v navigačním podokně přejděte na **Zásady** \> **zařízení**.
 
@@ -92,18 +92,18 @@ Teď, když máte přiřazené licence Microsoftu 365 Business Premium, proveďt
 
 3. V podokně **Přidat zásadu** pojmete zásadu (například Zamknout pracovní soubory) **a** v rozevíracím seznamu zvolte typ zásady.
 
-    Můžete nastavit zásady aplikace pro ochranu souborů na zařízeních s Androidem a iPhonem i ve Windows 10 a můžete nastavit zásady konfigurace zařízení pro zařízení s Windows 10 vlastněná společností. Podrobnosti najdete v následujících odkazech:
+    Můžete nastavit zásady aplikace pro ochranu souborů na zařízeních s Androidem a iPhone a Windows 10 a můžete nastavit zásady konfigurace zařízení pro zařízení vlastněná Windows 10 zařízeními. Podrobnosti najdete v následujících odkazech:
 
     - [Nastavení ochrany aplikací pro zařízení s Androidem nebo iOSem](app-protection-settings-for-android-and-ios.md)
 
     - [Nastavení ochrany aplikací pro zařízení s Windows 10](protection-settings-for-windows-10-devices.md)
 
-    - [Nastavení ochrany zařízení pro počítače s Windows 10](protection-settings-for-windows-10-pcs.md)
+    - [Nastavení ochrany zařízení pro Windows 10 počítače](protection-settings-for-windows-10-pcs.md)
 
 4. Po nastavení zásad můžete vy i vaši zaměstnanci nastavit zařízení:
 
-    - Pokud vaše zařízení s Windows aktualizaci Windows Pro Creator ještě nepou3/4í, budete je muset upgradovat na [Windows Pro Creators Update](upgrade-to-windows-pro-creators-update.md).
+    - Pokud vaše Windows zařízení ještě aktualizaci Windows Pro Creator, budete je muset upgradovat na Windows Pro [Creators Update](upgrade-to-windows-pro-creators-update.md).
 
-    - Postup pro zařízení s Windows najdete v tématu Nastavení zařízení s Windows pro uživatele [Microsoft 365 Business Premium.](set-up-windows-devices.md)
+    - Postup [pro Windows najdete v Windows](set-up-windows-devices.md) Windows zařízení pro Microsoft 365 Business Premium uživatele.
 
-    - Postup pro telefony s Androidem a iPhony najdete v tématu Nastavení mobilních zařízení pro uživatele [Microsoftu 365 Business Premium.](set-up-mobile-devices.md)
+    - Postup pro telefony s [Androidem a iPhony najdete v tématu](set-up-mobile-devices.md) Microsoft 365 Business Premium mobilních zařízení pro uživatele.
