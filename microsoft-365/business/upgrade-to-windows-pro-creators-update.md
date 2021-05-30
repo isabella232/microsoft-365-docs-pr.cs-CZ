@@ -26,16 +26,16 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: Objevte způsoby, jak můžete upgradovat Windows zařízení tak, Windows 10 Pro využívat pokročilejší funkce zabezpečení a podnikové sítě.
-ms.openlocfilehash: 0ed24f3560832890c1ba26f89ecbcd1f2ef7b098
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 14a1705a333b2fd4d4dda37ed5170b34acb13abe
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244730"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52705548"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Upgrade Windows zařízení na Windows 10 Pro
 
-Podívejte se na krátké video o upgradu Windows zařízení na Windows 10 Pro.<br><br>
+## <a name="watch-upgrade-windows-10-home-to-windows-10-pro"></a>Přehrát: Upgrade Windows 10 Home na Windows 10 Pro
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
@@ -56,9 +56,11 @@ Pokud chcete upgradovat na Windows 10 Pro, máte několik možností. Můžeš:
 > [!NOTE]
 > Pokud máte zařízení Windows s Windows 7 Pro, Windows 8 Pro nebo Windows 8.1 Pro, vaše předplatné Microsoft 365 pro firmy vás opravňuje k upgradu Windows Pro 10.
     
-Podívejte [se na Windows zařízení pro Microsoft 365 pro firemní](set-up-windows-devices.md) uživatele a dokončete nastavení Windows 10 zařízení. 
+## <a name="next-steps"></a>Další kroky
+
+Pokud chcete dokončit nastavení Windows 10 zařízení, podívejte se na Windows [zařízení pro Microsoft 365 pro firemní uživatele](set-up-windows-devices.md). 
   
-Viz [Nastavení mobilních zařízení pro Microsoft 365 pro firemní uživatele a](set-up-mobile-devices.md) dokončete nastavení zařízení s Androidem a iOS. 
+Informace o dokončení nastavení zařízení s Androidem a iOS najdete v tématu Nastavení mobilních zařízení [pro Microsoft 365 pro firemní uživatele](set-up-mobile-devices.md). 
   
 ## <a name="related-content"></a>Související obsah
 

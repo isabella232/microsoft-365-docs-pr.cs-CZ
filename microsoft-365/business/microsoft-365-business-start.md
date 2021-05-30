@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Přečtěte si Microsoft 365 pro firmy, jak ho nastavit a jak připravit zařízení a počítače uživatelů, aby se zajistilo, že jsou chráněná Microsoft 365 pro firmy.
-ms.openlocfilehash: ddf6f8d12587c6fb562a599a41c190ffef32c147
-ms.sourcegitcommit: de5fce90de22ba588e75e1a1d2e87e03b9e25ec7
+ms.openlocfilehash: be5f0e74b71f412bf647e4ef0e496cd932fc306a
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "52293701"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52706452"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Začínáme s Microsoft 365 pro firmy
 
@@ -41,7 +41,7 @@ ms.locfileid: "52293701"
 
 Microsoft 365 pro firmy je komplexní sada nástrojů pro firemní produktivitu a spolupráci, jako jsou Outlook, Word, Excel a další produkty Office, které jsou vždy aktuální. Pracovní soubory můžete chránit na všech svých zařízeních s iOSem, Androidem a Windows 10 s podnikovým zabezpečením, které se snadno spravuje.
 
-V tomto videu najdete rychlý přehled Microsoft 365 pro firmy.<br><br>
+## <a name="watch-what-is-microsoft-365-business-premium"></a>Přehrát: Co je Microsoft 365 Business Premium
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
@@ -61,7 +61,7 @@ Následující diagram popisuje, jak správci Microsoft 365 pro firmy. Popisuje 
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
-V tomto videu najdete přehled nastavení Microsoft 365 pro firmy.<br><br>
+## <a name="watch-set-up-microsoft-365-business"></a>Přehrát: Nastavení Microsoft 365 Business
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
@@ -109,8 +109,7 @@ Pokud si zachováte místní službu Active Directory, která obsahuje některé
     
 ## <a name="related-content"></a>Související obsah
 
-[Microsoft 365 pro obchodní dokumentaci a zdroje informací](./index.yml)
-  
-[Správa Microsoft 365 pro firmy](manage.md)[Migrace Microsoft 365 pro firmy](migrate-to-microsoft-365-business.md)
-
-[Microsoft 365 pro firemní školicí videa](../business-video/index.yml)
+[Microsoft 365 pro obchodní dokumentaci](./index.yml) a zdroje (stránka odkazu)\
+[Správa Microsoft 365 pro firmy](manage.md) (článek)\
+[Migrace na Microsoft 365 pro firmy](migrate-to-microsoft-365-business.md) (článek)\
+[Microsoft 365 pro firemní školicí videa](../business-video/index.yml) (stránka odkazu)
