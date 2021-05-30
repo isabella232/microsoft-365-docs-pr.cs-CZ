@@ -28,13 +28,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Přečtěte si informace o Microsoftu 365 Business Premium, službě předplatného, která zahrnuje kancelářské aplikace Office a rozšířenou ochranu vaší firmy před kybernetickými hrozbami.
-ms.openlocfilehash: a355c9856ead4a66f6876cc7cb5aa8eb469d7f12
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+description: Přečtěte si informace o Microsoftu 365 Business Premium, předplacené službě, která zahrnuje aplikace Office a rozšířenou ochranu před kybernetickými hrozbami.
+ms.openlocfilehash: e4a182c5dd5444392486dd137e70361e880534bd
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244850"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52705516"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Přehled předplatného Microsoftu 365 Business Premium
 
@@ -42,7 +42,7 @@ ms.locfileid: "52244850"
 
 Microsoft 365 Business Premium (dříve Microsoft 365 Business) je komplexní služba předplatného pro firmy s méně než 300 zaměstnanci. Spojuje v sobě vaše oblíbené kancelářské aplikace a služby Office a nástroje pro spolupráci, například Microsoft Teams, s pokročilými funkcemi zabezpečení a správy zařízení.
 
-Podívejte se na toto video se stručným přehledem Microsoftu 365 Business Premium.<br><br>
+## <a name="watch-what-is-microsoft-365-business-premium"></a>Video: Co je Microsoft 365 Business Premium
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
@@ -105,7 +105,7 @@ Vaše **zařízení jsou zabezpečena** těmito způsoby:
 
 Úplný seznam funkcí zabezpečení najdete v článku věnovaném [funkcím zabezpečení Microsoftu 365 Business Premium](security-features.md). Po části týkající se [nastavení Microsoftu 365 Business Premium](set-up.md) si přečtěte část věnovanou [zvýšení ochrany před hrozbami](increase-threat-protection.md) a [nastavení funkcí dodržování předpisů](set-up-compliance.md), abyste zjistili, jak začít využívat funkce zabezpečení, které nejsou součástí nastavení pomocí průvodce. Přečtěte si také článek věnovaný [10 hlavním způsobům zabezpečení plánů Office 365 a Microsoft 365 Business Premium](/office365/admin/security-and-compliance/secure-your-business-data), kde získáte dobrý přehled o tom, jak nastavit ochranu před kyberzločinci a hackery.
 
-## <a name="get-microsoft-365-business-premium"></a>Získat Microsoft 365 Business Premium
+## <a name="next-steps"></a>Další kroky
 
 - Pokud máte partnera, získá partner Microsoft 365 Business Premium: [Získat Microsoft 365 Business Premium z partnerského centra Microsoftu](get-microsoft-365-business.md).
 
