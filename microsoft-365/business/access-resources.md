@@ -20,43 +20,43 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
-description: Zjistěte, jak získat přístup k místním prostředkům, jako jsou obchodní aplikace, sdílené složky a tiskárny z zařízení s Windows 10 připojeného k Azure Active Directory.
-ms.openlocfilehash: 27549d6c3b03413f2f05c69845caad155333ca97
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Zjistěte, jak získat přístup k místním prostředkům, jako jsou obchodní aplikace, sdílené složky a tiskárny z Azure Active Directory připojeného Windows 10 zařízení.
+ms.openlocfilehash: 72b3c5ae538cad24fc12e25717dedccb2fdc9017
+ms.sourcegitcommit: 4fb1226d5875bf5b9b29252596855a6562cea9ae
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580308"
+ms.lasthandoff: 06/08/2021
+ms.locfileid: "52843316"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Přístup k místním prostředkům ze zařízení připojeného k Azure AD v Microsoft 365 Business Premium
 
 Tento článek se týká Microsoft 365 Business Premium.
 
-Všechna zařízení s Windows 10, ke které je připojená služba Azure Active Directory, má přístup ke všem cloudovým prostředkům, jako jsou vaše aplikace Microsoft 365, a může být chráněno službou Microsoft 365 Business Premium. Můžete také povolit přístup k místním prostředkům, jako jsou obchodní aplikace, sdílené složky souborů a tiskárny. Pokud chcete povolit přístup, [použijte Azure AD Connect](/azure/active-directory/connect/active-directory-aadconnect) k synchronizaci místní služby Active Directory s Azure Active Directory. 
+Každé Windows 10 zařízení, které je Azure Active Directory připojené, má přístup ke všem cloudovým prostředkům, jako jsou vaše aplikace Microsoft 365, a může být chráněno Microsoft 365 Business Premium. Můžete také povolit přístup k místním prostředkům, jako jsou obchodní aplikace, sdílené složky souborů a tiskárny. Pokud chcete povolit přístup, použijte [Azure AD Připojení](/azure/active-directory/connect/active-directory-aadconnect) k synchronizaci místního adresáře Active Directory s Azure Active Directory.
 
 Další informace najdete v tématu [Úvod ke správě zařízení v Azure Active Directory](/azure/active-directory/device-management-introduction).
 Tyto kroky jsou také shrnuty v následujících částech.
- 
-## <a name="run-azure-ad-connect"></a>Spuštění služby Azure AD Connect
+
+## <a name="run-azure-ad-connect"></a>Spuštění služby Azure AD Připojení
 
 Proveďte následující kroky, abyste zařízením připojeným k Azure AD vaší organizace umožnili přístup k místním prostředkům.
-  
-1. Pokud chcete synchronizovat uživatele, skupiny a kontakty z místní služby Active Directory do Azure Active Directory, spusťte Průvodce synchronizací adresářů a Azure AD Connect, jak je popsáno v článku Nastavení synchronizace adresářů pro [Office 365.](../enterprise/set-up-directory-synchronization.md)
-    
-2. Po dokončení synchronizace adresářů se ujistěte, že jsou zařízení s Windows 10 vaší organizace připojená k Azure AD. Tento krok se provádí jednotlivě na každém zařízení s Windows 10. Podrobnosti najdete v tématu Nastavení zařízení s Windows pro [uživatele Microsoft 365 Business Premium.](set-up-windows-devices.md) 
-    
-3. Jakmile jsou zařízení s Windows 10 připojená k Azure AD, musí každý uživatel restartovat svá zařízení a přihlásit se pomocí přihlašovacích údajů Microsoft 365 Business Premium. Všechna zařízení teď mají přístup i k místním prostředkům.
-    
-K získání přístupu k místním prostředkům pro zařízení připojená k Azure AD nejsou potřeba žádné další kroky. Tato funkce je integrovaná ve Windows 10. 
 
-Pokud máte v plánu přihlásit se k jinému zařízení AADJ, než je metoda hesla, třeba PIN/Biometric přes přihlašovací údaje WHFB, a pak získat přístup k místním prostředkům (sdílené složky, tiskárny.). atd.), postupujte podle https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
-  
+1. Pokud chcete synchronizovat uživatele, skupiny a kontakty z místní služby Active Directory do Azure Active Directory, spusťte Průvodce synchronizací adresářů a Azure AD Připojení, jak je popsáno v článku Nastavení synchronizace adresářů pro [Office 365](../enterprise/set-up-directory-synchronization.md).
+
+2. Po dokončení synchronizace adresářů se ujistěte, že jsou vaše Windows 10 připojená k Azure AD. Tento krok se provádí jednotlivě na každém Windows 10 zařízení. Podrobnosti [najdete v Windows zařízení pro Microsoft 365 Business Premium uživatele.](set-up-windows-devices.md)
+
+3. Jakmile jsou Windows 10 připojená k Azure AD, musí každý uživatel restartovat svá zařízení a přihlásit se pomocí svých přihlašovacích Microsoft 365 Business Premium přihlašovacích údajů. Všechna zařízení teď mají přístup i k místním prostředkům.
+
+K získání přístupu k místním prostředkům pro zařízení připojená k Azure AD nejsou potřeba žádné další kroky. Tato funkce je integrovaná v Windows 10.
+
+Pokud máte v plánu přihlásit se k jinému zařízení AADJ než k metodě hesla, jako je PIN/Biometric přes přihlašovací údaje WHFB, a pak získat přístup k místním prostředkům (sdílené složky, tiskárny atd.), postupujte podle tohoto [článku.](/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base)
+
 Pokud vaše organizace není připravená nasadit v konfiguraci zařízení připojené k Azure AD popsané výše, zvažte nastavení konfigurace zařízení připojeného k hybridní službě [Azure AD.](manage-windows-devices.md)
-  
-### <a name="considerations-when-you-join-windows-devices-to-azure-ad"></a>Důležité informace při připojení zařízení s Windows k Azure AD
 
-Pokud zařízení s Windows, ke které jste připojili Azure-AD, bylo dříve připojené k doméně nebo v pracovní skupině, zvažte následující omezení:
-  
+### <a name="considerations-when-you-join-windows-devices-to-azure-ad"></a>Důležité informace při připojení Windows k Azure AD
+
+Pokud Windows zařízení, ke které jste připojili Azure-AD, dřív připojené k doméně nebo v pracovní skupině, zvažte následující omezení:
+
 - Když se zařízení Azure AD připojí, vytvoří nového uživatele bez odkazu na existující profil. Profily se musí migrovat ručně. Profil uživatele obsahuje informace, jako jsou oblíbené položky, místní soubory, nastavení prohlížeče a nastavení nabídky Start. Nejlepším přístupem je najít nástroj jiného výrobce, který namapuje existující soubory a nastavení na nový profil.
 
 - Pokud zařízení používá objekty Zásady skupiny (GPO), nemusí některé objekty zásad skupiny v Intune mít srovnatelného poskytovatele služeb konfigurace. [](/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) Spusťte nástroj [MMAT,](https://www.microsoft.com/download/details.aspx?id=45520) abyste našli srovnatelné csP pro stávající objekty zásad skupiny.
@@ -67,4 +67,4 @@ Pokud zařízení s Windows, ke které jste připojili Azure-AD, bylo dříve p�
 
 ### <a name="related-articles"></a>Související články
 
-[Předpoklady pro Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
+[Předpoklady pro Azure AD Připojení](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
