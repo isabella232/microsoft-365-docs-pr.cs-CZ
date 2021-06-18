@@ -25,12 +25,12 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Zjistěte, jak vytvářet, upravovat nebo odstraňovat zásady správy aplikací a jak chránit pracovní soubory na zařízeních s Androidem nebo iOS.
-ms.openlocfilehash: 2e157737990c7aca6e87a676e90f62f0d40ad372
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: 92dce1e8761e53b85df85f2a84f30ab307f63e6d
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580288"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52925057"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Nastavení ochrany aplikací pro zařízení s Androidem nebo iOSem
 
@@ -46,7 +46,7 @@ Tento článek se týká Microsoft 365 Business Premium.
     
 4. V **části Typ zásad** zvolte Správa aplikací pro **Android** nebo Správa aplikací pro **iOS** podle toho, kterou sadu zásad chcete vytvořit. 
     
-5. Rozbalte **položku Chránit pracovní soubory při** ztrátě nebo odcizení zařízení a Správa přístupu uživatelů k **souborům Office na mobilních zařízeních.** Nakonfigurujte nastavení podle toho, jak chcete. **Ve výchozím nastavení můžete** spravovat,  jak uživatelé přistupují k souborům Office na mobilních zařízeních, ale doporučujeme ho **zapnout** a přijmout výchozí hodnoty. Další informace najdete v tématu [Dostupná nastavení](#available-settings). 
+5. Rozbalte **Zamknout pracovní soubory při** ztrátě nebo odcizení zařízení a Správa přístupu uživatelů **Office souborů na mobilních zařízeních**. Nakonfigurujte nastavení podle toho, jak chcete. **Ve výchozím nastavení můžete Office** přístup k  souborům na mobilních zařízeních  vypnutý, ale doporučujeme ho zapnout a přijmout výchozí hodnoty. Další informace najdete v tématu [Dostupná nastavení](#available-settings). 
     
     Pokud se chcete vrátit k výchozímu nastavení, použijte odkaz **Obnovit výchozí nastavení**. 
     
@@ -74,30 +74,30 @@ Tento článek se týká Microsoft 365 Business Premium.
     
 ## <a name="available-settings"></a>Dostupná nastavení
 
-Následující tabulky obsahují podrobné informace o dostupných nastaveních pro ochranu pracovních souborů na zařízeních a nastavení, která řídí přístup uživatelů k souborům Office ze svých mobilních zařízení.
+Následující tabulky obsahují podrobné informace o dostupných nastaveních pro ochranu pracovních souborů na zařízeních a nastavení, která řídí přístup uživatelů Office soubory ze svých mobilních zařízení.
   
- Další informace najdete v článku Jak se funkce ochrany v [Microsoft 365 Business Premium mapuje na nastavení Intune](map-protection-features-to-intune-settings.md). 
+ Další informace najdete v tématu Jak se funkce ochrany v [Microsoft 365 Business Premium namapovat na nastavení Intune](map-protection-features-to-intune-settings.md). 
   
 ### <a name="settings-that-protect-work-files"></a>Nastavení chránící pracovní soubory
 
 Pokud se zařízení uživatele ztratí nebo je odcizeno, jsou k dispozici pro ochranu pracovních souborů následující nastavení:
-  
-|||
-|:-----|:-----|
+
+
 |Nastavení  <br/> |Popis  <br/> |
+|:-----|:-----|
 |Odstranit pracovní soubory z neaktivního zařízení za  <br/> |Pokud se zařízení po dobu, po kterou tady zadáte, nepoužít, odstraní se všechny pracovní soubory uložené na zařízení automaticky.  <br/> |
-|Vynucovat, aby uživatelé ukládali všechny pracovní soubory na OneDrive pro firmy  <br/> |Pokud je toto nastavení **na ,** je jediným dostupným umístěním pro ukládání pracovních souborů OneDrive pro firmy.  <br/> |
+|Vynucovat, aby uživatelé ukládali všechny pracovní soubory na OneDrive pro firmy  <br/> |Pokud je toto nastavení **na ,** je pro pracovní soubory k dispozici pouze OneDrive pro firmy.  <br/> |
 |Šifrovat pracovní soubory  <br/> |Toto nastavení nechejte **zapnuté**, aby byly pracovní soubory chráněné šifrováním. I když dojde ke ztrátě nebo odcizení zařízení, nikdo nemůže číst data vaší společnosti.  <br/> |
    
 ### <a name="settings-that-control-how-users-access-office-files-on-mobile-devices"></a>Nastavení spravující přístup uživatelů k souborům Office na mobilních zařízeních
 
 Následující nastavení slouží ke správě přístupu uživatelů k pracovním souborům Office:
-  
-|||
-|:-----|:-----|
+
+
 |Nastavení  <br/> |Popis  <br/> |
-|Vyžadovat pro přístup k aplikacím Office PIN nebo otisk prstu  <br/> |Pokud je toto nastavení **Na,** musí uživatelé před používáním aplikací Office na svých mobilních zařízeních poskytnout kromě uživatelského jména a hesla i jinou formu ověřování.<br/> |
+|:-----|:-----|
+|Vyžadovat pro přístup k aplikacím Office PIN nebo otisk prstu  <br/> |Pokud je toto nastavení **Nastaveno:** Uživatelé musí kromě uživatelského jména a hesla zadat i jinou formu ověřování, aby mohli na svých mobilních zařízeních používat Office aplikace.<br/> |
 |Resetovat PIN po tomto počtu neúspěšných přihlášení  <br/> |Aby se zabránilo náhodnému uhodnutí PINu neoprávněným uživatelem, resetuje se PIN po vámi určeném počtu špatných pokusů.  <br/> |
 |Vyžadovat, aby se uživatelé znovu přihlásili, pokud byly aplikace Office nečinné po dobu  <br/> |Toto nastavení určuje, jak dlouho může být uživatel nečinný, než se zobrazí výzva k opětovnému přihlášení.  <br/> |
 |Odepřít přístup k pracovním souborům ze zařízení s jailbreakem nebo rootem  <br/> |Zruční uživatelé mohou mít zařízení s jailbreakem nebo rootem. To znamená, že takový uživatel může upravovat operační systém, což může zařízení učinit náchylnější vůči malwaru. Když je nastavení **zapnuté**, jsou tato zařízení blokovaná.  <br/> |
-|Nepovolit uživatelům kopírování obsahu z aplikací Office do osobních aplikací  <br/> |Ve výchozím nastavení to povolíme, ale pokud je nastavení **Na**, může uživatel zkopírovat informace v pracovním souboru do osobního souboru. Pokud je nastavení **vypnuté,** nebude uživatel moci zkopírovat informace z pracovního účtu do osobní aplikace nebo osobního účtu.  <br/> |
+|Nepovolovat uživatelům kopírování obsahu z Office aplikací do osobních aplikací  <br/> |Ve výchozím nastavení to povolíme, ale pokud je nastavení **Na**, může uživatel zkopírovat informace v pracovním souboru do osobního souboru. Pokud je nastavení **vypnuté,** nebude uživatel moci zkopírovat informace z pracovního účtu do osobní aplikace nebo osobního účtu.  <br/> |

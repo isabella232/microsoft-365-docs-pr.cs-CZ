@@ -25,13 +25,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c12164c7-6190-4294-b88a-590580c9869a
-description: Přečtěte si o nastaveních dostupných v Microsoftu 365 pro firmy, která chrání pracovní soubory v případě ztráty nebo odcizení zařízení uživatele.
-ms.openlocfilehash: 6b10ce73d3ebe936d3878724783d6076455a3552
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Přečtěte si o nastaveních, která Microsoft 365 pro firmy k ochraně pracovních souborů v případě ztráty nebo odcizení zařízení uživatele.
+ms.openlocfilehash: b640642d7f6ed9c83376f4cb2a0cdaa610e8159b
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578241"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52925293"
 ---
 # <a name="protect-work-files-when-a-mobile-device-is-lost-or-stolen"></a>Ochrana pracovních souborů při ztrátě nebo odcizení mobilního zařízení
 
@@ -40,12 +40,12 @@ ms.locfileid: "51578241"
 ## <a name="settings-that-protect-work-files"></a>Nastavení chránící pracovní soubory
 
 Pokud se zařízení uživatele ztratí nebo je odcizeno, jsou k dispozici pro ochranu pracovních souborů následující nastavení:
-  
-|||
-|:-----|:-----|
+
+
 |Nastavení  <br/> |Popis  <br/> |
+|:-----|:-----|
 |Odstranit pracovní soubory z neaktivního zařízení za  <br/> |Pokud se zařízení po dobu, po kterou tady zadáte, nepoužít, odstraní se automaticky všechny pracovní soubory uložené na zařízení.  <br/> |
-|Vynucovat, aby uživatelé ukládali všechny pracovní soubory na OneDrive pro firmy  <br/> |Pokud je toto nastavení **na ,** je jediným dostupným umístěním pro ukládání pracovních souborů OneDrive pro firmy.  <br/> |
+|Vynucovat, aby uživatelé ukládali všechny pracovní soubory na OneDrive pro firmy  <br/> |Pokud je toto nastavení **na ,** je pro pracovní soubory k dispozici pouze OneDrive pro firmy.  <br/> |
 |Šifrovat pracovní soubory  <br/> |Toto nastavení nechejte **zapnuté**, aby byly pracovní soubory chráněné šifrováním. I když dojde ke ztrátě nebo odcizení zařízení, nikdo nemůže číst data vaší společnosti.  <br/> |
    
 

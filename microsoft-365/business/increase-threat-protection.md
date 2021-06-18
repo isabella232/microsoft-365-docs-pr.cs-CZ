@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Nastavte microsoft defender pro Office 365 a chraňte citlivá data před útoky phishing, malwarem a dalšími hrozbami.
-ms.openlocfilehash: 4b5142efbf4392f017cd9b96f6a9c36ef2000bb7
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: a995063cef6fdc42ad62079d49d58edc9d07b52c
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245138"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52924313"
 ---
 # <a name="increase-threat-protection"></a>Zvýšení ochrany před hrozbou
 
@@ -81,8 +81,8 @@ Vytvoření pravidla přenosu pošty:
 
 6. Vyberte **Uložit**.
 
-|Nastavení|Upozornit uživatele před otevřením příloh Office souborů||
-|---|---|---|
+|Nastavení|Upozornit uživatele před otevřením příloh Office souborů|
+|---|---|
 |Name (Název)|Anti-ransomware rule: warn users|
 |Toto pravidlo použijte, pokud . . .|Jakákoli příloha . . . příponu souboru odpovídá . . .|
 |Zadání slov nebo frází|Přidejte tyto typy souborů:  <br/> tečka, docm, xlsm, sltm, xla, xlam, xll, pptm, potm, ppam, ppsm, sldm|
@@ -101,7 +101,7 @@ Hackeři, kteří získají přístup k poštovní schránce uživatele, získaj
 
 Pokud chcete vytvořit pravidlo přenosu pošty, podívejte se na [toto krátké video](../business-video/stop-email-auto-forward.md) nebo postupujte takto:
 
-1. V Centru Microsoft 365 správy vyberte **Centra pro** správu \> **Exchange**.
+1. V Centrum pro správu služby Microsoft 365 vyberte Centra  \> **pro správu Exchange**.
 
 2. V **kategorii tok** pošty vyberte **pravidla**.
 
@@ -153,19 +153,19 @@ Pokud chcete v programu Microsoft Defender for Office 365 vytvořit anti-phishin
 |Přidání důvěryhodných odesílatelů a domén|Tady můžete přidat vlastní doménu nebo jiné důvěryhodné domény.|
 |Platí pro|Vyberte **Doména příjemce je**. V **části Kterýkoli z těchto** možností vyberte **Zvolit**. Vyberte **+ Přidat**. Zaškrtněte políčko vedle názvu domény, například *contoso. <span> <span> com*, v seznamu a pak vyberte **Přidat**. Vyberte **Hotovo**.|
 
-## <a name="protect-against-malicious-attachments-and-files-with-safe-attachments"></a>Ochrana před škodlivými přílohami a soubory pomocí bezpečných příloh
+## <a name="protect-against-malicious-attachments-and-files-with-safe-attachments"></a>Ochrana před škodlivými přílohami a soubory pomocí Safe přílohy
 
-Lidé pravidelně posílají, přijímají a sdílejí přílohy, jako jsou dokumenty, prezentace, tabulky a další. Není vždycky snadné zjistit, jestli je příloha bezpečná nebo škodlivá, jenom když se podíváme na e-mailovou zprávu. Program Microsoft Defender pro Office 365 obsahuje ochranu bezpečných příloh, ale tato ochrana není ve výchozím nastavení zapnutá. Doporučujeme vytvořit nové pravidlo, abyste mohli tuto ochranu začít používat. Tato ochrana se vztahuje na soubory v SharePoint, OneDrive a Microsoft Teams.
+Lidé pravidelně posílají, přijímají a sdílejí přílohy, jako jsou dokumenty, prezentace, tabulky a další. Není vždycky snadné zjistit, jestli je příloha bezpečná nebo škodlivá, jenom když se podíváme na e-mailovou zprávu. Microsoft Defender pro Office 365 obsahuje Safe příloha, ale tato ochrana není ve výchozím nastavení zapnutá. Doporučujeme vytvořit nové pravidlo, abyste mohli tuto ochranu začít používat. Tato ochrana se vztahuje na soubory v SharePoint, OneDrive a Microsoft Teams.
 
-Pokud chcete vytvořit zásadu bezpečné přílohy, podívejte se na toto [krátké video](../business-video/safe-attachments.md)nebo proveďte následující kroky:
+Pokud chcete vytvořit Safe přílohy, podívejte se na toto [krátké video](../business-video/safe-attachments.md)nebo proveďte následující kroky:
 
 1. Přejděte na [https://protection.office.com](https://protection.office.com) a přihlaste se pomocí svého účtu správce.
 
 2. V Centru dodržování předpisů zabezpečení v levém navigačním podokně &amp; v části Správa **hrozeb** zvolte **Zásady**.
 
-3. Na stránce Zásady zvolte Bezpečné **přílohy**.
+3. Na stránce Policy (Zásady) zvolte **Safe Attachments (Přílohy).**
 
-4. Na stránce Bezpečné přílohy tuto ochranu obecně použijte zaškrtnutím políčka Zapnout atp pro **SharePoint, OneDrive** a Microsoft Teams.
+4. Na stránce Safe přílohy tuto ochranu obecně použijte zaškrtnutím políčka Zapnout atp pro **SharePoint, OneDrive** a Microsoft Teams.
 
 5. Tuto **+** možnost vyberte, pokud chcete vytvořit novou zásadu.
 
@@ -183,9 +183,9 @@ Pokud chcete vytvořit zásadu bezpečné přílohy, podívejte se na toto [krá
 
 Další informace najdete v tématu [Nastavení anti-phishingových zásad v programu Microsoft Defender pro Office 365](../security/office-365-security/set-up-anti-phishing-policies.md).
 
-## <a name="protect-against-phishing-attacks-with-safe-links"></a>Ochrana před útoky phishing pomocí bezpečných odkazů
+## <a name="protect-against-phishing-attacks-with-safe-links"></a>Ochrana před útoky phishing pomocí Safe Odkazů
 
-Hackeři někdy skryj škodlivé weby v odkazech v e-mailu nebo jiných souborech. Bezpečné odkazy, které jsou součástí programu Microsoft Defender pro Office 365, pomáhají chránit vaši organizaci tím, že vám v e-mailových zprávách a Office dokumentech pomůžou ověření webových adres (URL). Ochrana je definovaná prostřednictvím zásad bezpečných odkazů.
+Hackeři někdy skryj škodlivé weby v odkazech v e-mailu nebo jiných souborech. Safe Odkazy, které jsou součástí programu Microsoft Defender pro Office 365, pomáhají chránit vaši organizaci tím, že poskytují ověření webových adres (URL) v e-mailových zprávách a Office dokumentech. Ochrana je definovaná prostřednictvím zásad Safe odkazy.
 
 Doporučujeme provést následující akce:
 
@@ -193,25 +193,25 @@ Doporučujeme provést následující akce:
 
 - Přidejte novou zásadu, která je zaměřená na všechny příjemce ve vaší doméně.
 
-Pokud chcete nastavit bezpečné odkazy, podívejte se na [toto krátké](../business-video/safe-links.md)školicí video nebo proveďte následující kroky:
+Pokud chcete nastavit Safe Odkazy, podívejte se na toto krátké školicí [video](../business-video/safe-links.md)nebo proveďte následující kroky:
 
 1. Přejděte na [https://protection.office.com](https://protection.office.com) a přihlaste se pomocí svého účtu správce.
 
 2. V Centru dodržování předpisů zabezpečení v levém navigačním podokně &amp; v části Správa **hrozeb** zvolte **Zásady**.
 
-3. Na stránce Zásady zvolte Bezpečné **odkazy**.
+3. Na stránce Policy (Zásady) zvolte **Safe Links (Odkazy).**
 
 Změna výchozí zásady:
 
-1. Na stránce Bezpečné odkazy vyberte v části **Zásady,** které platí pro celou organizaci, **výchozí** zásadu.
+1. Na stránce Safe odkazy vyberte v části **Zásady,** které platí pro celou organizaci, **výchozí** zásadu.
 
-2. V **Nastavení, které se vztahují na obsah kromě** **e-mailu, vyberte Microsoft 365 Apps pro velké organizace, Office pro iOS** a Android.
+2. V **Nastavení, které se vztahují na obsah kromě** e-mailu, vyberte **Microsoft 365 Apss pro podniky, Office pro iOS** a Android .
 
 3. Vyberte **Uložit**.
 
 Vytvoření nové zásady zaměřené na všechny příjemce ve vaší doméně:
 
-1. Na stránce Bezpečné odkazy vyberte v části **Zásady,** které platí pro celou organizaci, **+** novou zásadu.
+1. Na Safe odkazy vyberte v části **Zásady,** které platí pro celou organizaci, **+** novou zásadu.
 
 2. Použijte nastavení uvedená v následující tabulce.
 
@@ -219,12 +219,12 @@ Vytvoření nové zásady zaměřené na všechny příjemce ve vaší doméně:
 
 |Nastavení nebo možnost|Doporučené nastavení|
 |---|---|
-|Name (Název)|Zásady bezpečných odkazů pro všechny příjemce v doméně|
+|Name (Název)|Safe odkazy pro všechny příjemce v doméně|
 |Výběr akce pro neznámé potenciálně škodlivé adresy URL ve zprávách|Vyberte **Za– Adresy URL se přepíšou a** zaškrtnou v seznamu známých škodlivých odkazů, když uživatel klikne na odkaz.|
-|Použití bezpečných příloh ke skenování obsahu ke stažení|Toto pole vyberte.|
+|Použití Safe příloh ke skenování obsahu ke stažení|Toto pole vyberte.|
 |Platí pro|Doména příjemce je . . . vyberte doménu.|
 
-Další informace najdete v tématu [Bezpečné odkazy](../security/office-365-security/safe-links.md).
+Další informace najdete v tématu [Safe odkazy](../security/office-365-security/safe-links.md).
 
 ## <a name="go-to-intune-admin-center"></a>Přejděte do Centra pro správu Intune.
 

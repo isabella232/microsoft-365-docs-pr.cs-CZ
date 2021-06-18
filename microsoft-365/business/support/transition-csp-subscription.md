@@ -1,109 +1,110 @@
 ---
-title: Přechod předplatného Microsoft 365 Business CSP
-description: Zjistěte, jak můžete přejít předplatné Microsoft 365 Business CSP z náhledu na obecnou dostupnost (GA).
+title: Přechod předplatného csP Microsoft 365 Business
+description: Zjistěte, jak můžete předplatné csP Microsoft 365 Business přejít z verze Preview na obecnou dostupnost (GA).
 author: jasongroce
 f1.keywords:
 - NOCSH
 ms.custom:
 - seo-marvel-mar
 - AdminSurgePortfolio
-ms.author: jasgro
-ms.topic: article 
+ms.author: jasongroce
+ms.topic: article
+manager: jasonh
 ms.prod: microsoft-365-business
 localization_priority: Normal
-audience: microsoft-business 
-keywords: Microsoft 365 Business, Microsoft 365, SMB, přechod csp předplatné
+audience: microsoft-business
+keywords: Microsoft 365 Firemní, Microsoft 365, SMB, přechodové předplatné CSP
 ms.date: 11/01/2017
-ms.openlocfilehash: 5fc532b4a59d8e94068e7e1bae99bf8edac75abb
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 3f6c71edb50cc3c5509e61a83efb64185c10648d
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403424"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52924997"
 ---
-# <a name="transition-a-microsoft-365-business-csp-subscription"></a>Přechod předplatného Microsoft 365 Business CSP
+# <a name="transition-a-microsoft-365-business-csp-subscription"></a>Přechod předplatného csP Microsoft 365 Business
 
-Pokud máte předplatné CSP pro Microsoft 365 Business Preview, postupujte podle této příručky a zjistěte, jak můžete převést stávající předplatné preview na Microsoft 365 Business GA (obecná dostupnost).
+Pokud máte předplatné Microsoft 365 Business Preview CSP, postupujte podle tohoto průvodce a zjistěte, jak můžete stávající předplatné Preview přejít na ga Microsoft 365 Business (obecná dostupnost).
 
-**Jak převést předplatné předběžné verze na GA**
+**Přechod předplatného preview na GA**
 
-1. Přihlaste se do <a href="https://partnercenter.microsoft.com" target="_blank">Centra partnerů</a>.
-2. Na řídicím panelu vyberte **Zákazníci**a pak vyhledejte a vyberte název společnosti.
+1. Přihlaste se do <a href="https://partnercenter.microsoft.com" target="_blank">Partnerského centra</a>.
+2. Na řídicím panelu vyberte **Zákazníci** a pak najděte a vyberte název společnosti.
 
-    Odběry pro společnost budou uvedeny.
+    Budou uvedená předplatná pro společnost.
 
-    ![Předplatné zákazníka v Partnerském centru](../../media/pc_customer_subscriptions_1.png)
+    ![Předplatná zákazníků v Partnerském centru](../../media/pc_customer_subscriptions_1.png)
     
-3. Na stránce **Předplatná** společnosti vyberte **Přidat předplatné**.
-4. Na stránce **Nové předplatné** vyberte **Malá firma** a ze seznamu vyberte **Microsoft 365 Business.**
-5. Přidejte počet licencí a pak vyberte **Další: Zkontrolujte** předplatné a pak vyberte **Odeslat**.
+3. Na stránce **Předplatná společnosti** vyberte **Přidat předplatné**.
+4. Na stránce **Nové předplatné** vyberte **Malá** firma a v seznamu **Microsoft 365 Business.**
+5. Přidejte počet licencí a pak vyberte **Další: Zkontrolovat,** zkontrolujte předplatné a pak vyberte **Odeslat.**
 
-    ![Kontrola nového předplatného Microsoftu 365 Business](../../media/pc_customer_reviewnewsubscription.png)
+    ![Kontrola nového předplatného Microsoft 365 Business](../../media/pc_customer_reviewnewsubscription.png)
 
-    V **licenčních předplatných** se zobrazí **Microsoft 365 Business Preview** a Microsoft **365 Business**. Předplatné Preview pozastavíte jako další.
+    **Předplatná založená na licencích** se zobrazí **Microsoft 365 Business Preview** a Microsoft 365 **Business**. Předplatné Preview budete dál pozastavit.
 
 6. Vyberte **Microsoft 365 Business Preview**.
-7. Na stránce **Microsoft 365 Business Preview** vyberte **Pozastaveno,** chcete-li předplatné Preview pozastavit.
+7. Na stránce **Microsoft 365 Náhled** firmy vyberte **Pozastaveno** a předplatné Preview pozastavíte.
 
     ![Pozastavení předplatného Microsoft 365 Business Preview](../../media/pc_customer_m365bpreview_suspend.png)
 
-8. Vyberte **Odeslat,** chcete-li potvrdit.
+8. Potvrďte **výběrem** možnosti Odeslat.
 
-    Na stránce **Předplatná** zkontrolujte, zda je ve stavu **Microsoft 365 Business Preview** **zobrazeno pozastaveno**.
+    Na stránce **Předplatná** potvrďte, že se **ve Microsoft 365 Business Preview** zobrazuje stav **Pozastaveno**.
 
-    ![Potvrzení pozastavení stavu předplatného ve verzi Preview](../../media/pc_customer_m365bpreview_suspend_confirm.png)
+    ![Potvrzení, že je stav předplatného Preview pozastavený](../../media/pc_customer_m365bpreview_suspend_confirm.png)
 
-9. Volitelně můžete také ověřit licenční smlouvu. Uděláte to takto:
-    1. Na stránce **Předplatná** společnosti vyberte **Uživatelé a licence.**
-    2. Na stránce **Uživatelé a licence** vyberte uživatele.
-    3. Na stránce uživatele zkontrolujte část **Přiřadit licence** a potvrďte, že se zobrazuje **Microsoft 365 Business**.
+9. Volitelně můžete také ověřit licenční smlouvu. Postupujte takto:
+    1. Na **stránce Předplatná** společnosti vyberte Uživatelé **a** licence.
+    2. Na **stránce Uživatelé** a licence vyberte uživatele.
+    3. Na stránce uživatele zkontrolujte oddíl  Přiřadit licence a ověřte, že se zobrazuje Microsoft 365 **Business**.
 
-        ![Potvrzení přiřazení licence Microsoft 365 Business uživateli](../../media/pc_customer_userslicenses_m365b_validate.png)
+        ![Potvrďte Microsoft 365 že je uživateli přiřazená licence Pro firmy](../../media/pc_customer_userslicenses_m365b_validate.png)
 
-## <a name="impact-to-customers-and-users-during-and-after-transition"></a>Dopad na zákazníky a uživatele během přechodu a po něm
+## <a name="impact-to-customers-and-users-during-and-after-transition"></a>Dopad na zákazníky a uživatele během přechodu a po přechodu
 
-Během přechodu a přechodu na zákazníky a uživatele to nemá žádný vliv.
+Při přechodu a po přechodu na tento přechod nemá zákazník ani uživatelé žádný vliv.
 
-## <a name="impact-to-customers-who-dont-transition"></a>Dopad na zákazníky, kteří nepřecházejí
+## <a name="impact-to-customers-who-dont-transition"></a>Dopad na zákazníky, kteří přechod neschová
 
-Následující tabulka shrnuje dopad na zákazníky, kteří nepřecházejí z předplatného Microsoft 365 Business Preview na předplatné Microsoft 365 Business.
+Následující tabulka shrnuje dopad na zákazníky, kteří přechádují z předplatného Microsoft 365 Business Preview na předplatné Microsoft 365 Business.
 
-|       | T-0 až T+30     | T+30 až T+60 | T+60 až T+120 | Za T+120  |
+|       | T-0 až T+30     | T+30 až T+60 | T+60 až T+120 | Mimo T+120  |
 |-------|-----------------|--------------|---------------|---------------|
-| **Stav** | V období odkladu | Vypršela      | Zakázán      | Zrušení zřízení |
-| **Dopady služeb**                                                        |
-| **Portál pro správu Microsoftu 365 Business** | Žádný vliv na funkčnost | Žádný vliv na funkčnost | Můžete přidávat/ mazat uživatele, nakupovat předplatná.</br> Nelze přiřadit nebo odvolat licence. | Předplatné zákazníka a všechna data budou smazána. Správce může spravovat další placená předplatná. |
-| **Aplikace Office**                         | Žádný dopad na koncového uživatele | Žádný dopad na koncového uživatele | Office přejde do režimu snížené funkčnosti.</br> Uživatelé mohou zobrazit pouze soubory. | Office přejde do režimu snížené funkčnosti.</br> Uživatelé mohou zobrazit pouze soubory. |
-| **Cloudové služby (SharePoint Online, Exchange Online, Skype, Teams a další)** | Žádný dopad na koncového uživatele | Žádný dopad na koncového uživatele | Koncoví uživatelé a správci nemají přístup k datům v cloudu. | Předplatné zákazníka a všechna data jsou smazána. |
-| **Em+ S komponenty** | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Funkce již není vynucena.</br> Další [informace najdete v tématu Dopady na mobilní zařízení po vypršení platnosti předplatného](#mobile-device-impacts-upon-subscription-expiration) a [dopady na počítač s Windows 10 po vypršení platnosti předplatného.](#windows-10-pc-impacts-upon-subscription-expiration) | Funkce již není vynucena.</br> Další [informace najdete v tématu Dopady na mobilní zařízení po vypršení platnosti předplatného](#mobile-device-impacts-upon-subscription-expiration) a [dopady na počítač s Windows 10 po vypršení platnosti předplatného.](#windows-10-pc-impacts-upon-subscription-expiration) |
-| **Windows 10 Business** | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Funkce již není vynucena.</br> Další [informace najdete v tématu Dopady na mobilní zařízení po vypršení platnosti předplatného](#mobile-device-impacts-upon-subscription-expiration) a [dopady na počítač s Windows 10 po vypršení platnosti předplatného.](#windows-10-pc-impacts-upon-subscription-expiration) | Funkce již není vynucena.</br> Další [informace najdete v tématu Dopady na mobilní zařízení po vypršení platnosti předplatného](#mobile-device-impacts-upon-subscription-expiration) a [dopady na počítač s Windows 10 po vypršení platnosti předplatného.](#windows-10-pc-impacts-upon-subscription-expiration) |
-| **Přihlášení azure ad k počítači s Windows 10** | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Po odstranění klienta se uživatel může přihlásit pouze s místními přihlašovacími údaji. Pokud nejsou k dispozici žádná místní pověření, znovu si to představte. |
+| **Stav** | V období odkladu | Vypršela platnost      | Zakázáno      | Deprovisioned |
+| **Dopad na službu**                                                        |
+| **Microsoft 365 Portál pro správu firmy** | Bez dopadu na funkčnost | Bez dopadu na funkčnost | Může přidávat nebo odstraňovat uživatele, kupovat předplatná.</br> Licence nelze přiřadit nebo odvolat. | Předplatné zákazníka a všechna data se odstraní. Správce může spravovat další placená předplatná. |
+| **Office aplikace**                         | Žádný dopad na koncového uživatele | Žádný dopad na koncového uživatele | Office do režimu omezené funkčnosti.</br> Uživatelé mohou prohlížet jenom soubory. | Office do režimu omezené funkčnosti.</br> Uživatelé mohou prohlížet jenom soubory. |
+| **Cloudové služby (SharePoint Online, Exchange Online, Skype, Teams a další)** | Žádný dopad na koncového uživatele | Žádný dopad na koncového uživatele | Koncoví uživatelé a správci nemají přístup k datům v cloudu. | Předplatné zákazníka a všechna data se odstraní. |
+| **Součásti EM+S** | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Funkce už není vynucovaná.</br> Další [informace najdete v](#mobile-device-impacts-upon-subscription-expiration) článku Dopad na mobilní zařízení po vypršení [platnosti předplatného a Windows 10 dopad](#windows-10-pc-impacts-upon-subscription-expiration) na počítač po vypršení platnosti předplatného. | Funkce už není vynucovaná.</br> Další [informace najdete v](#mobile-device-impacts-upon-subscription-expiration) článku Dopad na mobilní zařízení po vypršení [platnosti předplatného a Windows 10 dopad](#windows-10-pc-impacts-upon-subscription-expiration) na počítač po vypršení platnosti předplatného. |
+| **Windows 10 Business** | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Funkce už není vynucovaná.</br> Další [informace najdete v](#mobile-device-impacts-upon-subscription-expiration) článku Dopad na mobilní zařízení po vypršení [platnosti předplatného a Windows 10 dopad](#windows-10-pc-impacts-upon-subscription-expiration) na počítač po vypršení platnosti předplatného. | Funkce už není vynucovaná.</br> Další [informace najdete v](#mobile-device-impacts-upon-subscription-expiration) článku Dopad na mobilní zařízení po vypršení [platnosti předplatného a Windows 10 dopad](#windows-10-pc-impacts-upon-subscription-expiration) na počítač po vypršení platnosti předplatného. |
+| **Přihlášení azure AD k Windows 10 počítači** | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Po odstranění tenanta se může uživatel přihlásit jenom pomocí místních přihlašovacích údajů. Pokud nejsou k dispozici místní přihlašovací údaje, zařízení znovu vybitové kopie. |
 
 ## <a name="mobile-device-impacts-upon-subscription-expiration"></a>Vliv mobilního zařízení na vypršení platnosti předplatného
 
-Následující tabulka shrnuje dopad zásad správy aplikací na mobilní zařízení.
+Následující tabulka shrnuje dopad na zásady správy aplikací na mobilních zařízeních.
 
-|                            | Plně licencované prostředí                      | T+60 dní po vypršení platnosti          |
+|                            | Plně licencované prostředí                      | T+60 dnů po vypršení platnosti          |
 |----------------------------|------------------------------------------------|------------------------------------|
-| **Odstranění pracovních souborů z neaktivního zařízení** | Pracovní soubory jsou odebrány po vybraných dnech | Pracovní soubory zůstávají na osobních zařízeních uživatele |
-| **Vynucovat, aby uživatelé ukládali všechny pracovní soubory na OneDrive pro firmy** | Pracovní soubory se můžou ukládat jenom na OneDrive pro firmy. | Pracovní soubory lze uložit kdekoli |
-| **Šifrovat pracovní soubory** | Pracovní soubory jsou šifrovány | Pracovní soubory již nejsou šifrovány.</br> Zásady zabezpečení se odeberou a data Office v aplikacích se odeberou. |
-| **Vyžadovat pro přístup k aplikacím Office kód PIN nebo otisk prstu** | Omezený přístup k aplikacím | Žádné omezení přístupu na úrovni aplikace |
-| **Resetovat PIN kód při selhání přihlášení** | Omezený přístup k aplikacím | Žádné omezení přístupu na úrovni aplikace |
-| **Vyžadovat, aby se uživatelé znovu přihlásili po nečinnosti aplikací Office** | Je vyžadováno přihlášení. | Není vyžadováno žádné přihlášení. |
-| **Odepřít přístup k pracovním souborům ze zařízení s jailbreakem nebo rootem** | Pracovní soubory nelze přistupovat na jailbroken / zakořeněné zařízení | Pracovní soubory lze přistupovat na jailbroken / zakořeněné zařízení |
-| **Povolení uživatelům kopírovat obsah z aplikací Office do osobních aplikací** | Kopírování a vkládání s omezeným přístupem k aplikacím dostupným v rámci předplatného Microsoftu 365 | Kopírování a vkládání dostupné pro všechny aplikace |
+| **Odstranění pracovních souborů z neaktivního zařízení** | Pracovní soubory se po vybraných dnech odebrané | Pracovní soubory zůstávají na osobních zařízeních uživatele. |
+| **Vynucovat, aby uživatelé ukládali všechny pracovní soubory na OneDrive pro firmy** | Pracovní soubory je možné uložit jenom do OneDrive pro firmy | Pracovní soubory se ukládají kdekoli |
+| **Šifrovat pracovní soubory** | Pracovní soubory jsou zašifrované | Pracovní soubory už nejsou šifrované.</br> Zásady zabezpečení se odebraly a odebraly se data Office v aplikacích. |
+| **Vyžadování PIN kódu nebo otisku prstu pro přístup k aplikacím Office** | Omezený přístup k aplikacím | Žádné omezení přístupu na úrovni aplikace |
+| **Resetování KÓDU PIN při neúspěšné přihlášení** | Omezený přístup k aplikacím | Žádné omezení přístupu na úrovni aplikace |
+| **Vyžadovat, aby se uživatelé znovu přihlašoval po nečinnosti aplikací Office** | Vyžaduje se přihlášení. | Nevyžaduje se žádné přihlášení. |
+| **Odepřít přístup k pracovním souborům ze zařízení s jailbreakem nebo rootem** | K pracovním souborům není možné přistupovat na zařízeních s jailbrokenem nebo rootem. | K pracovním souborům se dostanete na zařízeních s jailbrokenem nebo rootem. |
+| **Povolení uživatelům kopírovat obsah z aplikací Office do osobních aplikací** | Kopírování a vkládání omezeno na aplikace dostupné v rámci předplatného Microsoft 365 | Kopírování a vkládání dostupných pro všechny aplikace |
 
-## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Windows 10 PC dopady na vypršení předplatného
+## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Dopad na počítač s Windows 10 po vypršení platnosti předplatného
 
-Následující tabulka shrnuje dopad zásad konfigurace zařízení s Windows 10.
+Následující tabulka shrnuje dopad na zásady konfigurace zařízení s Windows 10.
 
-|                            | Plně licencované prostředí                      | T+60 dní po vypršení platnosti          |
+|                            | Plně licencované prostředí                      | T+60 dnů po vypršení platnosti          |
 |----------------------------|------------------------------------------------|------------------------------------|
-| **Ochrana počítačů před hrozbami pomocí programu Windows Defender** | Zapnutí/vypnutí je mimo ovládací prvek uživatele. | Uživatel může zapnout nebo vypnout Windows Defender na počítači s Windows 10 |
-| **Chránit počítače před webovými hrozbami v prohlížeči Microsoft Edge** | Ochrana počítače v Microsoft Edge | Uživatel může zapnout/vypnout ochranu počítače v Microsoft Edge |
-| **Vypnutí obrazovky zařízení při nečinnosti** | Správce definuje zásadu časového intervalu obrazovky | Časový čas obrazovky může koncový uživatel nakonfigurovat |
-| **Povolit uživatelům stahovat aplikace z webu Microsoft Store** | Správce definuje, zda může uživatel stahovat aplikace z Microsoft Storu | Uživatel může stahovat aplikace z Microsoft Storu kdykoliv |
-| **Umožnit uživatelům přístup ke Cortaně** | Správce definuje zásady přístupu uživatelů ke Službě Cortana | Uživatelská zařízení pro zapnutí nebo vypnutí Cortany |
-| **Povolit uživatelům přijímat tipy a reklamy od společnosti Microsoft** | Správce definuje zásady pro uživatele přijímat tipy a reklamy od společnosti Microsoft | Uživatel může zapnout / vypnout tipy a reklamy od společnosti Microsoft |
-| **Povolit uživatelům kopírovat obsah z aplikací Office do osobních aplikací** | Správce definuje zásady, jak udržovat zařízení s Windows 10 aktuální. | Uživatelé se mohou rozhodnout, kdy systém Windows aktualizovat. |
+| **Ochrana počítačů před hrozbami pomocí programu Windows Defender** | Zapnutí nebo vypnutí je mimo uživatelský ovládací prvek | Uživatel může na počítači s Windows 10 zapnout nebo vypnout Windows Defender. |
+| **Chránit počítače před webovými hrozbami v prohlížeči Microsoft Edge** | Ochrana počítače v Microsoft Edge | Uživatel může zapnout nebo vypnout ochranu počítače v Microsoft Edge |
+| **Vypnutí obrazovky zařízení při nečinnosti** | Správce definuje zásadu intervalu časového limitu obrazovky. | Časový limit obrazovky může nakonfigurovat koncový uživatel. |
+| **Povolit uživatelům stahovat aplikace z webu Microsoft Store** | Správce definuje, jestli si uživatel může stahovat aplikace z Microsoft Storu. | Uživatel si může kdykoli stáhnout aplikace z Microsoft Storu. |
+| **Umožnit uživatelům přístup ke Cortaně** | Správce definuje zásady přístupu uživatelů k Cortaně. | Uživatelská zařízení pro zapnutí/vypnutí Cortany |
+| **Povolení uživatelům přijímat tipy a reklamy od Microsoftu** | Správce definuje zásady pro přijímání tipů a reklam pro uživatele od Microsoftu. | Uživatel může zapnout nebo vypnout tipy a reklamy od Microsoftu |
+| **Povolit uživatelům kopírovat obsah z aplikací Office do osobních aplikací** | Správce definuje zásady, které udržují zařízení s Windows 10 aktuální | Uživatelé se mohou rozhodnout, kdy windows aktualizovat |

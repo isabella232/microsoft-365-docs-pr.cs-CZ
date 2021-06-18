@@ -26,27 +26,28 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
-description: Přečtěte si informace o konfiguraci nastavení výchozích zásad zařízení, které bude každé zařízení s Windows 10 dostávat po přihlášení ke svému pracovnímu nebo školnímu účtu.
-ms.openlocfilehash: 86db1c152f9f6ac1fe6093b4a55a74b69fbd8b0f
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Přečtěte si o konfiguraci nastavení výchozích zásad zařízení, která budou Windows 10 zařízení po přihlášení ke svému pracovnímu nebo školnímu účtu.
+ms.openlocfilehash: 3f85549e722c9aa4196cf50fc02bee2e89506017
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579968"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52925233"
 ---
 # <a name="secure-windows-10-devices"></a>Zabezpečení zařízení s Windows 10
 
 Tento článek se týká Microsoft 365 Business Premium.
 
-[] Nastavení, která tady nakonfigurujete, jsou součástí výchozí zásady zařízení pro Windows 10. Všichni uživatelé, kteří připojují zařízení s Windows 10, včetně mobilních zařízení a počítačů, když se přihlásí pomocí svého pracovního účtu, dostanou tato nastavení automaticky. Doporučujeme vám během instalace přijmou výchozí zásady a další zásady, které budou cílit na konkrétní skupiny uživatelů, přidat později.
+[] Nastavení, která tady nakonfigurujete, jsou součástí výchozí zásady zařízení pro Windows 10. Všichni uživatelé, kteří Windows 10 zařízení, včetně mobilních zařízení a počítačů, přihlášením pomocí svého pracovního účtu, dostanou tato nastavení automaticky. Doporučujeme vám během instalace přijmou výchozí zásady a další zásady, které budou cílit na konkrétní skupiny uživatelů, přidat později.
   
 ## <a name="settings-to-secure-windows-10-devices"></a>Nastavení pro zabezpečení zařízení s Windows 10
 
 Ve výchozím nastavení jsou všechny možnosti **zapnuté**. K dispozici jsou následující nastavení:
   
-|||
-|:-----|:-----|
+
+
 |Nastavení  <br/> |Popis  <br/> |
+|:-----|:-----|
 |Zvýšit ochranu počítačů před viry a dalšími hrozbami pomocí Antivirové ochrany v programu Windows Defender  <br/> |Vyžaduje zapnutí antivirové ochrany v programu Windows Defender, aby bylo možné počítače chránit před nebezpečím spočívajícím v připojení k internetu.  <br/> |
 |Chránit počítače před webovými hrozbami v prohlížeči Microsoft Edge  <br/> |Zapne nastavení v Edgi, které pomáhá chránit uživatele před škodlivými weby a nebezpečným stahováním.  <br/> |
 |Chránit soubory a složky na počítačích před neoprávněným přístupem pomocí BitLockeru  <br/> |Nástroj BitLocker chrání data šifrováním pevných disků počítače a chrání před vystavením datům, pokud dojde ke ztrátě nebo odcizení počítače. Další informace najdete v článku [Časté otázky k nástroji Bitlocker.](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions)  <br/> |

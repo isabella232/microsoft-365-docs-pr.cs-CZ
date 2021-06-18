@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: ed34fff3-2881-4ed4-9906-1ba6bb8dd804
 description: Zjistěte, jak automaticky nainstalovat 32bitové aplikace Office na počítače s Windows 10 a aktualizovat je.
-ms.openlocfilehash: 868d06fadfef0f55b41131b7fdfbb368b9128405
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: 843be426d817da1173769b3b66dc4c054179f0fd
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580048"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52924221"
 ---
 # <a name="prepare-for-office-client-deployment-by-microsoft-365-for-business"></a>Příprava na nasazení klienta Office od Microsoftu 365 pro firmy
 
@@ -59,14 +59,15 @@ Koncový uživatel s počítačem, který splňuje následující podmínky:
     
 - **Nemá** samostatné aplikace nainstalované instalační službou Windows 2016 (MSI), jako je Visio nebo Project. Microsoft 365 pro firmy upgraduje Office na verzi Office 2016 klikni a spouštět, která nefunguje se samostatnými aplikacemi Office 2016 MSI. 
     
-Následující tabulka ukazuje, jakou akci musí koncoví uživatelé/správci provést v závislosti na jejich počátečním stavu, aby z konzoly pro správu Microsoftu 365 pro firmy byla úspěšná 32bitová verze nasazení Office klikni a spouštěná.
-  
-|**Počáteční stav instalace Office**|**Akce před instalací Office Microsoft 365 pro firmy**|**Konečný stav**|
+Následující tabulka ukazuje, jakou akci musí koncoví uživatelé/správci provést v závislosti na jejich počátečním stavu, aby z konzoly pro správu Microsoftu 365 pro firmy byla úspěšná 32bitová verze nasazení Office klikni a spouštěná.<br/>
+
+
+|Počáteční stav instalace Office|Akce před instalací Office Microsoft 365 pro firmy|Konečný stav|
 |:-----|:-----|:-----|
 |Sada Office není nainstalovaná  <br/> |Žádná  <br/> |32bitová verze Office 2016 se instaluje pomocí klikni a spouštěče.  <br/> |
 |Stávající 32bitová verze Office (2016 nebo starší) nainstalovaná technologií Klikni a spusť bez samostatných aplikací  <br/> |Žádná  <br/> |Upgrade na nejnovější 32bitovou verzi Office 2016 nainstalovanou technologií Klikni a spusť podle toho, co je potřeba **\*** <br/> |
 |Stávající 32bitová verze Office klikni a spouštěná 32bitová nebo 64bitová samostatná aplikace Office (například Visio, Project)  <br/> |Žádné  <br/> |Na samostatné aplikace se to neovlivní. Sada se upgraduje na 32bitovou verzi Office 2016 nainstalovanou technologií Klikni a spusť  <br/> |
-|Stávající 32 bitová verze Office nainstalovaná technologií Klikni a spusť a všechny 32bitové nebo 64bitové samostatné aplikace Office nainstalované instalační službou MSI (s výjimkou verzí 2016)  <br/> |Žádná  <br/> |Na samostatné aplikace se to neovlivní. Sada se upgraduje na 32bitovou verzi Office 2016 nainstalovanou technologií Klikni a spusť  <br/> ||||
+|Stávající 32 bitová verze Office nainstalovaná technologií Klikni a spusť a všechny 32bitové nebo 64bitové samostatné aplikace Office nainstalované instalační službou MSI (s výjimkou verzí 2016)  <br/> |Žádná  <br/> |Na samostatné aplikace se to neovlivní. Sada se upgraduje na 32bitovou verzi Office 2016 nainstalovanou technologií Klikni a spusť  <br/> |
 |Jakákoli stávající 64bitová verze Office nainstalovaná technologií Klikni a spusť  <br/> |Odinstalace 64bitových aplikací Office, pokud je to ok, nahraďte je 32bitovou aplikací Office  <br/> |Pokud jsou odebrané 64bitové verze aplikací Office, nainstaluje se 32bitová verze Office 2016 nainstalovaná technologií Klikni a spusť  <br/> |
 |Stávající Office 2016 nainstalovaný instalační službou MSI se samostatnými aplikacemi nebo bez nich  <br/> |Odinstalujte Office 2016 nainstalovaný instalační službou MSI.  <br/> |32bitová verze Office 2016 nainstalovaná technologií Klikni a spusť. Samostatné aplikace zůstávají beze změn.  <br/> |
 |Stávající instalace MSI systému Office 2013 (nebo předchozích verzí) a/nebo samostatné aplikace Office  <br/> |Žádná  <br/> |32bitová verze Office 2016 nainstalovaná technologií Klikni a spusť a předchozí instalace MSI systému Office (a samostatných aplikací) existují vedle sebe  <br/> |
