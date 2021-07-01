@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Podívejte se na postup nastavení Microsoft 365 Business Premium, včetně přidání domény a uživatelů, nastavení zásad zabezpečení a dalších možností.
-ms.openlocfilehash: 3e15f16db2a233d2e11d444600398102b075932d
-ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
+ms.openlocfilehash: 74a98e915577cf86ec32a706bd3b8f558f49db95
+ms.sourcegitcommit: 48195345b21b409b175d68acdc25d9f2fc4fc5f1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52624383"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53227633"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Nastavení Microsoft 365 Business Premium v průvodci nastavením
 
@@ -53,7 +53,7 @@ Když si Microsoft 365 Business Premium, máte možnost používat doménu, kter
 
 ### <a name="add-your-domain-to-personalize-sign-in"></a>Přidání domény k přizpůsobení přihlášení
 
-1. Přihlaste se [k Microsoft 365 správce](https://admin.microsoft.com) pomocí přihlašovacích údajů globálního správce. 
+1. Přihlaste se [k Centrum pro správu Microsoftu 365](https://admin.microsoft.com) pomocí přihlašovacích údajů globálního správce. 
 
 2. Průvodce **spustíte tak,** že zvolíte Přejít na nastavení.
 
@@ -69,7 +69,7 @@ Když si Microsoft 365 Business Premium, máte možnost používat doménu, kter
     ![Snímek obrazovky s přizpůsobením přihlašovací stránky](../media/adddomain.png)
 
     
-4. Podle pokynů v průvodci vytvořte záznamy DNS u [libovolného](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) poskytovatele hostingu DNS Microsoft 365, který ověří, že doménu vlastníte. Pokud znáte svého hostitele domény, přečtěte si taky pokyny [specifické pro hostitele](/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions).
+4. Podle pokynů v průvodci vytvořte záznamy DNS u [libovolného](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) poskytovatele hostingu DNS Microsoft 365, který ověří, že doménu vlastníte. Pokud znáte hostitele domény, podívejte se taky na přidání [domény do Microsoft 365](/microsoft-365/admin/setup/add-domain).
 
     Pokud je vaším poskytovatelem hostingu GoDaddy nebo jiným hostitelem povoleným s připojením domény [,](/office365/admin/get-help-with-domains/domain-connect)proces je snadný a automaticky se zobrazí dotaz, jestli se chcete přihlásit a nechat Microsoft ověřit vaším jménem.
 
