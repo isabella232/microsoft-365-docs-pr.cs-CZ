@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Přečtěte si informace o Microsoftu 365 Business Premium, předplacené službě, která zahrnuje aplikace Office a rozšířenou ochranu před kybernetickými hrozbami.
-ms.openlocfilehash: e4a182c5dd5444392486dd137e70361e880534bd
-ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
+ms.openlocfilehash: b7b71032ffc19c582f9658b93dae7dd9f89e02eb
+ms.sourcegitcommit: 4886457c0d4248407bddec56425dba50bb60d9c4
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/29/2021
-ms.locfileid: "52705516"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53287621"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Přehled předplatného Microsoftu 365 Business Premium
 
@@ -44,14 +44,14 @@ Microsoft 365 Business Premium (dříve Microsoft 365 Business) je komplexní sl
 
 ## <a name="watch-what-is-microsoft-365-business-premium"></a>Video: Co je Microsoft 365 Business Premium
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
-  
-Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](../business-video/index.yml). 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA]
+
+Pokud bylo pro vás toto video užitečné, můžete se podívat na [kompletní sérii školení určených pro malé firmy a pro firmy, které se s Microsoftem 365 teprve seznamují](../business-video/index.yml).
 
 Microsoft 365 Business Premium je určen až pro 300 licencí. Pokud potřebujete více licencí, najdete další informace v dokumentaci k [Microsoftu 365 Enterprise](../enterprise/index.yml).
 
 Úplný seznam funkcí najdete [v popisu služby Microsoft 365 Business Premium](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description).
-  
+
 ## <a name="small-business-security-needs"></a>Potřeby zabezpečení malých firem
 
 Vaše firemní data mohou být ohrožena mnoha způsoby. Vy a vaši uživatelé můžete ohrozit zabezpečení vaší organizace, když se přihlásíte pomocí zneužitých přihlašovacích údajů nebo když si prohlížíte data organizace na různých zařízeních a v různých aplikacích. Co konkrétně ohrožuje vaši organizaci:
@@ -73,17 +73,17 @@ Microsoft 365 Business Premium pomáhá **chránit před hrozbami** těmito způ
 
 - Kontrolování odkazů v e-mailech a dokumentech v reálném čase za účelem blokování nebezpečných webů (Bezpečné odkazy)
 
-- Provádění pokročilé analýzy e-mailových příloh v prostředí sandboxu za účelem detekování nově vyvíjeného malwaru (Bezpečné přílohy) 
+- Provádění pokročilé analýzy e-mailových příloh v prostředí sandboxu za účelem detekování nově vyvíjeného malwaru (Bezpečné přílohy)
 
-- Povolení zásad ochrany před phishingem, které umožňují zajišťovat ochranu před sofistikovanými útoky (inteligentní ochrana před phishingem ve službě Microsoft Defender pro Office 365) pomocí modelů strojového učení a detekce zosobnění 
+- Povolení zásad ochrany před phishingem, které umožňují zajišťovat ochranu před sofistikovanými útoky (inteligentní ochrana před phishingem ve službě Microsoft Defender pro Office 365) pomocí modelů strojového učení a detekce zosobnění
 
-- Nakonfigurování pokročilých zásad, které blokují přístup z nedůvěryhodných umístění nebo obcházení multifaktorové ověřování z důvěryhodných umístění, jako je například firemní síť (Azure MFA včetně důvěryhodných IP adres a podmíněný přístup) 
+- Nakonfigurování pokročilých zásad, které blokují přístup z nedůvěryhodných umístění nebo obcházení multifaktorové ověřování z důvěryhodných umístění, jako je například firemní síť (Azure MFA včetně důvěryhodných IP adres a podmíněný přístup)
 
 - Vynucování ochrany před malwarem na všech zařízeních s Windows 10 vaší organizace a ochrana souborů v klíčových systémových složkách před změnami provedenými ransomwarem (Windows Defender)
 
 Vaše **firemní data jsou chráněna** těmito způsoby:
 
-- Používání automatické detekce k zabránění úniku citlivých informací, jako jsou čísla sociálního zabezpečení nebo informace o kreditních kartách, mimo vaši firmu (ochrana před únikem informací) 
+- Používání automatické detekce k zabránění úniku citlivých informací, jako jsou čísla sociálního zabezpečení nebo informace o kreditních kartách, mimo vaši firmu (ochrana před únikem informací)
 
 - Šifrování citlivých e-mailů, abyste mohli bezpečně komunikovat se zákazníky nebo jinými lidmi mimo vaši organizaci. Tím je zajištěno, že si zprávu bude moct přečíst pouze určený příjemce (Rozšířené šifrování zpráv Office 365).
 

@@ -24,16 +24,16 @@ search.appverid:
 - BCS160
 - MET150
 description: Zjistěte, jak Microsoft 365 v několika krocích chránit místní Windows 10 připojených ke službě Active Directory.
-ms.openlocfilehash: ec80159bdceffd8a13d09a297a2acc1b78c9b1b3
-ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
+ms.openlocfilehash: eb95c437030ae13a44f5e8043b3544d5846001c2
+ms.sourcegitcommit: 4886457c0d4248407bddec56425dba50bb60d9c4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52636080"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53287689"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Povolte, aby Windows 10 zařízení připojená k doméně spravovaná Microsoft 365 Business Premium
 
-Pokud vaše organizace používá místní službu Windows Server Active Directory, můžete nastavit Microsoft 365 Business Premium tak, aby chránil vaše zařízení Windows 10, a přitom zachovat přístup k místním prostředkům, které vyžadují místní ověřování.
+Pokud vaše organizace používá místní Windows Server Active Directory, můžete nastavit ochranu Microsoft 365 Business Premium zařízení Windows 10 a přitom zachovat přístup k místním prostředkům, které vyžadují místní ověřování.
 Pokud chcete nastavit tuto ochranu, můžete implementovat hybridní **zařízení připojená ke službě Azure AD.** Tato zařízení jsou připojená k místní službě Active Directory i k Azure Active Directory.
 
 ## <a name="watch-configure-hybrid-azure-active-directory-join"></a>Přehrát: Konfigurace hybridního Azure Active Directory připojení
@@ -109,13 +109,13 @@ První příkaz vytvoří spojení s cloudem Microsoftu a po zobrazení výzvy z
 
 Pokud nevidíte zásadu Povolit automatickou registraci **MDM** pomocí výchozích přihlašovacích údajů Azure AD , může to být proto, že nemáte admx nainstalovaný pro Windows 10, verzi 1803 nebo novější. Pokud chcete tento problém vyřešit, postupujte takto (Poznámka: nejnovější mdm.admx je zpětně kompatibilní):
 
-1.  Stáhnout: [Šablony pro správu (.admx) Windows 10 aktualizace z října 2020 (20H2).](https://www.microsoft.com/download/102157)
-2.  Nainstalujte balíček na řadič domény.
-3.  V závislosti na verzi Šablon pro správu přejděte do **složky: C:\Program Files (x86)\Microsoft Zásady skupiny\Windows 10 Aktualizace z října 2020 (20H2).**
-4.  **Přejmenujte složku Definice** zásad ve výše uvedené cestě na **PolicyDefinitions**.
-5.  Zkopírujte **složku PolicyDefinitions** do sdílené složky SYSVOL ve výchozím nastavení umístěnou ve **složce C:\Windows\SYSVOL\domain\Policies**. 
-    -   Pokud máte v plánu používat centrální úložiště zásad pro celou doménu, přidejte tam obsah PolicyDefinitions.
-6.  V případě, že máte několik řadičů domény, počkejte, až se funkce SYSVOL replikuje, aby byly zásady dostupné. Tento postup bude fungovat i pro všechny budoucí verze šablon pro správu.
+1. Stáhnout: [Šablony pro správu (.admx) Windows 10 aktualizace z října 2020 (20H2).](https://www.microsoft.com/download/102157)
+2. Nainstalujte balíček na řadič domény.
+3. V závislosti na verzi Šablon pro správu přejděte do **složky: C:\Program Files (x86)\Microsoft Zásady skupiny\Windows 10 Aktualizace z října 2020 (20H2).**
+4. **Přejmenujte složku Definice** zásad ve výše uvedené cestě na **PolicyDefinitions**.
+5. Zkopírujte **složku PolicyDefinitions** do sdílené složky SYSVOL ve výchozím nastavení umístěnou ve **složce C:\Windows\SYSVOL\domain\Policies**.
+   - Pokud máte v plánu používat centrální úložiště zásad pro celou doménu, přidejte tam obsah PolicyDefinitions.
+6. V případě, že máte několik řadičů domény, počkejte, až se funkce SYSVOL replikuje, aby byly zásady dostupné. Tento postup bude fungovat i pro všechny budoucí verze šablon pro správu.
 
 V tomto okamžiku byste měli mít možnost zobrazit zásadu Povolit automatickou registraci **MDM pomocí výchozích přihlašovacích údajů Azure AD.**
 
