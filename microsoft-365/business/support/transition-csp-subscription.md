@@ -15,12 +15,12 @@ localization_priority: Normal
 audience: microsoft-business
 keywords: Microsoft 365 Firemní, Microsoft 365, SMB, přechodové předplatné CSP
 ms.date: 11/01/2017
-ms.openlocfilehash: 3f6c71edb50cc3c5509e61a83efb64185c10648d
-ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
+ms.openlocfilehash: 47b65b2de9db0fd27e29272937bab2041eb67300
+ms.sourcegitcommit: 7dc3b4dec05299abb4290a6e3d1ebe0fdc622ed7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52924997"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53363813"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Přechod předplatného csP Microsoft 365 Business
 
@@ -73,7 +73,7 @@ Následující tabulka shrnuje dopad na zákazníky, kteří přechádují z př
 |-------|-----------------|--------------|---------------|---------------|
 | **Stav** | V období odkladu | Vypršela platnost      | Zakázáno      | Deprovisioned |
 | **Dopad na službu**                                                        |
-| **Microsoft 365 Portál pro správu firmy** | Bez dopadu na funkčnost | Bez dopadu na funkčnost | Může přidávat nebo odstraňovat uživatele, kupovat předplatná.</br> Licence nelze přiřadit nebo odvolat. | Předplatné zákazníka a všechna data se odstraní. Správce může spravovat další placená předplatná. |
+| **Centrum pro správu Microsoftu 365** | Bez dopadu na funkčnost | Bez dopadu na funkčnost | Může přidávat nebo odstraňovat uživatele, kupovat předplatná.</br> Licence nelze přiřadit nebo odvolat. | Předplatné zákazníka a všechna data se odstraní. Správce může spravovat další placená předplatná. |
 | **Office aplikace**                         | Žádný dopad na koncového uživatele | Žádný dopad na koncového uživatele | Office do režimu omezené funkčnosti.</br> Uživatelé mohou prohlížet jenom soubory. | Office do režimu omezené funkčnosti.</br> Uživatelé mohou prohlížet jenom soubory. |
 | **Cloudové služby (SharePoint Online, Exchange Online, Skype, Teams a další)** | Žádný dopad na koncového uživatele | Žádný dopad na koncového uživatele | Koncoví uživatelé a správci nemají přístup k datům v cloudu. | Předplatné zákazníka a všechna data se odstraní. |
 | **Součásti EM+S** | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Žádný dopad na správce</br> Žádný dopad na koncového uživatele | Funkce už není vynucovaná.</br> Další [informace najdete v](#mobile-device-impacts-upon-subscription-expiration) článku Dopad na mobilní zařízení po vypršení [platnosti předplatného a Windows 10 dopad](#windows-10-pc-impacts-upon-subscription-expiration) na počítač po vypršení platnosti předplatného. | Funkce už není vynucovaná.</br> Další [informace najdete v](#mobile-device-impacts-upon-subscription-expiration) článku Dopad na mobilní zařízení po vypršení [platnosti předplatného a Windows 10 dopad](#windows-10-pc-impacts-upon-subscription-expiration) na počítač po vypršení platnosti předplatného. |
@@ -88,23 +88,23 @@ Následující tabulka shrnuje dopad na zásady správy aplikací na mobilních 
 |----------------------------|------------------------------------------------|------------------------------------|
 | **Odstranění pracovních souborů z neaktivního zařízení** | Pracovní soubory se po vybraných dnech odebrané | Pracovní soubory zůstávají na osobních zařízeních uživatele. |
 | **Vynucovat, aby uživatelé ukládali všechny pracovní soubory na OneDrive pro firmy** | Pracovní soubory je možné uložit jenom do OneDrive pro firmy | Pracovní soubory se ukládají kdekoli |
-| **Šifrovat pracovní soubory** | Pracovní soubory jsou zašifrované | Pracovní soubory už nejsou šifrované.</br> Zásady zabezpečení se odebraly a odebraly se data Office v aplikacích. |
-| **Vyžadování PIN kódu nebo otisku prstu pro přístup k aplikacím Office** | Omezený přístup k aplikacím | Žádné omezení přístupu na úrovni aplikace |
+| **Šifrovat pracovní soubory** | Pracovní soubory jsou zašifrované | Pracovní soubory už nejsou šifrované.</br> Zásady zabezpečení se odebraly a Office data v aplikacích se odebrala. |
+| **Vyžadování PIN kódu nebo otisku prstu pro přístup k Office aplikacím** | Omezený přístup k aplikacím | Žádné omezení přístupu na úrovni aplikace |
 | **Resetování KÓDU PIN při neúspěšné přihlášení** | Omezený přístup k aplikacím | Žádné omezení přístupu na úrovni aplikace |
-| **Vyžadovat, aby se uživatelé znovu přihlašoval po nečinnosti aplikací Office** | Vyžaduje se přihlášení. | Nevyžaduje se žádné přihlášení. |
+| **Vyžadovat, aby se uživatelé znovu Office aplikace byly nečinné** | Vyžaduje se přihlášení. | Nevyžaduje se žádné přihlášení. |
 | **Odepřít přístup k pracovním souborům ze zařízení s jailbreakem nebo rootem** | K pracovním souborům není možné přistupovat na zařízeních s jailbrokenem nebo rootem. | K pracovním souborům se dostanete na zařízeních s jailbrokenem nebo rootem. |
-| **Povolení uživatelům kopírovat obsah z aplikací Office do osobních aplikací** | Kopírování a vkládání omezeno na aplikace dostupné v rámci předplatného Microsoft 365 | Kopírování a vkládání dostupných pro všechny aplikace |
+| **Povolení uživatelům kopírovat obsah z Office aplikací do osobních aplikací** | Kopírování a vkládání omezeno na aplikace, které jsou k dispozici Microsoft 365 předplatného | Kopírování a vkládání dostupných pro všechny aplikace |
 
-## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Dopad na počítač s Windows 10 po vypršení platnosti předplatného
+## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Windows 10 Dopad na počítač po vypršení platnosti předplatného
 
-Následující tabulka shrnuje dopad na zásady konfigurace zařízení s Windows 10.
+Následující tabulka shrnuje dopad na zásady konfigurace Windows 10 zařízení.
 
 |                            | Plně licencované prostředí                      | T+60 dnů po vypršení platnosti          |
 |----------------------------|------------------------------------------------|------------------------------------|
-| **Ochrana počítačů před hrozbami pomocí programu Windows Defender** | Zapnutí nebo vypnutí je mimo uživatelský ovládací prvek | Uživatel může na počítači s Windows 10 zapnout nebo vypnout Windows Defender. |
+| **Pomozte chránit počítače před hrozbami pomocí Windows Defender** | Zapnutí nebo vypnutí je mimo uživatelský ovládací prvek | Uživatel může zapnout nebo vypnout Windows Defender na Windows 10 počítači |
 | **Chránit počítače před webovými hrozbami v prohlížeči Microsoft Edge** | Ochrana počítače v Microsoft Edge | Uživatel může zapnout nebo vypnout ochranu počítače v Microsoft Edge |
 | **Vypnutí obrazovky zařízení při nečinnosti** | Správce definuje zásadu intervalu časového limitu obrazovky. | Časový limit obrazovky může nakonfigurovat koncový uživatel. |
-| **Povolit uživatelům stahovat aplikace z webu Microsoft Store** | Správce definuje, jestli si uživatel může stahovat aplikace z Microsoft Storu. | Uživatel si může kdykoli stáhnout aplikace z Microsoft Storu. |
-| **Umožnit uživatelům přístup ke Cortaně** | Správce definuje zásady přístupu uživatelů k Cortaně. | Uživatelská zařízení pro zapnutí/vypnutí Cortany |
+| **Povolit uživatelům stahovat aplikace z webu Microsoft Store** | Správce definuje, jestli si uživatel může stahovat aplikace z Microsoft Store | Uživatel může stahovat aplikace z Microsoft Store kdykoli |
+| **Umožnit uživatelům přístup ke Cortaně** | Správce definuje zásady přístupu uživatelů k Cortana | Uživatelská zařízení pro zapnutí nebo vypnutí Cortana |
 | **Povolení uživatelům přijímat tipy a reklamy od Microsoftu** | Správce definuje zásady pro přijímání tipů a reklam pro uživatele od Microsoftu. | Uživatel může zapnout nebo vypnout tipy a reklamy od Microsoftu |
-| **Povolit uživatelům kopírovat obsah z aplikací Office do osobních aplikací** | Správce definuje zásady, které udržují zařízení s Windows 10 aktuální | Uživatelé se mohou rozhodnout, kdy windows aktualizovat |
+| **Povolit uživatelům kopírovat obsah z aplikací Office do osobních aplikací** | Správce definuje zásady, které Windows 10 zařízení aktuální | Uživatelé se mohou rozhodnout, kdy Windows |
