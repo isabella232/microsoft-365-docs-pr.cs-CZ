@@ -18,16 +18,17 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - AdminSurgePortfolio
+- AdminTemplateSet
 search.appverid:
 - BCS160
 - MET150
 description: Pokud máte předplatné Office 365 E3, ale nemáte víc než 300 zaměstnanců, zvažte přechod na Microsoft 365 Business Premium.
-ms.openlocfilehash: d139d07c946ff3efed3db3a73eb5e1a4ae66c190
-ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
+ms.openlocfilehash: c1b4da07b3bf28cce1a48424ab45cde6ea54d367
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52623599"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53394165"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrace z Office 365 E3 na Microsoft 365 Business Premium
 
@@ -59,7 +60,7 @@ Tato tabulka zobrazuje rozdíly mezi Microsoft 365 Business Premium a Office 365
 | Upgradujte práva na Windows 10 Pro z win 7/8.1 Pro licencí|     ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)    ||
 | **Ochrana informací**        | | |
 |Office 365 Ochrana před únikem dat|    ![Součástí Microsoft 365 Business Premium](../media/check-mark.png)|![Součástí Office 365 E3](../media/check-mark.png)|
-|Azure Information Protection Plan 1, nástroj BitLocker vynucení|![Součástí Microsoft 365 Business Premium](../media/check-mark.png)||
+|Azure Information Protection Plan 1, vynucení nástroje BitLocker|![Součástí Microsoft 365 Business Premium](../media/check-mark.png)||
 |Plán ochrany informací v Azure 1, popisky citlivosti|![Součástí Microsoft 365 Business Premium](../media/check-mark.png)||
 |**Licence klientského přístupu (práva CAL)**|||
 |Enterprise Cal Suite (Exchange, SharePoint, Skype)||![Součástí Office 365 E3](../media/check-mark.png)|
@@ -71,7 +72,7 @@ Tato tabulka zobrazuje rozdíly mezi Microsoft 365 Business Premium a Office 365
 Pokyny k migraci [](../commerce/subscriptions/change-plans-manually.md) předplatného najdete v tématu Ruční změna plánů, pokud chcete přesunout jenom několik lidí do Microsoft 365 Business Premium. Můžete taky [upgradovat všechny automaticky](../commerce/subscriptions/upgrade-to-different-plan.md)nebo můžete spolupracovat s partnerem a přesunout předplatné E3 a licence na Microsoft 365 Business Premium předplatné.
 Následující části popisují případné změny, které je potřeba udělat, a co můžete udělat po migraci.
 
-### <a name="office-365-e3-subscription-configuration-and-data"></a>Office 365 Konfigurace a data předplatného E3
+### <a name="office-365-e3-subscription-configuration-and-data"></a>Office 365 E3 a data předplatného
 Před migrací nemusíte provádět žádné změny aktuálního předplatného ani dat, mezi které patří:
 
 - Konfigurace předplatného, jako jsou záznamy DNS a názvy domén.
@@ -86,7 +87,7 @@ Pokud vaše Windows ještě nejsou v aktualizaci Windows Pro creatorů, upgraduj
 ### <a name="set-up-policies-to-protect-user-devices-and-files"></a>Nastavení zásad pro ochranu uživatelských zařízení a souborů
 
 > [!NOTE]
-> Pokud nastavíte zásady a Office 365 MDM, budou tato zařízení  uvedená na stránce Zařízení v centru Microsoft 365 správy. Všechny zásady, které nastavíte, se zobrazí v seznamu klasických zásad na [portálu Intune.](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)
+> Pokud nastavíte zásady a Office 365 MDM, budou tato zařízení  uvedená na stránce Zařízení v Centrum pro správu Microsoftu 365. Všechny zásady, které nastavíte, se zobrazí v seznamu klasických zásad na [portálu Intune.](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)
 
 Po přiřazení licencí k Microsoft 365 Business Premium můžete začít chránit zařízení a soubory uživatelů.
 
@@ -120,7 +121,7 @@ Microsoft 365 Business Premium má limit úložiště 50 GB, protože používá
 
 ### <a name="threat-protection"></a>Ochrana před hrozbou
 
-Po migraci na Microsoft 365 Business Premium máte Defender pro Office 365. Přehled [najdete v Office 365](../security/office-365-security/defender-for-office-365.md) Microsoft Defenderu. Pokud chcete nastavit, [podívejte](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)se na nastavení bezpečných odkazů [,](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)nastavení bezpečných příloh a nastavení [anti-phishing](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)v Defenderu pro Office 365 .
+Po migraci na Microsoft 365 Business Premium máte Defender pro Office 365. Přehled [najdete v Office 365](../security/office-365-security/defender-for-office-365.md) Microsoft Defenderu. Pokud chcete nastavit, podívejte se na [Sejf](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)odkazy , nastavení [Sejf přílohy](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)a nastavení [anti-phishing](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)v Defenderu pro Office 365 .
 
 ### <a name="sensitivity-labels"></a>Štítky utajení
 
