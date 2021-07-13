@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Nainstalujte Office na iPhone nebo telefon s Androidem a vaše pracovní soubory v Office aplikacích budou chráněné Microsoft 365 pro firmy.
-ms.openlocfilehash: 7b411b6ae1223963b8583e1e3cd0ee00e13ff958
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 477f0ee63b045ca8fd6d3cfc3023f4122661a3b6
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244790"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53393393"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Nastavení mobilních zařízení pro Microsoft 365 pro firemní uživatele
 
@@ -105,7 +105,7 @@ Znovu otevřete Outlook, zadejte PIN a potvrďte ho. Aplikace Outlook je připra
   
 ![Set  PIN for Outlook app in Android](../media/edb91afb-f1ed-451a-bc6b-8ccba664e055.png)
 
-## <a name="see-also"></a>Viz také
+## <a name="related-content"></a>Související obsah
 
 [Microsoft 365 pro firemní školicí videa](../business-video/index.yml)
 

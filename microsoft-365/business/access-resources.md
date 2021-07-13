@@ -16,17 +16,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - AdminSurgePortfolio
+- AdminTemplateSet
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Zjistěte, jak získat přístup k místním prostředkům, jako jsou obchodní aplikace, sdílené složky a tiskárny z Azure Active Directory připojeného Windows 10 zařízení.
-ms.openlocfilehash: 72b3c5ae538cad24fc12e25717dedccb2fdc9017
-ms.sourcegitcommit: 4fb1226d5875bf5b9b29252596855a6562cea9ae
+ms.openlocfilehash: 71d60e0187c917dffb7390afcedf22dc73f44008
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/08/2021
-ms.locfileid: "52843316"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53393453"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Přístup k místním prostředkům ze zařízení připojeného k Azure AD v Microsoft 365 Business Premium
 
@@ -57,7 +58,7 @@ Pokud vaše organizace není připravená nasadit v konfiguraci zařízení při
 
 Pokud Windows zařízení, ke které jste připojili Azure-AD, dřív připojené k doméně nebo v pracovní skupině, zvažte následující omezení:
 
-- Když se zařízení Azure AD připojí, vytvoří nového uživatele bez odkazu na existující profil. Profily se musí migrovat ručně. Profil uživatele obsahuje informace, jako jsou oblíbené položky, místní soubory, nastavení prohlížeče a nastavení nabídky Start. Nejlepším přístupem je najít nástroj jiného výrobce, který namapuje existující soubory a nastavení na nový profil.
+- Když se zařízení Azure AD připojí, vytvoří nového uživatele bez odkazu na existující profil. Profily se musí migrovat ručně. Profil uživatele obsahuje informace, jako jsou oblíbené položky, místní soubory, nastavení prohlížeče a nabídka Start nastavení. Nejlepším přístupem je najít nástroj jiného výrobce, který namapuje existující soubory a nastavení na nový profil.
 
 - Pokud zařízení používá objekty Zásady skupiny (GPO), nemusí některé objekty zásad skupiny v Intune mít srovnatelného poskytovatele služeb konfigurace. [](/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) Spusťte nástroj [MMAT,](https://www.microsoft.com/download/details.aspx?id=45520) abyste našli srovnatelné csP pro stávající objekty zásad skupiny.
 
