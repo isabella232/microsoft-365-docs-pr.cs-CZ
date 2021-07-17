@@ -1,0 +1,211 @@
+### YamlMime:Hub
+title: Microsoft 365 Business Premium zdroje
+summary: 'Microsoft 365 Business Premium (dřív Microsoft 365 Business) je komplexní služba předplatného pro firmy s méně než 300 zaměstnanci. Integruje vaše oblíbené Office a služby a nástroje pro spolupráci, jako jsou Microsoft Teams s pokročilými funkcemi zabezpečení a správy zařízení.'
+brand: m365
+metadata:
+  title: Microsoft 365 Business Premium zdroje
+  description: popis
+  ms.service: o365-administration
+  ms.topic: hub-page
+  ms.collection: collection
+  ms.custom: AdminSurgePortfolio
+  author: samanro
+  ms.author: samanro
+  ms.date: 10/01/2019
+productDirectory:
+  title: Zabezpečení vzdálené práce pomocí Microsoft 365 Business Premium
+  items:
+    - title: Přehrát
+      imageSrc: 'https://docs.microsoft.com/office/media/icons/video-play.svg'
+      summary: Pět nejlepších výhod Microsoft 365 Business Premium.
+      url: 'https://aka.ms/M365BPvideo'
+    - title: Získejte bezplatnou sadu pro partnery
+      imageSrc: 'https://docs.microsoft.com/office/media/icons/education-tutorial-blue.svg'
+      summary: Praktické pokyny a přejděte na zdroje trhu pro partnery pro zabezpečení práce na dálku.
+      url: 'https://aka.ms/SMBSecurityKit'
+    - title: Co je nového?
+      imageSrc: 'https://docs.microsoft.com/office/media/icons/get-started-blue.svg'
+      summary: Správa antivirové ochrany a univerzální tisk jsou teď dostupné v Microsoft 365 Business Premium.
+      url: 'https://aka.ms/M365BPQ1Update'
+    - title: 28. Microsoft 365 Lighthouse 28. července se připojte k partnerskému webináře
+      imageSrc: 'https://docs.microsoft.com/office/media/icons/education-tutorial-blue.svg'
+      summary: Použití Microsoft 365 Lighthouse zabezpečení a standardizace Microsoft 365 Business Premium zákazníků.
+      url: 'https://aka.ms/m365lighthousewebinar'
+conceptualContent:
+  items:
+    - title: Co je Microsoft 365 Business Premium?
+      links:
+        - url: microsoft-365-business-overview.md
+          itemType: overview
+          text: Přehled
+        - url: ../business-video/index.yml
+          itemType: video
+          text: Microsoft 365 Business Premium školení
+        - url: /office365/servicedescriptions/microsoft-365-service-descriptions/licensing-microsoft-365-in-smb
+          itemType: overview
+          text: Porovnání plánů
+        - url: /office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description
+          itemType: reference
+          text: Popis služby
+        - url: support/microsoft-365-business-faqs.yml
+          itemType: reference
+          text: Časté otázky
+    - title: Nastavení Microsoft 365 Business Premium
+      links:
+        - url: set-up.md
+          itemType: how-to-guide
+          text: 1. Spuštění průvodce nastavením
+        - url: secure-win-10-pcs.md
+          itemType: how-to-guide
+          text: 2. Zabezpečení počítačů
+        - url: /MicrosoftTeams/get-started-with-teams-quick-start
+          itemType: video
+          text: 3. Nastavení Teams
+        - url: ../business-video/install-office.md
+          itemType: get-started
+          text: 4. Instalace Office
+    - title: Materiály pro partnery (jenom v angličtině)
+      links:
+        - url: 'https://www.microsoft.com/microsoft-365/partners/business'
+          itemType: overview
+          text: Stránka partnera
+        - url: ../lighthouse/m365-lighthouse-overview.md
+          itemType: overview
+          text: Další informace o Microsoft 365 Lighthouse
+        - url: 'https://assetsprod.microsoft.com/mpn/smb-advanced-security-customer-pitch-deck.pptx'
+          itemType: download
+          text: Pitch deck (zaměření zákazníka)
+        - url: 'https://assetsprod.microsoft.com/mpn/smb-advanced-security-opportunity-deck.pptx'
+          itemType: download
+          text: Pitch deck (fokus partnera)
+        - url: 'https://www.microsoft.com/microsoft-365/partners/resources/microsoft-365-smb-technical-fundamentals-content-content-used-for-delivery'
+          itemType: download
+          text: Základní informace o technologiích
+        - url: 'https://aka.ms/SMBSecurityKit'
+          itemType: download
+          text: Sada Bezpečná vzdálená práce
+        - url: 'https://cct.transform.microsoft.com/'
+          itemType: deploy
+          text: Customer Consulting Tool
+        - url: 'https://vc.transform.microsoft.com/'
+          itemType: learn
+          text: Kalkulačka hodnot
+    - title: Správa uživatelů
+      links:
+        - url: ../admin/add-users/add-users.md
+          itemType: how-to-guide
+          text: Přidání uživatele
+        - url: /office365/admin/add-users/remove-former-employee
+          itemType: how-to-guide
+          text: Odebrání uživatele
+        - url: /office365/admin/add-users/reset-passwords
+          itemType: how-to-guide
+          text: Resetování hesla uživatele
+      footerLink:
+        url: /office365/admin/admin-home
+        text: Další informace
+    - title: Správa hrozeb
+      links:
+        - url: ../security/office-365-security/defender-for-office-365.md
+          itemType: overview
+          text: Rozšířená ochrana před internetovými útoky
+        - url: ../admin/security-and-compliance/set-up-multi-factor-authentication.md
+          itemType: how-to-guide
+          text: Nastavení MFA
+        - url: ./increase-threat-protection.md#protect-against-ransomware
+          itemType: how-to-guide
+          text: Ochrana před ransomwarem
+        - url: /azure/active-directory/conditional-access/overview
+          itemType: overview
+          text: Podmíněný přístup
+      footerLink:
+        url: /office365/admin/admin-home
+        text: Další informace
+    - title: Správa dat
+      links:
+        - url: ../compliance/data-loss-prevention-policies.md
+          itemType: overview
+          text: Ochrana před únikem dat
+        - url: 'https://support.microsoft.com/office/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980'
+          itemType: how-to-guide
+          text: Posílání zašifrovaných e-mailů
+        - url: ./set-up-compliance.md#set-up-email-retention-with-exchange-online-archiving
+          itemType: how-to-guide
+          text: Nastavení uchovávání e-mailů
+        - url: ../business-video/create-sensitivity-labels.md
+          itemType: video
+          text: Vytváření a používání štítků citlivosti
+      footerLink:
+        url: ../compliance/index.yml
+        text: Další informace
+    - title: Správa zařízení
+      links:
+        - url: view-policies-and-devices.md
+          itemType: how-to-guide
+          text: Pc & Mobilní zařízení
+        - url: remove-company-data.md
+          itemType: how-to-guide
+          text: Odebrání dat společnosti
+        - url: reset-devices-to-factory-settings.md
+          itemType: how-to-guide
+          text: Vymazání a obnovení továrního nastavení
+        - url: /intune/index
+          itemType: overview
+          text: Intune
+        - url: manage-windows-devices.md
+          itemType: how-to-guide
+          text: Nastavení hybridního připojení k Azure AD
+        - url: access-resources.md
+          itemType: how-to-guide
+          text: Nastavení připojení k Azure AD
+        - url: /windows/deployment/windows-autopilot/windows-autopilot
+          text: Windows Autopilot
+          itemType: overview
+      footerLink:
+        url: manage-windows-devices.md
+        text: Další informace
+    - title: Sledování zabezpečení
+      links:
+        - url: ../security/defender/microsoft-secure-score.md
+          itemType: how-to-guide
+          text: Zabezpečené skóre
+        - url: /intune/apps/app-protection-policies-monitor
+          itemType: overview
+          text: Sestava Zásad ochrany aplikací Intune
+        - url: ../enterprise/view-service-health.md
+          itemType: how-to-guide
+          text: Upozornění na sledování stavu
+      footerLink:
+        url: ../security/index.yml
+        text: Další informace
+    - title: Podpora a komunita
+      links:
+        - url: 'https://techcommunity.microsoft.com/t5/Microsoft-365-Business-Blog/bg-p/Microsoft365BusinessBlog'
+          itemType: whats-new
+          text: Oznámení
+        - url: 'https://support.microsoft.com/office/7f681212-c649-4a3e-a43b-32b1d1e58988'
+          itemType: video
+          text: Získání nápovědy
+        - url: 'https://techcommunity.microsoft.com/t5/Microsoft-365-Business/bd-p/Microsoft365business'
+          itemType: overview
+          text: Odeslání názoru
+        - url: 'https://techcommunity.microsoft.com/t5/Small-and-Medium-Businesses/ct-p/SMB'
+          itemType: overview
+          text: Technická komunita pro malé a střední firmy
+    - title: Jak můžu...
+      links:
+        - url: sign-up.md
+          itemType: get-started
+          text: Zaregistrujte se k Microsoft 365 Business Premium
+        - url: migrate-to-microsoft-365-business.md
+          itemType: how-to-guide
+          text: Migrace z Microsoft 365 Business Standard
+        - url: migrate-from-e3.md
+          itemType: how-to-guide
+          text: Migrace z Office 365 E3
+        - url: migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md
+          itemType: how-to-guide
+          text: Migrace na Microsoft 365 Enterprise E3
+      footerLink:
+        url: microsoft-365-business-overview.md
+        text: Další informace
