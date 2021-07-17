@@ -1,0 +1,237 @@
+### YamlMime:FAQ
+metadata:
+  title: Časté otázky k Microsoftu 365 Business Premium 
+  description: Tady najdete odpovědi na časté otázky týkající se Microsoftu 365 Business, nového řešení navrženého pro malé a středně velké firmy. 
+  author: efrene
+  f1.keywords:
+  - NOCSH
+  ms.author: efrene
+  ms.topic: article
+  ms.prod: microsoft-365-business
+  ms.collection: M365-subscription-management
+  ms.custom: AdminSurgePortfolio
+  localization_priority: Normal
+  audience: microsoft-business 
+  keywords: Microsoft 365 Business Premium, Microsoft 365, SMB, FAQ, frequently asked questions, answers, business
+  ms.date: 07/21/2020
+  ms.openlocfilehash: 4c625fdb60a4c3d97b4623be09c24556259fcbde
+  ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 04/02/2021
+  ms.locfileid: "53465403"
+title: Časté otázky k Microsoftu 365 Business Premium
+summary: ''
+sections:
+- name: Obecné
+  questions:
+  - question: Co je Microsoft 365 Business Premium?
+    answer: >
+      Microsoft 365 je integrované řešení, které v sobě spojuje špičkové nástroje pro podporu produktivity a také funkce zabezpečení a správy zařízení pro malé a středně velké firmy. Zahrnuje:
+
+
+      **Sada nástrojů pro firemní produktivitu a spolupráci:**
+
+
+      - Word, Excel, PowerPoint, Outlook, OneNote, Publisher a Access
+
+      - Exchange, OneDrive, Skype pro firmy, Microsoft Teams a SharePoint
+
+      - Firemní aplikace z Office (Bookings, MileIQ<sup>1</sup>)
+
+
+      **Enterprise pro správu zařízení** a možnosti zabezpečení:
+
+
+      - Pomáhá poskytovat ochranu před externími hrozbami, jako jsou phishing a sofistikovaný malware, pomocí programu Microsoft Defender Office 365 Plán 1 a Ochrana Exploit Guard v programu Microsoft Defender.
+
+      - Pomáhá řídit a spravovat přístup k citlivým informacím a jejich přenos pomocí zásad ochrany před únikem informací a služby Azure Information Protection (plán 1).
+
+      - Pomáhá chránit, uchovávat a zálohovat vaše data pomocí Exchange Online – archiv.
+
+      - Ochrana aplikací pro Office a další mobilní aplikace s ochranou Intune App Protection
+
+      - Správa zařízení pro Windows 10 počítačů, macOS a mobilních zařízení se s managementem zařízení Intune.
+
+      - Ochrana identity s vícefaktorovým ověřováním, samoobslužným resetováním hesla a podmíněným přístupem
+
+      - Konzistentní konfigurace zabezpečení na různých &mdash; zařízeních– ochrana firemních dat na různých zařízeních; Antivirová ochrana v programu Microsoft Defender, který je vždy aktuální a aktuální.
+
+
+      **Zjednodušené nasazení zařízení a nastavení uživatele:**
+
+
+      - Jedna centrální konzola pro nastavení a správu uživatelů a zařízení
+
+      - Automatická instalace aplikací Office na počítačích s Windows 10
+
+      - Vždy aktuální Office a Windows 10
+
+      - Efektivnější nasazování počítačů pomocí služby Windows AutoPilot
+
+
+      **Další nároky:**
+
+
+      - Zákazníci, kteří používají Microsoft 365 Business Premium, mají také přístup ke službě Windows Virtual Desktop a funkcím aktivace Office pro sdílené počítače. Pokud chcete získat další informace, přečtěte si [blog věnovaný Microsoftu 365 Business Premium](https://techcommunity.microsoft.com/t5/Microsoft-365-Business-Blog/bg-p/Microsoft365BusinessBlog). Podívejte se také na [popis služby Microsoft 365 pro firmy](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description).
+  - question: Kdo by měl zvážit možnost začít používat Microsoft 365 Business Premium?
+    answer: >
+      Microsoft 365 Business Premium je komplexní cloudové řešení zabezpečení, které vám umožní:
+
+
+      - Chránit vaši firmu před vážnými kybernetickými hrozbami díky sofistikované ochraně před phishingem a ransomwarem
+
+      - Řídit přístup k citlivým údajům pomocí šifrování, abyste zabránili neúmyslnému nasdílení dat někomu, kdo nemá oprávnění k jejich zobrazení
+
+      - Chránit zařízení, která se připojují k vaší firmě, udržovat vaše data na zařízeních s iOSem, Androidem, Windows a na počítačích Mac v bezpečí a také zajistit, aby byla zařízeních s Windows vždy aktualizovaná
+
+
+      Microsoft 365 Business Premium je plně integrovaný s Office 365 a nabízí známé umístění pro správu, fakturaci a nepřetržitou podporu. Obsahuje technologie podnikové úrovně, které jsou určeny pro firmy s méně než 300 zaměstnanci.
+  - question: Jak Microsoft 365 Business Premium pro svou firmu získáte?
+    answer: >
+      Microsoft 365 Business Premium si můžete koupit prostřednictvím [partnera společnosti Microsoft](https://www.microsoft.com/solution-providers/search) nebo přímo od [společnosti Microsoft](https://www.microsoft.com//microsoft-365/business). Při rozhodování, zda nakupovat přímo od společnosti Microsoft, nebo od partnera společnosti Microsoft, se doporučuje vyhodnotit schopnosti zaměstnanců a zvážit, jestli potřebujete mít svou IT infrastrukturu. Partner společnosti Microsoft vám může pomoct s nasazením a správou IT infrastruktury, včetně řešení společnosti Microsoft.
+  - question: Kolik Microsoft 365 Business Premium stojí?
+    answer: Microsoft 365 Business Premium je při nákupu přímo od společnosti Microsoft nabízen za cenu 20 USD za uživatele měsíčně na základě _roční smlouvy_. Při nákupu prostřednictvím partnera společnosti Microsoft se ceny mohou lišit v závislosti na službách poskytovaných partnerem a jejich cenovém modelu pro Microsoft 365 Business Premium.
+  - question: Je nějak omezen počet licencí, které může zákazník využívající Microsoft 365 Business Premium mít?
+    answer: >
+      Microsoft 365 Business Premium byl navržen pro malé a středně velké firmy s nízkými až středně vysokými požadavky na složitost IT. Zákazníci si mohou pro svou organizaci zakoupit až 300 licencí Microsoftu 365 Business Premium. Zákazníci mohou cloudová předplatná různě kombinovat. V důsledku toho mohou zákazníci (v závislosti na svých požadavcích na IT) na stejný účet přidat licence Microsoftu 365 Enterprise.
+
+
+      Pokud zákazníci zvažují prostředí skládající se z několika typů předplatných, měli by ve spolupráci s IT konzultanty, kterým důvěřují, určit, jak různá předplatná nejlépe spravovat a zabezpečit, protože k zabezpečení a správě aplikací a dat se v rámci Microsoftu 365 Business Premium a Microsoftu 365 Enterprise používají různé funkce.
+  - question: Můžu Microsoft 365 Business Premium kombinovat s dalšími nabídkami předplatných od společnosti Microsoft?
+    answer: Ano, zákazníci mohou svá předplatná Microsoftu 365 Business Premium kombinovat s plány a doplňky Azure, Dynamics 365, Enterprise Mobility + Security a Office 365.
+  - question: Musí mít předplatné Microsoftu 365 Business Premium všichni uživatelé v naší firmě?
+    answer: >
+      Ne, ne každý potřebuje předplatné Microsoftu 365 Business Premium, nicméně výhody z hlediska zabezpečení a správy jsou k dispozici pouze těm uživatelům, jejichž zařízení jsou spravována prostřednictvím předplatného Microsoftu 365 Business Premium.
+
+
+      Standardizace IT prostředí pomáhá časem snižovat náklady na údržbu a zabezpečení, což je stav, kterého by se firmy měly snažit dosáhnout. Chápeme ale, že někteří malí a středně velcí zákazníci si software dlouhodobě aktualizují hlavně při upgradu hardwaru. Firmy mohou nasadit verzi Premium v rámci své organizace, ale doporučuje se nasazení všem uživatelům, aby byla lépe chráněna citlivá firemní data a bylo zajištěno konzistentní prostředí pro spolupráci.
+  - question: Jak poznám, jestli je hardware a software, který dnes používám, kompatibilní s Microsoftem 365 Business Premium?
+    answer: >
+      Pokud vám na hardwaru, který aktuálně používáte, běží Windows 7 Pro nebo novější, bude pravděpodobně splňovat minimální požadavky pro Microsoft 365 Business Premium. Některé funkce Windows 10, jako je třeba Cortana, Windows Hello a vícedotykové ovládání, vyžadují konkrétní hardware, který je dostupný jenom na novějších počítačích. Podrobnosti najdete v [požadavcích na systém Windows 10 Pro](https://www.microsoft.com/windows/windows-10-specifications).
+
+
+      Většina stávajících aplikací bude díky silné podpoře kompatibility aplikací plochy (Win32) ve Windows 10 pravděpodobně fungovat bez jakýchkoli změn. Zákazníci a jejich IT konzultanti, kterým důvěřují, by si měli přečíst informace o doporučeném procesu testování aplikací z hlediska [kompatibility s Windows 10](/windows/deployment/planning/windows-10-compatibility#recommended-application-testing-process) a seznámit se [systémovými požadavky pro Office](https://products.office.com/office-system-requirements#subscription-plans-section), aby byl zajištěn hladký přechod na Microsoft 365 Business Premium.
+  - question: Co je Windows 10 Business?
+    answer: >
+      Windows 10 Business je sada cloudových služeb a funkcí správy zařízení, které doplňují Windows 10 Pro a také zajišťují centralizovanou správu a poskytují zabezpečení Microsoftu 365 Business Premium.
+
+
+      Součástí Windows 10 Business jsou také určité prémiové funkce programu Microsoft Defender, jako je například řízený přístup ke složkám a ochrana sítě pro webové hrozby. Zahrnuje také službu Windows AutoPilot, která zjednodušuje nasazení nových počítačů s Windows 10.
+
+
+      Pokud máte zařízení, na kterých máte licenci pro Windows 7, 8 a 8.1 Professional, zajišťuje Microsoft 365 Business Premium upgrade na Windows 10 Pro, což je předpokladem pro nasazení Windows 10 Business.
+
+      > [!IMPORTANT]
+
+      > Při upgradu musíte zadat původní kód Product Key. V opačném případě se upgrade nepovede.
+  - question: Jak Microsoft 365 Business Premium podporuje naše zásady Přineste si vlastní zařízení (BYOD)?
+    answer: >
+      Spousta zaměstnanců raději pro přístup k osobním a pracovním informacím používá vlastní mobilní telefon nebo tablet, než aby s sebou nosili více zařízení pro různé účely. Používání osobních zařízení k práci je zcela běžné, ale zvyšuje se riziko, že se firemní informace dostanou do nesprávných rukou. Mnoho konkurenčních řešení pro ochranu mobilní dat vyžaduje přepnutí zařízení do konkrétního režimu nebo použití jiného složitého mechanismu, kterému se uživatel bude chtít kvůli jeho složitosti vyhnout.
+
+
+      Microsoft 365 Business Premium nabízí zákazníkům jednoduché, ale výkonné nástroje, které zaměstnancům umožňují používat osobní zařízení pro práci, a zároveň dává firmám možnost zabránit těmto zařízením v přístupu k firemním informacím, jejich uchovávání a sdílení. To je zajištěno následujícími prostředky:
+
+
+      - **Ochrana aplikací pro mobilní aplikace Office** pomáhá chránit data Office, včetně e-mailu, kalendáře, kontaktů a dokumentů, na mobilních zařízeních s iOSem a Androidem, a to vynucováním zásad, jako například automatické odstraňování firemních dat po uplynutí stanovené doby, kdy se nepřipojí ke službě, vyžadování, aby tyto informace byly uloženy pouze na OneDrivu pro firmy, vyžadování ověření pomocí PIN kódu / otisku prstu pro přístup k aplikacím Office a zabránění kopírování firemních dat z aplikací Office do osobních aplikací. Předplatitelé Microsoftu 365 Business Premium mohou také spravovat jiné mobilní aplikace, a to prostřednictvím Intune.
+
+
+      - **Správa zařízení pro Windows 10 počítačů** umožňuje firmám nastavit Antivirová ochrana v programu Microsoft Defender vynucovat možnosti, jako je ochrana malwaru, automatické aktualizace Antivirová ochrana v programu Microsoft Defender vypnutí obrazovek po předepsaném čase. Kromě toho lze ze ztracených nebo odcizených zařízení s Windows 10 zcela vymazat firemní aplikace a data prostřednictvím centra pro správu.
+
+
+      - **Správa zařízení pro iOS, Android & macOS** pomáhá firmám bezpečně spravovat různorodý ekosystém zařízení, který zahrnuje zařízení s iOS, Androidem, Windows a macOS.
+  - question: Jak pomáhá Microsoft 365 Business Premium chránit počítače v naší organizaci před škodlivými útoky?
+    answer: >
+      Počítače spravované pomocí Microsoft 365 Business Premium jsou chráněné Antivirová ochrana v programu Microsoft Defender, což je ne. antivirovou funkcí číslo 1 a který před viry, malwarem, spywarem a jinými hrozbami chrání více počítačů než jakékoli jiné řešení. Díky Microsoft 365 Business Premium mohou organizace zajistit, aby Antivirová ochrana v programu Microsoft Defender ochrana běžela a vždy aktuální na všech svých Windows 10 zařízeních.
+
+
+      Windows 10 Business zahrnuje Ochrana Exploit Guard v programu Microsoft Defender, novou sadu možností prevence vniknutí. Jedna z jeho funkcí, řízený přístup ke složkám, zastavuje ransomwar tím, že zamyká složky a znemožní neoprávněným aplikacím přístup k důležitým souborům uživatele.
+  - question: Jaký je rozdíl mezi Microsoftem 365 Business Standard, Microsoftem 365 Business Premium a Microsoftem 365 Enterprise?
+    answer: >
+      Společnost Microsoft má různé nabídky pro správu produktivity a zabezpečení, které mohou malí a středně velcí zákazníci zvážit při upgradu infrastruktury stolních počítačů a zařízení, přičemž každá z nich poskytuje stále výkonnější funkce a možnosti.
+
+
+      **Microsoft 365 Business Standard** poskytuje nejlepší produktivitu ve své třídě s aplikacemi a službami Office 365, ale nezahrnuje funkce Microsoftu 365 Business Premium pro ochranu aplikací a správu zařízení.
+
+
+      **Microsoft 365 Business Premium** v sobě kombinuje aplikace a služby Office 365 s pokročilými funkcemi zabezpečení, které pomáhají chránit vaši firmu před sofistikovanými kybernetickými hrozbami, zabezpečit vaše data a spravovat vaše zařízení. Obsahuje zjednodušenou konzolu pro správu, která umožňuje spravovat zásady zařízení a dat. Microsoft 365 Business Premium může být nejlepší volbou pro celou řadu malých a středně velkých firem.
+
+
+      **Microsoft 365 Enterprise** je sada licenčních plánů, které ve srovnání s Microsoftem 365 Business Premium nabízejí zvýšenou úroveň dodržování předpisů a zabezpečení a jsou určeny pro podnikové zákazníky a zákazníky s více než 300 uživateli. Plány Microsoftu 365 Enterprise navíc poskytují další funkce, včetně nástrojů Business Intelligence a analytických nástrojů.
+  - question: Můžu se svým plánem Office 365 přejít na Microsoft 365 Business Premium?
+    answer: Ano, zákazníci mohou se svými plány přejít z odpovídajících plánů Office 365 na Microsoft 365 Business Premium. V závislosti na aktuálním plánu zákazníka může dojít ke snížení nebo zvýšení měsíčních plateb.
+  - question: Ve kterých oblastech je Microsoft 365 Business Premium k dispozici?
+    answer: >
+      Microsoft 365 Business Premium je k dispozici partnerům a zákazníkům ve všech oblastech, kde je k dispozici Office 365. Podívejte se na [mezinárodní dostupnost Office 365 v seznamu jazyků, zemí a oblastí](https://products.office.com/business/international-availability).
+  - question: Je k dispozici zkušební verze Microsoftu 365 Business Premium, kterou můžu použít k vyzkoušení nabídky?
+    answer: Zkušební verze Microsoftu 365 Business Premium je k dispozici pro partnery CSP. Zkušební verze pro přímé zákazníky bude k dispozici později.
+  - question: Co by měli zákazníci a partneři vědět, ještě než začnou Microsoft 365 Business Premium v rámci své organizace používat?
+    answer: >
+      Zákazníci, kteří chtějí prožít úplné možnosti Microsoft 365 Business Premium, musí mít na stávajících stolních počítačích Windows 7, 8.1 nebo 10 Pro<sup>2.</sup> U stávajících počítačů se systémem Windows 10 Pro musí být nainstalována aktualizace Creators Update.
+- name: Nasazení
+  questions:
+  - question: Co by měli zákazníci zvážit při plánování nasazení Microsoftu 365 Business Premium?
+    answer: >
+      Nejpřímější cestou k úspěšnému nasazení Microsoftu 365 Business Premium je spolupráce s partnerem společnosti Microsoft. Partneři byli intenzivně proškoleni, mají rozsáhlé zkušenosti s celou řadou zákaznických scénářů a nejlépe rozumějí vašim potřebám a také vlastnostem vašeho prostředí. Zákazníci se zkušenými zaměstnanci v IT oddělení mohou využít informace v [článku s úvodem do Microsoftu 365 Business Premium](../microsoft-365-business-overview.md), který jim může při nasazování Microsoftu 365 Business Premium pomoct.
+  - question: Zahrnuje Microsoft 365 Business Premium všechny funkce Microsoft Intune?
+    answer: Ano, Microsoft 365 Business Premium předplatitelé mají licenci na používání úplných funkcí Intune pro iOS, Android, macOS a další správu zařízení napříč platformami. Funkce, které nejsou dostupné ve zjednodušené konzole pro správu v Microsoft 365 Business Premium, jako je správa aplikací třetích stran, konfigurace profilů Wi-Fi a certifikáty VPN, se spravují v celé konzole Intune.
+  - question: Má Azure Active Directory (Azure AD) Premium P1 Microsoft 365 Business Premium?
+    answer: Ano, Azure AD Premium P1 je součástí microsoft business Premium.
+  - question: Umožňuje Microsoft 365 Business Premium zákazníkům spravovat počítače Mac?
+    answer: Intune vám pomůže bezpečně spravovat zařízení s iOS, Androidem, Windows a macOS.
+  - question: Co je Windows AutoPilot?
+    answer: >
+      Windows AutoPilot je služba, která zjednodušuje nasazení nových počítačů s Windows 10. Tento proces lze provést, když se koncový uživatel poprvé přihlásí k Microsoftu 365 Business Premium &mdash; aniž by to vyžadovalo jakoukoli asistenci IT oddělení &mdash; pomocí centrální správy Microsoftu 365 Business Premium. Windows AutoPilot můžete také použít pro stávající počítače s Windows 10 Professional Creators Update (nebo novější verzí), které byly obnoveny do továrního nastavení. Podrobnosti o Windows AutoPilot najdete v [tomto blogu z června 2017.](https://blogs.technet.microsoft.com/windowsitpro/2017/06/29/modernizing-windows-deployment-with-windows-autopilot/)
+- name: Kompatibilita
+  questions:
+  - question: Můžu do Microsoftu 365 Business Premium přidat doplňky Office 365?
+    answer: Do Microsoftu 365 Business Premium můžete přidat všechny doplňky, které je možné přidat do Microsoftu 365 Business Standard. To znamená, že si můžete Office 365 Cloud App Security, rozšířené dodržování předpisů, threat intelligence, myanalytics, Power BI Pro a audiokonference.
+  - question: Můžu do Microsoftu 365 Business Premium přidat telefonní systém a volací plány?
+    answer: >
+      Ano, můžete si koupit předplatné Business Voice. [Business Voice](/microsoftteams/business-voice/whats-business-voice) je telefonní řešení určené pro malé a střední firmy s až 300 uživateli, kteří mají balíčky Telefonní systém, audiokonference, plán vnitrostátního volání a další služby. Telefonní systém, které získáte, zahrnují hlasovou poštu, ID volajícího, park volání, přesměrování volání, automatické telefonní služby a fronty volání. <br> Informace o tom, jestli je funkce Business Voice dostupná ve vaší zemi nebo oblasti, najdete v tématu Dostupnost země a oblasti [pro business voice](/microsoftteams/business-voice/country-region-availability). Informace o cenách najdete v tématu [Ceny pro business hlas](https://go.microsoft.com/fwlink/?linkid=2127221).
+  - question: Mohou Microsoft 365 Business Premium zákazníci používat Microsoft Defender pro koncový bod?
+    answer: >
+      Ano, Microsoft Defender pro koncový bod je k dispozici jako doplněk k Microsoft 365 Business Premium při nákupu od [Microsoft Cloud Solution Provider](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider).
+- name: Příležitosti pro partnery
+  questions:
+  - question: Kde se dozvím více o možnostech a výhodách, které získám, když se stanu partnerem společnosti Microsoft?
+    answer: >
+      Poskytovatelé IT služeb, kteří ještě nejsou partnery společnosti Microsoft, se mohou dozvědět více o programu Microsoft Cloud Solution Provider tady: <https://partner.microsoft.com/membership/cloud-solution-provider>.
+  - question: Kde zjistím, jak prodávat Microsoft 365 Business Premium?
+    answer: >
+      Partneři, kteří teď prodávají Office 365, mohou pro prodej produktu Microsoft 365 Business Premium použít stejné metody poradenského prodeje. Kromě toho prodejnímu týmu poskytujeme další zdroje informací a školení, aby zjistili, jaké mají zákazníci aktuálně požadavky na desktopové prostředí, spolehlivost Active Directory, mobilitu a zabezpečení, a mohli zákazníkům efektivně a odpovídajícím způsobem zprostředkovat plnou hodnotu Microsoftu 365 Business Premium. Tyto materiály najdete na portálu Office pro partnery: <https://www.microsoft.com/microsoft-365/partners>.
+  - question: Jak může Microsoft 365 Business Premium pomoci partnerům zvýšit ziskovost?
+    answer: >
+      Microsoft 365 Business Premium pomůže partnerům snížit náklady zlepšením provozní efektivity a zvýšením výnosů prodejem dalších služeb. Studie od společnosti Forrester věnovaná celkovému ekonomického dopadu (TEI) produktu Microsoft 365 Business Premium z června 2017 (https://www.microsoft.com/microsoft-365/partners/PartnerTEI), ukazuje, že Microsoft 365 Business Premium bude mít pozitivní dopad na ziskovost partnerů.
+
+
+      Ve studii TEI partneři uvedli, že si od produktu Microsoft 365 Business Premium slibují:
+
+
+      - 20procentní nárůst tržeb za \[jednorázové\] nasazení a poradenské služby
+
+      - 10procentní zvýšení míry přidruženého prodeje spravovaných služeb
+
+      - 8procentní zvýšení ziskovosti konzultačních služeb a \[průběžných\] spravovaných služeb (snížením nákladů)
+  - question: Jaké zdroje jsou pro partnery k dispozici k prodeji, nasazování a podpoře Microsoftu 365 Business Premium?
+    answer: >
+      Microsoft poskytuje široký výběr zdrojů informací a materiálů pro partnery CSP k propagaci, prodeji a podpoře Microsoftu 365 Business Premium. Najdete je tady: <https://www.microsoft.com/microsoft-365/partners>.
+  - question: Jaké příležitosti návazného prodeje nabízí Microsoft 365 Business Premium partnerům?
+    answer: >
+      Microsoft 365 Business Premium umožňuje partnerům udržet si pozici důvěryhodného poradce mezi zákazníky, a to díky vytvoření spolehlivé a zabezpečené platformy pro prodej dalších služeb a upgrade stávajících produktů a služeb. Microsoft 365 Business Premium nabízí příležitost probrat upgrade se zákazníky, kteří nyní používají Exchange Server, Exchange Online nebo Microsoft 365 Business Basic. Partneři také mohou vydělat více na zvýšených poplatcích za spravované služby nebo za podporu jednotlivých uživatelů.
+
+
+      S novou funkcí Windows AutoPilot, která je součástí Microsoftu 365 Business Premium, bude pro partnery, kterým by se kvůli logistice nasazení a nákladům nechtělo prodávat nová zařízení s Windows, tato příležitost mnohem atraktivnější. Zákazníci, kteří jsou přesvědčeni o zabezpečení svých místních a mobilních zařízení, také častěji investují do dalších služeb, například do Dynamics 365.
+  - question: Měli by partneři upřednostňovat prodej Microsoftu 365 Business Premium před jinými plány společnosti Microsoft?
+    answer: Microsoft Cloud Solution Provider by měl vždy zákazníkovi prodat takový plán, který nejlépe odpovídá jeho potřebám a rozpočtu. Pokud například zákazník musí dodržovat pravidla ochrany osobních údajů a zabezpečení, může mu partner CSP prodat Microsoft 365 Business Premium plus jakékoli doplňky, které mu pomůžou plnit příslušné požadavky, nebo mu může nabídnout pokročilé zabezpečení a správu, které poskytují plány (SKU) Microsoft 365 Business Enterprise.
+  - question: Někteří z mých zákazníků mají zařízení, na kterých není pravá verze Windows. Udělá z nich Microsoft 365 Business Premium pravou verzi?
+    answer: Microsoft 365 Business Premium neudělá z nepravé verze Windows pravou. Microsoft 365 Business Premium ale poskytuje výhodu upgradu, tzn. že umožňuje uživatelům používajícím pravou verzi Windows 7, 8 nebo 8.1 Pro upgradovat na nejnovější (pravou) verzi Windows 10 Pro.
+  - question: Co je GDPR a jak Microsoft 365 Business Premium pomáhá zákazníkům plnit si povinnosti v oblasti dodržování předpisů?
+    answer: >
+      Obecné nařízení o ochraně osobních údajů (GDPR) je komplexní nový zákon o ochraně osobních údajů, který poskytuje obyvatelům Evropské unie (EU) větší kontrolu nad jejich „osobními údaji“ a vyžaduje, aby organizace udržovaly integritu těchto osobních údajů. GDPR vyžaduje, aby organizace, které kontrolují nebo zpracovávají osobní údaje týkající se obyvatel EU, používaly ke zpracování osobních údajů pouze zpracovatele osobních údajů z řad třetích stran, kteří splňují požadavky vyplývající ze zákona GDPR. V březnu 2017 společnost Microsoft poskytla následující smluvní záruky. Zákazníci, kteří mají dotazy týkající se toho, jak jim Microsoft může pomoct splnit další povinnosti GDPR, by se měli dozvědět o pokročilých možnostech dodržování předpisů a zabezpečení dostupných v Microsoft 365 Business Premium (například Azure Information Protection, prevenci ztrát dat, Defender pro Office 365 a tak dál) a v jiných sadách (například Microsoft 365 Enterprise E5). Další informace najdete tady: [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
+additionalContent: >-
+  ## <a name="footnotes"></a>Poznámky pod čarou
+
+  **1** K dispozici v USA, Velké Británii a Kanadě.
+
+  **2** Zařízení s Windows 7 nebo 8.1 Pro mají nárok na upgrade na Windows 10 Pro v Microsoft 365 Business Premium preview.
