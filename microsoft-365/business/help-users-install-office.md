@@ -26,19 +26,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
-description: Pomozte uživatelům nainstalovat Office aplikace na Windows 10 zařízení a snadno Office na Windows 10 počítače z centra Microsoft 365 správy.
-ms.openlocfilehash: 74c17533995b74655be57524b77d9c508f703c50
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+description: Pomozte uživatelům nainstalovat Office aplikace na Windows 10 zařízení a snadno Office na Windows 10 počítače z Centrum pro správu Microsoftu 365.
+ms.openlocfilehash: bfd0d9baba177bd68b4d3174eba7c5ffb3a38aa8c690c7b8314e5b298bdbdfc1
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245158"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53820981"
 ---
 # <a name="help-your-users-install-office-on-windows-10-devices"></a>Pomozte uživatelům nainstalovat Office na Windows 10 zařízení
 
 [![Popis s informacemi o tom, jak se mění centrum pro správu. Další podrobnosti najdete na aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
 
-V Centru pro správu Office můžete Windows 10 a snadno nainstalovat Microsoft 365 počítače.
+Můžete rychle a snadno nainstalovat Office na Windows 10 počítače z Centrum pro správu Microsoftu 365.
   
 Pokud se chcete dozvědět, jak to funguje s dříve nainstalovanými aplikacemi Office, napřed si přečtěte článek [Příprava instalace klienta Office](prepare-for-office-client-deployment.md).
 
