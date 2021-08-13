@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Zjistěte, jak nastavit Microsoft 365 Business Premium, od přihlášení k odběru, přidání domény a uživatelů, k nastavení zásad zabezpečení a dalších.
-ms.openlocfilehash: 008a5c51698589667acc0d01649f67dab33b4c58
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 7c09dca354781bf92f6bbecca0f3fb9875fb654515fe35c2f96cc780a894a764
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245058"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53803216"
 ---
 # <a name="overview-of-setup"></a>Přehled nastavení
 
@@ -89,7 +89,7 @@ Když se připojíte k Windows 10 Azure AD, použijí se na něj zásady nastave
 
 - **Přístup k místním prostředkům**
 
-     - Pokud vaše organizace používá místní službu Windows Server Active Directory, můžete nastavit Microsoft 365 Business Premium tak, aby chránil vaše zařízení Windows 10, a přitom zachovat přístup k místním prostředkům, které vyžadují místní ověřování. Podle pokynů v [části](manage-windows-devices.md) Povolení Windows 10 zařízení připojených k doméně Microsoft 365 Business Premium tuto možnost nastavit. Toto je upřednostňovaná metoda a zařízení v tomto stavu se nazývají zařízení připojená k Hybridní službě Azure AD.
+     - Pokud vaše organizace používá místní Windows Server Active Directory, můžete nastavit ochranu Microsoft 365 Business Premium zařízení Windows 10 a přitom zachovat přístup k místním prostředkům, které vyžadují místní ověřování. Podle pokynů v [části](manage-windows-devices.md) Povolení Windows 10 zařízení připojených k doméně Microsoft 365 Business Premium tuto možnost nastavit. Toto je upřednostňovaná metoda a zařízení v tomto stavu se nazývají zařízení připojená k Hybridní službě Azure AD.
 
     - Pokud má vaše firma místní službu Active Directory, která obsahuje některé místní prostředky (například sdílené složky a tiskárny), můžete zařízením připojeným k Azure AD dát přístup k těmto prostředkům podle pokynů tady: Přístup k místním prostředkům ze zařízení připojeného k [Azure AD](access-resources.md)v Microsoft 365 Business Premium .
 
