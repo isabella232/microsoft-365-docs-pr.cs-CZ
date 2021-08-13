@@ -28,21 +28,21 @@ search.appverid:
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
 description: Zjistěte, co můžete očekávat po dokončení instalace Sady Business Cloud Suite a výchozí zásady zařízení jsou připravené a připravené k použití.
-ms.openlocfilehash: d3e47247197f2688388ed50057b16fde53e7e830
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: 62e5654deb3807a7a436fb2c4587c2e2614feb3e9812f6ecb269eed1cab7bfbb
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578441"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53856549"
 ---
 # <a name="help-users-connect-to-microsoft-365-business-premium"></a>Pomozte uživatelům připojit se k Microsoft 365 Business Premium
 
-Po dokončení instalace jsou výchozí zásady zařízení připravené k použití. Na mobilních zařízeních si uživatelé stahují aplikace Office. Zásady se pak použijí, když se uživatel přihlásí pomocí svého pracovního nebo školního účtu. Na počítačích s Windows to zabere víc práce, než se zásady použijí, například je potřeba provést místní upgrade. Podívejte se na následující témata a sdílejte je, abyste uživatelům pomohli s jejich nastavením a propojením:
+Po dokončení instalace jsou výchozí zásady zařízení připravené k použití. Na mobilních zařízeních si uživatelé stahují Office aplikace. Zásady se pak použijí, když se uživatel přihlásí pomocí svého pracovního nebo školního účtu. Na počítačích s Windows to zabere víc práce, než se zásady použijí, například je potřeba provést místní upgrade. Podívejte se na následující témata a sdílejte je, abyste uživatelům pomohli s jejich nastavením a propojením:
   
-[Nastavení zařízení s Windows pro uživatele Microsoft 365 Business Premium](set-up-windows-devices.md)
+[Nastavení Windows pro Microsoft 365 Business Premium uživatele](set-up-windows-devices.md)
   
 [Podrobné pokyny k přidání zařízení a profilů AutoPilota](add-autopilot-devices-and-profile.md)
   
-[Nastavení mobilních zařízení pro uživatele Microsoft 365 Business Premium](set-up-mobile-devices.md)
+[Nastavení mobilních zařízení pro Microsoft 365 Business Premium uživatele](set-up-mobile-devices.md)
   
 
