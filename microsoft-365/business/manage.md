@@ -1,5 +1,5 @@
 ---
-title: Správa Microsoftu 365 pro firmy
+title: Správa Microsoft 365 pro firmy
 f1.keywords:
 - NOCSH
 ms.author: efrene
@@ -21,33 +21,33 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: Naučte se spravovat úkoly související s správcem Microsoftu 365 pro firmy, mobilní zařízení, počítače s Windows 10 a mnoho takových úkolů.
-ms.openlocfilehash: 0ad2326bdcc785c0d8d1a52dee74187cdc1668e7
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Naučte se spravovat Microsoft 365 pro úkoly související s firemními správci, mobilní zařízení, Windows 10 počítače a mnoho takových úkolů.
+ms.openlocfilehash: 984554cbed0d8b29b8df82eb21e2fcaa9b9d4476fef6f22a37d253d92888d9cc
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53893161"
 ---
-# <a name="manage-microsoft-365-for-business"></a>Správa Microsoftu 365 pro firmy
+# <a name="manage-microsoft-365-for-business"></a>Správa Microsoft 365 pro firmy
 
-## <a name="general-microsoft-365-for-business-admin-tasks"></a>Obecné úkoly správce Microsoftu 365 pro firmy
+## <a name="general-microsoft-365-for-business-admin-tasks"></a>Obecné Microsoft 365 pro úkoly správce firmy
 
-Většina obsahu [správce](/office365/admin/admin-home) pro Office 365 platí taky pro Microsoft 365 pro firmy.
+Většina obsahu [správce pro Office 365](/office365/admin/admin-home) platí i pro Microsoft 365 pro firmy.
 
-- [Přidání dalších uživatelů do Microsoftu 365 pro firmy](../admin/add-users/add-users.md)
+- [Přidání dalších uživatelů do Microsoft 365 pro firmy](../admin/add-users/add-users.md)
     
 - [Zobrazení zásad a zařízení](view-policies-and-devices.md)
     
-- [Funkce zabezpečení Microsoftu 365 pro firmy](security-features.md)
+- [Microsoft 365 zabezpečení pro firmy](security-features.md)
     
-- [Jak se funkce ochrany v Microsoftu 365 pro firmy mapuje na nastavení Intune](map-protection-features-to-intune-settings.md)
+- [Jak se funkce ochrany v Microsoft 365 pro firmy mapovat na nastavení Intune](map-protection-features-to-intune-settings.md)
     
-V následujících částech se podívejte, jak používat Microsoft 365 pro firmy k ochraně dat vaší organizace na počítačích a mobilních zařízeních.
+V následujících částech najdete informace o tom, jak Microsoft 365 pro firmy k ochraně dat vaší organizace na počítačích a mobilních zařízeních.
   
 ## <a name="manage-mobile-devices"></a>Správa mobilních zařízení
 
-- [Nastavení mobilních zařízení pro uživatele Microsoftu 365 pro firmy](set-up-mobile-devices.md)
+- [Nastavení mobilních zařízení pro Microsoft 365 pro firemní uživatele](set-up-mobile-devices.md)
     
 - [Nastavení ochrany aplikací pro zařízení s Androidem nebo iOSem](app-protection-settings-for-android-and-ios.md)
     
@@ -57,17 +57,17 @@ V následujících částech se podívejte, jak používat Microsoft 365 pro fir
     
 ## <a name="manage-windows-10-pcs"></a>Správa počítačů PC s Windows 10
 
-- [Nastavení zařízení s Windows pro uživatele Microsoftu 365 pro firmy](set-up-windows-devices.md)
+- [Nastavení Windows zařízení pro Microsoft 365 pro firemní uživatele](set-up-windows-devices.md)
 
-    Před automatickou instalací Office si přečtěte článek Příprava na nasazení klienta Office od [Microsoftu 365](prepare-for-office-client-deployment.md) pro firmy. 
+    Před [automatickou instalací Office si](prepare-for-office-client-deployment.md) přečtěte Microsoft 365 příprava na nasazení klienta Office. 
     
 - [Nastavení ochrany zařízení pro zařízení s Windows 10](protection-settings-for-windows-10-pcs.md)
     
-    Abyste se ujistili, že to fungovalo, podívejte se na informace v tématu Ověření nastavení ochrany [zařízení na zařízeních s Windows 10](validate-settings-on-windows-10-pcs.md). 
+    Informace o tom, jestli to fungovalo, najdete v tématu Ověření nastavení ochrany zařízení [na Windows 10 zařízeních.](validate-settings-on-windows-10-pcs.md) 
     
 - [Nastavení ochrany aplikací pro zařízení s Windows 10](protection-settings-for-windows-10-devices.md)
     
-    Abyste se ujistili, že to fungovalo, podívejte se na informace v tématu Ověření nastavení ochrany [aplikací na počítačích s Windows 10](validate-protection-settings-on-windows-10-pcs.md). 
+    Abyste se ujistili, že to fungovalo, podívejte se na informace v tématu Ověření nastavení ochrany [Windows 10 počítačů.](validate-protection-settings-on-windows-10-pcs.md) 
     
 - [Odebrání dat společnosti ze zařízení](remove-company-data.md)
     
@@ -75,7 +75,7 @@ V následujících částech se podívejte, jak používat Microsoft 365 pro fir
     
 ### <a name="use-autopilot-to-deploy-windows-10-devices"></a>Nasazení zařízení s Windows 10 pomocí AutoPilota
 
-Následující témata popisují, jak můžete pomocí Windows AutoPilota v Microsoftu 365 pro firmy předkonfigurovat zařízení s Windows 10.
+Následující témata popisují, jak můžete Windows autopilota v Microsoft 365 pro firmy předkonfigurovat Windows 10 zařízení.
   
 - [Podrobné pokyny k přidání zařízení a profilů AutoPilota](add-autopilot-devices-and-profile.md)
     
@@ -93,10 +93,10 @@ Následující témata popisují, jak můžete pomocí Windows AutoPilota v Micr
 
 - [Předpoklady pro ochranu dat na zařízeních s Microsoft 365 pro firmy](pre-requisites-for-data-protection.md)
     
-- [Nastavení Microsoftu 365 pro firmy pomocí průvodce nastavením](set-up.md)
+- [Nastavení Microsoft 365 pro firmy pomocí průvodce nastavením](set-up.md)
     
-- [Migrace do Microsoftu 365 pro firmy](migrate-to-microsoft-365-business.md)
+- [Migrace na Microsoft 365 pro firmy](migrate-to-microsoft-365-business.md)
     
-- [Povolení spravování zařízení s Windows 10 připojených k doméně microsoftem 365 pro firmy](manage-windows-devices.md)
+- [Povolte, aby Windows 10 zařízení připojená k doméně spravovaná Microsoft 365 pro firmy](manage-windows-devices.md)
     
 - [Další funkce zabezpečení](security-features.md#additional-security-features)
