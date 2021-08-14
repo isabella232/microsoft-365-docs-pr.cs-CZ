@@ -25,13 +25,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Přečtěte si o různých stavech zařízení v seznamu Akce zařízení v domovské stránce správce v Microsoftu 365 pro firmy.
-ms.openlocfilehash: e6f1b428413d094e0a1ce3afb026528074038736
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Přečtěte si o různých stavech zařízení v seznamu Akce zařízení v domovské stránce správce v Microsoft 365 pro firmy.
+ms.openlocfilehash: 7b21781c5ae7b7df0fc610e46f776c0ea4563103d38b65d45b437c951426ea5b
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53837979"
 ---
 # <a name="device-states"></a>Stavy zařízení
 
@@ -43,9 +43,9 @@ Zařízení v seznamu **Akce zařízení** (domovská stránka správce \> **Akc
   
 |**Stav**|**Popis**|
 |:-----|:-----|
-|Spravováno službami Intune  <br/> |Spravuje Microsoft 365 Business Premium.  <br/> |
+|Spravováno službami Intune  <br/> |Spravuje je Microsoft 365 Business Premium.  <br/> |
 |Čeká se na vyřízení  <br/> |Microsoft 365 Business Premium se připravuje na odebrání firemních dat ze zařízení.  <br/> |
-|Probíhá vyřazování  <br/> |Microsoft 365 Business Premium momentálně odebírá data společnosti ze zařízení.  <br/> |
+|Probíhá vyřazování  <br/> |Microsoft 365 Business Premium právě odebírá data společnosti ze zařízení.  <br/> |
 |Vyřazení selhalo  <br/> | Akce spočívající v odebrání dat společnosti se nezdařila.  <br/> |
 |Vyřazení zrušeno  <br/> |Akce vyřazení byla zrušena.  <br/> |
 |Čeká se na vymazání  <br/> |Čeká se na spuštění obnovení továrního nastavení.  <br/> |
