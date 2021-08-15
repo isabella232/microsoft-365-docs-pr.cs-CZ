@@ -18,14 +18,14 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Zjistěte, jestli je Office 365 E3, Microsoft 365 Business Standard nebo Microsoft 365 Business Premium pro vaši firmu to pravé.
-ms.openlocfilehash: 2f8c59e0af619730060862fc8ee24a702ca00343
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Zjistěte, Office 365 E3, Microsoft 365 Business Standard nebo Microsoft 365 Business Premium je pro vaši firmu to pravé.
+ms.openlocfilehash: f186e61bff7962911864904415d1a4326931db819abf4f885a87132fd23290f4
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579816"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53861553"
 ---
 # <a name="what-subscription-is-right-for-your-small-business"></a>Jaké předplatné je pro vaši malou firmu to pravé?
 
-Microsoft nabízí několik plánů pro malé firmy. Doporučená předplatná jsou Microsoft 365 Business Standard nebo Microsoft 365 Business Premium s až 300 uživateli. Microsoft 365 Business Premium nabízí za vyšší náklady více funkcí zabezpečení než Microsoft 365 Business Standard.
+Microsoft nabízí několik plánů pro malé firmy. Doporučená předplatná jsou Microsoft 365 Business Standard nebo Microsoft 365 Business Premium až s 300 uživateli. Microsoft 365 Business Premium nabízí více funkcí zabezpečení než Microsoft 365 Business Standard za přidané náklady.

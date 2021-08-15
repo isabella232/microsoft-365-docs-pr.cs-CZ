@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Zjistěte, jak ověřit, Microsoft 365 nastavení ochrany aplikací pro firmy na zařízeních Windows 10 uživatelů.
-ms.openlocfilehash: 464a246a0da65dcffeb70946287ce4fa0e67ae7c
-ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
+ms.openlocfilehash: 0b896ae21139adcc425295f31de9232f65380d692a46bd1ef9f81d4516e0e9ec
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52925253"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53861612"
 ---
 # <a name="validate-device-protection-settings-for-windows-10-pcs"></a>Ověření nastavení ochrany zařízení pro Windows 10 počítače
 
