@@ -26,12 +26,12 @@ search.appverid:
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
 description: Zjistěte, jak nahrávat zařízení pomocí AutoPilota v Microsoft 365 Business Premium. Profil můžete přiřadit zařízení nebo skupině zařízení.
-ms.openlocfilehash: 506ff44e3cb6656b19174e82688b5af141ea2b79
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: ae3a760db4b94aac50301685a0c4f468e46ec8e9aa907a1b6fb35e03a9e541f0
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53867017"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>Vytvoření a úpravy zařízení pomocí AutoPilota
 
@@ -41,11 +41,11 @@ K [nahrání](add-autopilot-devices-and-profile.md) zařízení můžete použí
   
 Zařízení musí splňovat tyto požadavky:
   
-- Windows 10, verze 1703 nebo novější
+- Windows 10 verze 1703 nebo novější
     
-- Nová zařízení, která ještě nevyužíla prostředí Windows
+- Nová zařízení, která ještě Windows prostředí
 
-1. V Centru pro správu Microsoftu 365 zvolte **Zařízení** \> **AutoPilota**.
+1. V Centrum pro správu Microsoftu 365 zvolte Zařízení  \> **AutoPilot**.
   
 2. Na stránce **AutoPilot** zvolte kartu **Zařízení –** \> **přidat zařízení**.
     
@@ -57,7 +57,7 @@ Zařízení musí splňovat tyto požadavky:
     
 ## <a name="assign-a-profile-to-a-device-or-a-group-of-devices"></a>Přiřazení profilu zařízení nebo skupině zařízení
 
-1. Na stránce **Příprava Windows**  zvolte kartu Zařízení a zaškrtněte políčko vedle jednoho nebo více zařízení. 
+1. Na stránce **Windows** zařízení zvolte **kartu** Zařízení a zaškrtněte políčko vedle jednoho nebo více zařízení. 
     
 2. Na panelu **Zařízení** vyberte v rozevíracím seznamu **Přiřazený profil** některý profil. 
     
