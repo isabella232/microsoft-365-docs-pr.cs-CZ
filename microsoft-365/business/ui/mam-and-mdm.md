@@ -11,7 +11,7 @@ f1_keywords:
 - O365E_understand_devices
 - BCS365_understand_devices
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: M365-subscription-management
 ms.custom:
 - Core_O365Admin_Migration
@@ -22,17 +22,17 @@ search.appverid:
 - MET150
 - MOE150
 description: Zjistěte, jak se liší správa mobilních zařízení a správa mobilních aplikací nebo MDM a MAM.
-ms.openlocfilehash: 1dc90a46bb21bbf4c2c74cc38825f7911148b4e4
-ms.sourcegitcommit: a0452cef05f2322b74967add41fd84ac4d07fe5c
+ms.openlocfilehash: 250915f18348123400870b110ce5c9d29fa1488f
+ms.sourcegitcommit: d4b867e37bf741528ded7fb289e4f6847228d2c5
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58378020"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60193526"
 ---
 # <a name="difference-between-mdm-and-mam"></a>Rozdíl mezi MDM a MAM
 
-Microsoft 365 Business Premium nabízí řadu způsobů ochrany obchodních dat. Další [informace o Microsoft 365 Business Premium](../../business-video/what-is-microsoft-365.md) ochrany, které se automaticky nastavují, a o tom, co si můžete nastavit tak, aby byla vaše firma dál chráněná, najdete v článku Přehled informací. Můžete taky nastavit zásady, které chrání vaše Windows 10 zařízení a data na mobilních zařízeních.
-[Nastavení ochrany aplikací pro Windows 10 zařízení](../protection-settings-for-windows-10-devices.md).
+Microsoft 365 Business Premium nabízí řadu způsobů ochrany obchodních dat. Další [informace o Microsoft 365 Business Premium](../../business-video/what-is-microsoft-365.md) ochrany, které se automaticky nastavují, a o tom, co si můžete nastavit tak, aby byla vaše firma dál chráněná, najdete v tématu Přehled informací. Můžete taky nastavit zásady, které chrání vaše Windows 10 zařízení a data na mobilních zařízeních.
+[Nastavení ochrany aplikací pro Windows 10 zařízení](../protection-settings-for-windows-10-devices.md)
 
 ## <a name="mobile-device-management-or-mdm"></a>Správa mobilních zařízení nebo MDM
 
